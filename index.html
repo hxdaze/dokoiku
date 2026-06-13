@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>どこいくZUMBA — ジム スタジオ時間割</title>
+  <meta name="description" content="スポーツジムのスタジオレッスン時間割を、曜日・時間帯・店舗・カテゴリー・先生・はしご・ジム別・エリア別で検索。" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="title">
+      <h1>どこいくZUMBA</h1>
+      <span class="sub" id="metaSub">読み込み中…</span>
+    </div>
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-view="day">曜日別</button>
+      <button class="tab" data-view="timeband">時間帯別</button>
+      <button class="tab" data-view="store">店舗別</button>
+      <button class="tab" data-view="category">カテゴリー別</button>
+      <button class="tab" data-view="instructor">先生別</button>
+      <button class="tab" data-view="hashigo">はしご</button>
+      <button class="tab" data-view="gym">ジム別</button>
+      <button class="tab" data-view="substitution">代行情報</button>
+    </nav>
+  </header>
+
+  <section class="filters" id="filters">
+    <div class="field">
+      <label>エリア（地域）</label>
+      <select id="f-region"><option value="">すべて</option></select>
+    </div>
+    <div class="field">
+      <label>ジム</label>
+      <select id="f-gym"><option value="">すべて</option></select>
+    </div>
+    <div class="field" data-for="day">
+      <label>曜日</label>
+      <select id="f-day"><option value="">すべて</option></select>
+    </div>
+    <div class="field" data-for="category">
+      <label>カテゴリー</label>
+      <select id="f-category"><option value="">すべて</option></select>
+    </div>
+    <div class="field" data-for="store">
+      <label>店舗</label>
+      <select id="f-store"><option value="">すべて</option></select>
+    </div>
+    <div class="field" data-for="instructor">
+      <label>先生</label>
+      <select id="f-instructor"><option value="">すべて</option></select>
+    </div>
+    <div class="field">
+      <label>フリーワード</label>
+      <input class="q" id="f-q" type="search" placeholder="クラス名・先生・店舗…" />
+    </div>
+    <div class="field">
+      <label>表示件数</label>
+      <select id="f-limit">
+        <option value="200">200件</option>
+        <option value="500">500件</option>
+        <option value="1000">1000件</option>
+        <option value="0">制限なし</option>
+      </select>
+    </div>
+    <button class="btn" id="resetBtn">クリア</button>
+  </section>
+
+  <div class="summary" id="summary"></div>
+  <main id="main"><div class="loading">読み込み中…</div></main>
+  <footer style="padding:18px 16px;color:var(--muted);font-size:12px;border-top:1px solid var(--border);">
+    どこいくZUMBA ｜ データは各ジム公式サイトの公開情報をもとに構造化。生成日時は上部に表示。
+  </footer>
+
+  <script src="query.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
