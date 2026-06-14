@@ -410,3 +410,45 @@ table.calendar th.cal-time, table.calendar td.cal-time {
   font-weight: 700;
   text-align: center;
 }
+
+/* ===== モバイル対応 ===== */
+/* 広い表は横スクロールにして、列が潰れて文字が縦書きになるのを防ぐ。
+   グループ枠内でスクロールさせ、セルは基本 nowrap(1文字折返し防止)。 */
+.group { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.group > table { min-width: 600px; }
+th, td { white-space: nowrap; }
+/* クラス名と店舗下の補助行(ジム・地域)は折り返し可にして横幅の暴走を抑える */
+td.cls { white-space: normal; min-width: 160px; }
+td .muted { white-space: normal; }
+
+@media (max-width: 720px) {
+  html, body { font-size: 14px; }
+  header { padding: 8px 10px; }
+  .title h1 { font-size: 17px; }
+  .title .sub { font-size: 11.5px; }
+  main { padding: 0 8px 60px; }
+
+  /* フィルタは縦積み・各項目を横いっぱいに */
+  .filters { padding: 8px 10px; gap: 8px; }
+  .field { flex: 1 1 46%; }
+  .field select, .field input,
+  #f-region, #s-region { min-width: 0; width: 100%; }
+  .field input.q { min-width: 0; }
+  .btn { flex: 1 1 100%; }
+
+  /* タブ(ビュー切替)は横スクロールで全種見られるように */
+  .tabs { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .tab { white-space: nowrap; }
+
+  th, td { padding: 6px 8px; font-size: 12.5px; }
+  .group > h2 { font-size: 15px; padding: 9px 12px; }
+
+  /* 店舗カレンダー(横長グリッド)も枠内で横スクロール */
+  .cal-tl { max-height: calc(100vh - 200px); }
+}
+
+/* 極小画面 */
+@media (max-width: 420px) {
+  .field { flex: 1 1 100%; }
+  .summary { gap: 8px; font-size: 12px; }
+}
