@@ -93,6 +93,13 @@ function group(rows, keyfn, order, sortfn) {
   }));
 }
 
+function storeLabel(r) {
+  // 店舗名にジム名が含まれなければ「店舗名（ジム名）」で併記
+  const store = (r.store || "").trim() || "(店舗不明)";
+  const gym = (r.gym || "").trim();
+  return (gym && !store.includes(gym)) ? `${store}（${gym}）` : store;
+}
+
 function timeband(r) {
   const m = startMin(r.start);
   if (m >= 24 * 60) return "時刻不明";
@@ -110,7 +117,7 @@ function buildView(lessons, view, params) {
       groups = group(rows, timeband, null, sortByTime);
       groups.sort((a, b) => a.key.localeCompare(b.key));
       break;
-    case "store": groups = group(rows, (r) => r.store); break;
+    case "store": groups = group(rows, (r) => storeLabel(r)); break;
     case "category": groups = group(rows, (r) => r.category, CATEGORY_ORDER); break;
     case "instructor": groups = group(rows, (r) => r.instructor); break;
     case "hashigo": groups = group(rows, (r) => r.day, WEEK, sortByTime); break;
