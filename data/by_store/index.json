@@ -16,9 +16,2647 @@
     "genre",
     "note"
   ],
-  "gym_count": 18,
-  "store_count": 754,
+  "gym_count": 20,
+  "store_count": 1201,
   "gyms": [
+    {
+      "gym_id": "lava",
+      "gym": "ホットヨガスタジオLAVA",
+      "stores": [
+        {
+          "store_id": "aichi/apita_shinmoriyama",
+          "store": "アピタ新守山店",
+          "region": "中部・北陸",
+          "lesson_count": 286,
+          "path": "by_store/lava/アピタ新守山店.json"
+        },
+        {
+          "store_id": "aichi/hoshigaoka",
+          "store": "星ヶ丘店",
+          "region": "中部・北陸",
+          "lesson_count": 260,
+          "path": "by_store/lava/星ヶ丘店.json"
+        },
+        {
+          "store_id": "aichi/ichinomiyabisai",
+          "store": "一宮尾西店",
+          "region": "中部・北陸",
+          "lesson_count": 165,
+          "path": "by_store/lava/一宮尾西店.json"
+        },
+        {
+          "store_id": "aichi/kachigawa",
+          "store": "勝川店",
+          "region": "中部・北陸",
+          "lesson_count": 297,
+          "path": "by_store/lava/勝川店.json"
+        },
+        {
+          "store_id": "aichi/kanayama",
+          "store": "金山店",
+          "region": "中部・北陸",
+          "lesson_count": 252,
+          "path": "by_store/lava/金山店.json"
+        },
+        {
+          "store_id": "aichi/kariya",
+          "store": "刈谷店",
+          "region": "中部・北陸",
+          "lesson_count": 423,
+          "path": "by_store/lava/刈谷店.json"
+        },
+        {
+          "store_id": "aichi/komakiekinishi",
+          "store": "小牧郷中店",
+          "region": "中部・北陸",
+          "lesson_count": 476,
+          "path": "by_store/lava/小牧郷中店.json"
+        },
+        {
+          "store_id": "aichi/luvit_okazaki",
+          "store": "ルビットパーク岡崎店",
+          "region": "中部・北陸",
+          "lesson_count": 291,
+          "path": "by_store/lava/ルビットパーク岡崎店.json"
+        },
+        {
+          "store_id": "aichi/nagakute",
+          "store": "イオンモール長久手店",
+          "region": "中部・北陸",
+          "lesson_count": 337,
+          "path": "by_store/lava/イオンモール長久手店.json"
+        },
+        {
+          "store_id": "aichi/nagoya_mozo-wondercity",
+          "store": "名古屋mozoワンダーシティ店",
+          "region": "中部・北陸",
+          "lesson_count": 260,
+          "path": "by_store/lava/名古屋mozoワンダーシティ店.json"
+        },
+        {
+          "store_id": "aichi/narumi",
+          "store": "西友鳴海店",
+          "region": "中部・北陸",
+          "lesson_count": 322,
+          "path": "by_store/lava/西友鳴海店.json"
+        },
+        {
+          "store_id": "aichi/nishio",
+          "store": "西尾店",
+          "region": "中部・北陸",
+          "lesson_count": 449,
+          "path": "by_store/lava/西尾店.json"
+        },
+        {
+          "store_id": "aichi/nisshinkaguyama",
+          "store": "日進香久山店",
+          "region": "中部・北陸",
+          "lesson_count": 297,
+          "path": "by_store/lava/日進香久山店.json"
+        },
+        {
+          "store_id": "aichi/sakae",
+          "store": "栄店",
+          "region": "中部・北陸",
+          "lesson_count": 259,
+          "path": "by_store/lava/栄店.json"
+        },
+        {
+          "store_id": "aichi/shininazawa",
+          "store": "ヨシヅヤ新稲沢店",
+          "region": "中部・北陸",
+          "lesson_count": 281,
+          "path": "by_store/lava/ヨシヅヤ新稲沢店.json"
+        },
+        {
+          "store_id": "aichi/toyokawa",
+          "store": "豊川店",
+          "region": "中部・北陸",
+          "lesson_count": 291,
+          "path": "by_store/lava/豊川店.json"
+        },
+        {
+          "store_id": "aichi/toyota",
+          "store": "豊田元町店",
+          "region": "中部・北陸",
+          "lesson_count": 316,
+          "path": "by_store/lava/豊田元町店.json"
+        },
+        {
+          "store_id": "aichi/toyotashiekimae",
+          "store": "豊田市駅前店",
+          "region": "中部・北陸",
+          "lesson_count": 268,
+          "path": "by_store/lava/豊田市駅前店.json"
+        },
+        {
+          "store_id": "aichi/tsushima",
+          "store": "津島店",
+          "region": "中部・北陸",
+          "lesson_count": 251,
+          "path": "by_store/lava/津島店.json"
+        },
+        {
+          "store_id": "aomori/aomorihamada",
+          "store": "青森浜田店",
+          "region": "北海道・東北",
+          "lesson_count": 250,
+          "path": "by_store/lava/青森浜田店.json"
+        },
+        {
+          "store_id": "chiba/acrossplaza_ichihara",
+          "store": "アクロスプラザ市原更級店",
+          "region": "関東",
+          "lesson_count": 386,
+          "path": "by_store/lava/アクロスプラザ市原更級店.json"
+        },
+        {
+          "store_id": "chiba/fululu_yachiyo",
+          "store": "フルルガーデン八千代店",
+          "region": "関東",
+          "lesson_count": 453,
+          "path": "by_store/lava/フルルガーデン八千代店.json"
+        },
+        {
+          "store_id": "chiba/funabashi",
+          "store": "船橋店",
+          "region": "関東",
+          "lesson_count": 238,
+          "path": "by_store/lava/船橋店.json"
+        },
+        {
+          "store_id": "chiba/globo_soga",
+          "store": "グローボ蘇我店",
+          "region": "関東",
+          "lesson_count": 102,
+          "path": "by_store/lava/グローボ蘇我店.json"
+        },
+        {
+          "store_id": "chiba/gyotoku",
+          "store": "行徳店",
+          "region": "関東",
+          "lesson_count": 257,
+          "path": "by_store/lava/行徳店.json"
+        },
+        {
+          "store_id": "chiba/inage",
+          "store": "稲毛店",
+          "region": "関東",
+          "lesson_count": 277,
+          "path": "by_store/lava/稲毛店.json"
+        },
+        {
+          "store_id": "chiba/kashiwanoha",
+          "store": "ららぽーと柏の葉店",
+          "region": "関東",
+          "lesson_count": 297,
+          "path": "by_store/lava/ららぽーと柏の葉店.json"
+        },
+        {
+          "store_id": "chiba/mabashi",
+          "store": "馬橋店",
+          "region": "関東",
+          "lesson_count": 98,
+          "path": "by_store/lava/馬橋店.json"
+        },
+        {
+          "store_id": "chiba/matsudo",
+          "store": "松戸店",
+          "region": "関東",
+          "lesson_count": 275,
+          "path": "by_store/lava/松戸店.json"
+        },
+        {
+          "store_id": "chiba/mobara",
+          "store": "茂原店",
+          "region": "関東",
+          "lesson_count": 402,
+          "path": "by_store/lava/茂原店.json"
+        },
+        {
+          "store_id": "chiba/motoyawata",
+          "store": "本八幡店",
+          "region": "関東",
+          "lesson_count": 298,
+          "path": "by_store/lava/本八幡店.json"
+        },
+        {
+          "store_id": "chiba/nishifunabashi",
+          "store": "西船橋店",
+          "region": "関東",
+          "lesson_count": 254,
+          "path": "by_store/lava/西船橋店.json"
+        },
+        {
+          "store_id": "chiba/plena-makuhari",
+          "store": "プレナ幕張店",
+          "region": "関東",
+          "lesson_count": 110,
+          "path": "by_store/lava/プレナ幕張店.json"
+        },
+        {
+          "store_id": "chiba/shinurayasu",
+          "store": "新浦安店",
+          "region": "関東",
+          "lesson_count": 254,
+          "path": "by_store/lava/新浦安店.json"
+        },
+        {
+          "store_id": "chiba/shinyahashira",
+          "store": "新八柱店",
+          "region": "関東",
+          "lesson_count": 268,
+          "path": "by_store/lava/新八柱店.json"
+        },
+        {
+          "store_id": "chiba/tennodai",
+          "store": "天王台店",
+          "region": "関東",
+          "lesson_count": 271,
+          "path": "by_store/lava/天王台店.json"
+        },
+        {
+          "store_id": "chiba/urayasu",
+          "store": "浦安店",
+          "region": "関東",
+          "lesson_count": 246,
+          "path": "by_store/lava/浦安店.json"
+        },
+        {
+          "store_id": "chiba/yachiyomidorigaoka",
+          "store": "八千代緑が丘店",
+          "region": "関東",
+          "lesson_count": 225,
+          "path": "by_store/lava/八千代緑が丘店.json"
+        },
+        {
+          "store_id": "ehime/aeon_imabari",
+          "store": "そよら今治馬越店",
+          "region": "中国・四国",
+          "lesson_count": 282,
+          "path": "by_store/lava/そよら今治馬越店.json"
+        },
+        {
+          "store_id": "ehime/matsuyama_jowpla",
+          "store": "ジョー・プラ松山店",
+          "region": "中国・四国",
+          "lesson_count": 300,
+          "path": "by_store/lava/ジョー・プラ松山店.json"
+        },
+        {
+          "store_id": "fukui/apita_fukuiowada",
+          "store": "アピタ福井大和田店",
+          "region": "中部・北陸",
+          "lesson_count": 306,
+          "path": "by_store/lava/アピタ福井大和田店.json"
+        },
+        {
+          "store_id": "fukuoka/aeon_ogori",
+          "store": "イオン小郡店",
+          "region": "九州・沖縄",
+          "lesson_count": 386,
+          "path": "by_store/lava/イオン小郡店.json"
+        },
+        {
+          "store_id": "fukuoka/aeon_omuta",
+          "store": "イオンモール大牟田店",
+          "region": "九州・沖縄",
+          "lesson_count": 265,
+          "path": "by_store/lava/イオンモール大牟田店.json"
+        },
+        {
+          "store_id": "fukuoka/create-munakata",
+          "store": "くりえいと宗像店",
+          "region": "九州・沖縄",
+          "lesson_count": 285,
+          "path": "by_store/lava/くりえいと宗像店.json"
+        },
+        {
+          "store_id": "fukuoka/fukuokaito",
+          "store": "福岡伊都店",
+          "region": "九州・沖縄",
+          "lesson_count": 315,
+          "path": "by_store/lava/福岡伊都店.json"
+        },
+        {
+          "store_id": "fukuoka/futsukaichi",
+          "store": "西鉄二日市店",
+          "region": "九州・沖縄",
+          "lesson_count": 286,
+          "path": "by_store/lava/西鉄二日市店.json"
+        },
+        {
+          "store_id": "fukuoka/hakata",
+          "store": "博多店",
+          "region": "九州・沖縄",
+          "lesson_count": 355,
+          "path": "by_store/lava/博多店.json"
+        },
+        {
+          "store_id": "fukuoka/hakata-mist",
+          "store": "博多ミスト店",
+          "region": "九州・沖縄",
+          "lesson_count": 293,
+          "path": "by_store/lava/博多ミスト店.json"
+        },
+        {
+          "store_id": "fukuoka/kashii",
+          "store": "香椎店",
+          "region": "九州・沖縄",
+          "lesson_count": 283,
+          "path": "by_store/lava/香椎店.json"
+        },
+        {
+          "store_id": "fukuoka/kasuga",
+          "store": "アクロスモール春日店",
+          "region": "九州・沖縄",
+          "lesson_count": 303,
+          "path": "by_store/lava/アクロスモール春日店.json"
+        },
+        {
+          "store_id": "fukuoka/kokura",
+          "store": "小倉店",
+          "region": "九州・沖縄",
+          "lesson_count": 298,
+          "path": "by_store/lava/小倉店.json"
+        },
+        {
+          "store_id": "fukuoka/kurosaki",
+          "store": "イオンタウン黒崎店",
+          "region": "九州・沖縄",
+          "lesson_count": 464,
+          "path": "by_store/lava/イオンタウン黒崎店.json"
+        },
+        {
+          "store_id": "fukuoka/meinohama",
+          "store": "ウエストコート姪浜店",
+          "region": "九州・沖縄",
+          "lesson_count": 309,
+          "path": "by_store/lava/ウエストコート姪浜店.json"
+        },
+        {
+          "store_id": "fukuoka/nishijin",
+          "store": "西新店",
+          "region": "九州・沖縄",
+          "lesson_count": 304,
+          "path": "by_store/lava/西新店.json"
+        },
+        {
+          "store_id": "fukuoka/rakuichi-kurume",
+          "store": "楽市街道くるめ店",
+          "region": "九州・沖縄",
+          "lesson_count": 231,
+          "path": "by_store/lava/楽市街道くるめ店.json"
+        },
+        {
+          "store_id": "fukuoka/ropponmatsu",
+          "store": "六本松店",
+          "region": "九州・沖縄",
+          "lesson_count": 297,
+          "path": "by_store/lava/六本松店.json"
+        },
+        {
+          "store_id": "fukuoka/sunny_kokura",
+          "store": "サニーサイドモール小倉店",
+          "region": "九州・沖縄",
+          "lesson_count": 242,
+          "path": "by_store/lava/サニーサイドモール小倉店.json"
+        },
+        {
+          "store_id": "fukuoka/tagawaita",
+          "store": "田川伊田店",
+          "region": "九州・沖縄",
+          "lesson_count": 241,
+          "path": "by_store/lava/田川伊田店.json"
+        },
+        {
+          "store_id": "fukuoka/trial_yame",
+          "store": "トライアル八女店",
+          "region": "九州・沖縄",
+          "lesson_count": 316,
+          "path": "by_store/lava/トライアル八女店.json"
+        },
+        {
+          "store_id": "fukuoka/yumetown_iizuka",
+          "store": "ゆめタウン飯塚店",
+          "region": "九州・沖縄",
+          "lesson_count": 299,
+          "path": "by_store/lava/ゆめタウン飯塚店.json"
+        },
+        {
+          "store_id": "fukushima/aeon_iwaki",
+          "store": "イオンモールいわき小名浜店",
+          "region": "北海道・東北",
+          "lesson_count": 287,
+          "path": "by_store/lava/イオンモールいわき小名浜店.json"
+        },
+        {
+          "store_id": "fukushima/fukushimakuroiwa",
+          "store": "福島黒岩店",
+          "region": "北海道・東北",
+          "lesson_count": 465,
+          "path": "by_store/lava/福島黒岩店.json"
+        },
+        {
+          "store_id": "gifu/aeon_kakamigahara",
+          "store": "イオンモール各務原店",
+          "region": "中部・北陸",
+          "lesson_count": 179,
+          "path": "by_store/lava/イオンモール各務原店.json"
+        },
+        {
+          "store_id": "gifu/malera-gifu",
+          "store": "モレラ岐阜店",
+          "region": "中部・北陸",
+          "lesson_count": 278,
+          "path": "by_store/lava/モレラ岐阜店.json"
+        },
+        {
+          "store_id": "gifu/minokamo",
+          "store": "美濃加茂店",
+          "region": "中部・北陸",
+          "lesson_count": 383,
+          "path": "by_store/lava/美濃加茂店.json"
+        },
+        {
+          "store_id": "gifu/tajimi",
+          "store": "多治見店",
+          "region": "中部・北陸",
+          "lesson_count": 302,
+          "path": "by_store/lava/多治見店.json"
+        },
+        {
+          "store_id": "gunma/kiryu",
+          "store": "桐生店",
+          "region": "関東",
+          "lesson_count": 268,
+          "path": "by_store/lava/桐生店.json"
+        },
+        {
+          "store_id": "gunma/takasaki",
+          "store": "高崎店",
+          "region": "関東",
+          "lesson_count": 300,
+          "path": "by_store/lava/高崎店.json"
+        },
+        {
+          "store_id": "hiroshima/foleo_hiroshima",
+          "store": "フォレオ広島東店",
+          "region": "中国・四国",
+          "lesson_count": 303,
+          "path": "by_store/lava/フォレオ広島東店.json"
+        },
+        {
+          "store_id": "hiroshima/fukuyama",
+          "store": "福山店",
+          "region": "中国・四国",
+          "lesson_count": 305,
+          "path": "by_store/lava/福山店.json"
+        },
+        {
+          "store_id": "hiroshima/hatsukaichi",
+          "store": "ゆめタウン廿日市店",
+          "region": "中国・四国",
+          "lesson_count": 266,
+          "path": "by_store/lava/ゆめタウン廿日市店.json"
+        },
+        {
+          "store_id": "hiroshima/hiroshimapacela",
+          "store": "広島パセーラ店",
+          "region": "中国・四国",
+          "lesson_count": 309,
+          "path": "by_store/lava/広島パセーラ店.json"
+        },
+        {
+          "store_id": "hiroshima/yume_kure",
+          "store": "ゆめタウン呉店",
+          "region": "中国・四国",
+          "lesson_count": 255,
+          "path": "by_store/lava/ゆめタウン呉店.json"
+        },
+        {
+          "store_id": "hiroshima/yumemall_saijo",
+          "store": "ゆめモール西条店",
+          "region": "中国・四国",
+          "lesson_count": 263,
+          "path": "by_store/lava/ゆめモール西条店.json"
+        },
+        {
+          "store_id": "hokkaido/aeon_kushiroshowa",
+          "store": "イオン釧路昭和店",
+          "region": "北海道・東北",
+          "lesson_count": 269,
+          "path": "by_store/lava/イオン釧路昭和店.json"
+        },
+        {
+          "store_id": "hokkaido/aeon_sapporo",
+          "store": "イオン札幌元町店",
+          "region": "北海道・東北",
+          "lesson_count": 271,
+          "path": "by_store/lava/イオン札幌元町店.json"
+        },
+        {
+          "store_id": "hokkaido/asahikawa",
+          "store": "旭川店",
+          "region": "北海道・東北",
+          "lesson_count": 253,
+          "path": "by_store/lava/旭川店.json"
+        },
+        {
+          "store_id": "hokkaido/nagasakiya_otaru",
+          "store": "長崎屋小樽店",
+          "region": "北海道・東北",
+          "lesson_count": 273,
+          "path": "by_store/lava/長崎屋小樽店.json"
+        },
+        {
+          "store_id": "hokkaido/sapporokotoni",
+          "store": "札幌琴似店",
+          "region": "北海道・東北",
+          "lesson_count": 253,
+          "path": "by_store/lava/札幌琴似店.json"
+        },
+        {
+          "store_id": "hokkaido/sapporoodori",
+          "store": "札幌大通店",
+          "region": "北海道・東北",
+          "lesson_count": 254,
+          "path": "by_store/lava/札幌大通店.json"
+        },
+        {
+          "store_id": "hokkaido/shinsapporo",
+          "store": "新さっぽろ店",
+          "region": "北海道・東北",
+          "lesson_count": 231,
+          "path": "by_store/lava/新さっぽろ店.json"
+        },
+        {
+          "store_id": "hyogo/aeon_itamikoya",
+          "store": "イオンモール伊丹昆陽店",
+          "region": "近畿",
+          "lesson_count": 278,
+          "path": "by_store/lava/イオンモール伊丹昆陽店.json"
+        },
+        {
+          "store_id": "hyogo/aeon_kakogawa",
+          "store": "イオン加古川店",
+          "region": "近畿",
+          "lesson_count": 306,
+          "path": "by_store/lava/イオン加古川店.json"
+        },
+        {
+          "store_id": "hyogo/akashi",
+          "store": "明石店",
+          "region": "近畿",
+          "lesson_count": 283,
+          "path": "by_store/lava/明石店.json"
+        },
+        {
+          "store_id": "hyogo/amagasaki",
+          "store": "JR尼崎店",
+          "region": "近畿",
+          "lesson_count": 295,
+          "path": "by_store/lava/JR尼崎店.json"
+        },
+        {
+          "store_id": "hyogo/ashiya",
+          "store": "芦屋店",
+          "region": "近畿",
+          "lesson_count": 289,
+          "path": "by_store/lava/芦屋店.json"
+        },
+        {
+          "store_id": "hyogo/imazu",
+          "store": "今津店",
+          "region": "近畿",
+          "lesson_count": 104,
+          "path": "by_store/lava/今津店.json"
+        },
+        {
+          "store_id": "hyogo/itayado",
+          "store": "板宿店",
+          "region": "近畿",
+          "lesson_count": 274,
+          "path": "by_store/lava/板宿店.json"
+        },
+        {
+          "store_id": "hyogo/kawanishiekimae",
+          "store": "川西能勢口駅前店",
+          "region": "近畿",
+          "lesson_count": 268,
+          "path": "by_store/lava/川西能勢口駅前店.json"
+        },
+        {
+          "store_id": "hyogo/kitasuma",
+          "store": "北須磨店",
+          "region": "近畿",
+          "lesson_count": 318,
+          "path": "by_store/lava/北須磨店.json"
+        },
+        {
+          "store_id": "hyogo/mikishijimi",
+          "store": "三木志染店",
+          "region": "近畿",
+          "lesson_count": 284,
+          "path": "by_store/lava/三木志染店.json"
+        },
+        {
+          "store_id": "hyogo/nishinomiyakitaguchi",
+          "store": "西宮北口店",
+          "region": "近畿",
+          "lesson_count": 285,
+          "path": "by_store/lava/西宮北口店.json"
+        },
+        {
+          "store_id": "hyogo/nishinomiyakitaguchitakamatsu",
+          "store": "西宮北口高松店",
+          "region": "近畿",
+          "lesson_count": 285,
+          "path": "by_store/lava/西宮北口高松店.json"
+        },
+        {
+          "store_id": "hyogo/nishisuzurandai",
+          "store": "西鈴蘭台店",
+          "region": "近畿",
+          "lesson_count": 269,
+          "path": "by_store/lava/西鈴蘭台店.json"
+        },
+        {
+          "store_id": "hyogo/okamoto",
+          "store": "岡本店",
+          "region": "近畿",
+          "lesson_count": 269,
+          "path": "by_store/lava/岡本店.json"
+        },
+        {
+          "store_id": "hyogo/onoe",
+          "store": "尾上店",
+          "region": "近畿",
+          "lesson_count": 324,
+          "path": "by_store/lava/尾上店.json"
+        },
+        {
+          "store_id": "hyogo/rokkomichi",
+          "store": "六甲道店",
+          "region": "近畿",
+          "lesson_count": 314,
+          "path": "by_store/lava/六甲道店.json"
+        },
+        {
+          "store_id": "hyogo/sanda_kippymall",
+          "store": "三田キッピーモール店",
+          "region": "近畿",
+          "lesson_count": 291,
+          "path": "by_store/lava/三田キッピーモール店.json"
+        },
+        {
+          "store_id": "hyogo/sannomiya",
+          "store": "神戸三宮店",
+          "region": "近畿",
+          "lesson_count": 304,
+          "path": "by_store/lava/神戸三宮店.json"
+        },
+        {
+          "store_id": "hyogo/sannomiyaekimae",
+          "store": "三ノ宮駅前店",
+          "region": "近畿",
+          "lesson_count": 290,
+          "path": "by_store/lava/三ノ宮駅前店.json"
+        },
+        {
+          "store_id": "hyogo/seishin",
+          "store": "西神中央店",
+          "region": "近畿",
+          "lesson_count": 292,
+          "path": "by_store/lava/西神中央店.json"
+        },
+        {
+          "store_id": "hyogo/takarazuka",
+          "store": "宝塚店",
+          "region": "近畿",
+          "lesson_count": 103,
+          "path": "by_store/lava/宝塚店.json"
+        },
+        {
+          "store_id": "hyogo/tarumi",
+          "store": "垂水店",
+          "region": "近畿",
+          "lesson_count": 295,
+          "path": "by_store/lava/垂水店.json"
+        },
+        {
+          "store_id": "hyogo/tsukaguchi",
+          "store": "塚口店",
+          "region": "近畿",
+          "lesson_count": 293,
+          "path": "by_store/lava/塚口店.json"
+        },
+        {
+          "store_id": "ibaraki/arakawahongo",
+          "store": "ピアシティ荒川本郷店",
+          "region": "関東",
+          "lesson_count": 270,
+          "path": "by_store/lava/ピアシティ荒川本郷店.json"
+        },
+        {
+          "store_id": "ibaraki/kamisu",
+          "store": "ライフガーデン神栖店",
+          "region": "関東",
+          "lesson_count": 158,
+          "path": "by_store/lava/ライフガーデン神栖店.json"
+        },
+        {
+          "store_id": "ibaraki/katsuta",
+          "store": "勝田店",
+          "region": "関東",
+          "lesson_count": 267,
+          "path": "by_store/lava/勝田店.json"
+        },
+        {
+          "store_id": "ibaraki/mito_ex",
+          "store": "水戸エクセル店",
+          "region": "関東",
+          "lesson_count": 241,
+          "path": "by_store/lava/水戸エクセル店.json"
+        },
+        {
+          "store_id": "ibaraki/tsuchiuraikuta",
+          "store": "土浦生田町店",
+          "region": "関東",
+          "lesson_count": 235,
+          "path": "by_store/lava/土浦生田町店.json"
+        },
+        {
+          "store_id": "ibaraki/yorktown_bando",
+          "store": "ヨークタウン坂東店",
+          "region": "関東",
+          "lesson_count": 277,
+          "path": "by_store/lava/ヨークタウン坂東店.json"
+        },
+        {
+          "store_id": "ishikawa/frespo_kaga",
+          "store": "フレスポ加賀店",
+          "region": "中部・北陸",
+          "lesson_count": 267,
+          "path": "by_store/lava/フレスポ加賀店.json"
+        },
+        {
+          "store_id": "ishikawa/nonoichi",
+          "store": "イオンタウン野々市店",
+          "region": "中部・北陸",
+          "lesson_count": 308,
+          "path": "by_store/lava/イオンタウン野々市店.json"
+        },
+        {
+          "store_id": "iwate/kitakami",
+          "store": "北上店",
+          "region": "北海道・東北",
+          "lesson_count": 281,
+          "path": "by_store/lava/北上店.json"
+        },
+        {
+          "store_id": "iwate/moriokaaoyama",
+          "store": "盛岡青山店",
+          "region": "北海道・東北",
+          "lesson_count": 274,
+          "path": "by_store/lava/盛岡青山店.json"
+        },
+        {
+          "store_id": "kagawa/takamatsu",
+          "store": "高松店",
+          "region": "中国・四国",
+          "lesson_count": 452,
+          "path": "by_store/lava/高松店.json"
+        },
+        {
+          "store_id": "kagoshima/aeon_aira",
+          "store": "イオンタウン姶良店",
+          "region": "九州・沖縄",
+          "lesson_count": 303,
+          "path": "by_store/lava/イオンタウン姶良店.json"
+        },
+        {
+          "store_id": "kagoshima/k_usuki",
+          "store": "スクエアモール鹿児島宇宿店",
+          "region": "九州・沖縄",
+          "lesson_count": 314,
+          "path": "by_store/lava/スクエアモール鹿児島宇宿店.json"
+        },
+        {
+          "store_id": "kagoshima/tenmonkan",
+          "store": "鹿児島天文館店",
+          "region": "九州・沖縄",
+          "lesson_count": 289,
+          "path": "by_store/lava/鹿児島天文館店.json"
+        },
+        {
+          "store_id": "kanagawa/aobadai",
+          "store": "青葉台店",
+          "region": "関東",
+          "lesson_count": 250,
+          "path": "by_store/lava/青葉台店.json"
+        },
+        {
+          "store_id": "kanagawa/chigasaki",
+          "store": "茅ヶ崎店",
+          "region": "関東",
+          "lesson_count": 269,
+          "path": "by_store/lava/茅ヶ崎店.json"
+        },
+        {
+          "store_id": "kanagawa/chuorinkan",
+          "store": "中央林間店",
+          "region": "関東",
+          "lesson_count": 110,
+          "path": "by_store/lava/中央林間店.json"
+        },
+        {
+          "store_id": "kanagawa/ebina",
+          "store": "ららぽーと海老名店",
+          "region": "関東",
+          "lesson_count": 343,
+          "path": "by_store/lava/ららぽーと海老名店.json"
+        },
+        {
+          "store_id": "kanagawa/frespo_odawara",
+          "store": "フレスポ小田原シティーモール店",
+          "region": "関東",
+          "lesson_count": 280,
+          "path": "by_store/lava/フレスポ小田原シティーモール店.json"
+        },
+        {
+          "store_id": "kanagawa/fujisawaekimae",
+          "store": "藤沢駅前店",
+          "region": "関東",
+          "lesson_count": 446,
+          "path": "by_store/lava/藤沢駅前店.json"
+        },
+        {
+          "store_id": "kanagawa/futamatagawa",
+          "store": "二俣川店",
+          "region": "関東",
+          "lesson_count": 249,
+          "path": "by_store/lava/二俣川店.json"
+        },
+        {
+          "store_id": "kanagawa/hashimoto",
+          "store": "橋本店",
+          "region": "関東",
+          "lesson_count": 293,
+          "path": "by_store/lava/橋本店.json"
+        },
+        {
+          "store_id": "kanagawa/higashikanagawa",
+          "store": "東神奈川店",
+          "region": "関東",
+          "lesson_count": 252,
+          "path": "by_store/lava/東神奈川店.json"
+        },
+        {
+          "store_id": "kanagawa/higashitotsuka",
+          "store": "東戸塚店",
+          "region": "関東",
+          "lesson_count": 289,
+          "path": "by_store/lava/東戸塚店.json"
+        },
+        {
+          "store_id": "kanagawa/hiratsuka",
+          "store": "平塚店",
+          "region": "関東",
+          "lesson_count": 259,
+          "path": "by_store/lava/平塚店.json"
+        },
+        {
+          "store_id": "kanagawa/hodogaya",
+          "store": "保土ヶ谷店",
+          "region": "関東",
+          "lesson_count": 256,
+          "path": "by_store/lava/保土ヶ谷店.json"
+        },
+        {
+          "store_id": "kanagawa/honatsugi",
+          "store": "本厚木店",
+          "region": "関東",
+          "lesson_count": 310,
+          "path": "by_store/lava/本厚木店.json"
+        },
+        {
+          "store_id": "kanagawa/kamakura",
+          "store": "鎌倉店",
+          "region": "関東",
+          "lesson_count": 264,
+          "path": "by_store/lava/鎌倉店.json"
+        },
+        {
+          "store_id": "kanagawa/kamoi",
+          "store": "鴨居店",
+          "region": "関東",
+          "lesson_count": 107,
+          "path": "by_store/lava/鴨居店.json"
+        },
+        {
+          "store_id": "kanagawa/kanazawabunko",
+          "store": "金沢文庫店",
+          "region": "関東",
+          "lesson_count": 289,
+          "path": "by_store/lava/金沢文庫店.json"
+        },
+        {
+          "store_id": "kanagawa/kannai",
+          "store": "関内店",
+          "region": "関東",
+          "lesson_count": 289,
+          "path": "by_store/lava/関内店.json"
+        },
+        {
+          "store_id": "kanagawa/kawasaki_zero",
+          "store": "川崎ゼロゲート店",
+          "region": "関東",
+          "lesson_count": 241,
+          "path": "by_store/lava/川崎ゼロゲート店.json"
+        },
+        {
+          "store_id": "kanagawa/konandai",
+          "store": "イオンフードスタイル港南台店",
+          "region": "関東",
+          "lesson_count": 251,
+          "path": "by_store/lava/イオンフードスタイル港南台店.json"
+        },
+        {
+          "store_id": "kanagawa/lurara-kohoku",
+          "store": "ルララこうほく店",
+          "region": "関東",
+          "lesson_count": 260,
+          "path": "by_store/lava/ルララこうほく店.json"
+        },
+        {
+          "store_id": "kanagawa/minamiota",
+          "store": "南太田店",
+          "region": "関東",
+          "lesson_count": 97,
+          "path": "by_store/lava/南太田店.json"
+        },
+        {
+          "store_id": "kanagawa/minatomirai",
+          "store": "みなとみらい店",
+          "region": "関東",
+          "lesson_count": 262,
+          "path": "by_store/lava/みなとみらい店.json"
+        },
+        {
+          "store_id": "kanagawa/mizonokuchi",
+          "store": "溝の口店",
+          "region": "関東",
+          "lesson_count": 286,
+          "path": "by_store/lava/溝の口店.json"
+        },
+        {
+          "store_id": "kanagawa/motosumiyoshi",
+          "store": "元住吉店",
+          "region": "関東",
+          "lesson_count": 248,
+          "path": "by_store/lava/元住吉店.json"
+        },
+        {
+          "store_id": "kanagawa/mukougaokayuen",
+          "store": "向ヶ丘遊園店",
+          "region": "関東",
+          "lesson_count": 88,
+          "path": "by_store/lava/向ヶ丘遊園店.json"
+        },
+        {
+          "store_id": "kanagawa/musashikosugi",
+          "store": "武蔵小杉 Kosugi 3rd Avenue店",
+          "region": "関東",
+          "lesson_count": 291,
+          "path": "by_store/lava/武蔵小杉_Kosugi_3rd_Avenue店.json"
+        },
+        {
+          "store_id": "kanagawa/ofuna",
+          "store": "大船店",
+          "region": "関東",
+          "lesson_count": 294,
+          "path": "by_store/lava/大船店.json"
+        },
+        {
+          "store_id": "kanagawa/oimatsuda",
+          "store": "大井松田店",
+          "region": "関東",
+          "lesson_count": 304,
+          "path": "by_store/lava/大井松田店.json"
+        },
+        {
+          "store_id": "kanagawa/seya",
+          "store": "瀬谷店",
+          "region": "関東",
+          "lesson_count": 238,
+          "path": "by_store/lava/瀬谷店.json"
+        },
+        {
+          "store_id": "kanagawa/shinsugita",
+          "store": "新杉田店",
+          "region": "関東",
+          "lesson_count": 254,
+          "path": "by_store/lava/新杉田店.json"
+        },
+        {
+          "store_id": "kanagawa/shinyurigaoka",
+          "store": "新百合ヶ丘店",
+          "region": "関東",
+          "lesson_count": 265,
+          "path": "by_store/lava/新百合ヶ丘店.json"
+        },
+        {
+          "store_id": "kanagawa/shonandai",
+          "store": "湘南台店",
+          "region": "関東",
+          "lesson_count": 311,
+          "path": "by_store/lava/湘南台店.json"
+        },
+        {
+          "store_id": "kanagawa/tamaplaza",
+          "store": "たまプラーザ店",
+          "region": "関東",
+          "lesson_count": 271,
+          "path": "by_store/lava/たまプラーザ店.json"
+        },
+        {
+          "store_id": "kanagawa/totsuka",
+          "store": "戸塚店",
+          "region": "関東",
+          "lesson_count": 294,
+          "path": "by_store/lava/戸塚店.json"
+        },
+        {
+          "store_id": "kanagawa/tsunashima",
+          "store": "綱島店",
+          "region": "関東",
+          "lesson_count": 280,
+          "path": "by_store/lava/綱島店.json"
+        },
+        {
+          "store_id": "kanagawa/tsurugamine",
+          "store": "鶴ヶ峰店",
+          "region": "関東",
+          "lesson_count": 412,
+          "path": "by_store/lava/鶴ヶ峰店.json"
+        },
+        {
+          "store_id": "kanagawa/tsurumi",
+          "store": "鶴見店",
+          "region": "関東",
+          "lesson_count": 261,
+          "path": "by_store/lava/鶴見店.json"
+        },
+        {
+          "store_id": "kanagawa/yamato_annex",
+          "store": "大和南口店",
+          "region": "関東",
+          "lesson_count": 286,
+          "path": "by_store/lava/大和南口店.json"
+        },
+        {
+          "store_id": "kanagawa/yokohamanishi",
+          "store": "横浜西口店",
+          "region": "関東",
+          "lesson_count": 441,
+          "path": "by_store/lava/横浜西口店.json"
+        },
+        {
+          "store_id": "kanagawa/yokosuka_annex",
+          "store": "横須賀中央アネックス店",
+          "region": "関東",
+          "lesson_count": 254,
+          "path": "by_store/lava/横須賀中央アネックス店.json"
+        },
+        {
+          "store_id": "kochi/kochi_inter",
+          "store": "高知インター店",
+          "region": "中国・四国",
+          "lesson_count": 287,
+          "path": "by_store/lava/高知インター店.json"
+        },
+        {
+          "store_id": "kumamoto/aeon_kumamoto",
+          "store": "イオンモール熊本店",
+          "region": "九州・沖縄",
+          "lesson_count": 282,
+          "path": "by_store/lava/イオンモール熊本店.json"
+        },
+        {
+          "store_id": "kumamoto/kumamotokamitori",
+          "store": "熊本上通り店",
+          "region": "九州・沖縄",
+          "lesson_count": 207,
+          "path": "by_store/lava/熊本上通り店.json"
+        },
+        {
+          "store_id": "kumamoto/youme_sanpian",
+          "store": "ゆめタウンサンピアン店",
+          "region": "九州・沖縄",
+          "lesson_count": 247,
+          "path": "by_store/lava/ゆめタウンサンピアン店.json"
+        },
+        {
+          "store_id": "kumamoto/youme_tamana",
+          "store": "ゆめマート玉名店",
+          "region": "九州・沖縄",
+          "lesson_count": 276,
+          "path": "by_store/lava/ゆめマート玉名店.json"
+        },
+        {
+          "store_id": "kyoto/fushimimomoyama",
+          "store": "伏見桃山店",
+          "region": "近畿",
+          "lesson_count": 270,
+          "path": "by_store/lava/伏見桃山店.json"
+        },
+        {
+          "store_id": "kyoto/kitaoji_vivre",
+          "store": "イオンモール北大路店",
+          "region": "近畿",
+          "lesson_count": 354,
+          "path": "by_store/lava/イオンモール北大路店.json"
+        },
+        {
+          "store_id": "kyoto/kyoto-sanjo",
+          "store": "京都三条店",
+          "region": "近畿",
+          "lesson_count": 294,
+          "path": "by_store/lava/京都三条店.json"
+        },
+        {
+          "store_id": "kyoto/kyotokatsura",
+          "store": "京都桂店",
+          "region": "近畿",
+          "lesson_count": 213,
+          "path": "by_store/lava/京都桂店.json"
+        },
+        {
+          "store_id": "kyoto/matsuiyamate",
+          "store": "松井山手店",
+          "region": "近畿",
+          "lesson_count": 295,
+          "path": "by_store/lava/松井山手店.json"
+        },
+        {
+          "store_id": "kyoto/momoterasu",
+          "store": "京都モモテラス店",
+          "region": "近畿",
+          "lesson_count": 327,
+          "path": "by_store/lava/京都モモテラス店.json"
+        },
+        {
+          "store_id": "kyoto/nagaoka_tenjin",
+          "store": "長岡天神店",
+          "region": "近畿",
+          "lesson_count": 286,
+          "path": "by_store/lava/長岡天神店.json"
+        },
+        {
+          "store_id": "kyoto/saiin",
+          "store": "西院店",
+          "region": "近畿",
+          "lesson_count": 337,
+          "path": "by_store/lava/西院店.json"
+        },
+        {
+          "store_id": "kyoto/ujiokubo",
+          "store": "宇治大久保店",
+          "region": "近畿",
+          "lesson_count": 297,
+          "path": "by_store/lava/宇治大久保店.json"
+        },
+        {
+          "store_id": "kyoto/yamashina",
+          "store": "山科店",
+          "region": "近畿",
+          "lesson_count": 293,
+          "path": "by_store/lava/山科店.json"
+        },
+        {
+          "store_id": "mie/aeon_ise",
+          "store": "イオンタウン伊勢ララパーク店",
+          "region": "近畿",
+          "lesson_count": 320,
+          "path": "by_store/lava/イオンタウン伊勢ララパーク店.json"
+        },
+        {
+          "store_id": "mie/aeon_kuwana",
+          "store": "イオンモール桑名店",
+          "region": "近畿",
+          "lesson_count": 276,
+          "path": "by_store/lava/イオンモール桑名店.json"
+        },
+        {
+          "store_id": "mie/aeon_tsuminami",
+          "store": "イオンモール津南店",
+          "region": "近畿",
+          "lesson_count": 282,
+          "path": "by_store/lava/イオンモール津南店.json"
+        },
+        {
+          "store_id": "mie/suzuka",
+          "store": "アクロスプラザ鈴鹿店",
+          "region": "近畿",
+          "lesson_count": 290,
+          "path": "by_store/lava/アクロスプラザ鈴鹿店.json"
+        },
+        {
+          "store_id": "miyagi/aeon_ishinomaki",
+          "store": "イオンモール石巻店",
+          "region": "北海道・東北",
+          "lesson_count": 263,
+          "path": "by_store/lava/イオンモール石巻店.json"
+        },
+        {
+          "store_id": "miyagi/branch_sendai",
+          "store": "ブランチ仙台店",
+          "region": "北海道・東北",
+          "lesson_count": 283,
+          "path": "by_store/lava/ブランチ仙台店.json"
+        },
+        {
+          "store_id": "miyagi/sendaijozenjidori",
+          "store": "仙台定禅寺通店",
+          "region": "北海道・東北",
+          "lesson_count": 226,
+          "path": "by_store/lava/仙台定禅寺通店.json"
+        },
+        {
+          "store_id": "miyagi/sendaimatsumori",
+          "store": "仙台松森店",
+          "region": "北海道・東北",
+          "lesson_count": 269,
+          "path": "by_store/lava/仙台松森店.json"
+        },
+        {
+          "store_id": "miyazaki/amu_miyazaki",
+          "store": "アミュプラザみやざき店",
+          "region": "九州・沖縄",
+          "lesson_count": 297,
+          "path": "by_store/lava/アミュプラザみやざき店.json"
+        },
+        {
+          "store_id": "nagano/aeon_matsumoto",
+          "store": "イオンモール松本店",
+          "region": "中部・北陸",
+          "lesson_count": 294,
+          "path": "by_store/lava/イオンモール松本店.json"
+        },
+        {
+          "store_id": "nagano/frespo_saku",
+          "store": "フレスポ佐久インター店",
+          "region": "中部・北陸",
+          "lesson_count": 298,
+          "path": "by_store/lava/フレスポ佐久インター店.json"
+        },
+        {
+          "store_id": "nagano/nagano_tokyu",
+          "store": "ながの東急店",
+          "region": "中部・北陸",
+          "lesson_count": 314,
+          "path": "by_store/lava/ながの東急店.json"
+        },
+        {
+          "store_id": "nagasaki/aeon_isahaya",
+          "store": "イオンタウン諫早西部台店",
+          "region": "九州・沖縄",
+          "lesson_count": 297,
+          "path": "by_store/lava/イオンタウン諫早西部台店.json"
+        },
+        {
+          "store_id": "nagasaki/ekimachi_sasebo",
+          "store": "えきマチ1丁目佐世保店",
+          "region": "九州・沖縄",
+          "lesson_count": 294,
+          "path": "by_store/lava/えきマチ1丁目佐世保店.json"
+        },
+        {
+          "store_id": "nagasaki/nagasaki_hamaya",
+          "store": "長崎浜屋店",
+          "region": "九州・沖縄",
+          "lesson_count": 308,
+          "path": "by_store/lava/長崎浜屋店.json"
+        },
+        {
+          "store_id": "nara/aeon_tomiominami",
+          "store": "イオンタウン富雄南店",
+          "region": "近畿",
+          "lesson_count": 295,
+          "path": "by_store/lava/イオンタウン富雄南店.json"
+        },
+        {
+          "store_id": "nara/goido",
+          "store": "五位堂店",
+          "region": "近畿",
+          "lesson_count": 239,
+          "path": "by_store/lava/五位堂店.json"
+        },
+        {
+          "store_id": "nara/naraeki",
+          "store": "奈良駅前店",
+          "region": "近畿",
+          "lesson_count": 216,
+          "path": "by_store/lava/奈良駅前店.json"
+        },
+        {
+          "store_id": "nara/yamatooji",
+          "store": "大和王寺店",
+          "region": "近畿",
+          "lesson_count": 262,
+          "path": "by_store/lava/大和王寺店.json"
+        },
+        {
+          "store_id": "nara/yamatoyagi",
+          "store": "大和八木店",
+          "region": "近畿",
+          "lesson_count": 293,
+          "path": "by_store/lava/大和八木店.json"
+        },
+        {
+          "store_id": "niigata/aeon_shibata",
+          "store": "イオンモール新発田店",
+          "region": "中部・北陸",
+          "lesson_count": 254,
+          "path": "by_store/lava/イオンモール新発田店.json"
+        },
+        {
+          "store_id": "niigata/niigata",
+          "store": "新潟店",
+          "region": "中部・北陸",
+          "lesson_count": 310,
+          "path": "by_store/lava/新潟店.json"
+        },
+        {
+          "store_id": "niigata/patio_joetsu",
+          "store": "パティオ上越店",
+          "region": "中部・北陸",
+          "lesson_count": 319,
+          "path": "by_store/lava/パティオ上越店.json"
+        },
+        {
+          "store_id": "oita/aeon_sanko",
+          "store": "イオンモール三光店",
+          "region": "九州・沖縄",
+          "lesson_count": 296,
+          "path": "by_store/lava/イオンモール三光店.json"
+        },
+        {
+          "store_id": "oita/oitaekimae",
+          "store": "大分駅前店",
+          "region": "九州・沖縄",
+          "lesson_count": 311,
+          "path": "by_store/lava/大分駅前店.json"
+        },
+        {
+          "store_id": "okayama/aeonmall_okayama",
+          "store": "イオンモール岡山店",
+          "region": "中国・四国",
+          "lesson_count": 339,
+          "path": "by_store/lava/イオンモール岡山店.json"
+        },
+        {
+          "store_id": "okinawa/acrossplaza_furujima",
+          "store": "アクロスプラザ古島駅前店",
+          "region": "九州・沖縄",
+          "lesson_count": 304,
+          "path": "by_store/lava/アクロスプラザ古島駅前店.json"
+        },
+        {
+          "store_id": "okinawa/aeon_okinawarycom",
+          "store": "イオンモール沖縄ライカム店",
+          "region": "九州・沖縄",
+          "lesson_count": 318,
+          "path": "by_store/lava/イオンモール沖縄ライカム店.json"
+        },
+        {
+          "store_id": "okinawa/marineplaza_agarihama",
+          "store": "マリンプラザあがり浜店",
+          "region": "九州・沖縄",
+          "lesson_count": 275,
+          "path": "by_store/lava/マリンプラザあがり浜店.json"
+        },
+        {
+          "store_id": "okinawa/tomishiro",
+          "store": "豊見城ウイングシティ店",
+          "region": "九州・沖縄",
+          "lesson_count": 304,
+          "path": "by_store/lava/豊見城ウイングシティ店.json"
+        },
+        {
+          "store_id": "okinawa/urumacityplaza",
+          "store": "うるまシティプラザ店",
+          "region": "九州・沖縄",
+          "lesson_count": 179,
+          "path": "by_store/lava/うるまシティプラザ店.json"
+        },
+        {
+          "store_id": "osaka/alzar_izumiotsu",
+          "store": "アルザ泉大津店",
+          "region": "近畿",
+          "lesson_count": 277,
+          "path": "by_store/lava/アルザ泉大津店.json"
+        },
+        {
+          "store_id": "osaka/ario-otori",
+          "store": "アリオ鳳店",
+          "region": "近畿",
+          "lesson_count": 324,
+          "path": "by_store/lava/アリオ鳳店.json"
+        },
+        {
+          "store_id": "osaka/dios_kitasenri",
+          "store": "ディオス北千里店",
+          "region": "近畿",
+          "lesson_count": 274,
+          "path": "by_store/lava/ディオス北千里店.json"
+        },
+        {
+          "store_id": "osaka/fujiidera",
+          "store": "藤井寺店",
+          "region": "近畿",
+          "lesson_count": 300,
+          "path": "by_store/lava/藤井寺店.json"
+        },
+        {
+          "store_id": "osaka/fuse",
+          "store": "布施店",
+          "region": "近畿",
+          "lesson_count": 287,
+          "path": "by_store/lava/布施店.json"
+        },
+        {
+          "store_id": "osaka/harinakano",
+          "store": "針中野店",
+          "region": "近畿",
+          "lesson_count": 255,
+          "path": "by_store/lava/針中野店.json"
+        },
+        {
+          "store_id": "osaka/higashi_hanazono",
+          "store": "東花園店",
+          "region": "近畿",
+          "lesson_count": 98,
+          "path": "by_store/lava/東花園店.json"
+        },
+        {
+          "store_id": "osaka/higashimikuni",
+          "store": "東三国店",
+          "region": "近畿",
+          "lesson_count": 298,
+          "path": "by_store/lava/東三国店.json"
+        },
+        {
+          "store_id": "osaka/ibaraki",
+          "store": "茨木店",
+          "region": "近畿",
+          "lesson_count": 295,
+          "path": "by_store/lava/茨木店.json"
+        },
+        {
+          "store_id": "osaka/icoramall_izumisano",
+          "store": "いこらも～る泉佐野店",
+          "region": "近畿",
+          "lesson_count": 241,
+          "path": "by_store/lava/いこらも～る泉佐野店.json"
+        },
+        {
+          "store_id": "osaka/juso",
+          "store": "十三店",
+          "region": "近畿",
+          "lesson_count": 278,
+          "path": "by_store/lava/十三店.json"
+        },
+        {
+          "store_id": "osaka/kawachinagano",
+          "store": "じゃんぼスクエア河内長野店",
+          "region": "近畿",
+          "lesson_count": 250,
+          "path": "by_store/lava/じゃんぼスクエア河内長野店.json"
+        },
+        {
+          "store_id": "osaka/kintetsuyao",
+          "store": "近鉄八尾店",
+          "region": "近畿",
+          "lesson_count": 280,
+          "path": "by_store/lava/近鉄八尾店.json"
+        },
+        {
+          "store_id": "osaka/kireuriwari",
+          "store": "喜連瓜破店",
+          "region": "近畿",
+          "lesson_count": 253,
+          "path": "by_store/lava/喜連瓜破店.json"
+        },
+        {
+          "store_id": "osaka/kishiwada_cancan",
+          "store": "岸和田カンカンベイサイドモール店",
+          "region": "近畿",
+          "lesson_count": 262,
+          "path": "by_store/lava/岸和田カンカンベイサイドモール店.json"
+        },
+        {
+          "store_id": "osaka/kitakagaya",
+          "store": "北加賀屋店",
+          "region": "近畿",
+          "lesson_count": 223,
+          "path": "by_store/lava/北加賀屋店.json"
+        },
+        {
+          "store_id": "osaka/minoh_qsmall",
+          "store": "みのおキューズモール店",
+          "region": "近畿",
+          "lesson_count": 280,
+          "path": "by_store/lava/みのおキューズモール店.json"
+        },
+        {
+          "store_id": "osaka/moriguchi",
+          "store": "守口ジャガータウン店",
+          "region": "近畿",
+          "lesson_count": 292,
+          "path": "by_store/lava/守口ジャガータウン店.json"
+        },
+        {
+          "store_id": "osaka/nagai",
+          "store": "長居店",
+          "region": "近畿",
+          "lesson_count": 296,
+          "path": "by_store/lava/長居店.json"
+        },
+        {
+          "store_id": "osaka/nagata",
+          "store": "長田店",
+          "region": "近畿",
+          "lesson_count": 285,
+          "path": "by_store/lava/長田店.json"
+        },
+        {
+          "store_id": "osaka/neyagawa",
+          "store": "寝屋川市店",
+          "region": "近畿",
+          "lesson_count": 281,
+          "path": "by_store/lava/寝屋川市店.json"
+        },
+        {
+          "store_id": "osaka/ougimachi",
+          "store": "扇町店",
+          "region": "近畿",
+          "lesson_count": 284,
+          "path": "by_store/lava/扇町店.json"
+        },
+        {
+          "store_id": "osaka/sakaihigashi_annex",
+          "store": "堺東アネックス店",
+          "region": "近畿",
+          "lesson_count": 441,
+          "path": "by_store/lava/堺東アネックス店.json"
+        },
+        {
+          "store_id": "osaka/shimmori_furuichi",
+          "store": "新森古市店",
+          "region": "近畿",
+          "lesson_count": 95,
+          "path": "by_store/lava/新森古市店.json"
+        },
+        {
+          "store_id": "osaka/shinsaibashi",
+          "store": "心斎橋店",
+          "region": "近畿",
+          "lesson_count": 273,
+          "path": "by_store/lava/心斎橋店.json"
+        },
+        {
+          "store_id": "osaka/suita",
+          "store": "吹田店",
+          "region": "近畿",
+          "lesson_count": 300,
+          "path": "by_store/lava/吹田店.json"
+        },
+        {
+          "store_id": "osaka/suminodo",
+          "store": "住道店",
+          "region": "近畿",
+          "lesson_count": 300,
+          "path": "by_store/lava/住道店.json"
+        },
+        {
+          "store_id": "osaka/taisho",
+          "store": "大正店",
+          "region": "近畿",
+          "lesson_count": 101,
+          "path": "by_store/lava/大正店.json"
+        },
+        {
+          "store_id": "osaka/takatsuki",
+          "store": "高槻店",
+          "region": "近畿",
+          "lesson_count": 321,
+          "path": "by_store/lava/高槻店.json"
+        },
+        {
+          "store_id": "osaka/tondabayashi",
+          "store": "コノミヤ富田林店",
+          "region": "近畿",
+          "lesson_count": 265,
+          "path": "by_store/lava/コノミヤ富田林店.json"
+        },
+        {
+          "store_id": "osaka/toyonaka",
+          "store": "豊中店",
+          "region": "近畿",
+          "lesson_count": 291,
+          "path": "by_store/lava/豊中店.json"
+        },
+        {
+          "store_id": "osaka/umeda",
+          "store": "梅田店",
+          "region": "近畿",
+          "lesson_count": 416,
+          "path": "by_store/lava/梅田店.json"
+        },
+        {
+          "store_id": "saga/karatsu",
+          "store": "唐津店",
+          "region": "九州・沖縄",
+          "lesson_count": 231,
+          "path": "by_store/lava/唐津店.json"
+        },
+        {
+          "store_id": "saga/mallagesaga",
+          "store": "モラージュ佐賀店",
+          "region": "九州・沖縄",
+          "lesson_count": 302,
+          "path": "by_store/lava/モラージュ佐賀店.json"
+        },
+        {
+          "store_id": "saitama/aeon_yono",
+          "store": "イオンモール与野店",
+          "region": "関東",
+          "lesson_count": 265,
+          "path": "by_store/lava/イオンモール与野店.json"
+        },
+        {
+          "store_id": "saitama/aeon_yoshikawaminami",
+          "store": "イオンタウン吉川美南店",
+          "region": "関東",
+          "lesson_count": 251,
+          "path": "by_store/lava/イオンタウン吉川美南店.json"
+        },
+        {
+          "store_id": "saitama/ageo",
+          "store": "上尾店",
+          "region": "関東",
+          "lesson_count": 258,
+          "path": "by_store/lava/上尾店.json"
+        },
+        {
+          "store_id": "saitama/higashimatsuyama_silpia",
+          "store": "東松山シルピア店",
+          "region": "関東",
+          "lesson_count": 300,
+          "path": "by_store/lava/東松山シルピア店.json"
+        },
+        {
+          "store_id": "saitama/higashiomiya",
+          "store": "東大宮店",
+          "region": "関東",
+          "lesson_count": 252,
+          "path": "by_store/lava/東大宮店.json"
+        },
+        {
+          "store_id": "saitama/kamifukuoka",
+          "store": "上福岡店",
+          "region": "関東",
+          "lesson_count": 259,
+          "path": "by_store/lava/上福岡店.json"
+        },
+        {
+          "store_id": "saitama/kasukabe",
+          "store": "春日部店",
+          "region": "関東",
+          "lesson_count": 105,
+          "path": "by_store/lava/春日部店.json"
+        },
+        {
+          "store_id": "saitama/kawagoe",
+          "store": "川越店",
+          "region": "関東",
+          "lesson_count": 271,
+          "path": "by_store/lava/川越店.json"
+        },
+        {
+          "store_id": "saitama/kawaguchi",
+          "store": "川口店",
+          "region": "関東",
+          "lesson_count": 301,
+          "path": "by_store/lava/川口店.json"
+        },
+        {
+          "store_id": "saitama/kazo",
+          "store": "ビバモール加須店",
+          "region": "関東",
+          "lesson_count": 282,
+          "path": "by_store/lava/ビバモール加須店.json"
+        },
+        {
+          "store_id": "saitama/kotesashi",
+          "store": "小手指店",
+          "region": "関東",
+          "lesson_count": 285,
+          "path": "by_store/lava/小手指店.json"
+        },
+        {
+          "store_id": "saitama/kuki_teraresu",
+          "store": "久喜テラレス店",
+          "region": "関東",
+          "lesson_count": 254,
+          "path": "by_store/lava/久喜テラレス店.json"
+        },
+        {
+          "store_id": "saitama/kumagaya_nittohmall",
+          "store": "熊谷ニットーモール店",
+          "region": "関東",
+          "lesson_count": 380,
+          "path": "by_store/lava/熊谷ニットーモール店.json"
+        },
+        {
+          "store_id": "saitama/lt-koshigaya",
+          "store": "イオンレイクタウン越谷店",
+          "region": "関東",
+          "lesson_count": 251,
+          "path": "by_store/lava/イオンレイクタウン越谷店.json"
+        },
+        {
+          "store_id": "saitama/minami-koshigaya",
+          "store": "南越谷店",
+          "region": "関東",
+          "lesson_count": 100,
+          "path": "by_store/lava/南越谷店.json"
+        },
+        {
+          "store_id": "saitama/mizuhodai",
+          "store": "みずほ台店",
+          "region": "関東",
+          "lesson_count": 278,
+          "path": "by_store/lava/みずほ台店.json"
+        },
+        {
+          "store_id": "saitama/musashiurawa",
+          "store": "武蔵浦和店",
+          "region": "関東",
+          "lesson_count": 296,
+          "path": "by_store/lava/武蔵浦和店.json"
+        },
+        {
+          "store_id": "saitama/satte",
+          "store": "幸手店",
+          "region": "関東",
+          "lesson_count": 424,
+          "path": "by_store/lava/幸手店.json"
+        },
+        {
+          "store_id": "saitama/sayamashi",
+          "store": "狭山市店",
+          "region": "関東",
+          "lesson_count": 301,
+          "path": "by_store/lava/狭山市店.json"
+        },
+        {
+          "store_id": "saitama/shiki",
+          "store": "志木店",
+          "region": "関東",
+          "lesson_count": 265,
+          "path": "by_store/lava/志木店.json"
+        },
+        {
+          "store_id": "saitama/souka",
+          "store": "草加マルイ店",
+          "region": "関東",
+          "lesson_count": 249,
+          "path": "by_store/lava/草加マルイ店.json"
+        },
+        {
+          "store_id": "saitama/todakoen",
+          "store": "戸田公園店",
+          "region": "関東",
+          "lesson_count": 110,
+          "path": "by_store/lava/戸田公園店.json"
+        },
+        {
+          "store_id": "saitama/tokorozawa",
+          "store": "所沢店",
+          "region": "関東",
+          "lesson_count": 294,
+          "path": "by_store/lava/所沢店.json"
+        },
+        {
+          "store_id": "saitama/urawa",
+          "store": "浦和店",
+          "region": "関東",
+          "lesson_count": 258,
+          "path": "by_store/lava/浦和店.json"
+        },
+        {
+          "store_id": "saitama/wakoshi_annex",
+          "store": "和光市南口店",
+          "region": "関東",
+          "lesson_count": 319,
+          "path": "by_store/lava/和光市南口店.json"
+        },
+        {
+          "store_id": "saitama/warabi",
+          "store": "蕨店",
+          "region": "関東",
+          "lesson_count": 275,
+          "path": "by_store/lava/蕨店.json"
+        },
+        {
+          "store_id": "saitama/watsu_iwatsuki",
+          "store": "ワッツ岩槻店",
+          "region": "関東",
+          "lesson_count": 229,
+          "path": "by_store/lava/ワッツ岩槻店.json"
+        },
+        {
+          "store_id": "shiga/katata",
+          "store": "堅田店",
+          "region": "近畿",
+          "lesson_count": 248,
+          "path": "by_store/lava/堅田店.json"
+        },
+        {
+          "store_id": "shiga/kusatsu",
+          "store": "草津店",
+          "region": "近畿",
+          "lesson_count": 311,
+          "path": "by_store/lava/草津店.json"
+        },
+        {
+          "store_id": "shiga/otsu_terrace",
+          "store": "オーミー大津テラス店",
+          "region": "近畿",
+          "lesson_count": 292,
+          "path": "by_store/lava/オーミー大津テラス店.json"
+        },
+        {
+          "store_id": "shimane/aeon_izumo",
+          "store": "イオンモール出雲店",
+          "region": "中国・四国",
+          "lesson_count": 280,
+          "path": "by_store/lava/イオンモール出雲店.json"
+        },
+        {
+          "store_id": "shizuoka/aeon_fujiminami",
+          "store": "イオンタウン富士南",
+          "region": "中部・北陸",
+          "lesson_count": 322,
+          "path": "by_store/lava/イオンタウン富士南.json"
+        },
+        {
+          "store_id": "shizuoka/bivi_fujieda",
+          "store": "BiVi藤枝店",
+          "region": "中部・北陸",
+          "lesson_count": 283,
+          "path": "by_store/lava/BiVi藤枝店.json"
+        },
+        {
+          "store_id": "shizuoka/fujinomiya",
+          "store": "アクロスプラザ富士宮店",
+          "region": "中部・北陸",
+          "lesson_count": 290,
+          "path": "by_store/lava/アクロスプラザ富士宮店.json"
+        },
+        {
+          "store_id": "shizuoka/gotemba",
+          "store": "御殿場店",
+          "region": "中部・北陸",
+          "lesson_count": 286,
+          "path": "by_store/lava/御殿場店.json"
+        },
+        {
+          "store_id": "shizuoka/hamamatsu",
+          "store": "浜松店",
+          "region": "中部・北陸",
+          "lesson_count": 299,
+          "path": "by_store/lava/浜松店.json"
+        },
+        {
+          "store_id": "shizuoka/ll-numazu",
+          "store": "ららぽーと沼津店",
+          "region": "中部・北陸",
+          "lesson_count": 328,
+          "path": "by_store/lava/ららぽーと沼津店.json"
+        },
+        {
+          "store_id": "shizuoka/misoratown_kakegawa",
+          "store": "ミソラタウン掛川店",
+          "region": "中部・北陸",
+          "lesson_count": 310,
+          "path": "by_store/lava/ミソラタウン掛川店.json"
+        },
+        {
+          "store_id": "shizuoka/plehawalk_hamakita",
+          "store": "プレ葉ウォーク浜北店",
+          "region": "中部・北陸",
+          "lesson_count": 312,
+          "path": "by_store/lava/プレ葉ウォーク浜北店.json"
+        },
+        {
+          "store_id": "tochigi/moka",
+          "store": "真岡店",
+          "region": "関東",
+          "lesson_count": 300,
+          "path": "by_store/lava/真岡店.json"
+        },
+        {
+          "store_id": "tochigi/ohtawara",
+          "store": "大田原店",
+          "region": "関東",
+          "lesson_count": 459,
+          "path": "by_store/lava/大田原店.json"
+        },
+        {
+          "store_id": "tochigi/utsunomiya",
+          "store": "宇都宮店",
+          "region": "関東",
+          "lesson_count": 231,
+          "path": "by_store/lava/宇都宮店.json"
+        },
+        {
+          "store_id": "tochigi/wakamatsubara",
+          "store": "ヨークタウン若松原店",
+          "region": "関東",
+          "lesson_count": 271,
+          "path": "by_store/lava/ヨークタウン若松原店.json"
+        },
+        {
+          "store_id": "tokushima/aeon_tokushima",
+          "store": "イオンモール徳島店",
+          "region": "中国・四国",
+          "lesson_count": 321,
+          "path": "by_store/lava/イオンモール徳島店.json"
+        },
+        {
+          "store_id": "tokyo/acrossmall_minamino",
+          "store": "アクロスモール八王子みなみ野店",
+          "region": "関東",
+          "lesson_count": 297,
+          "path": "by_store/lava/アクロスモール八王子みなみ野店.json"
+        },
+        {
+          "store_id": "tokyo/akasaka",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 245,
+          "path": "by_store/lava/店舗について詳しく見る.json"
+        },
+        {
+          "store_id": "tokyo/akihabara",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 227,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_akihabara.json"
+        },
+        {
+          "store_id": "tokyo/aomonoyokocho",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 268,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_aomonoyokocho.json"
+        },
+        {
+          "store_id": "tokyo/asakusa",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 272,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_asakusa.json"
+        },
+        {
+          "store_id": "tokyo/ayase",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 289,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ayase.json"
+        },
+        {
+          "store_id": "tokyo/chitosekarasuyama",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 247,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_chitosekarasuyama.json"
+        },
+        {
+          "store_id": "tokyo/fuchu",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 298,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_fuchu.json"
+        },
+        {
+          "store_id": "tokyo/ginza",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 267,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ginza.json"
+        },
+        {
+          "store_id": "tokyo/gotanda",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 277,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_gotanda.json"
+        },
+        {
+          "store_id": "tokyo/hachioji",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 296,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_hachioji.json"
+        },
+        {
+          "store_id": "tokyo/haijima",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 285,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_haijima.json"
+        },
+        {
+          "store_id": "tokyo/hibarigaoka",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 44,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_hibarigaoka.json"
+        },
+        {
+          "store_id": "tokyo/higashijujo",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 263,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_higashijujo.json"
+        },
+        {
+          "store_id": "tokyo/higashimurayama",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 287,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_higashimurayama.json"
+        },
+        {
+          "store_id": "tokyo/hikifune",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 111,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_hikifune.json"
+        },
+        {
+          "store_id": "tokyo/hinode",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 296,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_hinode.json"
+        },
+        {
+          "store_id": "tokyo/hongosanchome",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 273,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_hongosanchome.json"
+        },
+        {
+          "store_id": "tokyo/ichigaya",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 274,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ichigaya.json"
+        },
+        {
+          "store_id": "tokyo/itabashi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 288,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_itabashi.json"
+        },
+        {
+          "store_id": "tokyo/jiyugaoka-gakuen",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 286,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_jiyugaoka-gakuen.json"
+        },
+        {
+          "store_id": "tokyo/kabe",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 280,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kabe.json"
+        },
+        {
+          "store_id": "tokyo/kamata",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 361,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kamata.json"
+        },
+        {
+          "store_id": "tokyo/kamatahigashi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 265,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kamatahigashi.json"
+        },
+        {
+          "store_id": "tokyo/kameari",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 255,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kameari.json"
+        },
+        {
+          "store_id": "tokyo/kamishakujii",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 215,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kamishakujii.json"
+        },
+        {
+          "store_id": "tokyo/kanamachi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 98,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kanamachi.json"
+        },
+        {
+          "store_id": "tokyo/kichijoji",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 277,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kichijoji.json"
+        },
+        {
+          "store_id": "tokyo/kinshicho",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 311,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kinshicho.json"
+        },
+        {
+          "store_id": "tokyo/kitasenjyu",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 428,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kitasenjyu.json"
+        },
+        {
+          "store_id": "tokyo/kokubunji",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 111,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kokubunji.json"
+        },
+        {
+          "store_id": "tokyo/kunitachi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 291,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kunitachi.json"
+        },
+        {
+          "store_id": "tokyo/kyodo",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 259,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_kyodo.json"
+        },
+        {
+          "store_id": "tokyo/ll-tachikawa",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 263,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ll-tachikawa.json"
+        },
+        {
+          "store_id": "tokyo/ll-toyosu",
+          "store": "アーバンドック ららぽーと豊洲3店",
+          "region": "関東",
+          "lesson_count": 279,
+          "path": "by_store/lava/アーバンドック_ららぽーと豊洲3店.json"
+        },
+        {
+          "store_id": "tokyo/machida",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 304,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_machida.json"
+        },
+        {
+          "store_id": "tokyo/machidakiso",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 309,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_machidakiso.json"
+        },
+        {
+          "store_id": "tokyo/machiya",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 225,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_machiya.json"
+        },
+        {
+          "store_id": "tokyo/meguro",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 280,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_meguro.json"
+        },
+        {
+          "store_id": "tokyo/minamiosawa",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 274,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_minamiosawa.json"
+        },
+        {
+          "store_id": "tokyo/mitaka",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 251,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_mitaka.json"
+        },
+        {
+          "store_id": "tokyo/mizue",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 256,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_mizue.json"
+        },
+        {
+          "store_id": "tokyo/monnaka",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 235,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_monnaka.json"
+        },
+        {
+          "store_id": "tokyo/musashikoganei",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 265,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_musashikoganei.json"
+        },
+        {
+          "store_id": "tokyo/nagahara",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 254,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_nagahara.json"
+        },
+        {
+          "store_id": "tokyo/nakameguro",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 295,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_nakameguro.json"
+        },
+        {
+          "store_id": "tokyo/nakonosakaue",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 247,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_nakonosakaue.json"
+        },
+        {
+          "store_id": "tokyo/nerima",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 430,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_nerima.json"
+        },
+        {
+          "store_id": "tokyo/nikotama",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 288,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_nikotama.json"
+        },
+        {
+          "store_id": "tokyo/nishiarai",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 296,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_nishiarai.json"
+        },
+        {
+          "store_id": "tokyo/nishikasai",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 266,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_nishikasai.json"
+        },
+        {
+          "store_id": "tokyo/nogata",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 266,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_nogata.json"
+        },
+        {
+          "store_id": "tokyo/ochiaiminaminagasaki",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 254,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ochiaiminaminagasaki.json"
+        },
+        {
+          "store_id": "tokyo/ogikubo",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 388,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ogikubo.json"
+        },
+        {
+          "store_id": "tokyo/ohanajaya",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 253,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ohanajaya.json"
+        },
+        {
+          "store_id": "tokyo/oimachi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 271,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_oimachi.json"
+        },
+        {
+          "store_id": "tokyo/oji_annex",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 288,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_oji_annex.json"
+        },
+        {
+          "store_id": "tokyo/ontakesan",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 101,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ontakesan.json"
+        },
+        {
+          "store_id": "tokyo/ooizumi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 288,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_ooizumi.json"
+        },
+        {
+          "store_id": "tokyo/otorii",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 235,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_otorii.json"
+        },
+        {
+          "store_id": "tokyo/otsuka",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 252,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_otsuka.json"
+        },
+        {
+          "store_id": "tokyo/oyama",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 330,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_oyama.json"
+        },
+        {
+          "store_id": "tokyo/sakurashinmachi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 290,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_sakurashinmachi.json"
+        },
+        {
+          "store_id": "tokyo/sasazuka",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 283,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_sasazuka.json"
+        },
+        {
+          "store_id": "tokyo/seijyogakuen",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 442,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_seijyogakuen.json"
+        },
+        {
+          "store_id": "tokyo/seisekisakuragaoka",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 291,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_seisekisakuragaoka.json"
+        },
+        {
+          "store_id": "tokyo/sengawa",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 267,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_sengawa.json"
+        },
+        {
+          "store_id": "tokyo/shimokitazawa",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 274,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_shimokitazawa.json"
+        },
+        {
+          "store_id": "tokyo/shimotakaido",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 95,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_shimotakaido.json"
+        },
+        {
+          "store_id": "tokyo/shimurasakaue",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 254,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_shimurasakaue.json"
+        },
+        {
+          "store_id": "tokyo/shinkoiwa",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 286,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_shinkoiwa.json"
+        },
+        {
+          "store_id": "tokyo/sugamo",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 267,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_sugamo.json"
+        },
+        {
+          "store_id": "tokyo/sumiyoshi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 100,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_sumiyoshi.json"
+        },
+        {
+          "store_id": "tokyo/tachikawakita",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 275,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_tachikawakita.json"
+        },
+        {
+          "store_id": "tokyo/takadanobaba",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 265,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_takadanobaba.json"
+        },
+        {
+          "store_id": "tokyo/takashimadaira",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 282,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_takashimadaira.json"
+        },
+        {
+          "store_id": "tokyo/takenotsuka",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 282,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_takenotsuka.json"
+        },
+        {
+          "store_id": "tokyo/tamacenter",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 323,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_tamacenter.json"
+        },
+        {
+          "store_id": "tokyo/tanashi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 268,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_tanashi.json"
+        },
+        {
+          "store_id": "tokyo/togoshi",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 100,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_togoshi.json"
+        },
+        {
+          "store_id": "tokyo/toyocho",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 97,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_toyocho.json"
+        },
+        {
+          "store_id": "tokyo/tsukishima",
+          "store": "店舗について詳しく見る",
+          "region": "関東",
+          "lesson_count": 250,
+          "path": "by_store/lava/店舗について詳しく見る_tokyo_tsukishima.json"
+        },
+        {
+          "store_id": "tottori/aeon_tottorikita",
+          "store": "イオンモール鳥取北店",
+          "region": "中国・四国",
+          "lesson_count": 380,
+          "path": "by_store/lava/イオンモール鳥取北店.json"
+        },
+        {
+          "store_id": "tottori/yonagokaike",
+          "store": "米子皆生店",
+          "region": "中国・四国",
+          "lesson_count": 290,
+          "path": "by_store/lava/米子皆生店.json"
+        },
+        {
+          "store_id": "toyama/aeon_tonami",
+          "store": "イオンモールとなみ店",
+          "region": "中部・北陸",
+          "lesson_count": 273,
+          "path": "by_store/lava/イオンモールとなみ店.json"
+        },
+        {
+          "store_id": "toyama/minamitoyama",
+          "store": "マイプラザ南富山店",
+          "region": "中部・北陸",
+          "lesson_count": 347,
+          "path": "by_store/lava/マイプラザ南富山店.json"
+        },
+        {
+          "store_id": "yamagata/aeon_mikawa",
+          "store": "イオンモール三川店",
+          "region": "北海道・東北",
+          "lesson_count": 253,
+          "path": "by_store/lava/イオンモール三川店.json"
+        },
+        {
+          "store_id": "yamagata/tendou",
+          "store": "天童店",
+          "region": "北海道・東北",
+          "lesson_count": 258,
+          "path": "by_store/lava/天童店.json"
+        },
+        {
+          "store_id": "yamagata/yamagata",
+          "store": "山形店",
+          "region": "北海道・東北",
+          "lesson_count": 254,
+          "path": "by_store/lava/山形店.json"
+        },
+        {
+          "store_id": "yamaguchi/aeon_hofu",
+          "store": "イオンタウン防府店",
+          "region": "中国・四国",
+          "lesson_count": 283,
+          "path": "by_store/lava/イオンタウン防府店.json"
+        },
+        {
+          "store_id": "yamaguchi/seamall_shimonoseki",
+          "store": "シーモール下関店",
+          "region": "中国・四国",
+          "lesson_count": 254,
+          "path": "by_store/lava/シーモール下関店.json"
+        },
+        {
+          "store_id": "yamaguchi/yamaguchiogori",
+          "store": "山口小郡店",
+          "region": "中国・四国",
+          "lesson_count": 443,
+          "path": "by_store/lava/山口小郡店.json"
+        },
+        {
+          "store_id": "yamanashi/kofu",
+          "store": "甲府店",
+          "region": "中部・北陸",
+          "lesson_count": 269,
+          "path": "by_store/lava/甲府店.json"
+        },
+        {
+          "store_id": "yamanashi/yamanashichuo",
+          "store": "山梨中央店",
+          "region": "中部・北陸",
+          "lesson_count": 285,
+          "path": "by_store/lava/山梨中央店.json"
+        }
+      ]
+    },
     {
       "gym_id": "central",
       "gym": "セントラルスポーツ",
@@ -4111,6 +6749,509 @@
           "region": "関東",
           "lesson_count": 122,
           "path": "by_store/jexer/ジェクサー・フィットネスクラブ_メトロポリタン池袋.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "caldo",
+      "gym": "ホットヨガスタジオ カルド",
+      "stores": [
+        {
+          "store_id": "chibachuo",
+          "store": "CALDO千葉中央",
+          "region": "関東",
+          "lesson_count": 37,
+          "path": "by_store/caldo/CALDO千葉中央.json"
+        },
+        {
+          "store_id": "esaka",
+          "store": "CALDO江坂",
+          "region": "近畿",
+          "lesson_count": 35,
+          "path": "by_store/caldo/CALDO江坂.json"
+        },
+        {
+          "store_id": "fuchu",
+          "store": "CALDO府中",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/caldo/CALDO府中.json"
+        },
+        {
+          "store_id": "funabori",
+          "store": "CALDO船堀",
+          "region": "関東",
+          "lesson_count": 49,
+          "path": "by_store/caldo/CALDO船堀.json"
+        },
+        {
+          "store_id": "gamo-4chome",
+          "store": "CALDO蒲生四丁目",
+          "region": "近畿",
+          "lesson_count": 37,
+          "path": "by_store/caldo/CALDO蒲生四丁目.json"
+        },
+        {
+          "store_id": "ginza9",
+          "store": "CALDOGINZA9",
+          "region": "関東",
+          "lesson_count": 44,
+          "path": "by_store/caldo/CALDOGINZA9.json"
+        },
+        {
+          "store_id": "granshinyokohama",
+          "store": "CALDOGRAN新横浜",
+          "region": "関東",
+          "lesson_count": 49,
+          "path": "by_store/caldo/CALDOGRAN新横浜.json"
+        },
+        {
+          "store_id": "hamamatsucho",
+          "store": "CALDO浜松町",
+          "region": "関東",
+          "lesson_count": 31,
+          "path": "by_store/caldo/CALDO浜松町.json"
+        },
+        {
+          "store_id": "higashikoenji",
+          "store": "CALDO東高円寺",
+          "region": "関東",
+          "lesson_count": 40,
+          "path": "by_store/caldo/CALDO東高円寺.json"
+        },
+        {
+          "store_id": "higashikoganei",
+          "store": "CALDO東小金井",
+          "region": "関東",
+          "lesson_count": 40,
+          "path": "by_store/caldo/CALDO東小金井.json"
+        },
+        {
+          "store_id": "hiratsuka",
+          "store": "CALDO平塚",
+          "region": "関東",
+          "lesson_count": 41,
+          "path": "by_store/caldo/CALDO平塚.json"
+        },
+        {
+          "store_id": "horie",
+          "store": "CALDO堀江",
+          "region": "近畿",
+          "lesson_count": 44,
+          "path": "by_store/caldo/CALDO堀江.json"
+        },
+        {
+          "store_id": "ikebukuro",
+          "store": "CALDO池袋",
+          "region": "関東",
+          "lesson_count": 39,
+          "path": "by_store/caldo/CALDO池袋.json"
+        },
+        {
+          "store_id": "itabashihoncho",
+          "store": "CALDO板橋本町",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/caldo/CALDO板橋本町.json"
+        },
+        {
+          "store_id": "itami",
+          "store": "CALDO伊丹",
+          "region": "近畿",
+          "lesson_count": 40,
+          "path": "by_store/caldo/CALDO伊丹.json"
+        },
+        {
+          "store_id": "kagurazaka",
+          "store": "CALDO神楽坂",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/caldo/CALDO神楽坂.json"
+        },
+        {
+          "store_id": "kamata",
+          "store": "CALDO蒲田",
+          "region": "関東",
+          "lesson_count": 41,
+          "path": "by_store/caldo/CALDO蒲田.json"
+        },
+        {
+          "store_id": "kameari",
+          "store": "CALDO亀有",
+          "region": "関東",
+          "lesson_count": 45,
+          "path": "by_store/caldo/CALDO亀有.json"
+        },
+        {
+          "store_id": "kameido",
+          "store": "CALDO亀戸",
+          "region": "関東",
+          "lesson_count": 38,
+          "path": "by_store/caldo/CALDO亀戸.json"
+        },
+        {
+          "store_id": "kanayama",
+          "store": "CALDO金山",
+          "region": "中部・北陸",
+          "lesson_count": 44,
+          "path": "by_store/caldo/CALDO金山.json"
+        },
+        {
+          "store_id": "kawagoe",
+          "store": "CALDO川越",
+          "region": "関東",
+          "lesson_count": 40,
+          "path": "by_store/caldo/CALDO川越.json"
+        },
+        {
+          "store_id": "kawaguchi",
+          "store": "CALDO川口",
+          "region": "関東",
+          "lesson_count": 39,
+          "path": "by_store/caldo/CALDO川口.json"
+        },
+        {
+          "store_id": "kichijoji",
+          "store": "CALDO吉祥寺",
+          "region": "関東",
+          "lesson_count": 39,
+          "path": "by_store/caldo/CALDO吉祥寺.json"
+        },
+        {
+          "store_id": "kinshicho",
+          "store": "CALDO錦糸町",
+          "region": "関東",
+          "lesson_count": 36,
+          "path": "by_store/caldo/CALDO錦糸町.json"
+        },
+        {
+          "store_id": "kiyose",
+          "store": "CALDO清瀬",
+          "region": "関東",
+          "lesson_count": 40,
+          "path": "by_store/caldo/CALDO清瀬.json"
+        },
+        {
+          "store_id": "kotoni",
+          "store": "CALDO琴似",
+          "region": "北海道・東北",
+          "lesson_count": 47,
+          "path": "by_store/caldo/CALDO琴似.json"
+        },
+        {
+          "store_id": "kumegawa",
+          "store": "CALDO久米川",
+          "region": "関東",
+          "lesson_count": 33,
+          "path": "by_store/caldo/CALDO久米川.json"
+        },
+        {
+          "store_id": "minamigyotoku",
+          "store": "CALDO南行徳",
+          "region": "関東",
+          "lesson_count": 47,
+          "path": "by_store/caldo/CALDO南行徳.json"
+        },
+        {
+          "store_id": "minamikashiwa",
+          "store": "CALDO南柏",
+          "region": "関東",
+          "lesson_count": 43,
+          "path": "by_store/caldo/CALDO南柏.json"
+        },
+        {
+          "store_id": "minamiosawa",
+          "store": "CALDO南大沢",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/caldo/CALDO南大沢.json"
+        },
+        {
+          "store_id": "minamiurawa",
+          "store": "CALDOまるひろ南浦和",
+          "region": "関東",
+          "lesson_count": 48,
+          "path": "by_store/caldo/CALDOまるひろ南浦和.json"
+        },
+        {
+          "store_id": "minatogawa",
+          "store": "CALDO湊川",
+          "region": "近畿",
+          "lesson_count": 33,
+          "path": "by_store/caldo/CALDO湊川.json"
+        },
+        {
+          "store_id": "mitsukyo",
+          "store": "CALDO三ツ境",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/caldo/CALDO三ツ境.json"
+        },
+        {
+          "store_id": "miyazaki",
+          "store": "CALDO宮崎",
+          "region": "九州・沖縄",
+          "lesson_count": 28,
+          "path": "by_store/caldo/CALDO宮崎.json"
+        },
+        {
+          "store_id": "mizonokuchi",
+          "store": "CALDO溝の口",
+          "region": "関東",
+          "lesson_count": 51,
+          "path": "by_store/caldo/CALDO溝の口.json"
+        },
+        {
+          "store_id": "moriyama",
+          "store": "CALDO守山",
+          "region": "近畿",
+          "lesson_count": 30,
+          "path": "by_store/caldo/CALDO守山.json"
+        },
+        {
+          "store_id": "motosumiyoshi",
+          "store": "CALDO元住吉",
+          "region": "関東",
+          "lesson_count": 48,
+          "path": "by_store/caldo/CALDO元住吉.json"
+        },
+        {
+          "store_id": "myogadani",
+          "store": "CALDO茗荷谷",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/caldo/CALDO茗荷谷.json"
+        },
+        {
+          "store_id": "narimasu",
+          "store": "CALDO成増",
+          "region": "関東",
+          "lesson_count": 47,
+          "path": "by_store/caldo/CALDO成増.json"
+        },
+        {
+          "store_id": "narita",
+          "store": "CALDO成田",
+          "region": "関東",
+          "lesson_count": 44,
+          "path": "by_store/caldo/CALDO成田.json"
+        },
+        {
+          "store_id": "niigata",
+          "store": "CALDO新潟万代",
+          "region": "中部・北陸",
+          "lesson_count": 38,
+          "path": "by_store/caldo/CALDO新潟万代.json"
+        },
+        {
+          "store_id": "nishikasai",
+          "store": "CALDO西葛西",
+          "region": "関東",
+          "lesson_count": 36,
+          "path": "by_store/caldo/CALDO西葛西.json"
+        },
+        {
+          "store_id": "ohashi",
+          "store": "CALDO大橋",
+          "region": "九州・沖縄",
+          "lesson_count": 44,
+          "path": "by_store/caldo/CALDO大橋.json"
+        },
+        {
+          "store_id": "oizumigakuen",
+          "store": "CALDO大泉学園",
+          "region": "関東",
+          "lesson_count": 44,
+          "path": "by_store/caldo/CALDO大泉学園.json"
+        },
+        {
+          "store_id": "omori",
+          "store": "CALDO大森",
+          "region": "関東",
+          "lesson_count": 37,
+          "path": "by_store/caldo/CALDO大森.json"
+        },
+        {
+          "store_id": "sagamiono",
+          "store": "CALDO相模大野",
+          "region": "関東",
+          "lesson_count": 44,
+          "path": "by_store/caldo/CALDO相模大野.json"
+        },
+        {
+          "store_id": "saidaiji",
+          "store": "CALDO西大寺",
+          "region": "近畿",
+          "lesson_count": 34,
+          "path": "by_store/caldo/CALDO西大寺.json"
+        },
+        {
+          "store_id": "sangenjaya",
+          "store": "CALDO三軒茶屋",
+          "region": "関東",
+          "lesson_count": 46,
+          "path": "by_store/caldo/CALDO三軒茶屋.json"
+        },
+        {
+          "store_id": "sapporo",
+          "store": "CALDO札幌",
+          "region": "北海道・東北",
+          "lesson_count": 41,
+          "path": "by_store/caldo/CALDO札幌.json"
+        },
+        {
+          "store_id": "sendaiichibannchou",
+          "store": "CALDO仙台一番町",
+          "region": "北海道・東北",
+          "lesson_count": 46,
+          "path": "by_store/caldo/CALDO仙台一番町.json"
+        },
+        {
+          "store_id": "shakujiikoen",
+          "store": "CALDO石神井公園",
+          "region": "関東",
+          "lesson_count": 41,
+          "path": "by_store/caldo/CALDO石神井公園.json"
+        },
+        {
+          "store_id": "shiga",
+          "store": "CALDO草津滋賀",
+          "region": "近畿",
+          "lesson_count": 36,
+          "path": "by_store/caldo/CALDO草津滋賀.json"
+        },
+        {
+          "store_id": "shijoomiya",
+          "store": "CALDO四条大宮",
+          "region": "近畿",
+          "lesson_count": 37,
+          "path": "by_store/caldo/CALDO四条大宮.json"
+        },
+        {
+          "store_id": "shiki",
+          "store": "CALDO志木",
+          "region": "関東",
+          "lesson_count": 39,
+          "path": "by_store/caldo/CALDO志木.json"
+        },
+        {
+          "store_id": "shinjuku",
+          "store": "CALDO新宿",
+          "region": "関東",
+          "lesson_count": 44,
+          "path": "by_store/caldo/CALDO新宿.json"
+        },
+        {
+          "store_id": "shintoshin",
+          "store": "CALDO那覇新都心あっぷるタウン",
+          "region": "九州・沖縄",
+          "lesson_count": 42,
+          "path": "by_store/caldo/CALDO那覇新都心あっぷるタウン.json"
+        },
+        {
+          "store_id": "shizuoka",
+          "store": "CALDO静岡",
+          "region": "中部・北陸",
+          "lesson_count": 35,
+          "path": "by_store/caldo/CALDO静岡.json"
+        },
+        {
+          "store_id": "sugamo",
+          "store": "CALDO巣鴨",
+          "region": "関東",
+          "lesson_count": 39,
+          "path": "by_store/caldo/CALDO巣鴨.json"
+        },
+        {
+          "store_id": "takatsuki",
+          "store": "CALDO高槻",
+          "region": "近畿",
+          "lesson_count": 33,
+          "path": "by_store/caldo/CALDO高槻.json"
+        },
+        {
+          "store_id": "tamaplaza",
+          "store": "CALDOたまプラーザ",
+          "region": "関東",
+          "lesson_count": 47,
+          "path": "by_store/caldo/CALDOたまプラーザ.json"
+        },
+        {
+          "store_id": "tenroku",
+          "store": "CALDO天六",
+          "region": "近畿",
+          "lesson_count": 37,
+          "path": "by_store/caldo/CALDO天六.json"
+        },
+        {
+          "store_id": "tokushima",
+          "store": "CALDO徳島",
+          "region": "中国・四国",
+          "lesson_count": 27,
+          "path": "by_store/caldo/CALDO徳島.json"
+        },
+        {
+          "store_id": "tomishiro",
+          "store": "CALDO豊見城TOMITON",
+          "region": "九州・沖縄",
+          "lesson_count": 35,
+          "path": "by_store/caldo/CALDO豊見城TOMITON.json"
+        },
+        {
+          "store_id": "totsuka",
+          "store": "CALDO戸塚",
+          "region": "関東",
+          "lesson_count": 47,
+          "path": "by_store/caldo/CALDO戸塚.json"
+        },
+        {
+          "store_id": "tsudanuma",
+          "store": "CALDO津田沼",
+          "region": "関東",
+          "lesson_count": 47,
+          "path": "by_store/caldo/CALDO津田沼.json"
+        },
+        {
+          "store_id": "tsunashima",
+          "store": "CALDO綱島",
+          "region": "関東",
+          "lesson_count": 40,
+          "path": "by_store/caldo/CALDO綱島.json"
+        },
+        {
+          "store_id": "tsurumi",
+          "store": "CALDO鶴見",
+          "region": "関東",
+          "lesson_count": 38,
+          "path": "by_store/caldo/CALDO鶴見.json"
+        },
+        {
+          "store_id": "tsutsujigaoka",
+          "store": "CALDOつつじヶ丘",
+          "region": "関東",
+          "lesson_count": 43,
+          "path": "by_store/caldo/CALDOつつじヶ丘.json"
+        },
+        {
+          "store_id": "tsuzuki",
+          "store": "CALDO都筑横浜",
+          "region": "関東",
+          "lesson_count": 43,
+          "path": "by_store/caldo/CALDO都筑横浜.json"
+        },
+        {
+          "store_id": "ueno",
+          "store": "CALDO上野",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/caldo/CALDO上野.json"
+        },
+        {
+          "store_id": "urawa",
+          "store": "CALDO浦和",
+          "region": "関東",
+          "lesson_count": 45,
+          "path": "by_store/caldo/CALDO浦和.json"
         }
       ]
     },
