@@ -9,11 +9,11 @@
     "end": "20:30",
     "class_name": "楽しい中国語会話入門",
     "category": "OTHER",
-    "instructor": "鈴木泰子(a)・馮烈(b)",
-    "studio": "5階 集会室B ほか",
+    "instructor": "鈴木泰子・馮烈",
+    "studio": "5階 集会室Bほか",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "(a) (b)"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -26,22 +26,6 @@
     "class_name": "カラダリセット",
     "category": "OTHER",
     "instructor": "古川貴子",
-    "studio": "7階 多目的ルーム ほか",
-    "reservation_required": true,
-    "genre": null,
-    "note": null
-  },
-  {
-    "gym_id": "chiyoda_sc",
-    "store_id": "chiyoda_sc",
-    "store": "千代田区立スポーツセンター",
-    "region": "関東",
-    "day": "火",
-    "start": "19:40",
-    "end": "20:40",
-    "class_name": "カラダリセット",
-    "category": "OTHER",
-    "instructor": "古川貴子 (ヨーガ講師)",
     "studio": "7階 第1多目的ルームほか",
     "reservation_required": true,
     "genre": null,
@@ -74,10 +58,10 @@
     "class_name": "マイケル先生と楽しい英会話",
     "category": "OTHER",
     "instructor": "マイケル・グリーン",
-    "studio": "5階 集会室B ほか",
+    "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "初級"
+    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -90,10 +74,10 @@
     "class_name": "マイケル先生と楽しい英会話",
     "category": "OTHER",
     "instructor": "マイケル・グリーン",
-    "studio": "5階 集会室B ほか",
+    "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "中級"
+    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -105,7 +89,7 @@
     "end": "20:00",
     "class_name": "ハッピーハンドメイド 初夏を彩る多肉植物の寄せ植え",
     "category": "OTHER",
-    "instructor": null,
+    "instructor": "アトリエ虹色空間",
     "studio": "2026年4月～6月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
@@ -153,7 +137,7 @@
     "end": "20:30",
     "class_name": "米粉100%で作るふわふわレシピ アスパラベーコンのソフトパン",
     "category": "OTHER",
-    "instructor": null,
+    "instructor": "調雅子",
     "studio": "7階 料理教室",
     "reservation_required": false,
     "genre": null,
@@ -169,7 +153,7 @@
     "end": "20:30",
     "class_name": "かんたん本格スイーツクッキング 2種のスコーン",
     "category": "OTHER",
-    "instructor": null,
+    "instructor": "大北理子",
     "studio": "2026年4月～6月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
@@ -186,10 +170,10 @@
     "class_name": "マイケル先生と楽しい英会話",
     "category": "OTHER",
     "instructor": "マイケル・グリーン",
-    "studio": "5階 会議室B ほか",
-    "reservation_required": false,
+    "studio": "2026年7月～9月週間プログラム【スタディ】",
+    "reservation_required": true,
     "genre": null,
-    "note": "上級"
+    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -297,11 +281,11 @@
     "end": "20:30",
     "class_name": "米粉100%で作るふわふわレシピ ブルーベリーとクリームチーズのソフトパン",
     "category": "BELLY DANCE",
-    "instructor": "調雅子",
-    "studio": "7階 料理教室",
-    "reservation_required": false,
+    "instructor": "調 雅子",
+    "studio": "2026年7月～9月週間プログラム【スタディ】",
+    "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "ビジューターは+1,500円の参加費。持ち物:筆記用具、水分補給用飲料水、エプロン、タオル、三角巾"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -313,11 +297,11 @@
     "end": "20:00",
     "class_name": "健康な体づくり講座 眼の健康寿命を延ばす知識",
     "category": "WELLNESS",
-    "instructor": "市川 一夫",
-    "studio": "8階 第3会議室",
+    "instructor": "市川一夫",
+    "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": "※眼に関するお悩みや疑問について先生に聞いてみたください。あらかじめ事前にご知らせてください。講座の中で講師から回答します。"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -327,13 +311,13 @@
     "day": "木",
     "start": "18:30",
     "end": "20:30",
-    "class_name": "ハッピーハンドメイド 自分色の羊毛フェルト ミニポーチ",
+    "class_name": "ハッピーハンドメイド 自分色の羊毛フェルトミニポーチ",
     "category": "OTHER",
     "instructor": "徳増洋乃",
-    "studio": "九段生涯学習館 4階 実習室",
-    "reservation_required": false,
+    "studio": "2026年7月～9月週間プログラム【スタディ】",
+    "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "※約12cm×8cm。※色は当日お選びいただけます。※中性洗剤を使用しますので手荒れが気になる方はゴム手袋をご用意ください。持ち物:筆記用具、水分補給用飲料水、空ペットボトル500ml(炭酸系等丈夫なもの)、薄手のタオル、タオルお持ち帰り用・作品持ち帰り用のビニール袋何枚か、眼鏡(必要な方)、ゴム手袋(必要な方)"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -361,7 +345,7 @@
     "end": "20:30",
     "class_name": "かんたん本格スイーツクッキング ビーチクランブルケーキ",
     "category": "RUNNING",
-    "instructor": null,
+    "instructor": "大北理子",
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,

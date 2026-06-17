@@ -17,7 +17,7 @@
     "note"
   ],
   "gym_count": 45,
-  "store_count": 1662,
+  "store_count": 1664,
   "gyms": [
     {
       "gym_id": "lava",
@@ -363,7 +363,7 @@
           "store_id": "fukuoka/kashii",
           "store": "香椎店",
           "region": "九州・沖縄",
-          "lesson_count": 283,
+          "lesson_count": 282,
           "path": "by_store/lava/香椎店.json"
         },
         {
@@ -6461,7 +6461,7 @@
           "store_id": "26100",
           "store": "京都二条 (OPEN 24 HOURS)",
           "region": "近畿",
-          "lesson_count": 91,
+          "lesson_count": 92,
           "path": "by_store/goldsgym/京都二条_(OPEN_24_HOURS).json"
         },
         {
@@ -8598,7 +8598,7 @@
           "store_id": "krp",
           "store": "京都リサーチパーク24",
           "region": "近畿",
-          "lesson_count": 149,
+          "lesson_count": 148,
           "path": "by_store/cospa/京都リサーチパーク24.json"
         },
         {
@@ -11616,6 +11616,33 @@
       ]
     },
     {
+      "gym_id": "loive",
+      "gym": "ホットヨガスタジオ loIve（ロイブ）",
+      "stores": [
+        {
+          "store_id": "aeon-kamisato",
+          "store": "loIve aeon-kamisato",
+          "region": "関東",
+          "lesson_count": 186,
+          "path": "by_store/loive/loIve_aeon-kamisato.json"
+        },
+        {
+          "store_id": "aeon-mizushima",
+          "store": "loIve aeon-mizushima",
+          "region": "中国・四国",
+          "lesson_count": 207,
+          "path": "by_store/loive/loIve_aeon-mizushima.json"
+        },
+        {
+          "store_id": "akita",
+          "store": "loIve akita",
+          "region": "北海道・東北",
+          "lesson_count": 208,
+          "path": "by_store/loive/loIve_akita.json"
+        }
+      ]
+    },
+    {
       "gym_id": "dospo",
       "gym": "ドゥ・スポーツプラザ",
       "stores": [
@@ -11630,7 +11657,7 @@
           "store_id": "takasaki",
           "store": "ドゥ・スポーツプラザ 高崎",
           "region": "関東",
-          "lesson_count": 207,
+          "lesson_count": 203,
           "path": "by_store/dospo/ドゥ・スポーツプラザ_高崎.json"
         },
         {
@@ -11679,19 +11706,6 @@
           "region": "関東",
           "lesson_count": 250,
           "path": "by_store/seibu/所沢.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "loive",
-      "gym": "ホットヨガスタジオ loIve（ロイブ）",
-      "stores": [
-        {
-          "store_id": "aeon-kamisato",
-          "store": "loIve aeon-kamisato",
-          "region": "関東",
-          "lesson_count": 186,
-          "path": "by_store/loive/loIve_aeon-kamisato.json"
         }
       ]
     },
@@ -11872,7 +11886,7 @@
           "store_id": "chiyoda_sc",
           "store": "千代田区立スポーツセンター",
           "region": "関東",
-          "lesson_count": 23,
+          "lesson_count": 22,
           "path": "by_store/chiyoda_sc/千代田区立スポーツセンター.json"
         }
       ]

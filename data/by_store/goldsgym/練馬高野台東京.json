@@ -329,7 +329,7 @@
     "end": "14:10",
     "class_name": "ヒップアップGGX",
     "category": "AEROBICS",
-    "instructor": "&",
+    "instructor": null,
     "studio": "スタジオB/スタジオA/スタジオB",
     "reservation_required": false,
     "genre": "コンディショニング・調整",

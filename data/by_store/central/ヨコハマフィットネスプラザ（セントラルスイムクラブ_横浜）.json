@@ -505,7 +505,7 @@
     "end": "12:00",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "ＡＳＡ",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

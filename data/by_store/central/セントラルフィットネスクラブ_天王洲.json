@@ -1097,7 +1097,7 @@
     "end": "20:10",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "ＪＵＮ",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,

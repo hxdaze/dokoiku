@@ -393,7 +393,7 @@
     "end": "14:30",
     "class_name": "ヨガ",
     "category": "YOGA & PILATES",
-    "instructor": "ｼﾞｭﾝｺ",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": null,

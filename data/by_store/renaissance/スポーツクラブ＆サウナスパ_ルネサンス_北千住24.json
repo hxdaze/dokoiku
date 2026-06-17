@@ -1513,7 +1513,7 @@
     "end": "15:15",
     "class_name": "温ヨガ",
     "category": "YOGA & PILATES",
-    "instructor": "ｼﾞｭﾝｺ",
+    "instructor": null,
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,

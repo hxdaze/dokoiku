@@ -937,7 +937,7 @@
     "end": "15:40",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "ﾌｧﾆｰ",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

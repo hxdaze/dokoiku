@@ -665,7 +665,7 @@
     "end": "13:00",
     "class_name": "UBOUND 緑川",
     "category": "CYCLING",
-    "instructor": "¥¥",
+    "instructor": null,
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
