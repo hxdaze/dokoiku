@@ -16,8 +16,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 29,
-  "store_count": 1512,
+  "gym_count": 30,
+  "store_count": 1518,
   "gyms": [
     {
       "gym_id": "lava",
@@ -7574,6 +7574,41 @@
           "region": "中部・北陸",
           "lesson_count": 146,
           "path": "by_store/axtos/アクトス_豊橋店.json"
+        },
+        {
+          "store_id": "tsuyamanote",
+          "store": "アクトス 津山の手店",
+          "region": "近畿",
+          "lesson_count": 39,
+          "path": "by_store/axtos/アクトス_津山の手店.json"
+        },
+        {
+          "store_id": "ueda",
+          "store": "アクトス 上田店",
+          "region": "中部・北陸",
+          "lesson_count": 110,
+          "path": "by_store/axtos/アクトス_上田店.json"
+        },
+        {
+          "store_id": "yagoto",
+          "store": "アクトス 八事店",
+          "region": "中部・北陸",
+          "lesson_count": 100,
+          "path": "by_store/axtos/アクトス_八事店.json"
+        },
+        {
+          "store_id": "yokkaichi",
+          "store": "アクトス 四日市店",
+          "region": "近畿",
+          "lesson_count": 84,
+          "path": "by_store/axtos/アクトス_四日市店.json"
+        },
+        {
+          "store_id": "yokkaichikita",
+          "store": "アクトス 四日市北店",
+          "region": "近畿",
+          "lesson_count": 53,
+          "path": "by_store/axtos/アクトス_四日市北店.json"
         }
       ]
     },
@@ -10741,6 +10776,19 @@
           "region": "関東",
           "lesson_count": 131,
           "path": "by_store/minato/港区スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "joyfit",
+      "gym": "JOYFIT",
+      "stores": [
+        {
+          "store_id": "aeon-kenou",
+          "store": "JOYFIT イオン県央",
+          "region": "中部・北陸",
+          "lesson_count": 107,
+          "path": "by_store/joyfit/JOYFIT_イオン県央.json"
         }
       ]
     },

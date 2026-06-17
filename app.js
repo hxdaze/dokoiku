@@ -43,12 +43,18 @@ function setOptions(sel, items, { value = (x) => x, label = (x) => x, head = '<o
 }
 
 // ---- データ読み込み ----
+// キャッシュ回避: ビルド版(window.BUILD_VERSION)をクエリに付与。
+function withVer(url) {
+  const v = (typeof window !== "undefined" && window.BUILD_VERSION) || "";
+  return v ? `${url}?v=${encodeURIComponent(v)}` : url;
+}
+
 async function loadData() {
   const [meta, lessonsDoc, stores, daiko] = await Promise.all([
-    fetch("data/meta.json").then((r) => r.json()),
-    fetch("data/lessons.json").then((r) => r.json()),
-    fetch("data/stores.json").then((r) => r.json()),
-    fetch("data/daiko.json").then((r) => r.json()).catch(() => []),
+    fetch(withVer("data/meta.json")).then((r) => r.json()),
+    fetch(withVer("data/lessons.json")).then((r) => r.json()),
+    fetch(withVer("data/stores.json")).then((r) => r.json()),
+    fetch(withVer("data/daiko.json")).then((r) => r.json()).catch(() => []),
   ]);
   META = meta;
   STORES = stores;
