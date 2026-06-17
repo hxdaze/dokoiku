@@ -16,8 +16,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 30,
-  "store_count": 1571,
+  "gym_count": 44,
+  "store_count": 1661,
   "gyms": [
     {
       "gym_id": "lava",
@@ -7997,6 +7997,551 @@
       ]
     },
     {
+      "gym_id": "clubpilates",
+      "gym": "CLUB PILATES",
+      "stores": [
+        {
+          "store_id": "akabane",
+          "store": "CLUB PILATES akabane",
+          "region": "関東",
+          "lesson_count": 46,
+          "path": "by_store/clubpilates/CLUB_PILATES_akabane.json"
+        },
+        {
+          "store_id": "akasakayakuin",
+          "store": "CLUB PILATES akasakayakuin",
+          "region": "九州・沖縄",
+          "lesson_count": 55,
+          "path": "by_store/clubpilates/CLUB_PILATES_akasakayakuin.json"
+        },
+        {
+          "store_id": "ariakegarden",
+          "store": "CLUB PILATES ariakegarden",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/clubpilates/CLUB_PILATES_ariakegarden.json"
+        },
+        {
+          "store_id": "asakusaazumabashi",
+          "store": "CLUB PILATES asakusaazumabashi",
+          "region": "関東",
+          "lesson_count": 5,
+          "path": "by_store/clubpilates/CLUB_PILATES_asakusaazumabashi.json"
+        },
+        {
+          "store_id": "center-kita",
+          "store": "CLUB PILATES center-kita",
+          "region": "関東",
+          "lesson_count": 63,
+          "path": "by_store/clubpilates/CLUB_PILATES_center-kita.json"
+        },
+        {
+          "store_id": "chiba",
+          "store": "CLUB PILATES chiba",
+          "region": "関東",
+          "lesson_count": 73,
+          "path": "by_store/clubpilates/CLUB_PILATES_chiba.json"
+        },
+        {
+          "store_id": "chitosefunabashi",
+          "store": "CLUB PILATES chitosefunabashi",
+          "region": "関東",
+          "lesson_count": 51,
+          "path": "by_store/clubpilates/CLUB_PILATES_chitosefunabashi.json"
+        },
+        {
+          "store_id": "daikanyama",
+          "store": "CLUB PILATES daikanyama",
+          "region": "関東",
+          "lesson_count": 50,
+          "path": "by_store/clubpilates/CLUB_PILATES_daikanyama.json"
+        },
+        {
+          "store_id": "enoshima",
+          "store": "CLUB PILATES enoshima",
+          "region": "関東",
+          "lesson_count": 60,
+          "path": "by_store/clubpilates/CLUB_PILATES_enoshima.json"
+        },
+        {
+          "store_id": "esaka",
+          "store": "CLUB PILATES esaka",
+          "region": "近畿",
+          "lesson_count": 7,
+          "path": "by_store/clubpilates/CLUB_PILATES_esaka.json"
+        },
+        {
+          "store_id": "fuchu",
+          "store": "CLUB PILATES fuchu",
+          "region": "関東",
+          "lesson_count": 66,
+          "path": "by_store/clubpilates/CLUB_PILATES_fuchu.json"
+        },
+        {
+          "store_id": "fudomae",
+          "store": "CLUB PILATES fudomae",
+          "region": "関東",
+          "lesson_count": 56,
+          "path": "by_store/clubpilates/CLUB_PILATES_fudomae.json"
+        },
+        {
+          "store_id": "fukui",
+          "store": "CLUB PILATES fukui",
+          "region": "中部・北陸",
+          "lesson_count": 55,
+          "path": "by_store/clubpilates/CLUB_PILATES_fukui.json"
+        },
+        {
+          "store_id": "fukuokanishijin",
+          "store": "CLUB PILATES fukuokanishijin",
+          "region": "九州・沖縄",
+          "lesson_count": 60,
+          "path": "by_store/clubpilates/CLUB_PILATES_fukuokanishijin.json"
+        },
+        {
+          "store_id": "fukuokaohashi",
+          "store": "CLUB PILATES fukuokaohashi",
+          "region": "九州・沖縄",
+          "lesson_count": 56,
+          "path": "by_store/clubpilates/CLUB_PILATES_fukuokaohashi.json"
+        },
+        {
+          "store_id": "hakata",
+          "store": "CLUB PILATES hakata",
+          "region": "九州・沖縄",
+          "lesson_count": 62,
+          "path": "by_store/clubpilates/CLUB_PILATES_hakata.json"
+        },
+        {
+          "store_id": "hakushima",
+          "store": "CLUB PILATES hakushima",
+          "region": "中国・四国",
+          "lesson_count": 56,
+          "path": "by_store/clubpilates/CLUB_PILATES_hakushima.json"
+        },
+        {
+          "store_id": "hatanodai",
+          "store": "CLUB PILATES hatanodai",
+          "region": "関東",
+          "lesson_count": 66,
+          "path": "by_store/clubpilates/CLUB_PILATES_hatanodai.json"
+        },
+        {
+          "store_id": "higashikurume",
+          "store": "CLUB PILATES higashikurume",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/clubpilates/CLUB_PILATES_higashikurume.json"
+        },
+        {
+          "store_id": "hisayaodori",
+          "store": "CLUB PILATES hisayaodori",
+          "region": "中部・北陸",
+          "lesson_count": 72,
+          "path": "by_store/clubpilates/CLUB_PILATES_hisayaodori.json"
+        },
+        {
+          "store_id": "ibaraki",
+          "store": "CLUB PILATES ibaraki",
+          "region": "近畿",
+          "lesson_count": 54,
+          "path": "by_store/clubpilates/CLUB_PILATES_ibaraki.json"
+        },
+        {
+          "store_id": "ichikawa",
+          "store": "CLUB PILATES ichikawa",
+          "region": "関東",
+          "lesson_count": 54,
+          "path": "by_store/clubpilates/CLUB_PILATES_ichikawa.json"
+        },
+        {
+          "store_id": "kagurazaka",
+          "store": "CLUB PILATES kagurazaka",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/clubpilates/CLUB_PILATES_kagurazaka.json"
+        },
+        {
+          "store_id": "kamata",
+          "store": "CLUB PILATES kamata",
+          "region": "関東",
+          "lesson_count": 61,
+          "path": "by_store/clubpilates/CLUB_PILATES_kamata.json"
+        },
+        {
+          "store_id": "karasumaoike",
+          "store": "CLUB PILATES karasumaoike",
+          "region": "近畿",
+          "lesson_count": 53,
+          "path": "by_store/clubpilates/CLUB_PILATES_karasumaoike.json"
+        },
+        {
+          "store_id": "kashiihama",
+          "store": "CLUB PILATES kashiihama",
+          "region": "九州・沖縄",
+          "lesson_count": 53,
+          "path": "by_store/clubpilates/CLUB_PILATES_kashiihama.json"
+        },
+        {
+          "store_id": "kawasaki",
+          "store": "CLUB PILATES kawasaki",
+          "region": "関東",
+          "lesson_count": 67,
+          "path": "by_store/clubpilates/CLUB_PILATES_kawasaki.json"
+        },
+        {
+          "store_id": "kichijoji",
+          "store": "CLUB PILATES kichijoji",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/clubpilates/CLUB_PILATES_kichijoji.json"
+        },
+        {
+          "store_id": "kitayobancho",
+          "store": "CLUB PILATES kitayobancho",
+          "region": "北海道・東北",
+          "lesson_count": 48,
+          "path": "by_store/clubpilates/CLUB_PILATES_kitayobancho.json"
+        },
+        {
+          "store_id": "kiyosumishirakawa",
+          "store": "CLUB PILATES kiyosumishirakawa",
+          "region": "関東",
+          "lesson_count": 66,
+          "path": "by_store/clubpilates/CLUB_PILATES_kiyosumishirakawa.json"
+        },
+        {
+          "store_id": "koenji",
+          "store": "CLUB PILATES koenji",
+          "region": "関東",
+          "lesson_count": 9,
+          "path": "by_store/clubpilates/CLUB_PILATES_koenji.json"
+        },
+        {
+          "store_id": "koriyama",
+          "store": "CLUB PILATES koriyama",
+          "region": "北海道・東北",
+          "lesson_count": 54,
+          "path": "by_store/clubpilates/CLUB_PILATES_koriyama.json"
+        },
+        {
+          "store_id": "kumamotoekimae",
+          "store": "CLUB PILATES kumamotoekimae",
+          "region": "九州・沖縄",
+          "lesson_count": 61,
+          "path": "by_store/clubpilates/CLUB_PILATES_kumamotoekimae.json"
+        },
+        {
+          "store_id": "machiya",
+          "store": "CLUB PILATES machiya",
+          "region": "関東",
+          "lesson_count": 67,
+          "path": "by_store/clubpilates/CLUB_PILATES_machiya.json"
+        },
+        {
+          "store_id": "mejiro",
+          "store": "CLUB PILATES mejiro",
+          "region": "関東",
+          "lesson_count": 74,
+          "path": "by_store/clubpilates/CLUB_PILATES_mejiro.json"
+        },
+        {
+          "store_id": "minamimorimachi",
+          "store": "CLUB PILATES minamimorimachi",
+          "region": "近畿",
+          "lesson_count": 73,
+          "path": "by_store/clubpilates/CLUB_PILATES_minamimorimachi.json"
+        },
+        {
+          "store_id": "minatomirai",
+          "store": "CLUB PILATES minatomirai",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/clubpilates/CLUB_PILATES_minatomirai.json"
+        },
+        {
+          "store_id": "miyamaedaira",
+          "store": "CLUB PILATES miyamaedaira",
+          "region": "関東",
+          "lesson_count": 62,
+          "path": "by_store/clubpilates/CLUB_PILATES_miyamaedaira.json"
+        },
+        {
+          "store_id": "mizonokuchi",
+          "store": "CLUB PILATES mizonokuchi",
+          "region": "関東",
+          "lesson_count": 51,
+          "path": "by_store/clubpilates/CLUB_PILATES_mizonokuchi.json"
+        },
+        {
+          "store_id": "mukogaokayuen",
+          "store": "CLUB PILATES mukogaokayuen",
+          "region": "関東",
+          "lesson_count": 68,
+          "path": "by_store/clubpilates/CLUB_PILATES_mukogaokayuen.json"
+        },
+        {
+          "store_id": "musashikoganei",
+          "store": "CLUB PILATES musashikoganei",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/clubpilates/CLUB_PILATES_musashikoganei.json"
+        },
+        {
+          "store_id": "musashikosugi",
+          "store": "CLUB PILATES musashikosugi",
+          "region": "関東",
+          "lesson_count": 61,
+          "path": "by_store/clubpilates/CLUB_PILATES_musashikosugi.json"
+        },
+        {
+          "store_id": "musashisakai",
+          "store": "CLUB PILATES musashisakai",
+          "region": "関東",
+          "lesson_count": 62,
+          "path": "by_store/clubpilates/CLUB_PILATES_musashisakai.json"
+        },
+        {
+          "store_id": "naha",
+          "store": "CLUB PILATES naha",
+          "region": "九州・沖縄",
+          "lesson_count": 80,
+          "path": "by_store/clubpilates/CLUB_PILATES_naha.json"
+        },
+        {
+          "store_id": "nakanosakaue",
+          "store": "CLUB PILATES nakanosakaue",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/clubpilates/CLUB_PILATES_nakanosakaue.json"
+        },
+        {
+          "store_id": "nerima",
+          "store": "CLUB PILATES nerima",
+          "region": "関東",
+          "lesson_count": 6,
+          "path": "by_store/clubpilates/CLUB_PILATES_nerima.json"
+        },
+        {
+          "store_id": "nishikasai",
+          "store": "CLUB PILATES nishikasai",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/clubpilates/CLUB_PILATES_nishikasai.json"
+        },
+        {
+          "store_id": "nishinomiyakitaguchi",
+          "store": "CLUB PILATES nishinomiyakitaguchi",
+          "region": "近畿",
+          "lesson_count": 52,
+          "path": "by_store/clubpilates/CLUB_PILATES_nishinomiyakitaguchi.json"
+        },
+        {
+          "store_id": "nishishinjuku",
+          "store": "CLUB PILATES nishishinjuku",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/clubpilates/CLUB_PILATES_nishishinjuku.json"
+        },
+        {
+          "store_id": "okayama",
+          "store": "CLUB PILATES okayama",
+          "region": "中国・四国",
+          "lesson_count": 6,
+          "path": "by_store/clubpilates/CLUB_PILATES_okayama.json"
+        },
+        {
+          "store_id": "ootakanomori",
+          "store": "CLUB PILATES ootakanomori",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/clubpilates/CLUB_PILATES_ootakanomori.json"
+        },
+        {
+          "store_id": "osakajokoen",
+          "store": "CLUB PILATES osakajokoen",
+          "region": "近畿",
+          "lesson_count": 64,
+          "path": "by_store/clubpilates/CLUB_PILATES_osakajokoen.json"
+        },
+        {
+          "store_id": "osakauehommachi",
+          "store": "CLUB PILATES osakauehommachi",
+          "region": "近畿",
+          "lesson_count": 66,
+          "path": "by_store/clubpilates/CLUB_PILATES_osakauehommachi.json"
+        },
+        {
+          "store_id": "oyama",
+          "store": "CLUB PILATES oyama",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/clubpilates/CLUB_PILATES_oyama.json"
+        },
+        {
+          "store_id": "sagamiono",
+          "store": "CLUB PILATES sagamiono",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/clubpilates/CLUB_PILATES_sagamiono.json"
+        },
+        {
+          "store_id": "saiin",
+          "store": "CLUB PILATES saiin",
+          "region": "近畿",
+          "lesson_count": 49,
+          "path": "by_store/clubpilates/CLUB_PILATES_saiin.json"
+        },
+        {
+          "store_id": "sangenjaya",
+          "store": "CLUB PILATES sangenjaya",
+          "region": "関東",
+          "lesson_count": 54,
+          "path": "by_store/clubpilates/CLUB_PILATES_sangenjaya.json"
+        },
+        {
+          "store_id": "sasazuka",
+          "store": "CLUB PILATES sasazuka",
+          "region": "関東",
+          "lesson_count": 67,
+          "path": "by_store/clubpilates/CLUB_PILATES_sasazuka.json"
+        },
+        {
+          "store_id": "seijogakuen",
+          "store": "CLUB PILATES seijogakuen",
+          "region": "関東",
+          "lesson_count": 60,
+          "path": "by_store/clubpilates/CLUB_PILATES_seijogakuen.json"
+        },
+        {
+          "store_id": "selvaterraceizumichuo",
+          "store": "CLUB PILATES selvaterraceizumichuo",
+          "region": "北海道・東北",
+          "lesson_count": 45,
+          "path": "by_store/clubpilates/CLUB_PILATES_selvaterraceizumichuo.json"
+        },
+        {
+          "store_id": "sendainagamachi",
+          "store": "CLUB PILATES sendainagamachi",
+          "region": "北海道・東北",
+          "lesson_count": 67,
+          "path": "by_store/clubpilates/CLUB_PILATES_sendainagamachi.json"
+        },
+        {
+          "store_id": "sengawa",
+          "store": "CLUB PILATES sengawa",
+          "region": "関東",
+          "lesson_count": 71,
+          "path": "by_store/clubpilates/CLUB_PILATES_sengawa.json"
+        },
+        {
+          "store_id": "shinagawaseaside",
+          "store": "CLUB PILATES shinagawaseaside",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/clubpilates/CLUB_PILATES_shinagawaseaside.json"
+        },
+        {
+          "store_id": "sugamo",
+          "store": "CLUB PILATES sugamo",
+          "region": "関東",
+          "lesson_count": 62,
+          "path": "by_store/clubpilates/CLUB_PILATES_sugamo.json"
+        },
+        {
+          "store_id": "tamachi",
+          "store": "CLUB PILATES tamachi",
+          "region": "関東",
+          "lesson_count": 52,
+          "path": "by_store/clubpilates/CLUB_PILATES_tamachi.json"
+        },
+        {
+          "store_id": "tanashi",
+          "store": "CLUB PILATES tanashi",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/clubpilates/CLUB_PILATES_tanashi.json"
+        },
+        {
+          "store_id": "tokorozawa",
+          "store": "CLUB PILATES tokorozawa",
+          "region": "関東",
+          "lesson_count": 62,
+          "path": "by_store/clubpilates/CLUB_PILATES_tokorozawa.json"
+        },
+        {
+          "store_id": "toyosu",
+          "store": "CLUB PILATES toyosu",
+          "region": "関東",
+          "lesson_count": 72,
+          "path": "by_store/clubpilates/CLUB_PILATES_toyosu.json"
+        },
+        {
+          "store_id": "tsujido",
+          "store": "CLUB PILATES tsujido",
+          "region": "関東",
+          "lesson_count": 62,
+          "path": "by_store/clubpilates/CLUB_PILATES_tsujido.json"
+        },
+        {
+          "store_id": "tsukuba",
+          "store": "CLUB PILATES tsukuba",
+          "region": "関東",
+          "lesson_count": 60,
+          "path": "by_store/clubpilates/CLUB_PILATES_tsukuba.json"
+        },
+        {
+          "store_id": "urawa",
+          "store": "CLUB PILATES urawa",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/clubpilates/CLUB_PILATES_urawa.json"
+        },
+        {
+          "store_id": "utsunomiya",
+          "store": "CLUB PILATES utsunomiya",
+          "region": "関東",
+          "lesson_count": 57,
+          "path": "by_store/clubpilates/CLUB_PILATES_utsunomiya.json"
+        },
+        {
+          "store_id": "yashio",
+          "store": "CLUB PILATES yashio",
+          "region": "関東",
+          "lesson_count": 61,
+          "path": "by_store/clubpilates/CLUB_PILATES_yashio.json"
+        },
+        {
+          "store_id": "yebisugardenplace",
+          "store": "CLUB PILATES yebisugardenplace",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/clubpilates/CLUB_PILATES_yebisugardenplace.json"
+        },
+        {
+          "store_id": "yoga",
+          "store": "CLUB PILATES yoga",
+          "region": "関東",
+          "lesson_count": 67,
+          "path": "by_store/clubpilates/CLUB_PILATES_yoga.json"
+        },
+        {
+          "store_id": "yokohama",
+          "store": "CLUB PILATES yokohama",
+          "region": "関東",
+          "lesson_count": 64,
+          "path": "by_store/clubpilates/CLUB_PILATES_yokohama.json"
+        },
+        {
+          "store_id": "yukigayaotsuka",
+          "store": "CLUB PILATES yukigayaotsuka",
+          "region": "関東",
+          "lesson_count": 62,
+          "path": "by_store/clubpilates/CLUB_PILATES_yukigayaotsuka.json"
+        }
+      ]
+    },
+    {
       "gym_id": "cospa",
       "gym": "COSPA（コ・ス・パ）",
       "stores": [
@@ -11138,6 +11683,19 @@
       ]
     },
     {
+      "gym_id": "bunkyo_sc",
+      "gym": "文京スポーツセンター",
+      "stores": [
+        {
+          "store_id": "bunkyo_sc",
+          "store": "文京スポーツセンター",
+          "region": "関東",
+          "lesson_count": 140,
+          "path": "by_store/bunkyo_sc/文京スポーツセンター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "zamrud",
       "gym": "アーバンフィットネスクラブ ザムロッド",
       "stores": [
@@ -11160,6 +11718,162 @@
           "region": "関東",
           "lesson_count": 131,
           "path": "by_store/minato/港区スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "komazawa",
+      "gym": "駒沢オリンピック公園総合運動場",
+      "stores": [
+        {
+          "store_id": "komazawa",
+          "store": "駒沢オリンピック公園総合運動場",
+          "region": "関東",
+          "lesson_count": 106,
+          "path": "by_store/komazawa/駒沢オリンピック公園総合運動場.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "itabashi_sc",
+      "gym": "板橋区立小豆沢体育館",
+      "stores": [
+        {
+          "store_id": "azusawa",
+          "store": "板橋区立小豆沢体育館",
+          "region": "関東",
+          "lesson_count": 99,
+          "path": "by_store/itabashi_sc/板橋区立小豆沢体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "katsushika_sc",
+      "gym": "奥戸総合スポーツセンター",
+      "stores": [
+        {
+          "store_id": "okudo",
+          "store": "奥戸総合スポーツセンター",
+          "region": "関東",
+          "lesson_count": 78,
+          "path": "by_store/katsushika_sc/奥戸総合スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "ywcawow",
+      "gym": "東京YWCA フィットネスワオ",
+      "stores": [
+        {
+          "store_id": "ywca_wow",
+          "store": "東京YWCA フィットネスワオ（女性専用）",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/ywcawow/東京YWCA_フィットネスワオ（女性専用）.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "shibuya_sc",
+      "gym": "渋谷区スポーツセンター",
+      "stores": [
+        {
+          "store_id": "shibuya_sc",
+          "store": "渋谷区スポーツセンター",
+          "region": "関東",
+          "lesson_count": 61,
+          "path": "by_store/shibuya_sc/渋谷区スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "toritaiku",
+      "gym": "東京体育館",
+      "stores": [
+        {
+          "store_id": "tokyo_taiikukan",
+          "store": "東京体育館",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/toritaiku/東京体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "budokan",
+      "gym": "東京武道館",
+      "stores": [
+        {
+          "store_id": "tokyo_budokan",
+          "store": "東京武道館",
+          "region": "関東",
+          "lesson_count": 40,
+          "path": "by_store/budokan/東京武道館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "meguro_sc",
+      "gym": "目黒区民センター体育館",
+      "stores": [
+        {
+          "store_id": "meguro_sc",
+          "store": "目黒区民センター体育館",
+          "region": "関東",
+          "lesson_count": 35,
+          "path": "by_store/meguro_sc/目黒区民センター体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sumida_sc",
+      "gym": "墨田区総合体育館（ひがしんアリーナ）",
+      "stores": [
+        {
+          "store_id": "sumida_gym",
+          "store": "墨田区総合体育館（ひがしんアリーナ）",
+          "region": "関東",
+          "lesson_count": 28,
+          "path": "by_store/sumida_sc/墨田区総合体育館（ひがしんアリーナ）.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "nerima_sc",
+      "gym": "練馬区立中村南スポーツ交流センター",
+      "stores": [
+        {
+          "store_id": "nakamuraminami",
+          "store": "練馬区立中村南スポーツ交流センター",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/nerima_sc/練馬区立中村南スポーツ交流センター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "chiyoda_sc",
+      "gym": "千代田区立スポーツセンター",
+      "stores": [
+        {
+          "store_id": "chiyoda_sc",
+          "store": "千代田区立スポーツセンター",
+          "region": "関東",
+          "lesson_count": 23,
+          "path": "by_store/chiyoda_sc/千代田区立スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "esfortaota",
+      "gym": "Ebara Waveアリーナおおた（大田区総合体育館）",
+      "stores": [
+        {
+          "store_id": "ebara_wave_ota",
+          "store": "Ebara Waveアリーナおおた（大田区総合体育館）",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/esfortaota/Ebara_Waveアリーナおおた（大田区総合体育館）.json"
         }
       ]
     },
