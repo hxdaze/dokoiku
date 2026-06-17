@@ -17,7 +17,7 @@
     "note"
   ],
   "gym_count": 45,
-  "store_count": 1664,
+  "store_count": 1666,
   "gyms": [
     {
       "gym_id": "lava",
@@ -11520,6 +11520,47 @@
       ]
     },
     {
+      "gym_id": "loive",
+      "gym": "ホットヨガスタジオ loIve（ロイブ）",
+      "stores": [
+        {
+          "store_id": "aeon-kamisato",
+          "store": "loIve aeon-kamisato",
+          "region": "関東",
+          "lesson_count": 186,
+          "path": "by_store/loive/loIve_aeon-kamisato.json"
+        },
+        {
+          "store_id": "aeon-mizushima",
+          "store": "loIve aeon-mizushima",
+          "region": "中国・四国",
+          "lesson_count": 207,
+          "path": "by_store/loive/loIve_aeon-mizushima.json"
+        },
+        {
+          "store_id": "akita",
+          "store": "loIve akita",
+          "region": "北海道・東北",
+          "lesson_count": 208,
+          "path": "by_store/loive/loIve_akita.json"
+        },
+        {
+          "store_id": "asahikawa",
+          "store": "loIve asahikawa",
+          "region": "北海道・東北",
+          "lesson_count": 207,
+          "path": "by_store/loive/loIve_asahikawa.json"
+        },
+        {
+          "store_id": "frespo-tosu",
+          "store": "loIve frespo-tosu",
+          "region": "九州・沖縄",
+          "lesson_count": 53,
+          "path": "by_store/loive/loIve_frespo-tosu.json"
+        }
+      ]
+    },
+    {
       "gym_id": "aim",
       "gym": "フィットネスクラブ AIM（エイム）",
       "stores": [
@@ -11612,33 +11653,6 @@
           "region": "関東",
           "lesson_count": 135,
           "path": "by_store/atrio/アトリオドゥーエNextたまプラーザ.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "loive",
-      "gym": "ホットヨガスタジオ loIve（ロイブ）",
-      "stores": [
-        {
-          "store_id": "aeon-kamisato",
-          "store": "loIve aeon-kamisato",
-          "region": "関東",
-          "lesson_count": 186,
-          "path": "by_store/loive/loIve_aeon-kamisato.json"
-        },
-        {
-          "store_id": "aeon-mizushima",
-          "store": "loIve aeon-mizushima",
-          "region": "中国・四国",
-          "lesson_count": 207,
-          "path": "by_store/loive/loIve_aeon-mizushima.json"
-        },
-        {
-          "store_id": "akita",
-          "store": "loIve akita",
-          "region": "北海道・東北",
-          "lesson_count": 208,
-          "path": "by_store/loive/loIve_akita.json"
         }
       ]
     },
