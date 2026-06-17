@@ -1,0 +1,18 @@
+[
+  {
+    "gym_id": "mahya",
+    "store_id": "sugamo",
+    "store": "巣鴨Class（スタジオ BOOM!!!）",
+    "region": "関東",
+    "day": "木",
+    "start": "13:20",
+    "end": "14:25",
+    "class_name": "ZUMBA",
+    "category": "ZUMBA",
+    "instructor": "Mahya",
+    "studio": "スタジオ BOOM!!!",
+    "reservation_required": true,
+    "genre": null,
+    "note": "13:00 OPEN/13:20 START・約65分・予約制・毎週木曜"
+  }
+]

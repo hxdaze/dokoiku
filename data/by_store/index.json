@@ -16,8 +16,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 20,
-  "store_count": 1201,
+  "gym_count": 28,
+  "store_count": 1496,
   "gyms": [
     {
       "gym_id": "lava",
@@ -6614,6 +6614,858 @@
       ]
     },
     {
+      "gym_id": "holiday",
+      "gym": "ホリデイスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "001-mikawaanjo",
+          "store": "三河安城店",
+          "region": "中部・北陸",
+          "lesson_count": 107,
+          "path": "by_store/holiday/三河安城店.json"
+        },
+        {
+          "store_id": "002-kariyachiryu",
+          "store": "刈谷知立店",
+          "region": "中部・北陸",
+          "lesson_count": 48,
+          "path": "by_store/holiday/刈谷知立店.json"
+        },
+        {
+          "store_id": "003-ichinomiya",
+          "store": "一宮店",
+          "region": "中部・北陸",
+          "lesson_count": 54,
+          "path": "by_store/holiday/一宮店.json"
+        },
+        {
+          "store_id": "004-toyohashi",
+          "store": "豊橋店",
+          "region": "中部・北陸",
+          "lesson_count": 66,
+          "path": "by_store/holiday/豊橋店.json"
+        },
+        {
+          "store_id": "006-nara",
+          "store": "奈良店",
+          "region": "近畿",
+          "lesson_count": 60,
+          "path": "by_store/holiday/奈良店.json"
+        },
+        {
+          "store_id": "007-suzuka",
+          "store": "鈴鹿店",
+          "region": "近畿",
+          "lesson_count": 69,
+          "path": "by_store/holiday/鈴鹿店.json"
+        },
+        {
+          "store_id": "008-matsuyama",
+          "store": "松山店",
+          "region": "中国・四国",
+          "lesson_count": 68,
+          "path": "by_store/holiday/松山店.json"
+        },
+        {
+          "store_id": "009-numazu",
+          "store": "沼津店",
+          "region": "中部・北陸",
+          "lesson_count": 60,
+          "path": "by_store/holiday/沼津店.json"
+        },
+        {
+          "store_id": "010-yokkaichi",
+          "store": "四日市店",
+          "region": "近畿",
+          "lesson_count": 59,
+          "path": "by_store/holiday/四日市店.json"
+        },
+        {
+          "store_id": "011-matsumoto",
+          "store": "松本店",
+          "region": "中部・北陸",
+          "lesson_count": 61,
+          "path": "by_store/holiday/松本店.json"
+        },
+        {
+          "store_id": "012-hamamatsu",
+          "store": "浜松店",
+          "region": "中部・北陸",
+          "lesson_count": 67,
+          "path": "by_store/holiday/浜松店.json"
+        },
+        {
+          "store_id": "013-saga",
+          "store": "佐賀店",
+          "region": "九州・沖縄",
+          "lesson_count": 73,
+          "path": "by_store/holiday/佐賀店.json"
+        },
+        {
+          "store_id": "014-isesaki",
+          "store": "伊勢崎店",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/holiday/伊勢崎店.json"
+        },
+        {
+          "store_id": "015-toyama",
+          "store": "富山店",
+          "region": "中部・北陸",
+          "lesson_count": 85,
+          "path": "by_store/holiday/富山店.json"
+        },
+        {
+          "store_id": "016-kofu",
+          "store": "甲府店",
+          "region": "中部・北陸",
+          "lesson_count": 67,
+          "path": "by_store/holiday/甲府店.json"
+        },
+        {
+          "store_id": "017-fukuyama",
+          "store": "福山店",
+          "region": "中国・四国",
+          "lesson_count": 63,
+          "path": "by_store/holiday/福山店.json"
+        },
+        {
+          "store_id": "019-kanazawa",
+          "store": "金沢店",
+          "region": "中部・北陸",
+          "lesson_count": 70,
+          "path": "by_store/holiday/金沢店.json"
+        },
+        {
+          "store_id": "020-takaoka",
+          "store": "高岡店",
+          "region": "中部・北陸",
+          "lesson_count": 56,
+          "path": "by_store/holiday/高岡店.json"
+        },
+        {
+          "store_id": "021-izumiotsu",
+          "store": "泉大津店",
+          "region": "近畿",
+          "lesson_count": 48,
+          "path": "by_store/holiday/泉大津店.json"
+        },
+        {
+          "store_id": "022-umebayashi",
+          "store": "福岡梅林店",
+          "region": "九州・沖縄",
+          "lesson_count": 79,
+          "path": "by_store/holiday/福岡梅林店.json"
+        },
+        {
+          "store_id": "023-takasaki",
+          "store": "高崎店",
+          "region": "関東",
+          "lesson_count": 63,
+          "path": "by_store/holiday/高崎店.json"
+        },
+        {
+          "store_id": "024-bentenbashi",
+          "store": "新潟弁天橋店",
+          "region": "中部・北陸",
+          "lesson_count": 60,
+          "path": "by_store/holiday/新潟弁天橋店.json"
+        },
+        {
+          "store_id": "026-kumamotokita",
+          "store": "熊本北店",
+          "region": "九州・沖縄",
+          "lesson_count": 53,
+          "path": "by_store/holiday/熊本北店.json"
+        },
+        {
+          "store_id": "027-oita",
+          "store": "大分店",
+          "region": "九州・沖縄",
+          "lesson_count": 126,
+          "path": "by_store/holiday/大分店.json"
+        },
+        {
+          "store_id": "030-yahatanishi",
+          "store": "八幡西店",
+          "region": "九州・沖縄",
+          "lesson_count": 85,
+          "path": "by_store/holiday/八幡西店.json"
+        },
+        {
+          "store_id": "031-hakodate",
+          "store": "函館店",
+          "region": "北海道・東北",
+          "lesson_count": 79,
+          "path": "by_store/holiday/函館店.json"
+        },
+        {
+          "store_id": "032-maebashi",
+          "store": "前橋店",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/holiday/前橋店.json"
+        },
+        {
+          "store_id": "034-omuta",
+          "store": "大牟田店",
+          "region": "九州・沖縄",
+          "lesson_count": 60,
+          "path": "by_store/holiday/大牟田店.json"
+        },
+        {
+          "store_id": "036-utsunomiya",
+          "store": "宇都宮店",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/holiday/宇都宮店.json"
+        },
+        {
+          "store_id": "037-nagano",
+          "store": "長野店",
+          "region": "中部・北陸",
+          "lesson_count": 65,
+          "path": "by_store/holiday/長野店.json"
+        },
+        {
+          "store_id": "038-asahikawa",
+          "store": "旭川店",
+          "region": "北海道・東北",
+          "lesson_count": 115,
+          "path": "by_store/holiday/旭川店.json"
+        },
+        {
+          "store_id": "039-kiyota",
+          "store": "札幌清田店",
+          "region": "北海道・東北",
+          "lesson_count": 69,
+          "path": "by_store/holiday/札幌清田店.json"
+        },
+        {
+          "store_id": "040-akita",
+          "store": "秋田店",
+          "region": "北海道・東北",
+          "lesson_count": 43,
+          "path": "by_store/holiday/秋田店.json"
+        },
+        {
+          "store_id": "041-narumi",
+          "store": "名古屋鳴海店",
+          "region": "中部・北陸",
+          "lesson_count": 70,
+          "path": "by_store/holiday/名古屋鳴海店.json"
+        },
+        {
+          "store_id": "042-nagaoka",
+          "store": "長岡店",
+          "region": "中部・北陸",
+          "lesson_count": 55,
+          "path": "by_store/holiday/長岡店.json"
+        },
+        {
+          "store_id": "043-ota",
+          "store": "太田店",
+          "region": "関東",
+          "lesson_count": 50,
+          "path": "by_store/holiday/太田店.json"
+        },
+        {
+          "store_id": "044-kita24",
+          "store": "札幌北24条店",
+          "region": "北海道・東北",
+          "lesson_count": 69,
+          "path": "by_store/holiday/札幌北24条店.json"
+        },
+        {
+          "store_id": "045-tomakomai",
+          "store": "苫小牧店",
+          "region": "北海道・東北",
+          "lesson_count": 48,
+          "path": "by_store/holiday/苫小牧店.json"
+        },
+        {
+          "store_id": "046-izumo",
+          "store": "出雲店",
+          "region": "中国・四国",
+          "lesson_count": 65,
+          "path": "by_store/holiday/出雲店.json"
+        },
+        {
+          "store_id": "047-ueda",
+          "store": "上田店",
+          "region": "中部・北陸",
+          "lesson_count": 127,
+          "path": "by_store/holiday/上田店.json"
+        },
+        {
+          "store_id": "048-yonago",
+          "store": "米子店",
+          "region": "中国・四国",
+          "lesson_count": 48,
+          "path": "by_store/holiday/米子店.json"
+        },
+        {
+          "store_id": "049-funabashi",
+          "store": "船橋日大前店",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/holiday/船橋日大前店.json"
+        },
+        {
+          "store_id": "050-nisshin",
+          "store": "日進長久手店",
+          "region": "中部・北陸",
+          "lesson_count": 64,
+          "path": "by_store/holiday/日進長久手店.json"
+        },
+        {
+          "store_id": "052-ebina",
+          "store": "海老名かしわ台店",
+          "region": "関東",
+          "lesson_count": 71,
+          "path": "by_store/holiday/海老名かしわ台店.json"
+        },
+        {
+          "store_id": "053-kodaira",
+          "store": "小平店",
+          "region": "関東",
+          "lesson_count": 75,
+          "path": "by_store/holiday/小平店.json"
+        },
+        {
+          "store_id": "054-higashiosaka",
+          "store": "東大阪店",
+          "region": "近畿",
+          "lesson_count": 66,
+          "path": "by_store/holiday/東大阪店.json"
+        },
+        {
+          "store_id": "055-morioka",
+          "store": "盛岡店",
+          "region": "北海道・東北",
+          "lesson_count": 62,
+          "path": "by_store/holiday/盛岡店.json"
+        },
+        {
+          "store_id": "056-ichiharagoi",
+          "store": "市原五井店",
+          "region": "関東",
+          "lesson_count": 57,
+          "path": "by_store/holiday/市原五井店.json"
+        },
+        {
+          "store_id": "057-neyagawa",
+          "store": "寝屋川店",
+          "region": "近畿",
+          "lesson_count": 108,
+          "path": "by_store/holiday/寝屋川店.json"
+        },
+        {
+          "store_id": "058-okegawa",
+          "store": "桶川店",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/holiday/桶川店.json"
+        },
+        {
+          "store_id": "059-kusatsu",
+          "store": "草津店",
+          "region": "近畿",
+          "lesson_count": 76,
+          "path": "by_store/holiday/草津店.json"
+        },
+        {
+          "store_id": "060-shimizu",
+          "store": "清水店",
+          "region": "中部・北陸",
+          "lesson_count": 79,
+          "path": "by_store/holiday/清水店.json"
+        },
+        {
+          "store_id": "061-fukaya",
+          "store": "深谷店",
+          "region": "関東",
+          "lesson_count": 52,
+          "path": "by_store/holiday/深谷店.json"
+        },
+        {
+          "store_id": "062-fuji",
+          "store": "富士店",
+          "region": "中部・北陸",
+          "lesson_count": 98,
+          "path": "by_store/holiday/富士店.json"
+        },
+        {
+          "store_id": "063-hirano",
+          "store": "平野店",
+          "region": "近畿",
+          "lesson_count": 44,
+          "path": "by_store/holiday/平野店.json"
+        },
+        {
+          "store_id": "064-sagamihara",
+          "store": "相模原店",
+          "region": "関東",
+          "lesson_count": 83,
+          "path": "by_store/holiday/相模原店.json"
+        },
+        {
+          "store_id": "065-ogaki",
+          "store": "大垣店",
+          "region": "中部・北陸",
+          "lesson_count": 53,
+          "path": "by_store/holiday/大垣店.json"
+        },
+        {
+          "store_id": "066-toyokawa",
+          "store": "豊川店",
+          "region": "中部・北陸",
+          "lesson_count": 59,
+          "path": "by_store/holiday/豊川店.json"
+        },
+        {
+          "store_id": "067-himeji",
+          "store": "姫路店",
+          "region": "近畿",
+          "lesson_count": 67,
+          "path": "by_store/holiday/姫路店.json"
+        },
+        {
+          "store_id": "068-mukonoso",
+          "store": "武庫之荘店",
+          "region": "近畿",
+          "lesson_count": 74,
+          "path": "by_store/holiday/武庫之荘店.json"
+        },
+        {
+          "store_id": "069-soka",
+          "store": "草加店",
+          "region": "関東",
+          "lesson_count": 77,
+          "path": "by_store/holiday/草加店.json"
+        },
+        {
+          "store_id": "070-fujinomiya",
+          "store": "富士宮店",
+          "region": "中部・北陸",
+          "lesson_count": 64,
+          "path": "by_store/holiday/富士宮店.json"
+        },
+        {
+          "store_id": "071-owariasahi",
+          "store": "尾張旭店",
+          "region": "中部・北陸",
+          "lesson_count": 120,
+          "path": "by_store/holiday/尾張旭店.json"
+        },
+        {
+          "store_id": "073-miyazaki",
+          "store": "宮崎店",
+          "region": "九州・沖縄",
+          "lesson_count": 92,
+          "path": "by_store/holiday/宮崎店.json"
+        },
+        {
+          "store_id": "074-chibachuo",
+          "store": "千葉中央店",
+          "region": "関東",
+          "lesson_count": 57,
+          "path": "by_store/holiday/千葉中央店.json"
+        },
+        {
+          "store_id": "075-yaizu",
+          "store": "焼津店",
+          "region": "中部・北陸",
+          "lesson_count": 60,
+          "path": "by_store/holiday/焼津店.json"
+        },
+        {
+          "store_id": "076-kisarazu",
+          "store": "木更津店",
+          "region": "関東",
+          "lesson_count": 63,
+          "path": "by_store/holiday/木更津店.json"
+        },
+        {
+          "store_id": "077-yamatotakada",
+          "store": "大和高田店",
+          "region": "近畿",
+          "lesson_count": 74,
+          "path": "by_store/holiday/大和高田店.json"
+        },
+        {
+          "store_id": "078-wakayama",
+          "store": "和歌山店",
+          "region": "近畿",
+          "lesson_count": 68,
+          "path": "by_store/holiday/和歌山店.json"
+        },
+        {
+          "store_id": "079-gifu",
+          "store": "岐阜店",
+          "region": "中部・北陸",
+          "lesson_count": 75,
+          "path": "by_store/holiday/岐阜店.json"
+        },
+        {
+          "store_id": "080-fukuokakoga",
+          "store": "福岡古賀店",
+          "region": "九州・沖縄",
+          "lesson_count": 111,
+          "path": "by_store/holiday/福岡古賀店.json"
+        },
+        {
+          "store_id": "081-shinhassamu",
+          "store": "札幌新発寒店",
+          "region": "北海道・東北",
+          "lesson_count": 90,
+          "path": "by_store/holiday/札幌新発寒店.json"
+        },
+        {
+          "store_id": "082-higashisapporo",
+          "store": "東札幌店",
+          "region": "北海道・東北",
+          "lesson_count": 63,
+          "path": "by_store/holiday/東札幌店.json"
+        },
+        {
+          "store_id": "083-okazaki",
+          "store": "岡崎店",
+          "region": "中部・北陸",
+          "lesson_count": 134,
+          "path": "by_store/holiday/岡崎店.json"
+        },
+        {
+          "store_id": "084-tottori",
+          "store": "鳥取店",
+          "region": "中国・四国",
+          "lesson_count": 57,
+          "path": "by_store/holiday/鳥取店.json"
+        },
+        {
+          "store_id": "085-kokuraminami",
+          "store": "小倉南店",
+          "region": "九州・沖縄",
+          "lesson_count": 79,
+          "path": "by_store/holiday/小倉南店.json"
+        },
+        {
+          "store_id": "086-koga",
+          "store": "古河店",
+          "region": "関東",
+          "lesson_count": 69,
+          "path": "by_store/holiday/古河店.json"
+        },
+        {
+          "store_id": "087-kochi",
+          "store": "高知店",
+          "region": "中国・四国",
+          "lesson_count": 86,
+          "path": "by_store/holiday/高知店.json"
+        },
+        {
+          "store_id": "088-shimonoseki",
+          "store": "下関店",
+          "region": "中国・四国",
+          "lesson_count": 62,
+          "path": "by_store/holiday/下関店.json"
+        },
+        {
+          "store_id": "089-fukuokahigashi",
+          "store": "福岡東店",
+          "region": "九州・沖縄",
+          "lesson_count": 57,
+          "path": "by_store/holiday/福岡東店.json"
+        },
+        {
+          "store_id": "091-nagoyanakagawa",
+          "store": "名古屋中川店",
+          "region": "中部・北陸",
+          "lesson_count": 69,
+          "path": "by_store/holiday/名古屋中川店.json"
+        },
+        {
+          "store_id": "092-matsue",
+          "store": "松江店",
+          "region": "中国・四国",
+          "lesson_count": 47,
+          "path": "by_store/holiday/松江店.json"
+        },
+        {
+          "store_id": "093-iwata",
+          "store": "磐田店",
+          "region": "中部・北陸",
+          "lesson_count": 57,
+          "path": "by_store/holiday/磐田店.json"
+        },
+        {
+          "store_id": "095-aomori",
+          "store": "青森店",
+          "region": "北海道・東北",
+          "lesson_count": 63,
+          "path": "by_store/holiday/青森店.json"
+        },
+        {
+          "store_id": "096-kirishima",
+          "store": "霧島店",
+          "region": "九州・沖縄",
+          "lesson_count": 44,
+          "path": "by_store/holiday/霧島店.json"
+        },
+        {
+          "store_id": "097-okayama",
+          "store": "岡山店",
+          "region": "中国・四国",
+          "lesson_count": 66,
+          "path": "by_store/holiday/岡山店.json"
+        },
+        {
+          "store_id": "098-kamagaya",
+          "store": "鎌ケ谷店",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/holiday/鎌ケ谷店.json"
+        },
+        {
+          "store_id": "099-komaki",
+          "store": "小牧店",
+          "region": "中部・北陸",
+          "lesson_count": 29,
+          "path": "by_store/holiday/小牧店.json"
+        },
+        {
+          "store_id": "100-hofu",
+          "store": "防府店",
+          "region": "中国・四国",
+          "lesson_count": 57,
+          "path": "by_store/holiday/防府店.json"
+        },
+        {
+          "store_id": "101-kyoto",
+          "store": "京都店",
+          "region": "近畿",
+          "lesson_count": 55,
+          "path": "by_store/holiday/京都店.json"
+        },
+        {
+          "store_id": "102-ube",
+          "store": "宇部店",
+          "region": "中国・四国",
+          "lesson_count": 43,
+          "path": "by_store/holiday/宇部店.json"
+        },
+        {
+          "store_id": "103-handa",
+          "store": "半田店",
+          "region": "中部・北陸",
+          "lesson_count": 56,
+          "path": "by_store/holiday/半田店.json"
+        },
+        {
+          "store_id": "104-higashihiroshima",
+          "store": "東広島店",
+          "region": "中国・四国",
+          "lesson_count": 78,
+          "path": "by_store/holiday/東広島店.json"
+        },
+        {
+          "store_id": "105-higashikishiwada",
+          "store": "東岸和田店",
+          "region": "近畿",
+          "lesson_count": 86,
+          "path": "by_store/holiday/東岸和田店.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "cospa",
+      "gym": "COSPA（コ・ス・パ）",
+      "stores": [
+        {
+          "store_id": "ashiya",
+          "store": "テニスクラブ 芦屋シーサイド",
+          "region": "近畿",
+          "lesson_count": 33,
+          "path": "by_store/cospa/テニスクラブ_芦屋シーサイド.json"
+        },
+        {
+          "store_id": "ayameike",
+          "store": "テニスクラブ あやめ池",
+          "region": "近畿",
+          "lesson_count": 8,
+          "path": "by_store/cospa/テニスクラブ_あやめ池.json"
+        },
+        {
+          "store_id": "fujiidera",
+          "store": "藤井寺",
+          "region": "近畿",
+          "lesson_count": 182,
+          "path": "by_store/cospa/藤井寺.json"
+        },
+        {
+          "store_id": "fukai",
+          "store": "深井24",
+          "region": "近畿",
+          "lesson_count": 109,
+          "path": "by_store/cospa/深井24.json"
+        },
+        {
+          "store_id": "goido",
+          "store": "五位堂",
+          "region": "近畿",
+          "lesson_count": 144,
+          "path": "by_store/cospa/五位堂.json"
+        },
+        {
+          "store_id": "gotenyama",
+          "store": "テニスクラブ 御殿山",
+          "region": "近畿",
+          "lesson_count": 7,
+          "path": "by_store/cospa/テニスクラブ_御殿山.json"
+        },
+        {
+          "store_id": "kongo",
+          "store": "狭山金剛24",
+          "region": "近畿",
+          "lesson_count": 226,
+          "path": "by_store/cospa/狭山金剛24.json"
+        },
+        {
+          "store_id": "krp",
+          "store": "京都リサーチパーク24",
+          "region": "近畿",
+          "lesson_count": 149,
+          "path": "by_store/cospa/京都リサーチパーク24.json"
+        },
+        {
+          "store_id": "matsubara",
+          "store": "草加松原24",
+          "region": "関東",
+          "lesson_count": 176,
+          "path": "by_store/cospa/草加松原24.json"
+        },
+        {
+          "store_id": "matsuiyamate",
+          "store": "松井山手24",
+          "region": "近畿",
+          "lesson_count": 242,
+          "path": "by_store/cospa/松井山手24.json"
+        },
+        {
+          "store_id": "minoh",
+          "store": "箕面萱野24",
+          "region": "近畿",
+          "lesson_count": 136,
+          "path": "by_store/cospa/箕面萱野24.json"
+        },
+        {
+          "store_id": "momoyamarokujizo",
+          "store": "桃山六地蔵24",
+          "region": "近畿",
+          "lesson_count": 304,
+          "path": "by_store/cospa/桃山六地蔵24.json"
+        },
+        {
+          "store_id": "nagaokakyo",
+          "store": "長岡京",
+          "region": "近畿",
+          "lesson_count": 221,
+          "path": "by_store/cospa/長岡京.json"
+        },
+        {
+          "store_id": "nijo",
+          "store": "二条24",
+          "region": "近畿",
+          "lesson_count": 52,
+          "path": "by_store/cospa/二条24.json"
+        },
+        {
+          "store_id": "oji",
+          "store": "王寺",
+          "region": "近畿",
+          "lesson_count": 105,
+          "path": "by_store/cospa/王寺.json"
+        },
+        {
+          "store_id": "otori",
+          "store": "鳳",
+          "region": "近畿",
+          "lesson_count": 299,
+          "path": "by_store/cospa/鳳.json"
+        },
+        {
+          "store_id": "saidaiji",
+          "store": "西大寺",
+          "region": "近畿",
+          "lesson_count": 218,
+          "path": "by_store/cospa/西大寺.json"
+        },
+        {
+          "store_id": "sakai",
+          "store": "堺",
+          "region": "近畿",
+          "lesson_count": 177,
+          "path": "by_store/cospa/堺.json"
+        },
+        {
+          "store_id": "seishinchuo",
+          "store": "西神中央24",
+          "region": "近畿",
+          "lesson_count": 193,
+          "path": "by_store/cospa/西神中央24.json"
+        },
+        {
+          "store_id": "senritoyomiuri",
+          "store": "SENRITOよみうり",
+          "region": "近畿",
+          "lesson_count": 116,
+          "path": "by_store/cospa/SENRITOよみうり.json"
+        },
+        {
+          "store_id": "suita",
+          "store": "吹田",
+          "region": "近畿",
+          "lesson_count": 314,
+          "path": "by_store/cospa/吹田.json"
+        },
+        {
+          "store_id": "suminodo",
+          "store": "住道",
+          "region": "近畿",
+          "lesson_count": 214,
+          "path": "by_store/cospa/住道.json"
+        },
+        {
+          "store_id": "toyonakashoji",
+          "store": "豊中少路24",
+          "region": "近畿",
+          "lesson_count": 130,
+          "path": "by_store/cospa/豊中少路24.json"
+        },
+        {
+          "store_id": "tsurumiryokuchi",
+          "store": "鶴見緑地24",
+          "region": "近畿",
+          "lesson_count": 234,
+          "path": "by_store/cospa/鶴見緑地24.json"
+        },
+        {
+          "store_id": "yao",
+          "store": "八尾24",
+          "region": "近畿",
+          "lesson_count": 216,
+          "path": "by_store/cospa/八尾24.json"
+        },
+        {
+          "store_id": "yaominami",
+          "store": "テニスクラブ かわち 八尾南校",
+          "region": "近畿",
+          "lesson_count": 18,
+          "path": "by_store/cospa/テニスクラブ_かわち_八尾南校.json"
+        }
+      ]
+    },
+    {
       "gym_id": "jexer",
       "gym": "ジェクサー",
       "stores": [
@@ -7256,6 +8108,201 @@
       ]
     },
     {
+      "gym_id": "axtos",
+      "gym": "スポーツクラブアクトス",
+      "stores": [
+        {
+          "store_id": "aeontown_kisarazujyouzai",
+          "store": "アクトスWill_G イオンタウン木更津請西店",
+          "region": "関東",
+          "lesson_count": 11,
+          "path": "by_store/axtos/アクトスWill_G_イオンタウン木更津請西店.json"
+        },
+        {
+          "store_id": "akanabe",
+          "store": "Will茜部店",
+          "region": "中部・北陸",
+          "lesson_count": 67,
+          "path": "by_store/axtos/Will茜部店.json"
+        },
+        {
+          "store_id": "akashiookura",
+          "store": "アクトス 明石大蔵リゾート店",
+          "region": "近畿",
+          "lesson_count": 141,
+          "path": "by_store/axtos/アクトス_明石大蔵リゾート店.json"
+        },
+        {
+          "store_id": "akashiuozumi",
+          "store": "アクトス 明石魚住店",
+          "region": "近畿",
+          "lesson_count": 184,
+          "path": "by_store/axtos/アクトス_明石魚住店.json"
+        },
+        {
+          "store_id": "amagasaki",
+          "store": "Willアマドゥ店",
+          "region": "近畿",
+          "lesson_count": 100,
+          "path": "by_store/axtos/Willアマドゥ店.json"
+        },
+        {
+          "store_id": "anjyo",
+          "store": "アクトス 安城店",
+          "region": "中部・北陸",
+          "lesson_count": 63,
+          "path": "by_store/axtos/アクトス_安城店.json"
+        },
+        {
+          "store_id": "ashiya",
+          "store": "アクトス 芦屋リゾート店",
+          "region": "近畿",
+          "lesson_count": 166,
+          "path": "by_store/axtos/アクトス_芦屋リゾート店.json"
+        },
+        {
+          "store_id": "ena",
+          "store": "アクトス 恵那店",
+          "region": "中部・北陸",
+          "lesson_count": 44,
+          "path": "by_store/axtos/アクトス_恵那店.json"
+        },
+        {
+          "store_id": "fujiwaradai",
+          "store": "アクトス 藤原台店",
+          "region": "近畿",
+          "lesson_count": 113,
+          "path": "by_store/axtos/アクトス_藤原台店.json"
+        },
+        {
+          "store_id": "gifushima",
+          "store": "アクトス 岐阜島店",
+          "region": "中部・北陸",
+          "lesson_count": 89,
+          "path": "by_store/axtos/アクトス_岐阜島店.json"
+        },
+        {
+          "store_id": "hakozaki",
+          "store": "Will箱崎店",
+          "region": "九州・沖縄",
+          "lesson_count": 74,
+          "path": "by_store/axtos/Will箱崎店.json"
+        },
+        {
+          "store_id": "hamamatsu",
+          "store": "アクトス 浜松店",
+          "region": "中部・北陸",
+          "lesson_count": 115,
+          "path": "by_store/axtos/アクトス_浜松店.json"
+        },
+        {
+          "store_id": "hikone",
+          "store": "アクトス 彦根店",
+          "region": "近畿",
+          "lesson_count": 120,
+          "path": "by_store/axtos/アクトス_彦根店.json"
+        },
+        {
+          "store_id": "hiromi",
+          "store": "アクトス 広見店",
+          "region": "中部・北陸",
+          "lesson_count": 95,
+          "path": "by_store/axtos/アクトス_広見店.json"
+        },
+        {
+          "store_id": "ichinomiyanishi",
+          "store": "アクトス 一宮西店",
+          "region": "中部・北陸",
+          "lesson_count": 257,
+          "path": "by_store/axtos/アクトス_一宮西店.json"
+        },
+        {
+          "store_id": "imabari",
+          "store": "アクトス 今治店",
+          "region": "中国・四国",
+          "lesson_count": 45,
+          "path": "by_store/axtos/アクトス_今治店.json"
+        },
+        {
+          "store_id": "ise",
+          "store": "アクトス 伊勢店",
+          "region": "近畿",
+          "lesson_count": 82,
+          "path": "by_store/axtos/アクトス_伊勢店.json"
+        },
+        {
+          "store_id": "jyoetsu",
+          "store": "アクトス 上越店",
+          "region": "中部・北陸",
+          "lesson_count": 80,
+          "path": "by_store/axtos/アクトス_上越店.json"
+        },
+        {
+          "store_id": "kagamihara",
+          "store": "アクトス 各務原店",
+          "region": "中部・北陸",
+          "lesson_count": 146,
+          "path": "by_store/axtos/アクトス_各務原店.json"
+        },
+        {
+          "store_id": "kakogawa",
+          "store": "アクトス 加古川店",
+          "region": "近畿",
+          "lesson_count": 68,
+          "path": "by_store/axtos/アクトス_加古川店.json"
+        },
+        {
+          "store_id": "kanazawa",
+          "store": "Will金沢大桑店",
+          "region": "中部・北陸",
+          "lesson_count": 110,
+          "path": "by_store/axtos/Will金沢大桑店.json"
+        },
+        {
+          "store_id": "kariya",
+          "store": "アクトス 刈谷店",
+          "region": "中部・北陸",
+          "lesson_count": 82,
+          "path": "by_store/axtos/アクトス_刈谷店.json"
+        },
+        {
+          "store_id": "kasugai",
+          "store": "アクトス 春日井店",
+          "region": "中部・北陸",
+          "lesson_count": 88,
+          "path": "by_store/axtos/アクトス_春日井店.json"
+        },
+        {
+          "store_id": "kurashiki",
+          "store": "アクトス 倉敷店",
+          "region": "中国・四国",
+          "lesson_count": 58,
+          "path": "by_store/axtos/アクトス_倉敷店.json"
+        },
+        {
+          "store_id": "kuwana",
+          "store": "アクトス 桑名店",
+          "region": "近畿",
+          "lesson_count": 63,
+          "path": "by_store/axtos/アクトス_桑名店.json"
+        },
+        {
+          "store_id": "lalla",
+          "store": "女性専用 LALLA希望ヶ丘店",
+          "region": "中部・北陸",
+          "lesson_count": 73,
+          "path": "by_store/axtos/女性専用_LALLA希望ヶ丘店.json"
+        },
+        {
+          "store_id": "matsuyama",
+          "store": "Will松山店",
+          "region": "中国・四国",
+          "lesson_count": 104,
+          "path": "by_store/axtos/Will松山店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "nas",
       "gym": "スポーツクラブNAS",
       "stores": [
@@ -7405,6 +8452,971 @@
           "region": "近畿",
           "lesson_count": 124,
           "path": "by_store/nas/NASウッディタウン.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "zenplace",
+      "gym": "zen place（ピラティス・ヨガ）",
+      "stores": [
+        {
+          "store_id": "1",
+          "store": "zen place 中目黒",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_中目黒.json"
+        },
+        {
+          "store_id": "2",
+          "store": "zen place 銀座二丁目",
+          "region": "関東",
+          "lesson_count": 25,
+          "path": "by_store/zenplace/zen_place_銀座二丁目.json"
+        },
+        {
+          "store_id": "3",
+          "store": "zen place 下北沢  第1",
+          "region": "関東",
+          "lesson_count": 9,
+          "path": "by_store/zenplace/zen_place_下北沢_第1.json"
+        },
+        {
+          "store_id": "6",
+          "store": "zen place 新宿",
+          "region": "関東",
+          "lesson_count": 29,
+          "path": "by_store/zenplace/zen_place_新宿.json"
+        },
+        {
+          "store_id": "7",
+          "store": "zen place 三軒茶屋",
+          "region": "関東",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_三軒茶屋.json"
+        },
+        {
+          "store_id": "8",
+          "store": "zen place 自由が丘 第1",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/zenplace/zen_place_自由が丘_第1.json"
+        },
+        {
+          "store_id": "9",
+          "store": "zen place 二子玉川",
+          "region": "関東",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_二子玉川.json"
+        },
+        {
+          "store_id": "10",
+          "store": "zen place 渋谷",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_渋谷.json"
+        },
+        {
+          "store_id": "11",
+          "store": "zen place 用賀",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/zenplace/zen_place_用賀.json"
+        },
+        {
+          "store_id": "12",
+          "store": "zen place 西葛西",
+          "region": "関東",
+          "lesson_count": 5,
+          "path": "by_store/zenplace/zen_place_西葛西.json"
+        },
+        {
+          "store_id": "13",
+          "store": "zen place 溝の口",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/zenplace/zen_place_溝の口.json"
+        },
+        {
+          "store_id": "16",
+          "store": "zen place 武蔵小山",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_武蔵小山.json"
+        },
+        {
+          "store_id": "17",
+          "store": "zen place 荻窪",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_荻窪.json"
+        },
+        {
+          "store_id": "21",
+          "store": "zen place 梅田B2階(常温・HOTヨガ)",
+          "region": "近畿",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_梅田B2階(常温・HOTヨガ).json"
+        },
+        {
+          "store_id": "23",
+          "store": "zen place 銀座(HOTヨガ）",
+          "region": "関東",
+          "lesson_count": 27,
+          "path": "by_store/zenplace/zen_place_銀座(HOTヨガ）.json"
+        },
+        {
+          "store_id": "28",
+          "store": "zen place 千里中央",
+          "region": "近畿",
+          "lesson_count": 20,
+          "path": "by_store/zenplace/zen_place_千里中央.json"
+        },
+        {
+          "store_id": "29",
+          "store": "zen place 横浜",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/zenplace/zen_place_横浜.json"
+        },
+        {
+          "store_id": "32",
+          "store": "zen place 横浜（ヨガ）",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/zenplace/zen_place_横浜（ヨガ）.json"
+        },
+        {
+          "store_id": "33",
+          "store": "zen place 五反田（ヨガ）",
+          "region": "関東",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_五反田（ヨガ）.json"
+        },
+        {
+          "store_id": "34",
+          "store": "zen place 学芸大学",
+          "region": "関東",
+          "lesson_count": 11,
+          "path": "by_store/zenplace/zen_place_学芸大学.json"
+        },
+        {
+          "store_id": "35",
+          "store": "zen place 吉祥寺（ヨガ）",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_吉祥寺（ヨガ）.json"
+        },
+        {
+          "store_id": "37",
+          "store": "zen place 新宿南口",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_新宿南口.json"
+        },
+        {
+          "store_id": "40",
+          "store": "zen place 梅田",
+          "region": "近畿",
+          "lesson_count": 20,
+          "path": "by_store/zenplace/zen_place_梅田.json"
+        },
+        {
+          "store_id": "44",
+          "store": "zen place 五反田西口",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_五反田西口.json"
+        },
+        {
+          "store_id": "45",
+          "store": "zen place 高田馬場",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_高田馬場.json"
+        },
+        {
+          "store_id": "48",
+          "store": "zen place 心斎橋",
+          "region": "近畿",
+          "lesson_count": 10,
+          "path": "by_store/zenplace/zen_place_心斎橋.json"
+        },
+        {
+          "store_id": "49",
+          "store": "zen place 阿佐ヶ谷",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/zenplace/zen_place_阿佐ヶ谷.json"
+        },
+        {
+          "store_id": "50",
+          "store": "zen place 千里中央（ヨガ）",
+          "region": "近畿",
+          "lesson_count": 13,
+          "path": "by_store/zenplace/zen_place_千里中央（ヨガ）.json"
+        },
+        {
+          "store_id": "51",
+          "store": "zen place 銀座四丁目",
+          "region": "関東",
+          "lesson_count": 8,
+          "path": "by_store/zenplace/zen_place_銀座四丁目.json"
+        },
+        {
+          "store_id": "52",
+          "store": "zen place 門前仲町",
+          "region": "関東",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_門前仲町.json"
+        },
+        {
+          "store_id": "55",
+          "store": "zen place 三宮",
+          "region": "近畿",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_三宮.json"
+        },
+        {
+          "store_id": "56",
+          "store": "zen place 高槻",
+          "region": "近畿",
+          "lesson_count": 28,
+          "path": "by_store/zenplace/zen_place_高槻.json"
+        },
+        {
+          "store_id": "58",
+          "store": "zen place 京都",
+          "region": "近畿",
+          "lesson_count": 20,
+          "path": "by_store/zenplace/zen_place_京都.json"
+        },
+        {
+          "store_id": "60",
+          "store": "zen place 経堂",
+          "region": "関東",
+          "lesson_count": 13,
+          "path": "by_store/zenplace/zen_place_経堂.json"
+        },
+        {
+          "store_id": "65",
+          "store": "zen place 三田",
+          "region": "関東",
+          "lesson_count": 20,
+          "path": "by_store/zenplace/zen_place_三田.json"
+        },
+        {
+          "store_id": "68",
+          "store": "zen place 青葉台",
+          "region": "関東",
+          "lesson_count": 17,
+          "path": "by_store/zenplace/zen_place_青葉台.json"
+        },
+        {
+          "store_id": "70",
+          "store": "zen place 江坂",
+          "region": "近畿",
+          "lesson_count": 17,
+          "path": "by_store/zenplace/zen_place_江坂.json"
+        },
+        {
+          "store_id": "72",
+          "store": "zen place 大森",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_大森.json"
+        },
+        {
+          "store_id": "73",
+          "store": "zen place 綱島",
+          "region": "関東",
+          "lesson_count": 9,
+          "path": "by_store/zenplace/zen_place_綱島.json"
+        },
+        {
+          "store_id": "75",
+          "store": "zen place 茗荷谷",
+          "region": "関東",
+          "lesson_count": 29,
+          "path": "by_store/zenplace/zen_place_茗荷谷.json"
+        },
+        {
+          "store_id": "76",
+          "store": "zen place 東陽町",
+          "region": "関東",
+          "lesson_count": 10,
+          "path": "by_store/zenplace/zen_place_東陽町.json"
+        },
+        {
+          "store_id": "77",
+          "store": "zen place 天王寺",
+          "region": "近畿",
+          "lesson_count": 11,
+          "path": "by_store/zenplace/zen_place_天王寺.json"
+        },
+        {
+          "store_id": "90",
+          "store": "zen place 代々木上原",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_代々木上原.json"
+        },
+        {
+          "store_id": "91",
+          "store": "zen place 駒込",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/zenplace/zen_place_駒込.json"
+        },
+        {
+          "store_id": "92",
+          "store": "zen place 人形町（ヨガ）",
+          "region": "関東",
+          "lesson_count": 27,
+          "path": "by_store/zenplace/zen_place_人形町（ヨガ）.json"
+        },
+        {
+          "store_id": "95",
+          "store": "zen place 恵比寿",
+          "region": "関東",
+          "lesson_count": 25,
+          "path": "by_store/zenplace/zen_place_恵比寿.json"
+        },
+        {
+          "store_id": "111",
+          "store": "zen place 本郷三丁目",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_本郷三丁目.json"
+        },
+        {
+          "store_id": "112",
+          "store": "zen place 目黒",
+          "region": "関東",
+          "lesson_count": 9,
+          "path": "by_store/zenplace/zen_place_目黒.json"
+        },
+        {
+          "store_id": "113",
+          "store": "zen place 横浜元町",
+          "region": "関東",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_横浜元町.json"
+        },
+        {
+          "store_id": "114",
+          "store": "zen place 茗荷谷（ヨガ）",
+          "region": "関東",
+          "lesson_count": 21,
+          "path": "by_store/zenplace/zen_place_茗荷谷（ヨガ）.json"
+        },
+        {
+          "store_id": "117",
+          "store": "zen place 千駄木",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/zenplace/zen_place_千駄木.json"
+        },
+        {
+          "store_id": "119",
+          "store": "zen place 豊中",
+          "region": "近畿",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_豊中.json"
+        },
+        {
+          "store_id": "120",
+          "store": "zen place 都立大学",
+          "region": "関東",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_都立大学.json"
+        },
+        {
+          "store_id": "123",
+          "store": "zen place 浜田山",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_浜田山.json"
+        },
+        {
+          "store_id": "124",
+          "store": "zen place 西荻窪",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/zenplace/zen_place_西荻窪.json"
+        },
+        {
+          "store_id": "125",
+          "store": "zen place 元住吉",
+          "region": "関東",
+          "lesson_count": 11,
+          "path": "by_store/zenplace/zen_place_元住吉.json"
+        },
+        {
+          "store_id": "126",
+          "store": "zen place 塚口",
+          "region": "近畿",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_塚口.json"
+        },
+        {
+          "store_id": "127",
+          "store": "zen place 府中",
+          "region": "関東",
+          "lesson_count": 17,
+          "path": "by_store/zenplace/zen_place_府中.json"
+        },
+        {
+          "store_id": "128",
+          "store": "zen place 国立",
+          "region": "関東",
+          "lesson_count": 26,
+          "path": "by_store/zenplace/zen_place_国立.json"
+        },
+        {
+          "store_id": "129",
+          "store": "zen place 国分寺",
+          "region": "関東",
+          "lesson_count": 26,
+          "path": "by_store/zenplace/zen_place_国分寺.json"
+        },
+        {
+          "store_id": "130",
+          "store": "zen place 立川",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_立川.json"
+        },
+        {
+          "store_id": "144",
+          "store": "zen place 千歳烏山",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_千歳烏山.json"
+        },
+        {
+          "store_id": "145",
+          "store": "zen place 日吉",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_日吉.json"
+        },
+        {
+          "store_id": "146",
+          "store": "zen place 麻布十番",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_麻布十番.json"
+        },
+        {
+          "store_id": "153",
+          "store": "zen place 栄",
+          "region": "中部・北陸",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_栄.json"
+        },
+        {
+          "store_id": "154",
+          "store": "zen place 五反田東口",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_五反田東口.json"
+        },
+        {
+          "store_id": "156",
+          "store": "zen place 上野",
+          "region": "関東",
+          "lesson_count": 10,
+          "path": "by_store/zenplace/zen_place_上野.json"
+        },
+        {
+          "store_id": "158",
+          "store": "zen place 調布",
+          "region": "関東",
+          "lesson_count": 4,
+          "path": "by_store/zenplace/zen_place_調布.json"
+        },
+        {
+          "store_id": "160",
+          "store": "zen place 南森町",
+          "region": "近畿",
+          "lesson_count": 11,
+          "path": "by_store/zenplace/zen_place_南森町.json"
+        },
+        {
+          "store_id": "161",
+          "store": "zen place 大井町",
+          "region": "関東",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_大井町.json"
+        },
+        {
+          "store_id": "162",
+          "store": "zen place 北千住",
+          "region": "関東",
+          "lesson_count": 13,
+          "path": "by_store/zenplace/zen_place_北千住.json"
+        },
+        {
+          "store_id": "166",
+          "store": "zen place 横浜みなみ西口",
+          "region": "関東",
+          "lesson_count": 13,
+          "path": "by_store/zenplace/zen_place_横浜みなみ西口.json"
+        },
+        {
+          "store_id": "168",
+          "store": "zen place 神保町",
+          "region": "関東",
+          "lesson_count": 6,
+          "path": "by_store/zenplace/zen_place_神保町.json"
+        },
+        {
+          "store_id": "178",
+          "store": "zen place 札幌",
+          "region": "北海道・東北",
+          "lesson_count": 12,
+          "path": "by_store/zenplace/zen_place_札幌.json"
+        },
+        {
+          "store_id": "186",
+          "store": "zen place 戸越",
+          "region": "関東",
+          "lesson_count": 20,
+          "path": "by_store/zenplace/zen_place_戸越.json"
+        },
+        {
+          "store_id": "192",
+          "store": "zen place 名駅",
+          "region": "中部・北陸",
+          "lesson_count": 9,
+          "path": "by_store/zenplace/zen_place_名駅.json"
+        },
+        {
+          "store_id": "193",
+          "store": "zen place 二子玉川（ヨガ）",
+          "region": "関東",
+          "lesson_count": 20,
+          "path": "by_store/zenplace/zen_place_二子玉川（ヨガ）.json"
+        },
+        {
+          "store_id": "199",
+          "store": "zen place 福岡薬院",
+          "region": "九州・沖縄",
+          "lesson_count": 32,
+          "path": "by_store/zenplace/zen_place_福岡薬院.json"
+        },
+        {
+          "store_id": "200",
+          "store": "zen place 田町",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_田町.json"
+        },
+        {
+          "store_id": "201",
+          "store": "zen place 浦和",
+          "region": "関東",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_浦和.json"
+        },
+        {
+          "store_id": "203",
+          "store": "zen place 戸塚",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_戸塚.json"
+        },
+        {
+          "store_id": "206",
+          "store": "zen place 広島",
+          "region": "中国・四国",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_広島.json"
+        },
+        {
+          "store_id": "207",
+          "store": "zen place 鎌倉",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_鎌倉.json"
+        },
+        {
+          "store_id": "208",
+          "store": "zen place 赤羽",
+          "region": "関東",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_赤羽.json"
+        },
+        {
+          "store_id": "210",
+          "store": "zen place 藤沢",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_藤沢.json"
+        },
+        {
+          "store_id": "212",
+          "store": "zen place 吉祥寺",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_吉祥寺.json"
+        },
+        {
+          "store_id": "213",
+          "store": "zen place 成城学園前",
+          "region": "関東",
+          "lesson_count": 11,
+          "path": "by_store/zenplace/zen_place_成城学園前.json"
+        },
+        {
+          "store_id": "216",
+          "store": "zen place 八重洲",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_八重洲.json"
+        },
+        {
+          "store_id": "217",
+          "store": "zen place 金山",
+          "region": "中部・北陸",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_金山.json"
+        },
+        {
+          "store_id": "218",
+          "store": "zen place 飯田橋",
+          "region": "関東",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_飯田橋.json"
+        },
+        {
+          "store_id": "221",
+          "store": "zen place 池袋",
+          "region": "関東",
+          "lesson_count": 26,
+          "path": "by_store/zenplace/zen_place_池袋.json"
+        },
+        {
+          "store_id": "223",
+          "store": "zen place 祐天寺",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_祐天寺.json"
+        },
+        {
+          "store_id": "224",
+          "store": "zen place 町田",
+          "region": "関東",
+          "lesson_count": 21,
+          "path": "by_store/zenplace/zen_place_町田.json"
+        },
+        {
+          "store_id": "225",
+          "store": "zen place 大宮",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_大宮.json"
+        },
+        {
+          "store_id": "226",
+          "store": "zen place 蒲田",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_蒲田.json"
+        },
+        {
+          "store_id": "227",
+          "store": "zen place 川崎",
+          "region": "関東",
+          "lesson_count": 32,
+          "path": "by_store/zenplace/zen_place_川崎.json"
+        },
+        {
+          "store_id": "229",
+          "store": "zen place 武蔵小杉",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/zenplace/zen_place_武蔵小杉.json"
+        },
+        {
+          "store_id": "230",
+          "store": "zen place 船橋",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/zenplace/zen_place_船橋.json"
+        },
+        {
+          "store_id": "231",
+          "store": "zen place 駒沢",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/zenplace/zen_place_駒沢.json"
+        },
+        {
+          "store_id": "237",
+          "store": "zen place 新百合ヶ丘",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/zenplace/zen_place_新百合ヶ丘.json"
+        },
+        {
+          "store_id": "238",
+          "store": "zen place 札幌大通",
+          "region": "北海道・東北",
+          "lesson_count": 11,
+          "path": "by_store/zenplace/zen_place_札幌大通.json"
+        },
+        {
+          "store_id": "239",
+          "store": "zen place 錦糸町",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_錦糸町.json"
+        },
+        {
+          "store_id": "240",
+          "store": "zen place 浅草",
+          "region": "関東",
+          "lesson_count": 17,
+          "path": "by_store/zenplace/zen_place_浅草.json"
+        },
+        {
+          "store_id": "241",
+          "store": "zen place 仙台",
+          "region": "北海道・東北",
+          "lesson_count": 17,
+          "path": "by_store/zenplace/zen_place_仙台.json"
+        },
+        {
+          "store_id": "244",
+          "store": "zen place 笹塚",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/zenplace/zen_place_笹塚.json"
+        },
+        {
+          "store_id": "246",
+          "store": "zen place 多摩センター",
+          "region": "関東",
+          "lesson_count": 13,
+          "path": "by_store/zenplace/zen_place_多摩センター.json"
+        },
+        {
+          "store_id": "252",
+          "store": "zen place 不動前",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_不動前.json"
+        },
+        {
+          "store_id": "253",
+          "store": "zen place 赤坂",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_赤坂.json"
+        },
+        {
+          "store_id": "254",
+          "store": "zen place 新潟",
+          "region": "中部・北陸",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_新潟.json"
+        },
+        {
+          "store_id": "255",
+          "store": "zen place 東戸塚",
+          "region": "関東",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_東戸塚.json"
+        },
+        {
+          "store_id": "261",
+          "store": "zen place 津田沼",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_津田沼.json"
+        },
+        {
+          "store_id": "262",
+          "store": "zen place 茅ヶ崎",
+          "region": "関東",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_茅ヶ崎.json"
+        },
+        {
+          "store_id": "263",
+          "store": "zen place 練馬",
+          "region": "関東",
+          "lesson_count": 21,
+          "path": "by_store/zenplace/zen_place_練馬.json"
+        },
+        {
+          "store_id": "269",
+          "store": "zen place 川口",
+          "region": "関東",
+          "lesson_count": 11,
+          "path": "by_store/zenplace/zen_place_川口.json"
+        },
+        {
+          "store_id": "273",
+          "store": "zen place 所沢",
+          "region": "関東",
+          "lesson_count": 27,
+          "path": "by_store/zenplace/zen_place_所沢.json"
+        },
+        {
+          "store_id": "274",
+          "store": "zen place 西宮北口",
+          "region": "近畿",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_西宮北口.json"
+        },
+        {
+          "store_id": "277",
+          "store": "zen place 藤が丘",
+          "region": "中部・北陸",
+          "lesson_count": 16,
+          "path": "by_store/zenplace/zen_place_藤が丘.json"
+        },
+        {
+          "store_id": "278",
+          "store": "zen place 堺東",
+          "region": "近畿",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_堺東.json"
+        },
+        {
+          "store_id": "279",
+          "store": "zen place 大泉学園",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/zenplace/zen_place_大泉学園.json"
+        },
+        {
+          "store_id": "280",
+          "store": "zen place 高輪",
+          "region": "関東",
+          "lesson_count": 10,
+          "path": "by_store/zenplace/zen_place_高輪.json"
+        },
+        {
+          "store_id": "281",
+          "store": "zen place 福岡天神",
+          "region": "九州・沖縄",
+          "lesson_count": 20,
+          "path": "by_store/zenplace/zen_place_福岡天神.json"
+        },
+        {
+          "store_id": "282",
+          "store": "zen place 柏",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_柏.json"
+        },
+        {
+          "store_id": "283",
+          "store": "zen place 上大岡",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_上大岡.json"
+        },
+        {
+          "store_id": "284",
+          "store": "zen place 天神橋筋六丁目",
+          "region": "近畿",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_天神橋筋六丁目.json"
+        },
+        {
+          "store_id": "285",
+          "store": "zen place 流山おおたかの森",
+          "region": "関東",
+          "lesson_count": 10,
+          "path": "by_store/zenplace/zen_place_流山おおたかの森.json"
+        },
+        {
+          "store_id": "287",
+          "store": "zen place 静岡",
+          "region": "中部・北陸",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_静岡.json"
+        },
+        {
+          "store_id": "289",
+          "store": "zen place 京都西院",
+          "region": "近畿",
+          "lesson_count": 15,
+          "path": "by_store/zenplace/zen_place_京都西院.json"
+        },
+        {
+          "store_id": "290",
+          "store": "zen place 中野",
+          "region": "関東",
+          "lesson_count": 34,
+          "path": "by_store/zenplace/zen_place_中野.json"
+        },
+        {
+          "store_id": "291",
+          "store": "zen place たまプラーザ",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/zenplace/zen_place_たまプラーザ.json"
+        },
+        {
+          "store_id": "292",
+          "store": "zen place 昭島",
+          "region": "関東",
+          "lesson_count": 32,
+          "path": "by_store/zenplace/zen_place_昭島.json"
+        },
+        {
+          "store_id": "293",
+          "store": "zen place 岐阜",
+          "region": "中部・北陸",
+          "lesson_count": 13,
+          "path": "by_store/zenplace/zen_place_岐阜.json"
+        },
+        {
+          "store_id": "294",
+          "store": "zen place つくば",
+          "region": "関東",
+          "lesson_count": 19,
+          "path": "by_store/zenplace/zen_place_つくば.json"
+        },
+        {
+          "store_id": "295",
+          "store": "zen place 浜町",
+          "region": "関東",
+          "lesson_count": 17,
+          "path": "by_store/zenplace/zen_place_浜町.json"
+        },
+        {
+          "store_id": "296",
+          "store": "zen place 田無",
+          "region": "関東",
+          "lesson_count": 21,
+          "path": "by_store/zenplace/zen_place_田無.json"
+        },
+        {
+          "store_id": "297",
+          "store": "zen place 稲田堤",
+          "region": "関東",
+          "lesson_count": 20,
+          "path": "by_store/zenplace/zen_place_稲田堤.json"
+        },
+        {
+          "store_id": "298",
+          "store": "zen place 祖師ヶ谷大蔵",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/zenplace/zen_place_祖師ヶ谷大蔵.json"
+        },
+        {
+          "store_id": "299",
+          "store": "zen place 湘南台",
+          "region": "関東",
+          "lesson_count": 17,
+          "path": "by_store/zenplace/zen_place_湘南台.json"
         }
       ]
     },
@@ -8439,6 +10451,61 @@
       ]
     },
     {
+      "gym_id": "aim",
+      "gym": "フィットネスクラブ AIM（エイム）",
+      "stores": [
+        {
+          "store_id": "aim21",
+          "store": "エイム21",
+          "region": "中部・北陸",
+          "lesson_count": 116,
+          "path": "by_store/aim/エイム21.json"
+        },
+        {
+          "store_id": "face",
+          "store": "エイムフェイス",
+          "region": "中部・北陸",
+          "lesson_count": 107,
+          "path": "by_store/aim/エイムフェイス.json"
+        },
+        {
+          "store_id": "kurhaus",
+          "store": "クアハウスN9",
+          "region": "中部・北陸",
+          "lesson_count": 115,
+          "path": "by_store/aim/クアハウスN9.json"
+        },
+        {
+          "store_id": "moonfort",
+          "store": "エイムムーンフォート",
+          "region": "中部・北陸",
+          "lesson_count": 131,
+          "path": "by_store/aim/エイムムーンフォート.json"
+        },
+        {
+          "store_id": "skyship",
+          "store": "エイムスカイシップ",
+          "region": "中部・北陸",
+          "lesson_count": 58,
+          "path": "by_store/aim/エイムスカイシップ.json"
+        },
+        {
+          "store_id": "southfort",
+          "store": "エイムサウスフォート",
+          "region": "中部・北陸",
+          "lesson_count": 62,
+          "path": "by_store/aim/エイムサウスフォート.json"
+        },
+        {
+          "store_id": "squaregate",
+          "store": "エイムスクエアゲート",
+          "region": "中部・北陸",
+          "lesson_count": 146,
+          "path": "by_store/aim/エイムスクエアゲート.json"
+        }
+      ]
+    },
+    {
       "gym_id": "atrio",
       "gym": "アトリオ",
       "stores": [
@@ -8543,6 +10610,52 @@
           "region": "関東",
           "lesson_count": 250,
           "path": "by_store/seibu/所沢.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "zamrud",
+      "gym": "アーバンフィットネスクラブ ザムロッド",
+      "stores": [
+        {
+          "store_id": "honatsugi",
+          "store": "アーバンフィットネスクラブ ザムロッド",
+          "region": "関東",
+          "lesson_count": 133,
+          "path": "by_store/zamrud/アーバンフィットネスクラブ_ザムロッド.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "minato",
+      "gym": "港区スポーツセンター",
+      "stores": [
+        {
+          "store_id": "minato",
+          "store": "港区スポーツセンター",
+          "region": "関東",
+          "lesson_count": 131,
+          "path": "by_store/minato/港区スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "mahya",
+      "gym": " 東京\"ZUMBA fitness\" with Mahya",
+      "stores": [
+        {
+          "store_id": "okachimachi",
+          "store": "御徒町Class（スタジオ ALOALO）",
+          "region": "関東",
+          "lesson_count": 1,
+          "path": "by_store/mahya/御徒町Class（スタジオ_ALOALO）.json"
+        },
+        {
+          "store_id": "sugamo",
+          "store": "巣鴨Class（スタジオ BOOM!!!）",
+          "region": "関東",
+          "lesson_count": 1,
+          "path": "by_store/mahya/巣鴨Class（スタジオ_BOOM!!!）.json"
         }
       ]
     }
