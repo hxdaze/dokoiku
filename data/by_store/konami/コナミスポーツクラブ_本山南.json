@@ -1,0 +1,34 @@
+[
+  {
+    "gym_id": "konami",
+    "store_id": "004471",
+    "store": "コナミスポーツクラブ 本山南",
+    "region": "近畿",
+    "day": "月",
+    "start": "17:00",
+    "end": "18:00",
+    "class_name": "上級",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": "4泳法習得者"
+  },
+  {
+    "gym_id": "konami",
+    "store_id": "004471",
+    "store": "コナミスポーツクラブ 本山南",
+    "region": "近畿",
+    "day": "木",
+    "start": "18:00",
+    "end": "19:00",
+    "class_name": "上級",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": "4泳法習得者"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "gym_id": "konami",
+    "store_id": "004477",
+    "store": "コナミスポーツクラブ 北大路",
+    "region": "近畿",
+    "day": "祝",
+    "start": "00:00",
+    "end": "23:59",
+    "class_name": "祝日",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  },
+  {
+    "gym_id": "konami",
+    "store_id": "004477",
+    "store": "コナミスポーツクラブ 北大路",
+    "region": "近畿",
+    "day": "日",
+    "start": "00:00",
+    "end": "23:59",
+    "class_name": "祝日",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  }
+]

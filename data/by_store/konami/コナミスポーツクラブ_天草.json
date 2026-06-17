@@ -1,0 +1,50 @@
+[
+  {
+    "gym_id": "konami",
+    "store_id": "003968",
+    "store": "コナミスポーツクラブ 天草",
+    "region": "九州・沖縄",
+    "day": "水",
+    "start": "15:00",
+    "end": "16:00",
+    "class_name": "キnder-1",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "プール",
+    "reservation_required": false,
+    "genre": "プール",
+    "note": "3歳〜年長"
+  },
+  {
+    "gym_id": "konami",
+    "store_id": "003968",
+    "store": "コナミスポーツクラブ 天草",
+    "region": "九州・沖縄",
+    "day": "水",
+    "start": "15:00",
+    "end": "16:00",
+    "class_name": "キッダーア1",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "プール",
+    "reservation_required": false,
+    "genre": "スイミング",
+    "note": "3歳～年長"
+  },
+  {
+    "gym_id": "konami",
+    "store_id": "003968",
+    "store": "コナミスポーツクラブ 天草",
+    "region": "九州・沖縄",
+    "day": "木",
+    "start": "15:00",
+    "end": "16:00",
+    "class_name": "キッダーア1",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "プール",
+    "reservation_required": false,
+    "genre": "スイミング",
+    "note": "3歳～年長"
+  }
+]

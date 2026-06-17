@@ -1,0 +1,50 @@
+[
+  {
+    "gym_id": "konami",
+    "store_id": "004075",
+    "store": "コナミスポーツクラブ はりまや橋",
+    "region": "中国・四国",
+    "day": "火",
+    "start": "17:30",
+    "end": "18:30",
+    "class_name": "ダンシングスターズ",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": null,
+    "note": "5歳～8歳"
+  },
+  {
+    "gym_id": "konami",
+    "store_id": "004075",
+    "store": "コナミスポーツクラブ はりまや橋",
+    "region": "中国・四国",
+    "day": "水",
+    "start": "17:30",
+    "end": "18:30",
+    "class_name": "ダンシングスターズ",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": null,
+    "note": "5歳～8歳"
+  },
+  {
+    "gym_id": "konami",
+    "store_id": "004075",
+    "store": "コナミスポーツクラブ はりまや橋",
+    "region": "中国・四国",
+    "day": "土",
+    "start": "17:30",
+    "end": "18:30",
+    "class_name": "ダンシングスターズ",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": null,
+    "note": "5歳～8歳"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "gym_id": "goldsgym",
+    "store_id": "180925",
+    "store": "シーモール下関（フランチャイズ店）",
+    "region": "中国・四国",
+    "day": "火",
+    "start": "11:45",
+    "end": "12:30",
+    "class_name": "Vinyasa YOGA",
+    "category": "YOGA & PILATES",
+    "instructor": "Maho",
+    "studio": null,
+    "reservation_required": false,
+    "genre": "ヨガリラクゼーション",
+    "note": null
+  }
+]
