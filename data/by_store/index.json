@@ -17,7 +17,7 @@
     "note"
   ],
   "gym_count": 30,
-  "store_count": 1518,
+  "store_count": 1571,
   "gyms": [
     {
       "gym_id": "lava",
@@ -7278,6 +7278,390 @@
       ]
     },
     {
+      "gym_id": "joyfit",
+      "gym": "JOYFIT",
+      "stores": [
+        {
+          "store_id": "aeon-kenou",
+          "store": "JOYFIT イオン県央",
+          "region": "中部・北陸",
+          "lesson_count": 107,
+          "path": "by_store/joyfit/JOYFIT_イオン県央.json"
+        },
+        {
+          "store_id": "aizu",
+          "store": "JOYFIT 西若松",
+          "region": "北海道・東北",
+          "lesson_count": 122,
+          "path": "by_store/joyfit/JOYFIT_西若松.json"
+        },
+        {
+          "store_id": "aizuapio",
+          "store": "JOYFIT24 会津インター",
+          "region": "北海道・東北",
+          "lesson_count": 84,
+          "path": "by_store/joyfit/JOYFIT24_会津インター.json"
+        },
+        {
+          "store_id": "akitakomachi",
+          "store": "JOYFIT24 あきた・こまち温泉",
+          "region": "北海道・東北",
+          "lesson_count": 90,
+          "path": "by_store/joyfit/JOYFIT24_あきた・こまち温泉.json"
+        },
+        {
+          "store_id": "aomori",
+          "store": "JOYFIT24 青森",
+          "region": "北海道・東北",
+          "lesson_count": 77,
+          "path": "by_store/joyfit/JOYFIT24_青森.json"
+        },
+        {
+          "store_id": "asahikawa",
+          "store": "JOYFIT24 旭川",
+          "region": "北海道・東北",
+          "lesson_count": 134,
+          "path": "by_store/joyfit/JOYFIT24_旭川.json"
+        },
+        {
+          "store_id": "fujimino",
+          "store": "JOYFIT24 ふじみ野",
+          "region": "関東",
+          "lesson_count": 108,
+          "path": "by_store/joyfit/JOYFIT24_ふじみ野.json"
+        },
+        {
+          "store_id": "fukaya",
+          "store": "JOYFIT24 深谷",
+          "region": "関東",
+          "lesson_count": 150,
+          "path": "by_store/joyfit/JOYFIT24_深谷.json"
+        },
+        {
+          "store_id": "furukawa",
+          "store": "JOYFIT24 古川",
+          "region": "北海道・東北",
+          "lesson_count": 51,
+          "path": "by_store/joyfit/JOYFIT24_古川.json"
+        },
+        {
+          "store_id": "hachinohe",
+          "store": "JOYFIT24 八戸",
+          "region": "北海道・東北",
+          "lesson_count": 59,
+          "path": "by_store/joyfit/JOYFIT24_八戸.json"
+        },
+        {
+          "store_id": "hakodatekaigan",
+          "store": "JOYFIT24 函館海岸町",
+          "region": "北海道・東北",
+          "lesson_count": 53,
+          "path": "by_store/joyfit/JOYFIT24_函館海岸町.json"
+        },
+        {
+          "store_id": "hanamaki",
+          "store": "JOYFIT24 花巻",
+          "region": "北海道・東北",
+          "lesson_count": 55,
+          "path": "by_store/joyfit/JOYFIT24_花巻.json"
+        },
+        {
+          "store_id": "hankyu-itami",
+          "store": "JOYFIT 阪急伊丹",
+          "region": "近畿",
+          "lesson_count": 71,
+          "path": "by_store/joyfit/JOYFIT_阪急伊丹.json"
+        },
+        {
+          "store_id": "hibarigaoka-yoga",
+          "store": "JOYFIT YOGA フレスポひばりが丘",
+          "region": "関東",
+          "lesson_count": 90,
+          "path": "by_store/joyfit/JOYFIT_YOGA_フレスポひばりが丘.json"
+        },
+        {
+          "store_id": "higashiteshiro",
+          "store": "JOYFIT24 東手城",
+          "region": "中国・四国",
+          "lesson_count": 57,
+          "path": "by_store/joyfit/JOYFIT24_東手城.json"
+        },
+        {
+          "store_id": "hiraokakouen",
+          "store": "JOYFIT 札幌平岡公園",
+          "region": "北海道・東北",
+          "lesson_count": 149,
+          "path": "by_store/joyfit/JOYFIT_札幌平岡公園.json"
+        },
+        {
+          "store_id": "ikkyu",
+          "store": "JOYFIT24 01(ゼロワン)",
+          "region": "北海道・東北",
+          "lesson_count": 283,
+          "path": "by_store/joyfit/JOYFIT24_01(ゼロワン).json"
+        },
+        {
+          "store_id": "ishinomaki",
+          "store": "JOYFIT24 石巻",
+          "region": "北海道・東北",
+          "lesson_count": 48,
+          "path": "by_store/joyfit/JOYFIT24_石巻.json"
+        },
+        {
+          "store_id": "iwakinishiki",
+          "store": "JOYFIT24 いわき錦",
+          "region": "北海道・東北",
+          "lesson_count": 102,
+          "path": "by_store/joyfit/JOYFIT24_いわき錦.json"
+        },
+        {
+          "store_id": "jyoetsu",
+          "store": "JOYFIT24 上越",
+          "region": "中部・北陸",
+          "lesson_count": 100,
+          "path": "by_store/joyfit/JOYFIT24_上越.json"
+        },
+        {
+          "store_id": "kasukabe",
+          "store": "JOYFIT24 春日部",
+          "region": "関東",
+          "lesson_count": 126,
+          "path": "by_store/joyfit/JOYFIT24_春日部.json"
+        },
+        {
+          "store_id": "koriyama",
+          "store": "JOYFIT24 郡山",
+          "region": "北海道・東北",
+          "lesson_count": 73,
+          "path": "by_store/joyfit/JOYFIT24_郡山.json"
+        },
+        {
+          "store_id": "kumagaya",
+          "store": "JOYFIT24 熊谷",
+          "region": "関東",
+          "lesson_count": 123,
+          "path": "by_store/joyfit/JOYFIT24_熊谷.json"
+        },
+        {
+          "store_id": "marugame",
+          "store": "JOYFIT24 丸亀",
+          "region": "中国・四国",
+          "lesson_count": 78,
+          "path": "by_store/joyfit/JOYFIT24_丸亀.json"
+        },
+        {
+          "store_id": "masagohonmachi",
+          "store": "JOYFIT24 真砂本町",
+          "region": "九州・沖縄",
+          "lesson_count": 71,
+          "path": "by_store/joyfit/JOYFIT24_真砂本町.json"
+        },
+        {
+          "store_id": "matsumotoshounai",
+          "store": "JOYFIT24 松本庄内",
+          "region": "中部・北陸",
+          "lesson_count": 86,
+          "path": "by_store/joyfit/JOYFIT24_松本庄内.json"
+        },
+        {
+          "store_id": "matsusaka",
+          "store": "JOYFIT24 松阪",
+          "region": "近畿",
+          "lesson_count": 83,
+          "path": "by_store/joyfit/JOYFIT24_松阪.json"
+        },
+        {
+          "store_id": "miyanosawa",
+          "store": "JOYFIT24 札幌宮の沢",
+          "region": "北海道・東北",
+          "lesson_count": 55,
+          "path": "by_store/joyfit/JOYFIT24_札幌宮の沢.json"
+        },
+        {
+          "store_id": "miyazakiotsuka",
+          "store": "JOYFIT24 宮崎大塚",
+          "region": "九州・沖縄",
+          "lesson_count": 83,
+          "path": "by_store/joyfit/JOYFIT24_宮崎大塚.json"
+        },
+        {
+          "store_id": "moriokaaoyamaekimae",
+          "store": "JOYFIT24 盛岡青山駅前",
+          "region": "北海道・東北",
+          "lesson_count": 106,
+          "path": "by_store/joyfit/JOYFIT24_盛岡青山駅前.json"
+        },
+        {
+          "store_id": "mozuhachiman",
+          "store": "JOYFIT24 百舌鳥八幡",
+          "region": "近畿",
+          "lesson_count": 34,
+          "path": "by_store/joyfit/JOYFIT24_百舌鳥八幡.json"
+        },
+        {
+          "store_id": "muroran",
+          "store": "JOYFIT24 室蘭モルエ中島",
+          "region": "北海道・東北",
+          "lesson_count": 56,
+          "path": "by_store/joyfit/JOYFIT24_室蘭モルエ中島.json"
+        },
+        {
+          "store_id": "niigataaoyama",
+          "store": "JOYFIT24 新潟青山",
+          "region": "中部・北陸",
+          "lesson_count": 77,
+          "path": "by_store/joyfit/JOYFIT24_新潟青山.json"
+        },
+        {
+          "store_id": "niigatahigashikuyakusyo",
+          "store": "JOYFIT 新潟東区役所",
+          "region": "中部・北陸",
+          "lesson_count": 91,
+          "path": "by_store/joyfit/JOYFIT_新潟東区役所.json"
+        },
+        {
+          "store_id": "niigatanagaokanisseki",
+          "store": "JOYFIT 新潟長岡日赤",
+          "region": "中部・北陸",
+          "lesson_count": 106,
+          "path": "by_store/joyfit/JOYFIT_新潟長岡日赤.json"
+        },
+        {
+          "store_id": "obihiroswiming",
+          "store": "JOYFIT 帯広スイミングスクール",
+          "region": "北海道・東北",
+          "lesson_count": 14,
+          "path": "by_store/joyfit/JOYFIT_帯広スイミングスクール.json"
+        },
+        {
+          "store_id": "okayamatakaya",
+          "store": "JOYFIT24 岡山高屋",
+          "region": "中国・四国",
+          "lesson_count": 147,
+          "path": "by_store/joyfit/JOYFIT24_岡山高屋.json"
+        },
+        {
+          "store_id": "okuda",
+          "store": "JOYFIT24 奥田",
+          "region": "中国・四国",
+          "lesson_count": 105,
+          "path": "by_store/joyfit/JOYFIT24_奥田.json"
+        },
+        {
+          "store_id": "sapporokita",
+          "store": "JOYFIT 札幌北",
+          "region": "北海道・東北",
+          "lesson_count": 76,
+          "path": "by_store/joyfit/JOYFIT_札幌北.json"
+        },
+        {
+          "store_id": "sapporokousei",
+          "store": "JOYFIT24 札幌北14条光星",
+          "region": "北海道・東北",
+          "lesson_count": 49,
+          "path": "by_store/joyfit/JOYFIT24_札幌北14条光星.json"
+        },
+        {
+          "store_id": "sendaiizumi",
+          "store": "JOYFIT24 仙台泉",
+          "region": "北海道・東北",
+          "lesson_count": 165,
+          "path": "by_store/joyfit/JOYFIT24_仙台泉.json"
+        },
+        {
+          "store_id": "settsutonda",
+          "store": "JOYFIT 摂津富田",
+          "region": "近畿",
+          "lesson_count": 91,
+          "path": "by_store/joyfit/JOYFIT_摂津富田.json"
+        },
+        {
+          "store_id": "shibata",
+          "store": "JOYFIT24 新発田",
+          "region": "中部・北陸",
+          "lesson_count": 246,
+          "path": "by_store/joyfit/JOYFIT24_新発田.json"
+        },
+        {
+          "store_id": "sukagawa",
+          "store": "JOYFIT24 須賀川",
+          "region": "北海道・東北",
+          "lesson_count": 89,
+          "path": "by_store/joyfit/JOYFIT24_須賀川.json"
+        },
+        {
+          "store_id": "suzuka",
+          "store": "JOYFIT24 鈴鹿",
+          "region": "近畿",
+          "lesson_count": 63,
+          "path": "by_store/joyfit/JOYFIT24_鈴鹿.json"
+        },
+        {
+          "store_id": "takahagi",
+          "store": "JOYFIT24 高萩",
+          "region": "関東",
+          "lesson_count": 125,
+          "path": "by_store/joyfit/JOYFIT24_高萩.json"
+        },
+        {
+          "store_id": "takamatsu",
+          "store": "JOYFIT24 高松",
+          "region": "中国・四国",
+          "lesson_count": 58,
+          "path": "by_store/joyfit/JOYFIT24_高松.json"
+        },
+        {
+          "store_id": "takamatsuhigashi",
+          "store": "JOYFIT YOGA 高松東",
+          "region": "中国・四国",
+          "lesson_count": 46,
+          "path": "by_store/joyfit/JOYFIT_YOGA_高松東.json"
+        },
+        {
+          "store_id": "teinemaeda",
+          "store": "JOYFIT24 札幌手稲前田",
+          "region": "北海道・東北",
+          "lesson_count": 78,
+          "path": "by_store/joyfit/JOYFIT24_札幌手稲前田.json"
+        },
+        {
+          "store_id": "tomakomaiyanagimachi",
+          "store": "JOYFIT24 苫小牧柳町",
+          "region": "北海道・東北",
+          "lesson_count": 56,
+          "path": "by_store/joyfit/JOYFIT24_苫小牧柳町.json"
+        },
+        {
+          "store_id": "tsukubatakezono",
+          "store": "JOYFIT つくば竹園",
+          "region": "関東",
+          "lesson_count": 114,
+          "path": "by_store/joyfit/JOYFIT_つくば竹園.json"
+        },
+        {
+          "store_id": "tsusakurabashi",
+          "store": "JOYFIT24 津桜橋",
+          "region": "近畿",
+          "lesson_count": 55,
+          "path": "by_store/joyfit/JOYFIT24_津桜橋.json"
+        },
+        {
+          "store_id": "urawaharayama",
+          "store": "JOYFIT24 浦和原山",
+          "region": "関東",
+          "lesson_count": 107,
+          "path": "by_store/joyfit/JOYFIT24_浦和原山.json"
+        },
+        {
+          "store_id": "yamagata-akanegaoka",
+          "store": "JOYFIT24 山形あかねヶ丘",
+          "region": "北海道・東北",
+          "lesson_count": 88,
+          "path": "by_store/joyfit/JOYFIT24_山形あかねヶ丘.json"
+        }
+      ]
+    },
+    {
       "gym_id": "axtos",
       "gym": "スポーツクラブアクトス",
       "stores": [
@@ -10776,19 +11160,6 @@
           "region": "関東",
           "lesson_count": 131,
           "path": "by_store/minato/港区スポーツセンター.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "joyfit",
-      "gym": "JOYFIT",
-      "stores": [
-        {
-          "store_id": "aeon-kenou",
-          "store": "JOYFIT イオン県央",
-          "region": "中部・北陸",
-          "lesson_count": 107,
-          "path": "by_store/joyfit/JOYFIT_イオン県央.json"
         }
       ]
     },
