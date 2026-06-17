@@ -17,7 +17,7 @@
     "note"
   ],
   "gym_count": 29,
-  "store_count": 1502,
+  "store_count": 1512,
   "gyms": [
     {
       "gym_id": "lava",
@@ -7278,6 +7278,306 @@
       ]
     },
     {
+      "gym_id": "axtos",
+      "gym": "スポーツクラブアクトス",
+      "stores": [
+        {
+          "store_id": "aeontown_kisarazujyouzai",
+          "store": "アクトスWill_G イオンタウン木更津請西店",
+          "region": "関東",
+          "lesson_count": 11,
+          "path": "by_store/axtos/アクトスWill_G_イオンタウン木更津請西店.json"
+        },
+        {
+          "store_id": "akanabe",
+          "store": "Will茜部店",
+          "region": "中部・北陸",
+          "lesson_count": 67,
+          "path": "by_store/axtos/Will茜部店.json"
+        },
+        {
+          "store_id": "akashiookura",
+          "store": "アクトス 明石大蔵リゾート店",
+          "region": "近畿",
+          "lesson_count": 141,
+          "path": "by_store/axtos/アクトス_明石大蔵リゾート店.json"
+        },
+        {
+          "store_id": "akashiuozumi",
+          "store": "アクトス 明石魚住店",
+          "region": "近畿",
+          "lesson_count": 184,
+          "path": "by_store/axtos/アクトス_明石魚住店.json"
+        },
+        {
+          "store_id": "amagasaki",
+          "store": "Willアマドゥ店",
+          "region": "近畿",
+          "lesson_count": 100,
+          "path": "by_store/axtos/Willアマドゥ店.json"
+        },
+        {
+          "store_id": "anjyo",
+          "store": "アクトス 安城店",
+          "region": "中部・北陸",
+          "lesson_count": 63,
+          "path": "by_store/axtos/アクトス_安城店.json"
+        },
+        {
+          "store_id": "ashiya",
+          "store": "アクトス 芦屋リゾート店",
+          "region": "近畿",
+          "lesson_count": 166,
+          "path": "by_store/axtos/アクトス_芦屋リゾート店.json"
+        },
+        {
+          "store_id": "ena",
+          "store": "アクトス 恵那店",
+          "region": "中部・北陸",
+          "lesson_count": 44,
+          "path": "by_store/axtos/アクトス_恵那店.json"
+        },
+        {
+          "store_id": "fujiwaradai",
+          "store": "アクトス 藤原台店",
+          "region": "近畿",
+          "lesson_count": 113,
+          "path": "by_store/axtos/アクトス_藤原台店.json"
+        },
+        {
+          "store_id": "gifushima",
+          "store": "アクトス 岐阜島店",
+          "region": "中部・北陸",
+          "lesson_count": 89,
+          "path": "by_store/axtos/アクトス_岐阜島店.json"
+        },
+        {
+          "store_id": "hakozaki",
+          "store": "Will箱崎店",
+          "region": "九州・沖縄",
+          "lesson_count": 74,
+          "path": "by_store/axtos/Will箱崎店.json"
+        },
+        {
+          "store_id": "hamamatsu",
+          "store": "アクトス 浜松店",
+          "region": "中部・北陸",
+          "lesson_count": 115,
+          "path": "by_store/axtos/アクトス_浜松店.json"
+        },
+        {
+          "store_id": "hikone",
+          "store": "アクトス 彦根店",
+          "region": "近畿",
+          "lesson_count": 120,
+          "path": "by_store/axtos/アクトス_彦根店.json"
+        },
+        {
+          "store_id": "hiromi",
+          "store": "アクトス 広見店",
+          "region": "中部・北陸",
+          "lesson_count": 95,
+          "path": "by_store/axtos/アクトス_広見店.json"
+        },
+        {
+          "store_id": "ichinomiyanishi",
+          "store": "アクトス 一宮西店",
+          "region": "中部・北陸",
+          "lesson_count": 257,
+          "path": "by_store/axtos/アクトス_一宮西店.json"
+        },
+        {
+          "store_id": "imabari",
+          "store": "アクトス 今治店",
+          "region": "中国・四国",
+          "lesson_count": 45,
+          "path": "by_store/axtos/アクトス_今治店.json"
+        },
+        {
+          "store_id": "ise",
+          "store": "アクトス 伊勢店",
+          "region": "近畿",
+          "lesson_count": 82,
+          "path": "by_store/axtos/アクトス_伊勢店.json"
+        },
+        {
+          "store_id": "jyoetsu",
+          "store": "アクトス 上越店",
+          "region": "中部・北陸",
+          "lesson_count": 80,
+          "path": "by_store/axtos/アクトス_上越店.json"
+        },
+        {
+          "store_id": "kagamihara",
+          "store": "アクトス 各務原店",
+          "region": "中部・北陸",
+          "lesson_count": 146,
+          "path": "by_store/axtos/アクトス_各務原店.json"
+        },
+        {
+          "store_id": "kakogawa",
+          "store": "アクトス 加古川店",
+          "region": "近畿",
+          "lesson_count": 68,
+          "path": "by_store/axtos/アクトス_加古川店.json"
+        },
+        {
+          "store_id": "kanazawa",
+          "store": "Will金沢大桑店",
+          "region": "中部・北陸",
+          "lesson_count": 110,
+          "path": "by_store/axtos/Will金沢大桑店.json"
+        },
+        {
+          "store_id": "kariya",
+          "store": "アクトス 刈谷店",
+          "region": "中部・北陸",
+          "lesson_count": 82,
+          "path": "by_store/axtos/アクトス_刈谷店.json"
+        },
+        {
+          "store_id": "kasugai",
+          "store": "アクトス 春日井店",
+          "region": "中部・北陸",
+          "lesson_count": 88,
+          "path": "by_store/axtos/アクトス_春日井店.json"
+        },
+        {
+          "store_id": "kurashiki",
+          "store": "アクトス 倉敷店",
+          "region": "中国・四国",
+          "lesson_count": 58,
+          "path": "by_store/axtos/アクトス_倉敷店.json"
+        },
+        {
+          "store_id": "kuwana",
+          "store": "アクトス 桑名店",
+          "region": "近畿",
+          "lesson_count": 63,
+          "path": "by_store/axtos/アクトス_桑名店.json"
+        },
+        {
+          "store_id": "lalla",
+          "store": "女性専用 LALLA希望ヶ丘店",
+          "region": "中部・北陸",
+          "lesson_count": 73,
+          "path": "by_store/axtos/女性専用_LALLA希望ヶ丘店.json"
+        },
+        {
+          "store_id": "matsuyama",
+          "store": "Will松山店",
+          "region": "中国・四国",
+          "lesson_count": 104,
+          "path": "by_store/axtos/Will松山店.json"
+        },
+        {
+          "store_id": "megadonki_fukushige",
+          "store": "アクトスWill_G MEGAドン・キホーテ福岡福重店",
+          "region": "九州・沖縄",
+          "lesson_count": 179,
+          "path": "by_store/axtos/アクトスWill_G_MEGAドン・キホーテ福岡福重店.json"
+        },
+        {
+          "store_id": "morioka",
+          "store": "アクトス 盛岡店",
+          "region": "北海道・東北",
+          "lesson_count": 79,
+          "path": "by_store/axtos/アクトス_盛岡店.json"
+        },
+        {
+          "store_id": "nabari",
+          "store": "アクトス 名張店",
+          "region": "近畿",
+          "lesson_count": 76,
+          "path": "by_store/axtos/アクトス_名張店.json"
+        },
+        {
+          "store_id": "nakagawa",
+          "store": "アクトス 中川店",
+          "region": "中部・北陸",
+          "lesson_count": 128,
+          "path": "by_store/axtos/アクトス_中川店.json"
+        },
+        {
+          "store_id": "oogaki",
+          "store": "アクトス 大垣店",
+          "region": "中部・北陸",
+          "lesson_count": 51,
+          "path": "by_store/axtos/アクトス_大垣店.json"
+        },
+        {
+          "store_id": "owari",
+          "store": "Will尾張旭店",
+          "region": "中部・北陸",
+          "lesson_count": 97,
+          "path": "by_store/axtos/Will尾張旭店.json"
+        },
+        {
+          "store_id": "rinku",
+          "store": "アクトス りんくう店",
+          "region": "中部・北陸",
+          "lesson_count": 104,
+          "path": "by_store/axtos/アクトス_りんくう店.json"
+        },
+        {
+          "store_id": "senboku",
+          "store": "アクトス 泉北原山台店",
+          "region": "近畿",
+          "lesson_count": 126,
+          "path": "by_store/axtos/アクトス_泉北原山台店.json"
+        },
+        {
+          "store_id": "sennonji",
+          "store": "アクトス 千音寺店",
+          "region": "中部・北陸",
+          "lesson_count": 138,
+          "path": "by_store/axtos/アクトス_千音寺店.json"
+        },
+        {
+          "store_id": "shinseto",
+          "store": "アクトス 新瀬戸店",
+          "region": "中部・北陸",
+          "lesson_count": 68,
+          "path": "by_store/axtos/アクトス_新瀬戸店.json"
+        },
+        {
+          "store_id": "suzuran",
+          "store": "アクトス 鈴蘭台店",
+          "region": "近畿",
+          "lesson_count": 67,
+          "path": "by_store/axtos/アクトス_鈴蘭台店.json"
+        },
+        {
+          "store_id": "takaoka",
+          "store": "Will高岡店",
+          "region": "中部・北陸",
+          "lesson_count": 103,
+          "path": "by_store/axtos/Will高岡店.json"
+        },
+        {
+          "store_id": "takayama",
+          "store": "アクトス 高山店",
+          "region": "中部・北陸",
+          "lesson_count": 173,
+          "path": "by_store/axtos/アクトス_高山店.json"
+        },
+        {
+          "store_id": "takinomizu",
+          "store": "アクトス 滝ノ水店",
+          "region": "中部・北陸",
+          "lesson_count": 204,
+          "path": "by_store/axtos/アクトス_滝ノ水店.json"
+        },
+        {
+          "store_id": "toyohashi",
+          "store": "アクトス 豊橋店",
+          "region": "中部・北陸",
+          "lesson_count": 146,
+          "path": "by_store/axtos/アクトス_豊橋店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "cospa",
       "gym": "COSPA（コ・ス・パ）",
       "stores": [
@@ -7601,236 +7901,6 @@
           "region": "関東",
           "lesson_count": 122,
           "path": "by_store/jexer/ジェクサー・フィットネスクラブ_メトロポリタン池袋.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "axtos",
-      "gym": "スポーツクラブアクトス",
-      "stores": [
-        {
-          "store_id": "aeontown_kisarazujyouzai",
-          "store": "アクトスWill_G イオンタウン木更津請西店",
-          "region": "関東",
-          "lesson_count": 11,
-          "path": "by_store/axtos/アクトスWill_G_イオンタウン木更津請西店.json"
-        },
-        {
-          "store_id": "akanabe",
-          "store": "Will茜部店",
-          "region": "中部・北陸",
-          "lesson_count": 67,
-          "path": "by_store/axtos/Will茜部店.json"
-        },
-        {
-          "store_id": "akashiookura",
-          "store": "アクトス 明石大蔵リゾート店",
-          "region": "近畿",
-          "lesson_count": 141,
-          "path": "by_store/axtos/アクトス_明石大蔵リゾート店.json"
-        },
-        {
-          "store_id": "akashiuozumi",
-          "store": "アクトス 明石魚住店",
-          "region": "近畿",
-          "lesson_count": 184,
-          "path": "by_store/axtos/アクトス_明石魚住店.json"
-        },
-        {
-          "store_id": "amagasaki",
-          "store": "Willアマドゥ店",
-          "region": "近畿",
-          "lesson_count": 100,
-          "path": "by_store/axtos/Willアマドゥ店.json"
-        },
-        {
-          "store_id": "anjyo",
-          "store": "アクトス 安城店",
-          "region": "中部・北陸",
-          "lesson_count": 63,
-          "path": "by_store/axtos/アクトス_安城店.json"
-        },
-        {
-          "store_id": "ashiya",
-          "store": "アクトス 芦屋リゾート店",
-          "region": "近畿",
-          "lesson_count": 166,
-          "path": "by_store/axtos/アクトス_芦屋リゾート店.json"
-        },
-        {
-          "store_id": "ena",
-          "store": "アクトス 恵那店",
-          "region": "中部・北陸",
-          "lesson_count": 44,
-          "path": "by_store/axtos/アクトス_恵那店.json"
-        },
-        {
-          "store_id": "fujiwaradai",
-          "store": "アクトス 藤原台店",
-          "region": "近畿",
-          "lesson_count": 113,
-          "path": "by_store/axtos/アクトス_藤原台店.json"
-        },
-        {
-          "store_id": "gifushima",
-          "store": "アクトス 岐阜島店",
-          "region": "中部・北陸",
-          "lesson_count": 89,
-          "path": "by_store/axtos/アクトス_岐阜島店.json"
-        },
-        {
-          "store_id": "hakozaki",
-          "store": "Will箱崎店",
-          "region": "九州・沖縄",
-          "lesson_count": 74,
-          "path": "by_store/axtos/Will箱崎店.json"
-        },
-        {
-          "store_id": "hamamatsu",
-          "store": "アクトス 浜松店",
-          "region": "中部・北陸",
-          "lesson_count": 115,
-          "path": "by_store/axtos/アクトス_浜松店.json"
-        },
-        {
-          "store_id": "hikone",
-          "store": "アクトス 彦根店",
-          "region": "近畿",
-          "lesson_count": 120,
-          "path": "by_store/axtos/アクトス_彦根店.json"
-        },
-        {
-          "store_id": "hiromi",
-          "store": "アクトス 広見店",
-          "region": "中部・北陸",
-          "lesson_count": 95,
-          "path": "by_store/axtos/アクトス_広見店.json"
-        },
-        {
-          "store_id": "ichinomiyanishi",
-          "store": "アクトス 一宮西店",
-          "region": "中部・北陸",
-          "lesson_count": 257,
-          "path": "by_store/axtos/アクトス_一宮西店.json"
-        },
-        {
-          "store_id": "imabari",
-          "store": "アクトス 今治店",
-          "region": "中国・四国",
-          "lesson_count": 45,
-          "path": "by_store/axtos/アクトス_今治店.json"
-        },
-        {
-          "store_id": "ise",
-          "store": "アクトス 伊勢店",
-          "region": "近畿",
-          "lesson_count": 82,
-          "path": "by_store/axtos/アクトス_伊勢店.json"
-        },
-        {
-          "store_id": "jyoetsu",
-          "store": "アクトス 上越店",
-          "region": "中部・北陸",
-          "lesson_count": 80,
-          "path": "by_store/axtos/アクトス_上越店.json"
-        },
-        {
-          "store_id": "kagamihara",
-          "store": "アクトス 各務原店",
-          "region": "中部・北陸",
-          "lesson_count": 146,
-          "path": "by_store/axtos/アクトス_各務原店.json"
-        },
-        {
-          "store_id": "kakogawa",
-          "store": "アクトス 加古川店",
-          "region": "近畿",
-          "lesson_count": 68,
-          "path": "by_store/axtos/アクトス_加古川店.json"
-        },
-        {
-          "store_id": "kanazawa",
-          "store": "Will金沢大桑店",
-          "region": "中部・北陸",
-          "lesson_count": 110,
-          "path": "by_store/axtos/Will金沢大桑店.json"
-        },
-        {
-          "store_id": "kariya",
-          "store": "アクトス 刈谷店",
-          "region": "中部・北陸",
-          "lesson_count": 82,
-          "path": "by_store/axtos/アクトス_刈谷店.json"
-        },
-        {
-          "store_id": "kasugai",
-          "store": "アクトス 春日井店",
-          "region": "中部・北陸",
-          "lesson_count": 88,
-          "path": "by_store/axtos/アクトス_春日井店.json"
-        },
-        {
-          "store_id": "kurashiki",
-          "store": "アクトス 倉敷店",
-          "region": "中国・四国",
-          "lesson_count": 58,
-          "path": "by_store/axtos/アクトス_倉敷店.json"
-        },
-        {
-          "store_id": "kuwana",
-          "store": "アクトス 桑名店",
-          "region": "近畿",
-          "lesson_count": 63,
-          "path": "by_store/axtos/アクトス_桑名店.json"
-        },
-        {
-          "store_id": "lalla",
-          "store": "女性専用 LALLA希望ヶ丘店",
-          "region": "中部・北陸",
-          "lesson_count": 73,
-          "path": "by_store/axtos/女性専用_LALLA希望ヶ丘店.json"
-        },
-        {
-          "store_id": "matsuyama",
-          "store": "Will松山店",
-          "region": "中国・四国",
-          "lesson_count": 104,
-          "path": "by_store/axtos/Will松山店.json"
-        },
-        {
-          "store_id": "megadonki_fukushige",
-          "store": "アクトスWill_G MEGAドン・キホーテ福岡福重店",
-          "region": "九州・沖縄",
-          "lesson_count": 179,
-          "path": "by_store/axtos/アクトスWill_G_MEGAドン・キホーテ福岡福重店.json"
-        },
-        {
-          "store_id": "morioka",
-          "store": "アクトス 盛岡店",
-          "region": "北海道・東北",
-          "lesson_count": 79,
-          "path": "by_store/axtos/アクトス_盛岡店.json"
-        },
-        {
-          "store_id": "nabari",
-          "store": "アクトス 名張店",
-          "region": "近畿",
-          "lesson_count": 76,
-          "path": "by_store/axtos/アクトス_名張店.json"
-        },
-        {
-          "store_id": "nakagawa",
-          "store": "アクトス 中川店",
-          "region": "中部・北陸",
-          "lesson_count": 128,
-          "path": "by_store/axtos/アクトス_中川店.json"
-        },
-        {
-          "store_id": "oogaki",
-          "store": "アクトス 大垣店",
-          "region": "中部・北陸",
-          "lesson_count": 51,
-          "path": "by_store/axtos/アクトス_大垣店.json"
         }
       ]
     },

@@ -162,6 +162,7 @@ function lessonRow(r, opts) {
   const cells = [];
   if (opts.showDay) cells.push(`<td class="day">${escapeHtml(r.day || "")}</td>`);
   cells.push(`<td class="time">${escapeHtml(GQ.fmtTime(r))}</td>`);
+  cells.push(`<td class="dur muted">${escapeHtml(GQ.fmtDuration(r))}</td>`);
   if (opts.showStore) cells.push(`<td>${storeLink(r)}<div class="muted">${escapeHtml(r.gym || "")}・${escapeHtml(r.region || "")}</div></td>`);
   cells.push(`<td class="cls">${escapeHtml(r.class_name || "")} ${tags.join(" ")}${studio}</td>`);
   if (opts.showCategory) cells.push(`<td><span class="cat">${escapeHtml(r.category || "")}</span></td>`);
@@ -174,6 +175,7 @@ function tableCols(opts) {
   const cols = [];
   if (opts.showDay) cols.push(["day", "曜日"]);
   cols.push(["time", "時間"]);
+  cols.push(["duration", "所要"]);
   if (opts.showStore) cols.push(["store", "店舗"]);
   cols.push(["class_name", "クラス"]);
   if (opts.showCategory) cols.push(["category", "カテゴリー"]);
@@ -194,6 +196,7 @@ function sortRows(rows) {
   const c = sortState.col, mul = sortState.dir === "asc" ? 1 : -1;
   return rows.slice().sort((a, b) => {
     if (c === "time") return (GQ.startMin(a.start) - GQ.startMin(b.start)) * mul;
+    if (c === "duration") return ((GQ.durationMin(a) ?? 1e9) - (GQ.durationMin(b) ?? 1e9)) * mul;
     if (c === "day") return (GQ.dayKey(a.day) - GQ.dayKey(b.day)) * mul;
     return String(a[c] || "").localeCompare(String(b[c] || ""), "ja") * mul;
   });

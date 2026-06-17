@@ -38,6 +38,17 @@ function fmtTime(r) {
   if (st && en) return `${st}~${en}`;
   return st || "";
 }
+// 所要時間(分)。start/end が揃わない場合は null。日跨ぎは無視。
+function durationMin(r) {
+  const a = startMin(r.start), b = startMin(r.end);
+  if (a > 24 * 60 || b > 24 * 60) return null;
+  const d = b - a;
+  return d > 0 ? d : null;
+}
+function fmtDuration(r) {
+  const d = durationMin(r);
+  return d == null ? "" : `${d}分`;
+}
 
 // ---- フィルタ ----
 function filterLessons(lessons, p) {
@@ -141,6 +152,6 @@ function listInstructors(lessons, params) {
 }
 
 const GQ_API = { WEEK, setOrders, filterLessons, buildView, listInstructors,
-  fmtTime, startMin, dayKey };
+  fmtTime, durationMin, fmtDuration, startMin, dayKey };
 if (typeof window !== "undefined") window.GQ = GQ_API;
 if (typeof module !== "undefined" && module.exports) module.exports = GQ_API;
