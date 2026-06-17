@@ -152,6 +152,6 @@ function listInstructors(lessons, params) {
 }
 
 const GQ_API = { WEEK, setOrders, filterLessons, buildView, listInstructors,
-  fmtTime, durationMin, fmtDuration, startMin, dayKey };
+  fmtTime, durationMin, fmtDuration, startMin, dayKey, storeLabel };
 if (typeof window !== "undefined") window.GQ = GQ_API;
 if (typeof module !== "undefined" && module.exports) module.exports = GQ_API;

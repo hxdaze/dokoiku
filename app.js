@@ -146,9 +146,16 @@ function renderSummary(data) {
 }
 
 function storeLink(r) {
-  const name = escapeHtml(r.store || "");
-  if (!name) return "";
-  return r.url ? `<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener" class="store-link">${name}</a>` : name;
+  const store = (r.store || "").trim();
+  if (!store) return "";
+  const link = r.url
+    ? `<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener" class="store-link">${escapeHtml(store)}</a>`
+    : escapeHtml(store);
+  // 店舗名にジム名が含まれなければ「店舗名（ジム名）」で併記する。
+  const gym = (r.gym || "").trim();
+  return (gym && !store.includes(gym))
+    ? `${link}<span class="muted">（${escapeHtml(gym)}）</span>`
+    : link;
 }
 
 function noteText(r) {
@@ -169,7 +176,7 @@ function lessonRow(r, opts) {
   if (opts.showDay) cells.push(`<td class="day">${escapeHtml(r.day || "")}</td>`);
   cells.push(`<td class="time">${escapeHtml(GQ.fmtTime(r))}</td>`);
   cells.push(`<td class="dur muted">${escapeHtml(GQ.fmtDuration(r))}</td>`);
-  if (opts.showStore) cells.push(`<td>${storeLink(r)}<div class="muted">${escapeHtml(r.gym || "")}・${escapeHtml(r.region || "")}</div></td>`);
+  if (opts.showStore) cells.push(`<td>${storeLink(r)}<div class="muted">${escapeHtml(r.region || "")}</div></td>`);
   cells.push(`<td class="cls">${escapeHtml(r.class_name || "")} ${tags.join(" ")}${studio}</td>`);
   if (opts.showCategory) cells.push(`<td><span class="cat">${escapeHtml(r.category || "")}</span></td>`);
   cells.push(`<td>${escapeHtml(r.instructor || "")}</td>`);

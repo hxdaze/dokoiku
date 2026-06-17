@@ -16,8 +16,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 44,
-  "store_count": 1661,
+  "gym_count": 45,
+  "store_count": 1662,
   "gyms": [
     {
       "gym_id": "lava",
@@ -11679,6 +11679,19 @@
           "region": "関東",
           "lesson_count": 250,
           "path": "by_store/seibu/所沢.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "loive",
+      "gym": "ホットヨガスタジオ loIve（ロイブ）",
+      "stores": [
+        {
+          "store_id": "aeon-kamisato",
+          "store": "loIve aeon-kamisato",
+          "region": "関東",
+          "lesson_count": 186,
+          "path": "by_store/loive/loIve_aeon-kamisato.json"
         }
       ]
     },
