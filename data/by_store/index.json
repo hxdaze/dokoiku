@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 67,
-  "store_count": 1827,
+  "gym_count": 68,
+  "store_count": 1828,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12971,6 +12971,19 @@
       ]
     },
     {
+      "gym_id": "koto",
+      "gym": "江東区健康スポーツ公社",
+      "stores": [
+        {
+          "store_id": "koto",
+          "store": "江東区健康スポーツ公社",
+          "region": "関東",
+          "lesson_count": 63,
+          "path": "by_store/koto/江東区健康スポーツ公社.json"
+        }
+      ]
+    },
+    {
       "gym_id": "shibuya_sc",
       "gym": "渋谷区スポーツセンター",
       "stores": [
@@ -13140,6 +13153,19 @@
       ]
     },
     {
+      "gym_id": "v10kanazawa",
+      "gym": "スポーツクラブ V10ヴィテンかなざわ",
+      "stores": [
+        {
+          "store_id": "kanazawa",
+          "store": "スポーツクラブ V10ヴィテンかなざわ",
+          "region": "中部・北陸",
+          "lesson_count": 17,
+          "path": "by_store/v10kanazawa/スポーツクラブ_V10ヴィテンかなざわ.json"
+        }
+      ]
+    },
+    {
       "gym_id": "esfortaota",
       "gym": "Ebara Waveアリーナおおた（大田区総合体育館）",
       "stores": [
@@ -13195,19 +13221,6 @@
           "region": "関東",
           "lesson_count": 1,
           "path": "by_store/mahya/巣鴨Class（スタジオ_BOOM!!!）.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "koto",
-      "gym": "江東区健康スポーツ公社",
-      "stores": [
-        {
-          "store_id": "koto",
-          "store": "江東区健康スポーツ公社",
-          "region": "関東",
-          "lesson_count": 1,
-          "path": "by_store/koto/江東区健康スポーツ公社.json"
         }
       ]
     }
