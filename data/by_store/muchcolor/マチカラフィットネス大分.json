@@ -1,0 +1,50 @@
+[
+  {
+    "gym_id": "muchcolor",
+    "store_id": "oita",
+    "store": "マチカラフィットネス大分",
+    "region": "九州・沖縄",
+    "day": "月",
+    "start": "10:30",
+    "end": "11:10",
+    "class_name": "プロアクティブ",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "オープンスタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": null
+  },
+  {
+    "gym_id": "muchcolor",
+    "store_id": "oita",
+    "store": "マチカラフィットネス大分",
+    "region": "九州・沖縄",
+    "day": "月",
+    "start": "10:30",
+    "end": "11:10",
+    "class_name": "ZUMBA",
+    "category": "ZUMBA",
+    "instructor": null,
+    "studio": "プール",
+    "reservation_required": false,
+    "genre": "ZUMBA",
+    "note": null
+  },
+  {
+    "gym_id": "muchcolor",
+    "store_id": "oita",
+    "store": "マチカラフィットネス大分",
+    "region": "九州・沖縄",
+    "day": "月",
+    "start": "10:30",
+    "end": "11:10",
+    "class_name": "アクアビクス",
+    "category": "AQUA",
+    "instructor": "ヨコ",
+    "studio": "プール",
+    "reservation_required": false,
+    "genre": "アクアビクス",
+    "note": null
+  }
+]
