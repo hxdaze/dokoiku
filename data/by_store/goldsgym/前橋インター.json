@@ -814,5 +814,22 @@
     "reservation_required": false,
     "genre": null,
     "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "180824",
+    "store": "前橋インター",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "day": "月",
+    "start": "13:00",
+    "end": "13:50",
+    "class_name": "ボディメイクストレッチ阿部",
+    "category": "STRENGTH & CORE",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": null
   }
 ]

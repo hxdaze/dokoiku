@@ -1034,7 +1034,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "(クロール&平泳ぎ) / 四方秀弥"
+    "note": "(クロール&平泳 / ぎ) / 四方秀弥"
   },
   {
     "gym_id": "goldsgym",
@@ -1081,10 +1081,44 @@
     "end": "14:15",
     "class_name": "初級四泳法",
     "category": "OTHER",
+    "instructor": "Chie",
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "28120",
+    "store": "京都今出川",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "day": "水",
+    "start": "10:00",
+    "end": "10:30",
+    "class_name": "アクアウォーキング",
+    "category": "AQUA",
     "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "Chie"
+    "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "28120",
+    "store": "京都今出川",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "day": "水",
+    "start": "10:00",
+    "end": "10:30",
+    "class_name": "スタッフ",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": "AYANO"
   }
 ]

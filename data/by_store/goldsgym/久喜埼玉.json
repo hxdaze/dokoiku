@@ -984,5 +984,22 @@
     "reservation_required": false,
     "genre": null,
     "note": "フリータイム"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "20200508",
+    "store": "久喜埼玉",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "day": "月",
+    "start": "17:00",
+    "end": "18:00",
+    "class_name": "ピックルボール",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "Astudio",
+    "reservation_required": false,
+    "genre": null,
+    "note": "フリータイム"
   }
 ]

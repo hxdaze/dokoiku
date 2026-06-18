@@ -967,22 +967,5 @@
     "reservation_required": false,
     "genre": null,
     "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "190913",
-    "store": "函館北海道（フランチャイズ店）",
-    "region": "北海道・東北",
-    "prefecture": "北海道",
-    "day": "水",
-    "start": "11:45",
-    "end": "12:45",
-    "class_name": "肩こり改善ヨガ",
-    "category": "YOGA & PILATES",
-    "instructor": "数馬",
-    "studio": null,
-    "reservation_required": false,
-    "genre": null,
-    "note": null
   }
 ]

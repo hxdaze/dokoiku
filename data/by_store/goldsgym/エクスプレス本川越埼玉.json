@@ -882,5 +882,22 @@
     "reservation_required": false,
     "genre": "ボディコンディショニング",
     "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "20211015",
+    "store": "エクスプレス本川越埼玉",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "day": "日",
+    "start": "16:30",
+    "end": "17:30",
+    "class_name": "Hip & Walk",
+    "category": "RUNNING",
+    "instructor": "Kei",
+    "studio": null,
+    "reservation_required": false,
+    "genre": "ボディコンディショニング",
+    "note": null
   }
 ]

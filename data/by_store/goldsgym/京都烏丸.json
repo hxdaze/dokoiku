@@ -916,5 +916,22 @@
     "reservation_required": false,
     "genre": "コンディショニング・調整",
     "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "26110",
+    "store": "京都烏丸",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "day": "月",
+    "start": "13:40",
+    "end": "14:40",
+    "class_name": "リラックスヨガ",
+    "category": "YOGA & PILATES",
+    "instructor": "HISAMI",
+    "studio": null,
+    "reservation_required": false,
+    "genre": "ハタヨガ",
+    "note": null
   }
 ]

@@ -639,7 +639,7 @@
     "end": "15:15",
     "class_name": "JAZZセッションKENSHI",
     "category": "JAZZ DANCE",
-    "instructor": null,
+    "instructor": "当日申込",
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有料スクール",
@@ -1460,5 +1460,22 @@
     "reservation_required": false,
     "genre": "ステップ",
     "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "20220509",
+    "store": "練馬高野台東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "水",
+    "start": "12:50",
+    "end": "13:35",
+    "class_name": "成人初級水泳",
+    "category": "SWIMMING",
+    "instructor": "酒井",
+    "studio": "WED",
+    "reservation_required": false,
+    "genre": null,
+    "note": "有料レッスン"
   }
 ]

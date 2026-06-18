@@ -116,7 +116,7 @@
     "studio": "Studio 1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": "8月より担当者変更"
   },
   {
     "gym_id": "goldsgym",
@@ -1239,5 +1239,39 @@
     "reservation_required": false,
     "genre": "ヨ ガ",
     "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "2222",
+    "store": "笹塚東京 (OPEN 24 HOURS)",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "木",
+    "start": "11:00",
+    "end": "11:50",
+    "class_name": "新村卓也",
+    "category": "OTHER",
+    "instructor": "バタフライ",
+    "studio": "プールエリア/Studio 1",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "2222",
+    "store": "笹塚東京 (OPEN 24 HOURS)",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "土",
+    "start": "13:00",
+    "end": "13:30",
+    "class_name": "ウォーキング&のんアクアビクス9月よりBody make",
+    "category": "AQUA",
+    "instructor": null,
+    "studio": "溶岩/プールエリア",
+    "reservation_required": false,
+    "genre": null,
+    "note": "2.4週開催 / 有料レッスン1,100円 / &ストレッチ再開"
   }
 ]
