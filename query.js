@@ -55,6 +55,7 @@ function filterLessons(lessons, p) {
   const q = norm(p.q);
   return lessons.filter((r) => {
     if (p.region && r.region !== p.region) return false;
+    if (p.prefecture && r.prefecture !== p.prefecture) return false;
     if (p.gym && r.gym_id !== p.gym) return false;
     if (p.day && r.day !== p.day) return false;
     if (p.category && r.category !== p.category) return false;

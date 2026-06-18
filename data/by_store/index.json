@@ -5,6 +5,7 @@
     "store_id",
     "store",
     "region",
+    "prefecture",
     "day",
     "start",
     "end",
@@ -17,7 +18,7 @@
     "note"
   ],
   "gym_count": 56,
-  "store_count": 1797,
+  "store_count": 1801,
   "gyms": [
     {
       "gym_id": "lava",
@@ -4388,6 +4389,34 @@
           "region": "関東",
           "lesson_count": 115,
           "path": "by_store/pilatesk/ピラティスK_kasuga.json"
+        },
+        {
+          "store_id": "tokyo-kichijoji",
+          "store": "ピラティスK kichijoji",
+          "region": "関東",
+          "lesson_count": 122,
+          "path": "by_store/pilatesk/ピラティスK_kichijoji.json"
+        },
+        {
+          "store_id": "tokyo-kokubunji",
+          "store": "ピラティスK kokubunji",
+          "region": "関東",
+          "lesson_count": 114,
+          "path": "by_store/pilatesk/ピラティスK_kokubunji.json"
+        },
+        {
+          "store_id": "tokyo-machida",
+          "store": "ピラティスK machida",
+          "region": "関東",
+          "lesson_count": 94,
+          "path": "by_store/pilatesk/ピラティスK_machida.json"
+        },
+        {
+          "store_id": "tokyo-minamiosawa",
+          "store": "ピラティスK minamiosawa",
+          "region": "関東",
+          "lesson_count": 80,
+          "path": "by_store/pilatesk/ピラティスK_minamiosawa.json"
         }
       ]
     },

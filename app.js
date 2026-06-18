@@ -5,7 +5,7 @@ const $ = (s) => document.querySelector(s);
 const STATE_KEY = "dokoiku_zumba_state_v1";
 
 const state = {
-  view: "day", region: "", gym: "", day: "", category: "",
+  view: "day", region: "", prefecture: "", gym: "", day: "", category: "",
   store_id: "", instructor: "", q: "", limit: "200",
 };
 
@@ -79,6 +79,7 @@ function fillControls() {
   $("#metaSub").textContent =
     `${META.gyms.length}ジム ｜ レッスン ${META.lesson_count.toLocaleString()}件・店舗 ${META.store_count}件 ｜ ${META.generated_at?.slice(0, 16).replace("T", " ") || ""}`;
   setOptions($("#f-region"), META.regions);
+  setOptions($("#f-prefecture"), META.prefectures || []);
   setOptions($("#f-gym"), META.gyms, { value: (g) => g.id, label: (g) => `${g.label} (${g.count.toLocaleString()})` });
   setOptions($("#f-day"), META.days);
   setOptions($("#f-category"), META.categories);
@@ -86,7 +87,8 @@ function fillControls() {
   refreshInstructorOptions();
   // 復元
   const set = (sel, v) => { const el = $(sel); if (el && [...el.options].some((o) => o.value === v)) el.value = v; };
-  set("#f-region", state.region); set("#f-gym", state.gym); set("#f-day", state.day);
+  set("#f-region", state.region); set("#f-prefecture", state.prefecture);
+  set("#f-gym", state.gym); set("#f-day", state.day);
   set("#f-category", state.category); set("#f-store", state.store_id);
   set("#f-instructor", state.instructor); set("#f-limit", state.limit);
   $("#f-q").value = state.q || "";
@@ -96,6 +98,7 @@ function fillControls() {
 function refreshStoreOptions() {
   let list = STORES;
   if (state.region) list = list.filter((s) => s.region === state.region);
+  if (state.prefecture) list = list.filter((s) => s.prefecture === state.prefecture);
   if (state.gym) list = list.filter((s) => s.gym_id === state.gym);
   list = list.slice().sort((a, b) => (a.store || "").localeCompare(b.store || "", "ja"));
   setOptions($("#f-store"), list, { value: (s) => s.store_id, label: (s) => s.store });
@@ -108,7 +111,8 @@ function refreshInstructorOptions() {
 
 function params() {
   return {
-    region: state.region, gym: state.gym, day: state.day, category: state.category,
+    region: state.region, prefecture: state.prefecture, gym: state.gym,
+    day: state.day, category: state.category,
     store_id: state.store_id, instructor: state.instructor, q: state.q,
   };
 }
@@ -248,6 +252,7 @@ function renderGroups(data) {
 function renderSubstitution() {
   let rows = DAIKO.slice();
   if (state.region) rows = rows.filter((s) => s.region === state.region);
+  if (state.prefecture) rows = rows.filter((s) => s.prefecture === state.prefecture);
   if (state.gym) rows = rows.filter((s) => s.gym_id === state.gym);
   if (state.q) {
     const q = state.q.normalize("NFKC").toUpperCase();
@@ -274,6 +279,7 @@ function bind() {
     state.view = t.dataset.view; setActiveTab(state.view); refreshView();
   }));
   $("#f-region").addEventListener("change", (e) => { state.region = e.target.value; refreshStoreOptions(); refreshInstructorOptions(); refreshView(); });
+  $("#f-prefecture").addEventListener("change", (e) => { state.prefecture = e.target.value; refreshStoreOptions(); refreshInstructorOptions(); refreshView(); });
   $("#f-gym").addEventListener("change", (e) => { state.gym = e.target.value; refreshStoreOptions(); refreshInstructorOptions(); refreshView(); });
   $("#f-day").addEventListener("change", (e) => { state.day = e.target.value; refreshInstructorOptions(); refreshView(); });
   $("#f-category").addEventListener("change", (e) => { state.category = e.target.value; refreshInstructorOptions(); refreshView(); });
@@ -283,8 +289,8 @@ function bind() {
   let t = null;
   $("#f-q").addEventListener("input", (e) => { state.q = e.target.value.trim(); clearTimeout(t); t = setTimeout(() => { refreshInstructorOptions(); refreshView(); }, 250); });
   $("#resetBtn").addEventListener("click", () => {
-    Object.assign(state, { gym: "", day: "", category: "", store_id: "", instructor: "", q: "" });
-    $("#f-gym").value = ""; $("#f-day").value = ""; $("#f-category").value = "";
+    Object.assign(state, { prefecture: "", gym: "", day: "", category: "", store_id: "", instructor: "", q: "" });
+    $("#f-prefecture").value = ""; $("#f-gym").value = ""; $("#f-day").value = ""; $("#f-category").value = "";
     $("#f-store").value = ""; $("#f-q").value = "";
     refreshStoreOptions(); refreshInstructorOptions(); refreshView();
   });
