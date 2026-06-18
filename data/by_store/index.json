@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 68,
-  "store_count": 1828,
+  "gym_count": 70,
+  "store_count": 1830,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12789,6 +12789,19 @@
       ]
     },
     {
+      "gym_id": "ncp",
+      "gym": "エイブルスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "okayama",
+          "store": "エイブルスポーツクラブ 岡山",
+          "region": "中国・四国",
+          "lesson_count": 130,
+          "path": "by_store/ncp/エイブルスポーツクラブ_岡山.json"
+        }
+      ]
+    },
+    {
       "gym_id": "wellsq",
       "gym": "ウェルネススクエア札幌",
       "stores": [
@@ -13045,6 +13058,19 @@
           "region": "北海道・東北",
           "lesson_count": 55,
           "path": "by_store/pureness/ピュアネス福島.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "esport",
+      "gym": "スポーツクラブ エスポート",
+      "stores": [
+        {
+          "store_id": "yamagata",
+          "store": "エスポート 山形",
+          "region": "北海道・東北",
+          "lesson_count": 45,
+          "path": "by_store/esport/エスポート_山形.json"
         }
       ]
     },
