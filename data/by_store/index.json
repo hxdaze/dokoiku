@@ -18,7 +18,7 @@
     "note"
   ],
   "gym_count": 56,
-  "store_count": 1801,
+  "store_count": 1810,
   "gyms": [
     {
       "gym_id": "lava",
@@ -4417,6 +4417,69 @@
           "region": "関東",
           "lesson_count": 80,
           "path": "by_store/pilatesk/ピラティスK_minamiosawa.json"
+        },
+        {
+          "store_id": "tokyo-nakameguro",
+          "store": "ピラティスK nakameguro",
+          "region": "関東",
+          "lesson_count": 95,
+          "path": "by_store/pilatesk/ピラティスK_nakameguro.json"
+        },
+        {
+          "store_id": "tokyo-olinas-kinshicho",
+          "store": "ピラティスK olinas-kinshicho",
+          "region": "関東",
+          "lesson_count": 122,
+          "path": "by_store/pilatesk/ピラティスK_olinas-kinshicho.json"
+        },
+        {
+          "store_id": "tokyo-omori",
+          "store": "ピラティスK omori",
+          "region": "関東",
+          "lesson_count": 88,
+          "path": "by_store/pilatesk/ピラティスK_omori.json"
+        },
+        {
+          "store_id": "tokyo-omotesando",
+          "store": "ピラティスK omotesando",
+          "region": "関東",
+          "lesson_count": 111,
+          "path": "by_store/pilatesk/ピラティスK_omotesando.json"
+        },
+        {
+          "store_id": "tokyo-shibuya",
+          "store": "ピラティスK shibuya",
+          "region": "関東",
+          "lesson_count": 110,
+          "path": "by_store/pilatesk/ピラティスK_shibuya.json"
+        },
+        {
+          "store_id": "tokyo-shinjuku-nishiguchi",
+          "store": "ピラティスK shinjuku-nishiguchi",
+          "region": "関東",
+          "lesson_count": 105,
+          "path": "by_store/pilatesk/ピラティスK_shinjuku-nishiguchi.json"
+        },
+        {
+          "store_id": "tokyo-shinjuku",
+          "store": "ピラティスK shinjuku",
+          "region": "関東",
+          "lesson_count": 120,
+          "path": "by_store/pilatesk/ピラティスK_shinjuku.json"
+        },
+        {
+          "store_id": "tokyo-smart-ekoda",
+          "store": "ピラティスK smart-ekoda",
+          "region": "関東",
+          "lesson_count": 117,
+          "path": "by_store/pilatesk/ピラティスK_smart-ekoda.json"
+        },
+        {
+          "store_id": "tokyo-tachikawa",
+          "store": "ピラティスK tachikawa",
+          "region": "関東",
+          "lesson_count": 104,
+          "path": "by_store/pilatesk/ピラティスK_tachikawa.json"
         }
       ]
     },
