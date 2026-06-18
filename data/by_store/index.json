@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 65,
-  "store_count": 1825,
+  "gym_count": 67,
+  "store_count": 1827,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12737,6 +12737,19 @@
       ]
     },
     {
+      "gym_id": "aimare",
+      "gym": "フィットネスクラブ アイ・マーレ",
+      "stores": [
+        {
+          "store_id": "tsuyama",
+          "store": "フィットネスクラブ アイ・マーレ",
+          "region": "中国・四国",
+          "lesson_count": 158,
+          "path": "by_store/aimare/フィットネスクラブ_アイ・マーレ.json"
+        }
+      ]
+    },
+    {
       "gym_id": "bunkyo_sc",
       "gym": "文京スポーツセンター",
       "stores": [
@@ -12941,6 +12954,19 @@
           "region": "関東",
           "lesson_count": 65,
           "path": "by_store/ywcawow/東京YWCA_フィットネスワオ（女性専用）.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "arrest_yatsushiro",
+      "gym": "スポーツクラブ アレスト八代",
+      "stores": [
+        {
+          "store_id": "yatsushiro",
+          "store": "スポーツクラブ アレスト八代",
+          "region": "九州・沖縄",
+          "lesson_count": 63,
+          "path": "by_store/arrest_yatsushiro/スポーツクラブ_アレスト八代.json"
         }
       ]
     },
