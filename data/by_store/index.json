@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 59,
-  "store_count": 1819,
+  "gym_count": 64,
+  "store_count": 1824,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12828,6 +12828,32 @@
       ]
     },
     {
+      "gym_id": "aube",
+      "gym": "AUBE FOR ONE（オーブ）",
+      "stores": [
+        {
+          "store_id": "fukui",
+          "store": "AUBE FOR ONE（オーブ）福井",
+          "region": "中部・北陸",
+          "lesson_count": 91,
+          "path": "by_store/aube/AUBE_FOR_ONE（オーブ）福井.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "raysports",
+      "gym": "レイスポーツクラブ岡山",
+      "stores": [
+        {
+          "store_id": "okayama",
+          "store": "レイスポーツクラブ岡山",
+          "region": "中国・四国",
+          "lesson_count": 81,
+          "path": "by_store/raysports/レイスポーツクラブ岡山.json"
+        }
+      ]
+    },
+    {
       "gym_id": "wowd",
       "gym": "ワウディー（WOW'D）",
       "stores": [
@@ -12863,6 +12889,19 @@
           "region": "近畿",
           "lesson_count": 78,
           "path": "by_store/racfit/フィットネスモールラック_湖南.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "powerhouse_miyazaki",
+      "gym": "パワーハウスジム宮崎",
+      "stores": [
+        {
+          "store_id": "miyazaki",
+          "store": "パワーハウスジム宮崎",
+          "region": "九州・沖縄",
+          "lesson_count": 72,
+          "path": "by_store/powerhouse_miyazaki/パワーハウスジム宮崎.json"
         }
       ]
     },
@@ -12928,6 +12967,19 @@
           "region": "中部・北陸",
           "lesson_count": 59,
           "path": "by_store/alpen/アルペンフィットネスクラブ甲府.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "scan_himi",
+      "gym": "メディカルフィットネスクラブ スキャン(S-can)",
+      "stores": [
+        {
+          "store_id": "himi",
+          "store": "メディカルフィットネスクラブ スキャン(S-can)",
+          "region": "中部・北陸",
+          "lesson_count": 58,
+          "path": "by_store/scan_himi/メディカルフィットネスクラブ_スキャン(S-can).json"
         }
       ]
     },
@@ -13019,6 +13071,19 @@
           "region": "関東",
           "lesson_count": 28,
           "path": "by_store/sumida_sc/墨田区総合体育館（ひがしんアリーナ）.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "vtopia",
+      "gym": "ブイトピアスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "ichinomiya",
+          "store": "ブイトピアスポーツクラブ",
+          "region": "中部・北陸",
+          "lesson_count": 28,
+          "path": "by_store/vtopia/ブイトピアスポーツクラブ.json"
         }
       ]
     },
