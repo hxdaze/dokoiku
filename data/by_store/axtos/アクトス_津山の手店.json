@@ -358,7 +358,7 @@
     "region": "近畿",
     "day": "金",
     "start": "15:15",
-    "end": "18:55",
+    "end": null,
     "class_name": "マスターズ",
     "category": "OTHER",
     "instructor": null,

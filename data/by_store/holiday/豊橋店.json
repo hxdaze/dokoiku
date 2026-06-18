@@ -1046,7 +1046,7 @@
     "region": "中部・北陸",
     "day": "日",
     "start": "09:00",
-    "end": "18:50",
+    "end": null,
     "class_name": "ステップ30 Z-180 リーグトHIP ラダーBEE",
     "category": "STEP",
     "instructor": null,

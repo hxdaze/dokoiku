@@ -998,7 +998,7 @@
     "region": "中部・北陸",
     "day": "日",
     "start": "14:00",
-    "end": "17:30",
+    "end": null,
     "class_name": "ダイビングスクール",
     "category": "SWIMMING",
     "instructor": "中原",

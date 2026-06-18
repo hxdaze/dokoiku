@@ -1494,7 +1494,7 @@
     "region": "関東",
     "day": "日",
     "start": "09:00",
-    "end": "15:00",
+    "end": null,
     "class_name": "ヨガ60",
     "category": "YOGA & PILATES",
     "instructor": "エイミー",

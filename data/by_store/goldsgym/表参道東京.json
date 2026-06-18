@@ -1094,7 +1094,7 @@
     "region": "関東",
     "day": "日",
     "start": "11:00",
-    "end": "19:00",
+    "end": null,
     "class_name": "カレッジ整/WEB24:店8:繰2",
     "category": "OTHER",
     "instructor": null,

@@ -1302,7 +1302,7 @@
     "region": "近畿",
     "day": "日",
     "start": "00:00",
-    "end": "23:59",
+    "end": null,
     "class_name": "祝日",
     "category": "OTHER",
     "instructor": null,

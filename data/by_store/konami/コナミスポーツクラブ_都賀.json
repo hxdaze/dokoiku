@@ -230,7 +230,7 @@
     "region": "関東",
     "day": "土",
     "start": "0:10",
-    "end": "11:20",
+    "end": null,
     "class_name": "バレエ",
     "category": "BALLET",
     "instructor": null,

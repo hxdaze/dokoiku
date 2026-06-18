@@ -17,7 +17,7 @@
     "note"
   ],
   "gym_count": 56,
-  "store_count": 1791,
+  "store_count": 1797,
   "gyms": [
     {
       "gym_id": "lava",
@@ -4346,6 +4346,48 @@
           "region": "関東",
           "lesson_count": 103,
           "path": "by_store/pilatesk/ピラティスK_hachioji.json"
+        },
+        {
+          "store_id": "tokyo-higashi-yamato",
+          "store": "ピラティスK higashi-yamato",
+          "region": "関東",
+          "lesson_count": 158,
+          "path": "by_store/pilatesk/ピラティスK_higashi-yamato.json"
+        },
+        {
+          "store_id": "tokyo-ikebukuro",
+          "store": "ピラティスK ikebukuro",
+          "region": "関東",
+          "lesson_count": 116,
+          "path": "by_store/pilatesk/ピラティスK_ikebukuro.json"
+        },
+        {
+          "store_id": "tokyo-jimbocho",
+          "store": "ピラティスK jimbocho",
+          "region": "関東",
+          "lesson_count": 117,
+          "path": "by_store/pilatesk/ピラティスK_jimbocho.json"
+        },
+        {
+          "store_id": "tokyo-kameari",
+          "store": "ピラティスK kameari",
+          "region": "関東",
+          "lesson_count": 112,
+          "path": "by_store/pilatesk/ピラティスK_kameari.json"
+        },
+        {
+          "store_id": "tokyo-kasai",
+          "store": "ピラティスK kasai",
+          "region": "関東",
+          "lesson_count": 105,
+          "path": "by_store/pilatesk/ピラティスK_kasai.json"
+        },
+        {
+          "store_id": "tokyo-kasuga",
+          "store": "ピラティスK kasuga",
+          "region": "関東",
+          "lesson_count": 115,
+          "path": "by_store/pilatesk/ピラティスK_kasuga.json"
         }
       ]
     },
@@ -8528,7 +8570,7 @@
           "store_id": "akanabe",
           "store": "Will茜部店",
           "region": "中部・北陸",
-          "lesson_count": 67,
+          "lesson_count": 66,
           "path": "by_store/axtos/Will茜部店.json"
         },
         {
@@ -9401,7 +9443,7 @@
           "store_id": "ashiya",
           "store": "テニスクラブ 芦屋シーサイド",
           "region": "近畿",
-          "lesson_count": 33,
+          "lesson_count": 30,
           "path": "by_store/cospa/テニスクラブ_芦屋シーサイド.json"
         },
         {

@@ -1062,7 +1062,7 @@
     "region": "関東",
     "day": "日",
     "start": "9:00",
-    "end": "15:20",
+    "end": null,
     "class_name": "貸切利用",
     "category": "OTHER",
     "instructor": null,

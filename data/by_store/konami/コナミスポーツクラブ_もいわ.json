@@ -102,7 +102,7 @@
     "region": "北海道・東北",
     "day": "水",
     "start": "00:00",
-    "end": "14:40",
+    "end": null,
     "class_name": "リトル",
     "category": "OTHER",
     "instructor": null,

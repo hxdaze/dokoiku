@@ -582,7 +582,7 @@
     "region": "関東",
     "day": "月",
     "start": "09:00",
-    "end": "15:00",
+    "end": null,
     "class_name": "はじめてディス60",
     "category": "OTHER",
     "instructor": "岡雅子",

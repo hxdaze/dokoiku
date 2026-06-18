@@ -1110,7 +1110,7 @@
     "region": "関東",
     "day": "日",
     "start": "14:00",
-    "end": "18:30",
+    "end": null,
     "class_name": "フィン&パドルフリーコース",
     "category": "SWIMMING",
     "instructor": null,

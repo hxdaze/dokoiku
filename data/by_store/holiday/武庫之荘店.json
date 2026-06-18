@@ -1030,7 +1030,7 @@
     "region": "近畿",
     "day": "土",
     "start": "19:00",
-    "end": "23:00",
+    "end": null,
     "class_name": "定員",
     "category": "OTHER",
     "instructor": null,

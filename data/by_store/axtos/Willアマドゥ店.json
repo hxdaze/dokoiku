@@ -614,7 +614,7 @@
     "region": "近畿",
     "day": "水",
     "start": "15:15",
-    "end": "19:00",
+    "end": null,
     "class_name": "ジムスイミングスクール",
     "category": "SWIMMING",
     "instructor": null,

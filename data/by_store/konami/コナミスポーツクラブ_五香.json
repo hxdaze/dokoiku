@@ -6,7 +6,7 @@
     "region": "関東",
     "day": "月",
     "start": "9:00",
-    "end": "21:00",
+    "end": null,
     "class_name": "スタジオ2",
     "category": "OTHER",
     "instructor": null,

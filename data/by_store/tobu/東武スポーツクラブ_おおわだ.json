@@ -1014,7 +1014,7 @@
     "region": "関東",
     "day": "日",
     "start": "13:00",
-    "end": "16:30",
+    "end": null,
     "class_name": "レズミルズ60",
     "category": "OTHER",
     "instructor": "担当者一覧",

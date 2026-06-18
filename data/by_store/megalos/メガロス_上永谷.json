@@ -326,7 +326,7 @@
     "region": "関東",
     "day": "土",
     "start": "13:00",
-    "end": "19:20",
+    "end": null,
     "class_name": "スイムトレーニング",
     "category": "SWIMMING",
     "instructor": null,

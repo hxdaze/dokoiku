@@ -614,7 +614,7 @@
     "region": "中部・北陸",
     "day": "日",
     "start": "9:00",
-    "end": "20:00",
+    "end": null,
     "class_name": "日曜",
     "category": "OTHER",
     "instructor": "毎月第3月曜日",

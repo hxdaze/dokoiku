@@ -1110,7 +1110,7 @@
     "region": "関東",
     "day": "土",
     "start": "19:00",
-    "end": "23:00",
+    "end": null,
     "class_name": "6 SENSE AER Bee ラダービー",
     "category": "OTHER",
     "instructor": null,

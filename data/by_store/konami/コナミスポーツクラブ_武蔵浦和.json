@@ -310,7 +310,7 @@
     "region": "関東",
     "day": "月",
     "start": "1:30",
-    "end": "12:30",
+    "end": null,
     "class_name": "リトル",
     "category": "OTHER",
     "instructor": null,

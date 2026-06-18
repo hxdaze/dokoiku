@@ -1062,7 +1062,7 @@
     "region": "近畿",
     "day": "金",
     "start": "09:00",
-    "end": "15:00",
+    "end": null,
     "class_name": "エアロ1",
     "category": "AEROBICS",
     "instructor": "王秀雅",

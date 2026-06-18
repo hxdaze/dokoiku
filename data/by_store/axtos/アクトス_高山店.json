@@ -1126,7 +1126,7 @@
     "region": "中部・北陸",
     "day": "金",
     "start": "15:00",
-    "end": "19:00",
+    "end": null,
     "class_name": "スイミング",
     "category": "SWIMMING",
     "instructor": null,

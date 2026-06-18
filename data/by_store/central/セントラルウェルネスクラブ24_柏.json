@@ -2134,7 +2134,7 @@
     "region": "関東",
     "day": "日",
     "start": "13:30",
-    "end": "19:00",
+    "end": null,
     "class_name": "ハッピーファミリーアワー",
     "category": "OTHER",
     "instructor": null,

@@ -886,7 +886,7 @@
     "region": "中部・北陸",
     "day": "日",
     "start": "16:00",
-    "end": "22:00",
+    "end": null,
     "class_name": "毎月24日",
     "category": "OTHER",
     "instructor": null,

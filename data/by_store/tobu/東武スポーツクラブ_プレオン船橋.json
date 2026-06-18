@@ -4230,7 +4230,7 @@
     "region": "関東",
     "day": "火",
     "start": "15:20",
-    "end": "19:00",
+    "end": null,
     "class_name": "プロジェクション ストレッチ フリースペース",
     "category": "STRETCH & RELAX",
     "instructor": null,

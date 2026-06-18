@@ -806,7 +806,7 @@
     "region": "中部・北陸",
     "day": "土",
     "start": "19:00",
-    "end": "23:00",
+    "end": null,
     "class_name": "○プロ",
     "category": "OTHER",
     "instructor": null,

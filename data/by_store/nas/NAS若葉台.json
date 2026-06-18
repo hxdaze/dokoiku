@@ -166,7 +166,7 @@
     "region": "関東",
     "day": "月",
     "start": "15:45",
-    "end": "19:25",
+    "end": null,
     "class_name": "ピックルボール ショートコート 開放時間",
     "category": "OTHER",
     "instructor": null,

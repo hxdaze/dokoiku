@@ -2070,7 +2070,7 @@
     "region": "関東",
     "day": "水",
     "start": "13:30",
-    "end": "17:30",
+    "end": null,
     "class_name": "ダンシングスターズ入門",
     "category": "OTHER",
     "instructor": null,

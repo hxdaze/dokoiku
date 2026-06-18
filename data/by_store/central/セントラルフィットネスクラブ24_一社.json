@@ -998,7 +998,7 @@
     "region": "中部・北陸",
     "day": "土",
     "start": "14:00",
-    "end": "17:30",
+    "end": null,
     "class_name": "その他スポーツフリー入力",
     "category": "OTHER",
     "instructor": "田邉",

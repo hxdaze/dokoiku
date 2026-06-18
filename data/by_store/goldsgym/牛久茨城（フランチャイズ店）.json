@@ -598,7 +598,7 @@
     "region": "関東",
     "day": "日",
     "start": "9:00",
-    "end": "20:00",
+    "end": null,
     "class_name": "日曜日・祝日",
     "category": "OTHER",
     "instructor": null,

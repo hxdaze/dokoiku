@@ -486,7 +486,7 @@
     "region": "近畿",
     "day": "月",
     "start": "15:00",
-    "end": "19:45",
+    "end": null,
     "class_name": "バーチャルプログラム",
     "category": "BALLET",
     "instructor": null,

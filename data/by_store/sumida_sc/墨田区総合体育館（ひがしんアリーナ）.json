@@ -102,7 +102,7 @@
     "region": "関東",
     "day": "月",
     "start": "14:00",
-    "end": "19:00",
+    "end": null,
     "class_name": "水泳入門 浅瀬",
     "category": "SWIMMING",
     "instructor": null,

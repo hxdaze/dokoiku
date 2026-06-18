@@ -342,7 +342,7 @@
     "region": "九州・沖縄",
     "day": "月",
     "start": "0:00",
-    "end": "11:30",
+    "end": null,
     "class_name": "上級S",
     "category": "OTHER",
     "instructor": null,

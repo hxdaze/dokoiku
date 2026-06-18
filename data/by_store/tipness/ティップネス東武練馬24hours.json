@@ -566,7 +566,7 @@
     "region": "関東",
     "day": "火",
     "start": "09:00",
-    "end": "15:00",
+    "end": null,
     "class_name": "ヨガ60",
     "category": "YOGA & PILATES",
     "instructor": "松田玲子",

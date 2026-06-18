@@ -534,7 +534,7 @@
     "region": "北海道・東北",
     "day": "月",
     "start": "08:45",
-    "end": "15:45",
+    "end": null,
     "class_name": "空手",
     "category": "OTHER",
     "instructor": null,

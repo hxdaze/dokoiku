@@ -1526,7 +1526,7 @@
     "region": "関東",
     "day": "金",
     "start": "15:00",
-    "end": "18:30",
+    "end": null,
     "class_name": "スタジオ開放",
     "category": "OTHER",
     "instructor": "女性専用エリア",

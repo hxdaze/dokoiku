@@ -870,7 +870,7 @@
     "region": "近畿",
     "day": "火",
     "start": "15:45",
-    "end": "19:15",
+    "end": null,
     "class_name": "スタジオ開放",
     "category": "OTHER",
     "instructor": null,

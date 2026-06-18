@@ -550,7 +550,7 @@
     "region": "関東",
     "day": "火",
     "start": "15:00",
-    "end": "22:00",
+    "end": null,
     "class_name": "ホット快眠ヨガ",
     "category": "YOGA & PILATES",
     "instructor": "天野",

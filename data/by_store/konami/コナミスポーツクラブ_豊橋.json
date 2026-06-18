@@ -758,7 +758,7 @@
     "region": "中部・北陸",
     "day": "日",
     "start": "00:00",
-    "end": "23:59",
+    "end": null,
     "class_name": "ジオ2",
     "category": "OTHER",
     "instructor": null,

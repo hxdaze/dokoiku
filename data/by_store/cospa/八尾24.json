@@ -2742,7 +2742,7 @@
     "region": "近畿",
     "day": "木",
     "start": "15:15",
-    "end": "18:45",
+    "end": null,
     "class_name": "スタジオ開放",
     "category": "OTHER",
     "instructor": null,

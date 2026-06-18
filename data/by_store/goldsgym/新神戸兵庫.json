@@ -1206,7 +1206,7 @@
     "region": "近畿",
     "day": "日",
     "start": "9:00",
-    "end": "12:15",
+    "end": null,
     "class_name": "ピックルボール開放中",
     "category": "OTHER",
     "instructor": null,

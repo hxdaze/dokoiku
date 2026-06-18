@@ -902,7 +902,7 @@
     "region": "関東",
     "day": "月",
     "start": "00:00",
-    "end": "17:10",
+    "end": null,
     "class_name": "スターズ ハッピー",
     "category": "OTHER",
     "instructor": null,

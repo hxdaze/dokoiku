@@ -870,7 +870,7 @@
     "region": "関東",
     "day": "日",
     "start": "14:00",
-    "end": "17:30",
+    "end": null,
     "class_name": "ウィークエンド サークル",
     "category": "OTHER",
     "instructor": null,
