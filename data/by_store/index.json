@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 64,
-  "store_count": 1824,
+  "gym_count": 65,
+  "store_count": 1825,
   "gyms": [
     {
       "gym_id": "lava",
@@ -13169,6 +13169,19 @@
           "region": "関東",
           "lesson_count": 1,
           "path": "by_store/mahya/巣鴨Class（スタジオ_BOOM!!!）.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "koto",
+      "gym": "江東区健康スポーツ公社",
+      "stores": [
+        {
+          "store_id": "koto",
+          "store": "江東区健康スポーツ公社",
+          "region": "関東",
+          "lesson_count": 1,
+          "path": "by_store/koto/江東区健康スポーツ公社.json"
         }
       ]
     }

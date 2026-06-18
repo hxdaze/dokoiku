@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "koto",
+    "store_id": "koto",
+    "store": "江東区健康スポーツ公社",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "火",
+    "start": "19:45",
+    "end": "20:45",
+    "class_name": "ZUMBA",
+    "category": "ZUMBA",
+    "instructor": null,
+    "studio": "東砂スポーツセンター",
+    "reservation_required": true,
+    "genre": null,
+    "note": "教室(コース制)"
+  }
+]
