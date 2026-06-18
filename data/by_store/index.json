@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 71,
-  "store_count": 1834,
+  "gym_count": 83,
+  "store_count": 1858,
   "gyms": [
     {
       "gym_id": "lava",
@@ -6762,7 +6762,7 @@
           "store_id": "13121",
           "store": "四ツ谷東京",
           "region": "関東",
-          "lesson_count": 47,
+          "lesson_count": 59,
           "path": "by_store/goldsgym/四ツ谷東京.json"
         },
         {
@@ -7014,7 +7014,7 @@
           "store_id": "191112",
           "store": "富山環水公園（フランチャイズ店）",
           "region": "中部・北陸",
-          "lesson_count": 41,
+          "lesson_count": 42,
           "path": "by_store/goldsgym/富山環水公園（フランチャイズ店）.json"
         },
         {
@@ -12745,6 +12745,81 @@
       ]
     },
     {
+      "gym_id": "renaiss",
+      "gym": "スポーツクラブ ルネッス",
+      "stores": [
+        {
+          "store_id": "echizen",
+          "store": "スポーツクラブ ルネッス越前",
+          "region": "中部・北陸",
+          "lesson_count": 59,
+          "path": "by_store/renaiss/スポーツクラブ_ルネッス越前.json"
+        },
+        {
+          "store_id": "fukui_minami",
+          "store": "スポーツクラブ ルネッス福井南",
+          "region": "中部・北陸",
+          "lesson_count": 86,
+          "path": "by_store/renaiss/スポーツクラブ_ルネッス福井南.json"
+        },
+        {
+          "store_id": "fukui_nishi",
+          "store": "スポーツクラブ ルネッス福井西",
+          "region": "中部・北陸",
+          "lesson_count": 67,
+          "path": "by_store/renaiss/スポーツクラブ_ルネッス福井西.json"
+        },
+        {
+          "store_id": "sabae",
+          "store": "スポーツクラブ ルネッス鯖江",
+          "region": "中部・北陸",
+          "lesson_count": 36,
+          "path": "by_store/renaiss/スポーツクラブ_ルネッス鯖江.json"
+        },
+        {
+          "store_id": "tsuruga",
+          "store": "スポーツクラブ ルネッス敦賀",
+          "region": "中部・北陸",
+          "lesson_count": 83,
+          "path": "by_store/renaiss/スポーツクラブ_ルネッス敦賀.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "oksports",
+      "gym": "OKスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "aok",
+          "store": "OKスポーツクラブ藍住",
+          "region": "中国・四国",
+          "lesson_count": 46,
+          "path": "by_store/oksports/OKスポーツクラブ藍住.json"
+        },
+        {
+          "store_id": "tok",
+          "store": "OKスポーツクラブ田宮",
+          "region": "中国・四国",
+          "lesson_count": 99,
+          "path": "by_store/oksports/OKスポーツクラブ田宮.json"
+        },
+        {
+          "store_id": "wok",
+          "store": "OKスポーツクラブ脇町",
+          "region": "中国・四国",
+          "lesson_count": 32,
+          "path": "by_store/oksports/OKスポーツクラブ脇町.json"
+        },
+        {
+          "store_id": "yok",
+          "store": "OKスポーツクラブ山城",
+          "region": "中国・四国",
+          "lesson_count": 69,
+          "path": "by_store/oksports/OKスポーツクラブ山城.json"
+        }
+      ]
+    },
+    {
       "gym_id": "pal_sports",
       "gym": "PALスポーツクラブ6・3",
       "stores": [
@@ -12754,6 +12829,40 @@
           "region": "中部・北陸",
           "lesson_count": 231,
           "path": "by_store/pal_sports/PALスポーツクラブ6・3.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "seika",
+      "gym": "セイカスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "amu",
+          "store": "セイカスポーツクラブ アミュプラザ店",
+          "region": "九州・沖縄",
+          "lesson_count": 46,
+          "path": "by_store/seika/セイカスポーツクラブ_アミュプラザ店.json"
+        },
+        {
+          "store_id": "usuki",
+          "store": "セイカスポーツクラブ 宇宿店",
+          "region": "九州・沖縄",
+          "lesson_count": 73,
+          "path": "by_store/seika/セイカスポーツクラブ_宇宿店.json"
+        },
+        {
+          "store_id": "sendai",
+          "store": "セイカスポーツクラブ 川内店",
+          "region": "九州・沖縄",
+          "lesson_count": 41,
+          "path": "by_store/seika/セイカスポーツクラブ_川内店.json"
+        },
+        {
+          "store_id": "izumi",
+          "store": "セイカスポーツクラブ 出水店",
+          "region": "九州・沖縄",
+          "lesson_count": 38,
+          "path": "by_store/seika/セイカスポーツクラブ_出水店.json"
         }
       ]
     },
@@ -12780,6 +12889,46 @@
           "region": "中国・四国",
           "lesson_count": 158,
           "path": "by_store/aimare/フィットネスクラブ_アイ・マーレ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "advance_wakayama",
+      "gym": "スポーツクラブアドヴァンス",
+      "stores": [
+        {
+          "store_id": "iwade",
+          "store": "スポーツクラブアドヴァンス岩出",
+          "region": "近畿",
+          "lesson_count": 95,
+          "path": "by_store/advance_wakayama/スポーツクラブアドヴァンス岩出.json"
+        },
+        {
+          "store_id": "katsuragi",
+          "store": "スポーツクラブアドヴァンスカツラギ",
+          "region": "近畿",
+          "lesson_count": 19,
+          "path": "by_store/advance_wakayama/スポーツクラブアドヴァンスカツラギ.json"
+        },
+        {
+          "store_id": "musota",
+          "store": "スポーツクラブアドヴァンスむそた",
+          "region": "近畿",
+          "lesson_count": 39,
+          "path": "by_store/advance_wakayama/スポーツクラブアドヴァンスむそた.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "coconut_takamatsu",
+      "gym": "ザ・ココナツウエルネスクラブ高松",
+      "stores": [
+        {
+          "store_id": "takamatsu",
+          "store": "ザ・ココナツウエルネスクラブ高松",
+          "region": "中国・四国",
+          "lesson_count": 147,
+          "path": "by_store/coconut_takamatsu/ザ・ココナツウエルネスクラブ高松.json"
         }
       ]
     },
@@ -13031,6 +13180,19 @@
       ]
     },
     {
+      "gym_id": "nittazuka",
+      "gym": "スポーツクラブ新田塚アーク",
+      "stores": [
+        {
+          "store_id": "fukui",
+          "store": "スポーツクラブ新田塚アーク",
+          "region": "中部・北陸",
+          "lesson_count": 63,
+          "path": "by_store/nittazuka/スポーツクラブ新田塚アーク.json"
+        }
+      ]
+    },
+    {
       "gym_id": "shibuya_sc",
       "gym": "渋谷区スポーツセンター",
       "stores": [
@@ -13083,6 +13245,19 @@
       ]
     },
     {
+      "gym_id": "yonettsu",
+      "gym": "ヨネッツこうち",
+      "stores": [
+        {
+          "store_id": "kochi",
+          "store": "ヨネッツこうち",
+          "region": "中国・四国",
+          "lesson_count": 56,
+          "path": "by_store/yonettsu/ヨネッツこうち.json"
+        }
+      ]
+    },
+    {
       "gym_id": "pureness",
       "gym": "ピュアネス福島",
       "stores": [
@@ -13092,6 +13267,19 @@
           "region": "北海道・東北",
           "lesson_count": 55,
           "path": "by_store/pureness/ピュアネス福島.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "fitz_aoba",
+      "gym": "フィッツスポーツクラブ甲府青葉",
+      "stores": [
+        {
+          "store_id": "aoba",
+          "store": "フィッツスポーツクラブ甲府青葉",
+          "region": "中部・北陸",
+          "lesson_count": 48,
+          "path": "by_store/fitz_aoba/フィッツスポーツクラブ甲府青葉.json"
         }
       ]
     },
@@ -13122,6 +13310,19 @@
       ]
     },
     {
+      "gym_id": "apstudio_akita",
+      "gym": "APスタジオ（秋田パフォーマンススタジオ）",
+      "stores": [
+        {
+          "store_id": "akita",
+          "store": "APスタジオ（秋田パフォーマンススタジオ）",
+          "region": "北海道・東北",
+          "lesson_count": 35,
+          "path": "by_store/apstudio_akita/APスタジオ（秋田パフォーマンススタジオ）.json"
+        }
+      ]
+    },
+    {
       "gym_id": "meguro_sc",
       "gym": "目黒区民センター体育館",
       "stores": [
@@ -13131,6 +13332,19 @@
           "region": "関東",
           "lesson_count": 35,
           "path": "by_store/meguro_sc/目黒区民センター体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sanda_kagawa",
+      "gym": "プロスパークラブサンダ",
+      "stores": [
+        {
+          "store_id": "takamatsu",
+          "store": "プロスパークラブサンダ",
+          "region": "中国・四国",
+          "lesson_count": 29,
+          "path": "by_store/sanda_kagawa/プロスパークラブサンダ.json"
         }
       ]
     },
@@ -13213,6 +13427,19 @@
       ]
     },
     {
+      "gym_id": "paja_yonago",
+      "gym": "フィットネスクラブPAJA米子",
+      "stores": [
+        {
+          "store_id": "yonago",
+          "store": "フィットネスクラブPAJA米子",
+          "region": "中国・四国",
+          "lesson_count": 18,
+          "path": "by_store/paja_yonago/フィットネスクラブPAJA米子.json"
+        }
+      ]
+    },
+    {
       "gym_id": "v10kanazawa",
       "gym": "スポーツクラブ V10ヴィテンかなざわ",
       "stores": [
@@ -13222,6 +13449,19 @@
           "region": "中部・北陸",
           "lesson_count": 17,
           "path": "by_store/v10kanazawa/スポーツクラブ_V10ヴィテンかなざわ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "zero_tottori",
+      "gym": "フィットネス&スパ Zeroスポーツ",
+      "stores": [
+        {
+          "store_id": "tottori",
+          "store": "フィットネス&スパ Zeroスポーツ",
+          "region": "中国・四国",
+          "lesson_count": 17,
+          "path": "by_store/zero_tottori/フィットネス&スパ_Zeroスポーツ.json"
         }
       ]
     },

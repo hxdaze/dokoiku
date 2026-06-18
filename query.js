@@ -7,10 +7,13 @@ const WEEK = ["月", "火", "水", "木", "金", "土", "日"];
 // meta.regions の並びをソートキーに使う(地域順)。
 let REGION_ORDER = [];
 let CATEGORY_ORDER = [];
+// カテゴリー -> 関連キーワード(normalize済み)。表記揺れ吸収に使う。
+let CATEGORY_KEYWORDS = {};
 
 function setOrders(meta) {
   REGION_ORDER = meta.regions || [];
   CATEGORY_ORDER = meta.categories || [];
+  CATEGORY_KEYWORDS = meta.category_keywords || {};
 }
 
 function dayKey(d) {
@@ -50,6 +53,18 @@ function fmtDuration(r) {
   return d == null ? "" : `${d}分`;
 }
 
+// カテゴリー一致判定: 割当カテゴリーが一致するか、または表記揺れ吸収のため
+// クラス名に当該カテゴリーの関連キーワードが部分一致すればヒットとする。
+// 例) 「AEROBICS」選択で「ダンスエアロ45」(エアロ含む)もヒット。
+function matchCategory(r, cat) {
+  if (r.category === cat) return true;
+  const kws = CATEGORY_KEYWORDS[cat];
+  if (!kws || !kws.length) return false;
+  const hay = norm(r.class_name);
+  if (!hay) return false;
+  return kws.some((k) => hay.includes(k));
+}
+
 // ---- フィルタ ----
 function filterLessons(lessons, p) {
   const q = norm(p.q);
@@ -58,7 +73,7 @@ function filterLessons(lessons, p) {
     if (p.prefecture && r.prefecture !== p.prefecture) return false;
     if (p.gym && r.gym_id !== p.gym) return false;
     if (p.day && r.day !== p.day) return false;
-    if (p.category && r.category !== p.category) return false;
+    if (p.category && !matchCategory(r, p.category)) return false;
     if (p.store_id && r.store_id !== p.store_id) return false;
     if (p.instructor && (r.instructor || "") !== p.instructor) return false;
     if (q) {
