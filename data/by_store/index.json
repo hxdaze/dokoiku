@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 56,
-  "store_count": 1810,
+  "gym_count": 59,
+  "store_count": 1819,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12669,6 +12669,61 @@
       ]
     },
     {
+      "gym_id": "blueearth",
+      "gym": "総合スポーツクラブ ブルーアース",
+      "stores": [
+        {
+          "store_id": "isawa",
+          "store": "ブルーアース石和店",
+          "region": "中部・北陸",
+          "lesson_count": 53,
+          "path": "by_store/blueearth/ブルーアース石和店.json"
+        },
+        {
+          "store_id": "kofu",
+          "store": "ブルーアース甲府店",
+          "region": "中部・北陸",
+          "lesson_count": 3,
+          "path": "by_store/blueearth/ブルーアース甲府店.json"
+        },
+        {
+          "store_id": "minamialps",
+          "store": "ブルーアース南アルプス店",
+          "region": "中部・北陸",
+          "lesson_count": 20,
+          "path": "by_store/blueearth/ブルーアース南アルプス店.json"
+        },
+        {
+          "store_id": "shikishima",
+          "store": "ブルーアース敷島店",
+          "region": "中部・北陸",
+          "lesson_count": 67,
+          "path": "by_store/blueearth/ブルーアース敷島店.json"
+        },
+        {
+          "store_id": "sports-spa",
+          "store": "ブルーアーススポーツスパ店",
+          "region": "中部・北陸",
+          "lesson_count": 38,
+          "path": "by_store/blueearth/ブルーアーススポーツスパ店.json"
+        },
+        {
+          "store_id": "yaizu",
+          "store": "ブルーアース焼津店",
+          "region": "中部・北陸",
+          "lesson_count": 63,
+          "path": "by_store/blueearth/ブルーアース焼津店.json"
+        },
+        {
+          "store_id": "yamanashi",
+          "store": "ブルーアース山梨店",
+          "region": "中部・北陸",
+          "lesson_count": 108,
+          "path": "by_store/blueearth/ブルーアース山梨店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "olympia_sc",
       "gym": "オリンピアスポーツクラブ",
       "stores": [
@@ -12864,6 +12919,19 @@
       ]
     },
     {
+      "gym_id": "alpen",
+      "gym": "アルペンフィットネスクラブ",
+      "stores": [
+        {
+          "store_id": "kofu",
+          "store": "アルペンフィットネスクラブ甲府",
+          "region": "中部・北陸",
+          "lesson_count": 59,
+          "path": "by_store/alpen/アルペンフィットネスクラブ甲府.json"
+        }
+      ]
+    },
+    {
       "gym_id": "toritaiku",
       "gym": "東京体育館",
       "stores": [
@@ -12925,6 +12993,19 @@
           "region": "九州・沖縄",
           "lesson_count": 28,
           "path": "by_store/gulf/ガルフスポーツクラブ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "maxsc",
+      "gym": "MAXスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "kotoku",
+          "store": "MAXスポーツクラブ（広徳店）",
+          "region": "中部・北陸",
+          "lesson_count": 28,
+          "path": "by_store/maxsc/MAXスポーツクラブ（広徳店）.json"
         }
       ]
     },

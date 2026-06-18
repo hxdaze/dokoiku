@@ -278,8 +278,18 @@ function bind() {
   document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => {
     state.view = t.dataset.view; setActiveTab(state.view); refreshView();
   }));
-  $("#f-region").addEventListener("change", (e) => { state.region = e.target.value; refreshStoreOptions(); refreshInstructorOptions(); refreshView(); });
-  $("#f-prefecture").addEventListener("change", (e) => { state.prefecture = e.target.value; refreshStoreOptions(); refreshInstructorOptions(); refreshView(); });
+  $("#f-region").addEventListener("change", (e) => {
+    state.region = e.target.value;
+    // エリアと都道府県は排他: エリア選択時は都道府県を「すべて」に戻す。
+    if (state.region) { state.prefecture = ""; $("#f-prefecture").value = ""; }
+    refreshStoreOptions(); refreshInstructorOptions(); refreshView();
+  });
+  $("#f-prefecture").addEventListener("change", (e) => {
+    state.prefecture = e.target.value;
+    // 都道府県選択時はエリアを「すべて」に戻す。
+    if (state.prefecture) { state.region = ""; $("#f-region").value = ""; }
+    refreshStoreOptions(); refreshInstructorOptions(); refreshView();
+  });
   $("#f-gym").addEventListener("change", (e) => { state.gym = e.target.value; refreshStoreOptions(); refreshInstructorOptions(); refreshView(); });
   $("#f-day").addEventListener("change", (e) => { state.day = e.target.value; refreshInstructorOptions(); refreshView(); });
   $("#f-category").addEventListener("change", (e) => { state.category = e.target.value; refreshInstructorOptions(); refreshView(); });
