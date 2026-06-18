@@ -151,10 +151,10 @@ function storeLink(r) {
   const link = r.url
     ? `<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener" class="store-link">${escapeHtml(store)}</a>`
     : escapeHtml(store);
-  // 店舗名にジム名が含まれなければ「店舗名（ジム名）」で併記する。
+  // ジム名を店舗名の前にチップで明示(店舗名にジム名が含まれる場合は省略)。
   const gym = (r.gym || "").trim();
   return (gym && !store.includes(gym))
-    ? `${link}<span class="muted">（${escapeHtml(gym)}）</span>`
+    ? `<span class="chip-gym">${escapeHtml(gym)}</span>${link}`
     : link;
 }
 
