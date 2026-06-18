@@ -17,7 +17,7 @@
     "note"
   ],
   "gym_count": 45,
-  "store_count": 1666,
+  "store_count": 1687,
   "gyms": [
     {
       "gym_id": "lava",
@@ -5539,14 +5539,14 @@
           "store_id": "yamato",
           "store": "メガロス 大和",
           "region": "関東",
-          "lesson_count": 325,
+          "lesson_count": 326,
           "path": "by_store/megalos/メガロス_大和.json"
         },
         {
           "store_id": "yokohama",
           "store": "メガロス 横浜天王町",
           "region": "関東",
-          "lesson_count": 422,
+          "lesson_count": 423,
           "path": "by_store/megalos/メガロス_横浜天王町.json"
         }
       ]
@@ -7993,6 +7993,194 @@
           "region": "近畿",
           "lesson_count": 53,
           "path": "by_store/axtos/アクトス_四日市北店.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "loive",
+      "gym": "ホットヨガスタジオ loIve（ロイブ）",
+      "stores": [
+        {
+          "store_id": "aeon-kamisato",
+          "store": "loIve aeon-kamisato",
+          "region": "関東",
+          "lesson_count": 186,
+          "path": "by_store/loive/loIve_aeon-kamisato.json"
+        },
+        {
+          "store_id": "aeon-mizushima",
+          "store": "loIve aeon-mizushima",
+          "region": "中国・四国",
+          "lesson_count": 207,
+          "path": "by_store/loive/loIve_aeon-mizushima.json"
+        },
+        {
+          "store_id": "akita",
+          "store": "loIve akita",
+          "region": "北海道・東北",
+          "lesson_count": 208,
+          "path": "by_store/loive/loIve_akita.json"
+        },
+        {
+          "store_id": "asahikawa",
+          "store": "loIve asahikawa",
+          "region": "北海道・東北",
+          "lesson_count": 207,
+          "path": "by_store/loive/loIve_asahikawa.json"
+        },
+        {
+          "store_id": "frespo-tosu",
+          "store": "loIve frespo-tosu",
+          "region": "九州・沖縄",
+          "lesson_count": 53,
+          "path": "by_store/loive/loIve_frespo-tosu.json"
+        },
+        {
+          "store_id": "gifu",
+          "store": "loIve gifu",
+          "region": "中部・北陸",
+          "lesson_count": 190,
+          "path": "by_store/loive/loIve_gifu.json"
+        },
+        {
+          "store_id": "hikone",
+          "store": "loIve hikone",
+          "region": "近畿",
+          "lesson_count": 212,
+          "path": "by_store/loive/loIve_hikone.json"
+        },
+        {
+          "store_id": "ikebukuro",
+          "store": "loIve ikebukuro",
+          "region": "関東",
+          "lesson_count": 179,
+          "path": "by_store/loive/loIve_ikebukuro.json"
+        },
+        {
+          "store_id": "jiyuugaoka",
+          "store": "loIve jiyuugaoka",
+          "region": "関東",
+          "lesson_count": 140,
+          "path": "by_store/loive/loIve_jiyuugaoka.json"
+        },
+        {
+          "store_id": "kiikawanabe",
+          "store": "loIve kiikawanabe",
+          "region": "近畿",
+          "lesson_count": 166,
+          "path": "by_store/loive/loIve_kiikawanabe.json"
+        },
+        {
+          "store_id": "kurashiki",
+          "store": "loIve kurashiki",
+          "region": "中国・四国",
+          "lesson_count": 104,
+          "path": "by_store/loive/loIve_kurashiki.json"
+        },
+        {
+          "store_id": "kyoto",
+          "store": "loIve kyoto",
+          "region": "近畿",
+          "lesson_count": 154,
+          "path": "by_store/loive/loIve_kyoto.json"
+        },
+        {
+          "store_id": "machida",
+          "store": "loIve machida",
+          "region": "関東",
+          "lesson_count": 206,
+          "path": "by_store/loive/loIve_machida.json"
+        },
+        {
+          "store_id": "matsumoto",
+          "store": "loIve matsumoto",
+          "region": "中部・北陸",
+          "lesson_count": 132,
+          "path": "by_store/loive/loIve_matsumoto.json"
+        },
+        {
+          "store_id": "mito",
+          "store": "loIve mito",
+          "region": "関東",
+          "lesson_count": 210,
+          "path": "by_store/loive/loIve_mito.json"
+        },
+        {
+          "store_id": "miyazaki",
+          "store": "loIve miyazaki",
+          "region": "九州・沖縄",
+          "lesson_count": 82,
+          "path": "by_store/loive/loIve_miyazaki.json"
+        },
+        {
+          "store_id": "nagakute",
+          "store": "loIve nagakute",
+          "region": "中部・北陸",
+          "lesson_count": 183,
+          "path": "by_store/loive/loIve_nagakute.json"
+        },
+        {
+          "store_id": "nagaoka",
+          "store": "loIve nagaoka",
+          "region": "中部・北陸",
+          "lesson_count": 197,
+          "path": "by_store/loive/loIve_nagaoka.json"
+        },
+        {
+          "store_id": "nagoya-hara",
+          "store": "loIve nagoya-hara",
+          "region": "中部・北陸",
+          "lesson_count": 206,
+          "path": "by_store/loive/loIve_nagoya-hara.json"
+        },
+        {
+          "store_id": "nagoya-tokushige",
+          "store": "loIve nagoya-tokushige",
+          "region": "中部・北陸",
+          "lesson_count": 103,
+          "path": "by_store/loive/loIve_nagoya-tokushige.json"
+        },
+        {
+          "store_id": "nagoya",
+          "store": "loIve nagoya",
+          "region": "中部・北陸",
+          "lesson_count": 161,
+          "path": "by_store/loive/loIve_nagoya.json"
+        },
+        {
+          "store_id": "namba",
+          "store": "loIve namba",
+          "region": "近畿",
+          "lesson_count": 214,
+          "path": "by_store/loive/loIve_namba.json"
+        },
+        {
+          "store_id": "nishi-kobe",
+          "store": "loIve nishi-kobe",
+          "region": "近畿",
+          "lesson_count": 180,
+          "path": "by_store/loive/loIve_nishi-kobe.json"
+        },
+        {
+          "store_id": "raspa-ootagawa",
+          "store": "loIve raspa-ootagawa",
+          "region": "中部・北陸",
+          "lesson_count": 213,
+          "path": "by_store/loive/loIve_raspa-ootagawa.json"
+        },
+        {
+          "store_id": "sapporo",
+          "store": "loIve sapporo",
+          "region": "北海道・東北",
+          "lesson_count": 160,
+          "path": "by_store/loive/loIve_sapporo.json"
+        },
+        {
+          "store_id": "sendai",
+          "store": "loIve sendai",
+          "region": "北海道・東北",
+          "lesson_count": 221,
+          "path": "by_store/loive/loIve_sendai.json"
         }
       ]
     },
@@ -11516,47 +11704,6 @@
           "region": "関東",
           "lesson_count": 32,
           "path": "by_store/oasis/ルネサンス松戸24（旧スポーツオアシス）.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "loive",
-      "gym": "ホットヨガスタジオ loIve（ロイブ）",
-      "stores": [
-        {
-          "store_id": "aeon-kamisato",
-          "store": "loIve aeon-kamisato",
-          "region": "関東",
-          "lesson_count": 186,
-          "path": "by_store/loive/loIve_aeon-kamisato.json"
-        },
-        {
-          "store_id": "aeon-mizushima",
-          "store": "loIve aeon-mizushima",
-          "region": "中国・四国",
-          "lesson_count": 207,
-          "path": "by_store/loive/loIve_aeon-mizushima.json"
-        },
-        {
-          "store_id": "akita",
-          "store": "loIve akita",
-          "region": "北海道・東北",
-          "lesson_count": 208,
-          "path": "by_store/loive/loIve_akita.json"
-        },
-        {
-          "store_id": "asahikawa",
-          "store": "loIve asahikawa",
-          "region": "北海道・東北",
-          "lesson_count": 207,
-          "path": "by_store/loive/loIve_asahikawa.json"
-        },
-        {
-          "store_id": "frespo-tosu",
-          "store": "loIve frespo-tosu",
-          "region": "九州・沖縄",
-          "lesson_count": 53,
-          "path": "by_store/loive/loIve_frespo-tosu.json"
         }
       ]
     },
