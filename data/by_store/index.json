@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 70,
-  "store_count": 1825,
+  "gym_count": 71,
+  "store_count": 1834,
   "gyms": [
     {
       "gym_id": "lava",
@@ -6117,6 +6117,13 @@
           "path": "by_store/megalos/メガロス_葛飾.json"
         },
         {
+          "store_id": "kichijoji",
+          "store": "メガロス 吉祥寺",
+          "region": "関東",
+          "lesson_count": 163,
+          "path": "by_store/megalos/メガロス_吉祥寺.json"
+        },
+        {
           "store_id": "koiwa",
           "store": "メガロス 小岩",
           "region": "関東",
@@ -6354,6 +6361,13 @@
           "path": "by_store/tipness/ティップネス大泉学園24hours.json"
         },
         {
+          "store_id": "SHP029",
+          "store": "ティップネス下井草",
+          "region": "関東",
+          "lesson_count": 106,
+          "path": "by_store/tipness/ティップネス下井草.json"
+        },
+        {
           "store_id": "SHP030",
           "store": "ティップネス塚口24hours",
           "region": "近畿",
@@ -6417,11 +6431,25 @@
           "path": "by_store/tipness/ティップネス武庫之荘24hours.json"
         },
         {
+          "store_id": "SHP041",
+          "store": "ティップネス蒲田24hours",
+          "region": "関東",
+          "lesson_count": 97,
+          "path": "by_store/tipness/ティップネス蒲田24hours.json"
+        },
+        {
           "store_id": "SHP042",
           "store": "ティップネス浜松葵東24hours",
           "region": "中部・北陸",
-          "lesson_count": 85,
+          "lesson_count": 201,
           "path": "by_store/tipness/ティップネス浜松葵東24hours.json"
+        },
+        {
+          "store_id": "SHP045",
+          "store": "ティップネス江南",
+          "region": "中部・北陸",
+          "lesson_count": 56,
+          "path": "by_store/tipness/ティップネス江南.json"
         },
         {
           "store_id": "SHP046",
@@ -7871,6 +7899,13 @@
           "path": "by_store/holiday/福岡東店.json"
         },
         {
+          "store_id": "090-miyakonojo",
+          "store": "都城店",
+          "region": "九州・沖縄",
+          "lesson_count": 47,
+          "path": "by_store/holiday/都城店.json"
+        },
+        {
           "store_id": "091-nagoyanakagawa",
           "store": "名古屋中川店",
           "region": "中部・北陸",
@@ -8499,6 +8534,13 @@
           "path": "by_store/joyfit/JOYFIT24_奥田.json"
         },
         {
+          "store_id": "rokko",
+          "store": "JOYFIT24 サザンモール六甲",
+          "region": "近畿",
+          "lesson_count": 71,
+          "path": "by_store/joyfit/JOYFIT24_サザンモール六甲.json"
+        },
+        {
           "store_id": "sapporokita",
           "store": "JOYFIT 札幌北",
           "region": "北海道・東北",
@@ -8532,6 +8574,13 @@
           "region": "中部・北陸",
           "lesson_count": 222,
           "path": "by_store/joyfit/JOYFIT24_新発田.json"
+        },
+        {
+          "store_id": "shintokorozawa",
+          "store": "JOYFIT24 新所沢",
+          "region": "関東",
+          "lesson_count": 122,
+          "path": "by_store/joyfit/JOYFIT24_新所沢.json"
         },
         {
           "store_id": "sukagawa",
@@ -10465,6 +10514,13 @@
           "region": "関東",
           "lesson_count": 81,
           "path": "by_store/nas/NAS若葉台.json"
+        },
+        {
+          "store_id": "warabi",
+          "store": "NAS蕨",
+          "region": "関東",
+          "lesson_count": 140,
+          "path": "by_store/nas/NAS蕨.json"
         },
         {
           "store_id": "woodytown",
@@ -12685,6 +12741,19 @@
           "region": "中部・北陸",
           "lesson_count": 99,
           "path": "by_store/blueearth/ブルーアース山梨店.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "pal_sports",
+      "gym": "PALスポーツクラブ6・3",
+      "stores": [
+        {
+          "store_id": "nagoya",
+          "store": "PALスポーツクラブ6・3",
+          "region": "中部・北陸",
+          "lesson_count": 231,
+          "path": "by_store/pal_sports/PALスポーツクラブ6・3.json"
         }
       ]
     },
