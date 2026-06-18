@@ -18,7 +18,7 @@
     "note"
   ],
   "gym_count": 70,
-  "store_count": 1830,
+  "store_count": 1825,
   "gyms": [
     {
       "gym_id": "lava",
@@ -4488,857 +4488,822 @@
       "gym": "コナミスポーツクラブ",
       "stores": [
         {
-          "store_id": "000355",
-          "store": "コナミスポーツ テニススクール 大宮",
-          "region": "関東",
-          "lesson_count": 81,
-          "path": "by_store/konami/コナミスポーツ_テニススクール_大宮.json"
-        },
-        {
           "store_id": "000361",
           "store": "コナミスポーツクラブ 加古川",
           "region": "近畿",
-          "lesson_count": 32,
+          "lesson_count": 87,
           "path": "by_store/konami/コナミスポーツクラブ_加古川.json"
         },
         {
           "store_id": "000401",
           "store": "コナミスポーツクラブ 市川",
           "region": "関東",
-          "lesson_count": 143,
+          "lesson_count": 84,
           "path": "by_store/konami/コナミスポーツクラブ_市川.json"
         },
         {
           "store_id": "000584",
           "store": "コナミスポーツクラブ 橋本",
           "region": "関東",
-          "lesson_count": 68,
+          "lesson_count": 75,
           "path": "by_store/konami/コナミスポーツクラブ_橋本.json"
         },
         {
           "store_id": "000589",
           "store": "コナミスポーツクラブ 東大島",
           "region": "関東",
-          "lesson_count": 28,
+          "lesson_count": 65,
           "path": "by_store/konami/コナミスポーツクラブ_東大島.json"
-        },
-        {
-          "store_id": "000590",
-          "store": "コナミスポーツクラブ 行田",
-          "region": "関東",
-          "lesson_count": 16,
-          "path": "by_store/konami/コナミスポーツクラブ_行田.json"
         },
         {
           "store_id": "000643",
           "store": "コナミスポーツクラブ 厚木",
           "region": "関東",
-          "lesson_count": 83,
+          "lesson_count": 79,
           "path": "by_store/konami/コナミスポーツクラブ_厚木.json"
         },
         {
           "store_id": "003929",
           "store": "コナミスポーツクラブ 南千里",
           "region": "近畿",
-          "lesson_count": 42,
+          "lesson_count": 57,
           "path": "by_store/konami/コナミスポーツクラブ_南千里.json"
         },
         {
           "store_id": "003930",
           "store": "コナミスポーツクラブ 五反田",
           "region": "関東",
-          "lesson_count": 8,
+          "lesson_count": 62,
           "path": "by_store/konami/コナミスポーツクラブ_五反田.json"
         },
         {
           "store_id": "003932",
           "store": "コナミスポーツクラブ 武蔵野",
           "region": "関東",
-          "lesson_count": 77,
+          "lesson_count": 65,
           "path": "by_store/konami/コナミスポーツクラブ_武蔵野.json"
         },
         {
           "store_id": "003937",
           "store": "コナミスポーツクラブ 神戸",
           "region": "近畿",
-          "lesson_count": 50,
+          "lesson_count": 124,
           "path": "by_store/konami/コナミスポーツクラブ_神戸.json"
         },
         {
           "store_id": "003964",
           "store": "コナミスポーツクラブ 船堀",
           "region": "関東",
-          "lesson_count": 32,
+          "lesson_count": 92,
           "path": "by_store/konami/コナミスポーツクラブ_船堀.json"
         },
         {
           "store_id": "003966",
           "store": "コナミスポーツクラブ 米子",
           "region": "中国・四国",
-          "lesson_count": 23,
+          "lesson_count": 44,
           "path": "by_store/konami/コナミスポーツクラブ_米子.json"
         },
         {
           "store_id": "003967",
           "store": "コナミスポーツクラブ 北上",
           "region": "北海道・東北",
-          "lesson_count": 28,
+          "lesson_count": 84,
           "path": "by_store/konami/コナミスポーツクラブ_北上.json"
         },
         {
           "store_id": "003968",
           "store": "コナミスポーツクラブ 天草",
           "region": "九州・沖縄",
-          "lesson_count": 3,
+          "lesson_count": 58,
           "path": "by_store/konami/コナミスポーツクラブ_天草.json"
         },
         {
           "store_id": "004021",
           "store": "コナミスポーツクラブ 本店西宮",
           "region": "近畿",
-          "lesson_count": 230,
+          "lesson_count": 196,
           "path": "by_store/konami/コナミスポーツクラブ_本店西宮.json"
         },
         {
           "store_id": "004023",
           "store": "コナミスポーツクラブ 伏見",
           "region": "近畿",
-          "lesson_count": 50,
+          "lesson_count": 76,
           "path": "by_store/konami/コナミスポーツクラブ_伏見.json"
         },
         {
           "store_id": "004025",
           "store": "コナミスポーツクラブ 生駒",
           "region": "近畿",
-          "lesson_count": 22,
+          "lesson_count": 105,
           "path": "by_store/konami/コナミスポーツクラブ_生駒.json"
         },
         {
           "store_id": "004028",
           "store": "コナミスポーツクラブ 岡山",
           "region": "中国・四国",
-          "lesson_count": 29,
+          "lesson_count": 93,
           "path": "by_store/konami/コナミスポーツクラブ_岡山.json"
         },
         {
           "store_id": "004032",
           "store": "コナミスポーツクラブ 東岸和田",
           "region": "近畿",
-          "lesson_count": 36,
+          "lesson_count": 73,
           "path": "by_store/konami/コナミスポーツクラブ_東岸和田.json"
-        },
-        {
-          "store_id": "004033",
-          "store": "コナミスポーツ テニススクール 狭山",
-          "region": "関東",
-          "lesson_count": 61,
-          "path": "by_store/konami/コナミスポーツ_テニススクール_狭山.json"
         },
         {
           "store_id": "004036",
           "store": "コナミスポーツクラブ 明石",
           "region": "近畿",
-          "lesson_count": 265,
+          "lesson_count": 54,
           "path": "by_store/konami/コナミスポーツクラブ_明石.json"
         },
         {
           "store_id": "004038",
           "store": "コナミスポーツクラブ 光明池",
           "region": "近畿",
-          "lesson_count": 296,
+          "lesson_count": 73,
           "path": "by_store/konami/コナミスポーツクラブ_光明池.json"
         },
         {
           "store_id": "004039",
           "store": "コナミスポーツクラブ 五井",
           "region": "関東",
-          "lesson_count": 50,
+          "lesson_count": 54,
           "path": "by_store/konami/コナミスポーツクラブ_五井.json"
-        },
-        {
-          "store_id": "004041",
-          "store": "コナミスポーツ ジュニアスクール 五香",
-          "region": "関東",
-          "lesson_count": 62,
-          "path": "by_store/konami/コナミスポーツ_ジュニアスクール_五香.json"
         },
         {
           "store_id": "004043",
           "store": "コナミスポーツクラブ 西新井",
           "region": "関東",
-          "lesson_count": 57,
+          "lesson_count": 8,
           "path": "by_store/konami/コナミスポーツクラブ_西新井.json"
         },
         {
           "store_id": "004044",
           "store": "コナミスポーツクラブ 東加古川",
           "region": "近畿",
-          "lesson_count": 38,
+          "lesson_count": 85,
           "path": "by_store/konami/コナミスポーツクラブ_東加古川.json"
-        },
-        {
-          "store_id": "004046",
-          "store": "コナミスポーツ ジュニアスクール 西葛西",
-          "region": "関東",
-          "lesson_count": 30,
-          "path": "by_store/konami/コナミスポーツ_ジュニアスクール_西葛西.json"
         },
         {
           "store_id": "004047",
           "store": "コナミスポーツクラブ いりなか",
           "region": "中部・北陸",
-          "lesson_count": 57,
+          "lesson_count": 55,
           "path": "by_store/konami/コナミスポーツクラブ_いりなか.json"
         },
         {
           "store_id": "004048",
           "store": "コナミスポーツクラブ 洋光台",
           "region": "関東",
-          "lesson_count": 45,
+          "lesson_count": 87,
           "path": "by_store/konami/コナミスポーツクラブ_洋光台.json"
         },
         {
           "store_id": "004050",
           "store": "コナミスポーツクラブ 鳴海山下",
           "region": "中部・北陸",
-          "lesson_count": 137,
+          "lesson_count": 79,
           "path": "by_store/konami/コナミスポーツクラブ_鳴海山下.json"
         },
         {
           "store_id": "004052",
           "store": "コナミスポーツクラブ 大垣",
           "region": "中部・北陸",
-          "lesson_count": 15,
+          "lesson_count": 82,
           "path": "by_store/konami/コナミスポーツクラブ_大垣.json"
         },
         {
           "store_id": "004053",
           "store": "コナミスポーツクラブ 所沢",
           "region": "関東",
-          "lesson_count": 62,
+          "lesson_count": 81,
           "path": "by_store/konami/コナミスポーツクラブ_所沢.json"
         },
         {
           "store_id": "004054",
           "store": "コナミスポーツクラブ 一橋学園",
           "region": "関東",
-          "lesson_count": 96,
+          "lesson_count": 105,
           "path": "by_store/konami/コナミスポーツクラブ_一橋学園.json"
         },
         {
           "store_id": "004055",
           "store": "コナミスポーツクラブ 茨木",
           "region": "近畿",
-          "lesson_count": 123,
+          "lesson_count": 98,
           "path": "by_store/konami/コナミスポーツクラブ_茨木.json"
         },
         {
           "store_id": "004058",
           "store": "コナミスポーツクラブ もいわ",
           "region": "北海道・東北",
-          "lesson_count": 39,
+          "lesson_count": 75,
           "path": "by_store/konami/コナミスポーツクラブ_もいわ.json"
         },
         {
           "store_id": "004060",
           "store": "コナミスポーツクラブ 川口",
           "region": "関東",
-          "lesson_count": 26,
+          "lesson_count": 100,
           "path": "by_store/konami/コナミスポーツクラブ_川口.json"
         },
         {
           "store_id": "004061",
           "store": "コナミスポーツクラブ 新札幌",
           "region": "北海道・東北",
-          "lesson_count": 29,
+          "lesson_count": 72,
           "path": "by_store/konami/コナミスポーツクラブ_新札幌.json"
-        },
-        {
-          "store_id": "004062",
-          "store": "コナミスポーツ テニススクール 西葛西",
-          "region": "関東",
-          "lesson_count": 395,
-          "path": "by_store/konami/コナミスポーツ_テニススクール_西葛西.json"
-        },
-        {
-          "store_id": "004064",
-          "store": "コナミスポーツクラブ 本店西宮アネックス",
-          "region": "近畿",
-          "lesson_count": 71,
-          "path": "by_store/konami/コナミスポーツクラブ_本店西宮アネックス.json"
         },
         {
           "store_id": "004065",
           "store": "コナミスポーツクラブ 沖縄",
           "region": "九州・沖縄",
-          "lesson_count": 43,
+          "lesson_count": 92,
           "path": "by_store/konami/コナミスポーツクラブ_沖縄.json"
         },
         {
           "store_id": "004067",
           "store": "コナミスポーツクラブ 妙典",
           "region": "関東",
-          "lesson_count": 68,
+          "lesson_count": 87,
           "path": "by_store/konami/コナミスポーツクラブ_妙典.json"
+        },
+        {
+          "store_id": "004070",
+          "store": "コナミスポーツクラブ 武蔵小杉",
+          "region": "関東",
+          "lesson_count": 134,
+          "path": "by_store/konami/コナミスポーツクラブ_武蔵小杉.json"
         },
         {
           "store_id": "004071",
           "store": "コナミスポーツクラブ 三ツ境",
           "region": "関東",
-          "lesson_count": 72,
+          "lesson_count": 58,
           "path": "by_store/konami/コナミスポーツクラブ_三ツ境.json"
         },
         {
           "store_id": "004072",
           "store": "コナミスポーツクラブ 和泉中央",
           "region": "近畿",
-          "lesson_count": 15,
+          "lesson_count": 72,
           "path": "by_store/konami/コナミスポーツクラブ_和泉中央.json"
         },
         {
           "store_id": "004074",
           "store": "コナミスポーツクラブ 三田",
           "region": "近畿",
-          "lesson_count": 36,
+          "lesson_count": 86,
           "path": "by_store/konami/コナミスポーツクラブ_三田.json"
         },
         {
           "store_id": "004075",
           "store": "コナミスポーツクラブ はりまや橋",
           "region": "中国・四国",
-          "lesson_count": 3,
+          "lesson_count": 76,
           "path": "by_store/konami/コナミスポーツクラブ_はりまや橋.json"
         },
         {
           "store_id": "004076",
           "store": "コナミスポーツクラブ 守口",
           "region": "近畿",
-          "lesson_count": 123,
+          "lesson_count": 89,
           "path": "by_store/konami/コナミスポーツクラブ_守口.json"
         },
         {
           "store_id": "004079",
           "store": "コナミスポーツクラブ 横浜",
           "region": "関東",
-          "lesson_count": 265,
+          "lesson_count": 134,
           "path": "by_store/konami/コナミスポーツクラブ_横浜.json"
         },
         {
           "store_id": "004081",
           "store": "コナミスポーツクラブ 武蔵浦和",
           "region": "関東",
-          "lesson_count": 42,
+          "lesson_count": 83,
           "path": "by_store/konami/コナミスポーツクラブ_武蔵浦和.json"
-        },
-        {
-          "store_id": "004082",
-          "store": "コナミスポーツクラブ 京橋",
-          "region": "近畿",
-          "lesson_count": 217,
-          "path": "by_store/konami/コナミスポーツクラブ_京橋.json"
         },
         {
           "store_id": "004084",
           "store": "コナミスポーツクラブ 福岡城南",
           "region": "九州・沖縄",
-          "lesson_count": 72,
+          "lesson_count": 130,
           "path": "by_store/konami/コナミスポーツクラブ_福岡城南.json"
         },
         {
           "store_id": "004085",
           "store": "コナミスポーツクラブ 稲城",
           "region": "関東",
-          "lesson_count": 32,
+          "lesson_count": 104,
           "path": "by_store/konami/コナミスポーツクラブ_稲城.json"
         },
         {
           "store_id": "004087",
           "store": "コナミスポーツクラブ 香里ケ丘",
           "region": "近畿",
-          "lesson_count": 204,
+          "lesson_count": 111,
           "path": "by_store/konami/コナミスポーツクラブ_香里ケ丘.json"
         },
         {
           "store_id": "004089",
           "store": "コナミスポーツクラブ 五香",
           "region": "関東",
-          "lesson_count": 14,
+          "lesson_count": 86,
           "path": "by_store/konami/コナミスポーツクラブ_五香.json"
         },
         {
           "store_id": "004090",
           "store": "コナミスポーツクラブ 三宮",
           "region": "近畿",
-          "lesson_count": 23,
+          "lesson_count": 87,
           "path": "by_store/konami/コナミスポーツクラブ_三宮.json"
         },
         {
           "store_id": "004091",
           "store": "コナミスポーツクラブ 新石切",
           "region": "近畿",
-          "lesson_count": 30,
+          "lesson_count": 115,
           "path": "by_store/konami/コナミスポーツクラブ_新石切.json"
         },
         {
           "store_id": "004092",
           "store": "コナミスポーツクラブ 星ヶ丘",
           "region": "中部・北陸",
-          "lesson_count": 26,
+          "lesson_count": 92,
           "path": "by_store/konami/コナミスポーツクラブ_星ヶ丘.json"
         },
         {
           "store_id": "004096",
           "store": "コナミスポーツクラブ 高槻",
           "region": "近畿",
-          "lesson_count": 92,
+          "lesson_count": 61,
           "path": "by_store/konami/コナミスポーツクラブ_高槻.json"
+        },
+        {
+          "store_id": "004097",
+          "store": "コナミスポーツクラブ 川西",
+          "region": "近畿",
+          "lesson_count": 71,
+          "path": "by_store/konami/コナミスポーツクラブ_川西.json"
         },
         {
           "store_id": "004098",
           "store": "コナミスポーツクラブ 上新庄",
           "region": "近畿",
-          "lesson_count": 30,
+          "lesson_count": 64,
           "path": "by_store/konami/コナミスポーツクラブ_上新庄.json"
         },
         {
           "store_id": "004101",
           "store": "コナミスポーツクラブ 仙台長町",
           "region": "北海道・東北",
-          "lesson_count": 55,
+          "lesson_count": 68,
           "path": "by_store/konami/コナミスポーツクラブ_仙台長町.json"
+        },
+        {
+          "store_id": "004103",
+          "store": "グランサイズ 恵比寿ガーデン",
+          "region": "関東",
+          "lesson_count": 69,
+          "path": "by_store/konami/グランサイズ_恵比寿ガーデン.json"
         },
         {
           "store_id": "004105",
           "store": "コナミスポーツクラブ 大阪ステーションシティ",
           "region": "近畿",
-          "lesson_count": 62,
+          "lesson_count": 77,
           "path": "by_store/konami/コナミスポーツクラブ_大阪ステーションシティ.json"
         },
         {
           "store_id": "004112",
           "store": "エグザス 奏の杜",
           "region": "関東",
-          "lesson_count": 48,
+          "lesson_count": 93,
           "path": "by_store/konami/エグザス_奏の杜.json"
+        },
+        {
+          "store_id": "004401",
+          "store": "コナミスポーツクラブ 京都丸太町",
+          "region": "近畿",
+          "lesson_count": 91,
+          "path": "by_store/konami/コナミスポーツクラブ_京都丸太町.json"
         },
         {
           "store_id": "004404",
           "store": "コナミスポーツクラブ 船橋",
           "region": "関東",
-          "lesson_count": 185,
+          "lesson_count": 95,
           "path": "by_store/konami/コナミスポーツクラブ_船橋.json"
         },
         {
           "store_id": "004407",
           "store": "コナミスポーツクラブ 札幌円山",
           "region": "北海道・東北",
-          "lesson_count": 63,
+          "lesson_count": 81,
           "path": "by_store/konami/コナミスポーツクラブ_札幌円山.json"
         },
         {
           "store_id": "004409",
           "store": "コナミスポーツクラブ 上大岡",
           "region": "関東",
-          "lesson_count": 150,
+          "lesson_count": 147,
           "path": "by_store/konami/コナミスポーツクラブ_上大岡.json"
         },
         {
           "store_id": "004411",
           "store": "コナミスポーツクラブ 津田沼",
           "region": "関東",
-          "lesson_count": 260,
+          "lesson_count": 89,
           "path": "by_store/konami/コナミスポーツクラブ_津田沼.json"
+        },
+        {
+          "store_id": "004414",
+          "store": "コナミスポーツクラブ 飯田橋",
+          "region": "関東",
+          "lesson_count": 55,
+          "path": "by_store/konami/コナミスポーツクラブ_飯田橋.json"
         },
         {
           "store_id": "004415",
           "store": "コナミスポーツクラブ 北浜",
           "region": "近畿",
-          "lesson_count": 4,
+          "lesson_count": 94,
           "path": "by_store/konami/コナミスポーツクラブ_北浜.json"
         },
         {
           "store_id": "004416",
           "store": "コナミスポーツクラブ 札幌",
           "region": "北海道・東北",
-          "lesson_count": 32,
+          "lesson_count": 114,
           "path": "by_store/konami/コナミスポーツクラブ_札幌.json"
         },
         {
           "store_id": "004421",
           "store": "コナミスポーツクラブ 新大阪",
           "region": "近畿",
-          "lesson_count": 4,
+          "lesson_count": 62,
           "path": "by_store/konami/コナミスポーツクラブ_新大阪.json"
         },
         {
           "store_id": "004423",
           "store": "コナミスポーツクラブ 西船橋",
           "region": "関東",
-          "lesson_count": 132,
+          "lesson_count": 120,
           "path": "by_store/konami/コナミスポーツクラブ_西船橋.json"
         },
         {
           "store_id": "004425",
           "store": "コナミスポーツクラブ 大和八木",
           "region": "近畿",
-          "lesson_count": 71,
+          "lesson_count": 94,
           "path": "by_store/konami/コナミスポーツクラブ_大和八木.json"
         },
         {
           "store_id": "004427",
           "store": "コナミスポーツクラブ 西大路御池",
           "region": "近畿",
-          "lesson_count": 72,
+          "lesson_count": 103,
           "path": "by_store/konami/コナミスポーツクラブ_西大路御池.json"
         },
         {
           "store_id": "004442",
           "store": "コナミスポーツクラブ 下総中山",
           "region": "関東",
-          "lesson_count": 73,
+          "lesson_count": 101,
           "path": "by_store/konami/コナミスポーツクラブ_下総中山.json"
         },
         {
           "store_id": "004445",
           "store": "コナミスポーツクラブ 心斎橋",
           "region": "近畿",
-          "lesson_count": 7,
+          "lesson_count": 112,
           "path": "by_store/konami/コナミスポーツクラブ_心斎橋.json"
         },
         {
           "store_id": "004446",
           "store": "コナミスポーツクラブ 目黒青葉台",
           "region": "関東",
-          "lesson_count": 67,
+          "lesson_count": 133,
           "path": "by_store/konami/コナミスポーツクラブ_目黒青葉台.json"
         },
         {
           "store_id": "004447",
           "store": "コナミスポーツクラブ 川越",
           "region": "関東",
-          "lesson_count": 232,
+          "lesson_count": 111,
           "path": "by_store/konami/コナミスポーツクラブ_川越.json"
         },
         {
           "store_id": "004452",
           "store": "コナミスポーツクラブ 長崎",
           "region": "九州・沖縄",
-          "lesson_count": 84,
+          "lesson_count": 89,
           "path": "by_store/konami/コナミスポーツクラブ_長崎.json"
         },
         {
           "store_id": "004456",
           "store": "コナミスポーツクラブ 岐阜",
           "region": "中部・北陸",
-          "lesson_count": 77,
+          "lesson_count": 104,
           "path": "by_store/konami/コナミスポーツクラブ_岐阜.json"
         },
         {
           "store_id": "004457",
           "store": "コナミスポーツクラブ 大野城",
           "region": "九州・沖縄",
-          "lesson_count": 38,
+          "lesson_count": 74,
           "path": "by_store/konami/コナミスポーツクラブ_大野城.json"
         },
         {
           "store_id": "004461",
           "store": "コナミスポーツクラブ 二子玉川",
           "region": "関東",
-          "lesson_count": 142,
+          "lesson_count": 64,
           "path": "by_store/konami/コナミスポーツクラブ_二子玉川.json"
         },
         {
           "store_id": "004462",
           "store": "コナミスポーツクラブ 稲毛",
           "region": "関東",
-          "lesson_count": 58,
+          "lesson_count": 63,
           "path": "by_store/konami/コナミスポーツクラブ_稲毛.json"
         },
         {
           "store_id": "004464",
           "store": "コナミスポーツクラブ 中央林間",
           "region": "関東",
-          "lesson_count": 237,
+          "lesson_count": 104,
           "path": "by_store/konami/コナミスポーツクラブ_中央林間.json"
         },
         {
           "store_id": "004469",
           "store": "コナミスポーツクラブ 府中",
           "region": "関東",
-          "lesson_count": 350,
+          "lesson_count": 124,
           "path": "by_store/konami/コナミスポーツクラブ_府中.json"
         },
         {
           "store_id": "004471",
           "store": "コナミスポーツクラブ 本山南",
           "region": "近畿",
-          "lesson_count": 2,
+          "lesson_count": 121,
           "path": "by_store/konami/コナミスポーツクラブ_本山南.json"
         },
         {
           "store_id": "004475",
           "store": "コナミスポーツクラブ 北小金",
           "region": "関東",
-          "lesson_count": 80,
+          "lesson_count": 77,
           "path": "by_store/konami/コナミスポーツクラブ_北小金.json"
         },
         {
           "store_id": "004476",
           "store": "コナミスポーツクラブ 北千里",
           "region": "近畿",
-          "lesson_count": 43,
+          "lesson_count": 90,
           "path": "by_store/konami/コナミスポーツクラブ_北千里.json"
         },
         {
           "store_id": "004477",
           "store": "コナミスポーツクラブ 北大路",
           "region": "近畿",
-          "lesson_count": 2,
+          "lesson_count": 90,
           "path": "by_store/konami/コナミスポーツクラブ_北大路.json"
+        },
+        {
+          "store_id": "004479",
+          "store": "コナミスポーツクラブ 川崎",
+          "region": "関東",
+          "lesson_count": 128,
+          "path": "by_store/konami/コナミスポーツクラブ_川崎.json"
         },
         {
           "store_id": "004483",
           "store": "コナミスポーツクラブ 都賀",
           "region": "関東",
-          "lesson_count": 42,
+          "lesson_count": 78,
           "path": "by_store/konami/コナミスポーツクラブ_都賀.json"
         },
         {
           "store_id": "004484",
           "store": "コナミスポーツクラブ 寝屋川",
           "region": "近畿",
-          "lesson_count": 91,
+          "lesson_count": 93,
           "path": "by_store/konami/コナミスポーツクラブ_寝屋川.json"
         },
         {
           "store_id": "004485",
           "store": "コナミスポーツクラブ 明石大久保",
           "region": "近畿",
-          "lesson_count": 248,
+          "lesson_count": 142,
           "path": "by_store/konami/コナミスポーツクラブ_明石大久保.json"
         },
         {
           "store_id": "004486",
           "store": "コナミスポーツクラブ 池袋",
           "region": "関東",
-          "lesson_count": 53,
+          "lesson_count": 60,
           "path": "by_store/konami/コナミスポーツクラブ_池袋.json"
-        },
-        {
-          "store_id": "004488",
-          "store": "コナミスポーツクラブ 新百合ヶ丘",
-          "region": "関東",
-          "lesson_count": 96,
-          "path": "by_store/konami/コナミスポーツクラブ_新百合ヶ丘.json"
         },
         {
           "store_id": "004489",
           "store": "コナミスポーツクラブ ジェームス山",
           "region": "近畿",
-          "lesson_count": 16,
+          "lesson_count": 103,
           "path": "by_store/konami/コナミスポーツクラブ_ジェームス山.json"
         },
         {
           "store_id": "004498",
           "store": "コナミスポーツクラブ 入間",
           "region": "関東",
-          "lesson_count": 227,
+          "lesson_count": 108,
           "path": "by_store/konami/コナミスポーツクラブ_入間.json"
         },
         {
           "store_id": "004501",
           "store": "コナミスポーツクラブ 本店",
           "region": "関東",
-          "lesson_count": 217,
+          "lesson_count": 155,
           "path": "by_store/konami/コナミスポーツクラブ_本店.json"
         },
         {
           "store_id": "006022",
           "store": "コナミスポーツクラブ 目黒",
           "region": "関東",
-          "lesson_count": 66,
+          "lesson_count": 87,
           "path": "by_store/konami/コナミスポーツクラブ_目黒.json"
         },
         {
           "store_id": "006023",
           "store": "コナミスポーツクラブ 恵比寿",
           "region": "関東",
-          "lesson_count": 62,
+          "lesson_count": 102,
           "path": "by_store/konami/コナミスポーツクラブ_恵比寿.json"
         },
         {
           "store_id": "006024",
           "store": "コナミスポーツクラブ 荻窪南口",
           "region": "関東",
-          "lesson_count": 69,
+          "lesson_count": 113,
           "path": "by_store/konami/コナミスポーツクラブ_荻窪南口.json"
         },
         {
           "store_id": "006026",
           "store": "コナミスポーツクラブ たまプラーザ",
           "region": "関東",
-          "lesson_count": 57,
+          "lesson_count": 111,
           "path": "by_store/konami/コナミスポーツクラブ_たまプラーザ.json"
         },
         {
           "store_id": "006027",
           "store": "コナミスポーツクラブ 希望が丘",
           "region": "関東",
-          "lesson_count": 66,
+          "lesson_count": 93,
           "path": "by_store/konami/コナミスポーツクラブ_希望が丘.json"
         },
         {
           "store_id": "006028",
           "store": "コナミスポーツクラブ 武蔵境",
           "region": "関東",
-          "lesson_count": 128,
+          "lesson_count": 85,
           "path": "by_store/konami/コナミスポーツクラブ_武蔵境.json"
         },
         {
           "store_id": "006029",
           "store": "コナミスポーツクラブ 自由が丘駅前",
           "region": "関東",
-          "lesson_count": 62,
+          "lesson_count": 157,
           "path": "by_store/konami/コナミスポーツクラブ_自由が丘駅前.json"
         },
         {
           "store_id": "006033",
           "store": "コナミスポーツクラブ 磯子",
           "region": "関東",
-          "lesson_count": 179,
+          "lesson_count": 117,
           "path": "by_store/konami/コナミスポーツクラブ_磯子.json"
         },
         {
           "store_id": "006034",
           "store": "コナミスポーツクラブ 碑文谷",
           "region": "関東",
-          "lesson_count": 35,
+          "lesson_count": 101,
           "path": "by_store/konami/コナミスポーツクラブ_碑文谷.json"
-        },
-        {
-          "store_id": "007701",
-          "store": "コナミスポーツ ジュニアスクール 中野",
-          "region": "関東",
-          "lesson_count": 57,
-          "path": "by_store/konami/コナミスポーツ_ジュニアスクール_中野.json"
         },
         {
           "store_id": "007802",
           "store": "コナミスポーツクラブ 八幡",
           "region": "近畿",
-          "lesson_count": 24,
+          "lesson_count": 63,
           "path": "by_store/konami/コナミスポーツクラブ_八幡.json"
-        },
-        {
-          "store_id": "007804",
-          "store": "コナミスポーツ テニススクール 浦和",
-          "region": "関東",
-          "lesson_count": 110,
-          "path": "by_store/konami/コナミスポーツ_テニススクール_浦和.json"
         },
         {
           "store_id": "007833",
           "store": "コナミスポーツクラブ 成増",
           "region": "関東",
-          "lesson_count": 148,
+          "lesson_count": 72,
           "path": "by_store/konami/コナミスポーツクラブ_成増.json"
         },
         {
           "store_id": "007851",
           "store": "コナミスポーツクラブ 和光",
           "region": "関東",
-          "lesson_count": 130,
+          "lesson_count": 77,
           "path": "by_store/konami/コナミスポーツクラブ_和光.json"
         },
         {
           "store_id": "007853",
           "store": "コナミスポーツクラブ 豊田",
           "region": "中部・北陸",
-          "lesson_count": 19,
+          "lesson_count": 17,
           "path": "by_store/konami/コナミスポーツクラブ_豊田.json"
         },
         {
           "store_id": "007855",
           "store": "コナミスポーツクラブ 刈谷",
           "region": "中部・北陸",
-          "lesson_count": 61,
+          "lesson_count": 5,
           "path": "by_store/konami/コナミスポーツクラブ_刈谷.json"
         },
         {
           "store_id": "007856",
           "store": "コナミスポーツクラブ 豊田南",
           "region": "中部・北陸",
-          "lesson_count": 74,
+          "lesson_count": 53,
           "path": "by_store/konami/コナミスポーツクラブ_豊田南.json"
         },
         {
           "store_id": "007857",
           "store": "コナミスポーツクラブ 鈴鹿",
           "region": "近畿",
-          "lesson_count": 185,
+          "lesson_count": 88,
           "path": "by_store/konami/コナミスポーツクラブ_鈴鹿.json"
         },
         {
           "store_id": "007858",
           "store": "コナミスポーツクラブ 岡崎",
           "region": "中部・北陸",
-          "lesson_count": 120,
+          "lesson_count": 75,
           "path": "by_store/konami/コナミスポーツクラブ_岡崎.json"
         },
         {
           "store_id": "007859",
           "store": "コナミスポーツクラブ 植田",
           "region": "中部・北陸",
-          "lesson_count": 28,
+          "lesson_count": 84,
           "path": "by_store/konami/コナミスポーツクラブ_植田.json"
         },
         {
           "store_id": "007863",
           "store": "コナミスポーツクラブ 瀬戸",
           "region": "中部・北陸",
-          "lesson_count": 39,
+          "lesson_count": 99,
           "path": "by_store/konami/コナミスポーツクラブ_瀬戸.json"
         },
         {
           "store_id": "007866",
           "store": "コナミスポーツクラブ 豊橋",
           "region": "中部・北陸",
-          "lesson_count": 98,
+          "lesson_count": 81,
           "path": "by_store/konami/コナミスポーツクラブ_豊橋.json"
         },
         {
           "store_id": "007867",
           "store": "コナミスポーツクラブ 豊明",
           "region": "中部・北陸",
-          "lesson_count": 54,
+          "lesson_count": 75,
           "path": "by_store/konami/コナミスポーツクラブ_豊明.json"
         },
         {
           "store_id": "007871",
           "store": "コナミスポーツクラブ 渋谷",
           "region": "関東",
-          "lesson_count": 110,
+          "lesson_count": 86,
           "path": "by_store/konami/コナミスポーツクラブ_渋谷.json"
         },
         {
           "store_id": "007876",
           "store": "コナミスポーツクラブ 蒲田",
           "region": "関東",
-          "lesson_count": 17,
+          "lesson_count": 78,
           "path": "by_store/konami/コナミスポーツクラブ_蒲田.json"
         },
         {
           "store_id": "007877",
           "store": "コナミスポーツクラブ 大森町",
           "region": "関東",
-          "lesson_count": 72,
+          "lesson_count": 104,
           "path": "by_store/konami/コナミスポーツクラブ_大森町.json"
         },
         {
           "store_id": "007879",
           "store": "コナミスポーツクラブ 北上尾",
           "region": "関東",
-          "lesson_count": 131,
+          "lesson_count": 104,
           "path": "by_store/konami/コナミスポーツクラブ_北上尾.json"
         }
       ]
@@ -6895,7 +6860,7 @@
           "store_id": "14130",
           "store": "戸塚神奈川",
           "region": "関東",
-          "lesson_count": 155,
+          "lesson_count": 153,
           "path": "by_store/goldsgym/戸塚神奈川.json"
         },
         {
@@ -7224,7 +7189,7 @@
           "store_id": "27130",
           "store": "十三 in プラザオーサカ",
           "region": "近畿",
-          "lesson_count": 73,
+          "lesson_count": 67,
           "path": "by_store/goldsgym/十三_in_プラザオーサカ.json"
         },
         {
@@ -7370,7 +7335,7 @@
           "store_id": "004-toyohashi",
           "store": "豊橋店",
           "region": "中部・北陸",
-          "lesson_count": 66,
+          "lesson_count": 63,
           "path": "by_store/holiday/豊橋店.json"
         },
         {
@@ -7769,7 +7734,7 @@
           "store_id": "069-soka",
           "store": "草加店",
           "region": "関東",
-          "lesson_count": 77,
+          "lesson_count": 73,
           "path": "by_store/holiday/草加店.json"
         },
         {
@@ -7797,7 +7762,7 @@
           "store_id": "074-chibachuo",
           "store": "千葉中央店",
           "region": "関東",
-          "lesson_count": 57,
+          "lesson_count": 54,
           "path": "by_store/holiday/千葉中央店.json"
         },
         {
@@ -7839,7 +7804,7 @@
           "store_id": "080-fukuokakoga",
           "store": "福岡古賀店",
           "region": "九州・沖縄",
-          "lesson_count": 111,
+          "lesson_count": 105,
           "path": "by_store/holiday/福岡古賀店.json"
         },
         {
@@ -8523,7 +8488,7 @@
           "store_id": "okayamatakaya",
           "store": "JOYFIT24 岡山高屋",
           "region": "中国・四国",
-          "lesson_count": 147,
+          "lesson_count": 135,
           "path": "by_store/joyfit/JOYFIT24_岡山高屋.json"
         },
         {
@@ -8551,7 +8516,7 @@
           "store_id": "sendaiizumi",
           "store": "JOYFIT24 仙台泉",
           "region": "北海道・東北",
-          "lesson_count": 165,
+          "lesson_count": 141,
           "path": "by_store/joyfit/JOYFIT24_仙台泉.json"
         },
         {
@@ -8565,7 +8530,7 @@
           "store_id": "shibata",
           "store": "JOYFIT24 新発田",
           "region": "中部・北陸",
-          "lesson_count": 246,
+          "lesson_count": 222,
           "path": "by_store/joyfit/JOYFIT24_新発田.json"
         },
         {
@@ -8593,7 +8558,7 @@
           "store_id": "takamatsu",
           "store": "JOYFIT24 高松",
           "region": "中国・四国",
-          "lesson_count": 58,
+          "lesson_count": 56,
           "path": "by_store/joyfit/JOYFIT24_高松.json"
         },
         {
@@ -8704,7 +8669,7 @@
           "store_id": "ena",
           "store": "アクトス 恵那店",
           "region": "中部・北陸",
-          "lesson_count": 44,
+          "lesson_count": 43,
           "path": "by_store/axtos/アクトス_恵那店.json"
         },
         {
@@ -8732,7 +8697,7 @@
           "store_id": "hamamatsu",
           "store": "アクトス 浜松店",
           "region": "中部・北陸",
-          "lesson_count": 115,
+          "lesson_count": 113,
           "path": "by_store/axtos/アクトス_浜松店.json"
         },
         {
@@ -9612,7 +9577,7 @@
           "store_id": "momoyamarokujizo",
           "store": "桃山六地蔵24",
           "region": "近畿",
-          "lesson_count": 304,
+          "lesson_count": 271,
           "path": "by_store/cospa/桃山六地蔵24.json"
         },
         {
@@ -11609,7 +11574,7 @@
           "store_id": "イオンスポーツクラブ-大高店",
           "store": "イオンスポーツクラブ 大高店",
           "region": "中部・北陸",
-          "lesson_count": 135,
+          "lesson_count": 132,
           "path": "by_store/aeon/イオンスポーツクラブ_大高店.json"
         },
         {
@@ -11630,7 +11595,7 @@
           "store_id": "イオンスポーツクラブ-浜松西店",
           "store": "イオンスポーツクラブ 3FIT浜松西店",
           "region": "中部・北陸",
-          "lesson_count": 112,
+          "lesson_count": 108,
           "path": "by_store/aeon/イオンスポーツクラブ_3FIT浜松西店.json"
         },
         {
@@ -11651,7 +11616,7 @@
           "store_id": "イオンスポーツクラブ-近江八幡店",
           "store": "イオンスポーツクラブ 3FIT 近江八幡店",
           "region": "近畿",
-          "lesson_count": 112,
+          "lesson_count": 105,
           "path": "by_store/aeon/イオンスポーツクラブ_3FIT_近江八幡店.json"
         },
         {
@@ -11665,7 +11630,7 @@
           "store_id": "イオンフィットネススタジオ-3fit-大和店",
           "store": "イオンフィットネススタジオ 3FIT 大和店",
           "region": "関東",
-          "lesson_count": 27,
+          "lesson_count": 13,
           "path": "by_store/aeon/イオンフィットネススタジオ_3FIT_大和店.json"
         },
         {
@@ -11706,7 +11671,7 @@
           "store_id": "kounosu",
           "store": "スポーツスパ アスリエ鴻巣",
           "region": "関東",
-          "lesson_count": 311,
+          "lesson_count": 310,
           "path": "by_store/asurie/スポーツスパ_アスリエ鴻巣.json"
         },
         {
@@ -11748,7 +11713,7 @@
           "store_id": "yono",
           "store": "スポーツスパ アスリエ与野",
           "region": "関東",
-          "lesson_count": 226,
+          "lesson_count": 224,
           "path": "by_store/asurie/スポーツスパ_アスリエ与野.json"
         }
       ]
@@ -12513,35 +12478,35 @@
           "store_id": "aim21",
           "store": "エイム21",
           "region": "中部・北陸",
-          "lesson_count": 116,
+          "lesson_count": 84,
           "path": "by_store/aim/エイム21.json"
         },
         {
           "store_id": "face",
           "store": "エイムフェイス",
           "region": "中部・北陸",
-          "lesson_count": 107,
+          "lesson_count": 91,
           "path": "by_store/aim/エイムフェイス.json"
         },
         {
           "store_id": "kurhaus",
           "store": "クアハウスN9",
           "region": "中部・北陸",
-          "lesson_count": 115,
+          "lesson_count": 109,
           "path": "by_store/aim/クアハウスN9.json"
         },
         {
           "store_id": "moonfort",
           "store": "エイムムーンフォート",
           "region": "中部・北陸",
-          "lesson_count": 131,
+          "lesson_count": 94,
           "path": "by_store/aim/エイムムーンフォート.json"
         },
         {
           "store_id": "skyship",
           "store": "エイムスカイシップ",
           "region": "中部・北陸",
-          "lesson_count": 58,
+          "lesson_count": 47,
           "path": "by_store/aim/エイムスカイシップ.json"
         },
         {
@@ -12643,7 +12608,7 @@
           "store_id": "fresco-tarumi",
           "store": "KTVフィットネスクラブ フレスコ垂水",
           "region": "近畿",
-          "lesson_count": 254,
+          "lesson_count": 253,
           "path": "by_store/fresco/KTVフィットネスクラブ_フレスコ垂水.json"
         }
       ]
@@ -12697,7 +12662,7 @@
           "store_id": "shikishima",
           "store": "ブルーアース敷島店",
           "region": "中部・北陸",
-          "lesson_count": 67,
+          "lesson_count": 66,
           "path": "by_store/blueearth/ブルーアース敷島店.json"
         },
         {
@@ -12718,7 +12683,7 @@
           "store_id": "yamanashi",
           "store": "ブルーアース山梨店",
           "region": "中部・北陸",
-          "lesson_count": 108,
+          "lesson_count": 99,
           "path": "by_store/blueearth/ブルーアース山梨店.json"
         }
       ]
@@ -13199,7 +13164,7 @@
           "store_id": "ebara_wave_ota",
           "store": "Ebara Waveアリーナおおた（大田区総合体育館）",
           "region": "関東",
-          "lesson_count": 14,
+          "lesson_count": 13,
           "path": "by_store/esfortaota/Ebara_Waveアリーナおおた（大田区総合体育館）.json"
         }
       ]
