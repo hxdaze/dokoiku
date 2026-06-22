@@ -3,11 +3,71 @@
 
 const $ = (s) => document.querySelector(s);
 const STATE_KEY = "dokoiku_zumba_state_v1";
+const THEME_KEY = "dokojim_theme";
+const THEME_CYCLE = ["light", "dark", "pop"];
 
 const state = {
   view: "day", region: "", prefecture: "", gym: "", day: "", category: "",
   store_id: "", instructor: "", q: "", limit: "200",
 };
+
+// ジャンル(カテゴリー)アイコン。カテゴリー名(英語)→絵文字。
+const CATEGORY_ICON = {
+  "ZUMBA": "💃", "RITMOS": "💃", "BAILA": "💃", "SALSATION": "💃", "LATIN": "💃",
+  "HULA": "🌺", "BELLY DANCE": "🪭", "STREET DANCE": "🕺", "BALLET": "🩰",
+  "JAZZ DANCE": "🎶", "STEP": "👟", "MARTIAL ARTS": "🥊", "KUNG FU": "🥋",
+  "YOGA & PILATES": "🧘", "AQUA": "🌊", "SWIMMING": "🏊", "CYCLING": "🚴",
+  "RUNNING": "🏃", "STRENGTH & CORE": "💪", "FAT BURN": "🔥",
+  "STRETCH & RELAX": "🌿", "WELLNESS": "🍀", "KIDS": "🧒", "AEROBICS": "🤸",
+  "OTHER": "✨",
+};
+function catIcon(cat) { return CATEGORY_ICON[cat] || "✨"; }
+
+// ---- テーマ(配色) ----
+function applyTheme(name) {
+  if (!THEME_CYCLE.includes(name)) name = "light";
+  document.documentElement.setAttribute("data-theme", name);
+  try { localStorage.setItem(THEME_KEY, name); } catch (_e) {}
+  const meta = document.querySelector('meta[name="theme-color"]');
+  const accent = getComputedStyle(document.documentElement)
+    .getPropertyValue("--accent").trim();
+  if (meta && accent) meta.setAttribute("content", accent);
+}
+function initTheme() {
+  let saved = "light";
+  try { saved = localStorage.getItem(THEME_KEY) || "light"; } catch (_e) {}
+  applyTheme(saved);
+}
+function cycleTheme() {
+  const cur = document.documentElement.getAttribute("data-theme") || "light";
+  const next = THEME_CYCLE[(THEME_CYCLE.indexOf(cur) + 1) % THEME_CYCLE.length];
+  applyTheme(next);
+}
+
+// ---- URLパラメータ(共有・SEO用ディープリンク) ----
+// ?region= / ?pref= / ?gym= / ?cat= / ?day= / ?q= / ?view= を解釈・反映する。
+function readUrlParams() {
+  const p = new URLSearchParams(location.search);
+  const map = { region: "region", pref: "prefecture", gym: "gym",
+    cat: "category", day: "day", q: "q", view: "view" };
+  for (const [k, sk] of Object.entries(map)) {
+    const v = p.get(k);
+    if (v != null && v !== "") state[sk] = v;
+  }
+}
+function syncUrl() {
+  const p = new URLSearchParams();
+  if (state.region) p.set("region", state.region);
+  if (state.prefecture) p.set("pref", state.prefecture);
+  if (state.gym) p.set("gym", state.gym);
+  if (state.category) p.set("cat", state.category);
+  if (state.day) p.set("day", state.day);
+  if (state.q) p.set("q", state.q);
+  if (state.view && state.view !== "day") p.set("view", state.view);
+  const qs = p.toString();
+  const url = location.pathname + (qs ? "?" + qs : "");
+  try { history.replaceState(null, "", url); } catch (_e) {}
+}
 
 let META = null;
 let LESSONS = [];      // 現在ロード済みの全レッスン(都道府県パートの連結)
@@ -29,6 +89,7 @@ let ALL_LOADED = false;              // 「全国読み込み」実行済みか
 // ---- 永続化 ----
 function saveState() {
   try { localStorage.setItem(STATE_KEY, JSON.stringify(state)); } catch (_e) {}
+  syncUrl();
 }
 function loadState() {
   try {
@@ -145,7 +206,8 @@ function fillControls() {
   setOptions($("#f-prefecture"), META.prefectures || []);
   setOptions($("#f-gym"), META.gyms, { value: (g) => g.id, label: (g) => `${g.label} (${g.count.toLocaleString()})` });
   setOptions($("#f-day"), META.days);
-  setOptions($("#f-category"), META.categories);
+  setOptions($("#f-category"), META.categories,
+    { label: (c) => `${catIcon(c)} ${c}` });
   refreshStoreOptions();
   refreshInstructorOptions();
   // 復元
@@ -187,7 +249,8 @@ function setActiveTab(v) {
 
 function viewLabel(v) {
   return { day: "曜日別", timeband: "時間帯別", store: "店舗別", category: "カテゴリー別",
-    instructor: "先生別", hashigo: "はしご", gym: "ジム別", substitution: "代行情報" }[v] || v;
+    instructor: "先生別", hashigo: "はしご", gym: "ジム別", substitution: "代行情報",
+    map: "近くで探す" }[v] || v;
 }
 
 function currentLimit() {
@@ -210,6 +273,7 @@ function renderChooseScope() {
 async function update() {
   saveState();
   if (state.view === "substitution") { renderSubstitution(); return; }
+  if (state.view === "map") { renderMap(); return; }
   const prefs = scopePrefs();
   if (!prefs) { refreshStoreOptions(); renderChooseScope(); return; }
   if (prefs.some((n) => !LOADED.has(n))) {
@@ -225,6 +289,7 @@ async function update() {
 // LESSONS から現在ビューを構築して描画(ロード済み前提)。
 function refreshViewRender() {
   if (state.view === "substitution") { renderSubstitution(); return; }
+  if (state.view === "map") { renderMap(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
   sortState.col = null;
@@ -321,7 +386,7 @@ function lessonRow(r, opts) {
   cells.push(`<td class="dur muted">${escapeHtml(GQ.fmtDuration(r))}</td>`);
   if (opts.showStore) cells.push(`<td>${storeLink(r)}<div class="muted">${escapeHtml(r.region || "")}</div></td>`);
   cells.push(`<td class="cls">${escapeHtml(r.class_name || "")} ${tags.join(" ")}${studio}</td>`);
-  if (opts.showCategory) cells.push(`<td><span class="cat">${escapeHtml(r.category || "")}</span></td>`);
+  if (opts.showCategory) cells.push(`<td><span class="cat"><span class="cat-ico">${catIcon(r.category)}</span>${escapeHtml(r.category || "")}</span></td>`);
   cells.push(`<td>${escapeHtml(r.instructor || "")}</td>`);
   cells.push(`<td class="muted">${escapeHtml(noteText(r))}</td>`);
   cells.push(`<td class="gcal">${gcalCell(r)}</td>`);
@@ -383,13 +448,184 @@ function renderGroups(data) {
     const cnt = vis.length < g.rows.length
       ? `<span class="cnt">（表示 ${vis.length} / ${g.count.toLocaleString()}件）</span>`
       : `<span class="cnt">${g.count.toLocaleString()}件</span>`;
-    out.push(`<section class="group"><h2>${escapeHtml(g.key)} ${cnt}</h2><table><thead>${tableHeader(opts)}</thead><tbody>${rows}</tbody></table></section>`);
+    const gicon = state.view === "category"
+      ? `<span class="cat-ico">${catIcon(g.key)}</span> ` : "";
+    out.push(`<section class="group"><h2>${gicon}${escapeHtml(g.key)} ${cnt}</h2><table><thead>${tableHeader(opts)}</thead><tbody>${rows}</tbody></table></section>`);
   }
   let html = out.join("");
   if (shown < data.total) {
     html += `<div class="truncate-warn">⚠ 該当 ${data.total.toLocaleString()}件中 ${shown.toLocaleString()}件のみ表示。表示件数を増やすか「制限なし」を選ぶか、フィルタで絞り込んでください。</div>`;
   }
   $("#main").innerHTML = html;
+}
+
+// ==== 地図(近くで探す) ====
+let _leafletPromise = null;
+let MAP = null;            // 現在のLeafletマップ
+let MAP_USER = null;       // 現在地マーカー/円のレイヤ群
+
+function loadLeaflet() {
+  if (window.L) return Promise.resolve();
+  if (_leafletPromise) return _leafletPromise;
+  _leafletPromise = new Promise((res, rej) => {
+    const s = document.createElement("script");
+    s.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+    s.crossOrigin = "";
+    s.onload = () => res();
+    s.onerror = () => rej(new Error("地図ライブラリの読み込みに失敗しました"));
+    document.head.appendChild(s);
+  });
+  return _leafletPromise;
+}
+
+// 現在のスコープ(エリア/都道府県/ジム)に合致し、座標を持つ店舗。
+function storesForMap() {
+  let list = STORES.filter((s) => typeof s.lat === "number" && typeof s.lon === "number");
+  if (state.region) list = list.filter((s) => s.region === state.region);
+  if (state.prefecture) list = list.filter((s) => s.prefecture === state.prefecture);
+  if (state.gym) list = list.filter((s) => s.gym_id === state.gym);
+  return list;
+}
+
+function haversineKm(lat1, lon1, lat2, lon2) {
+  const R = 6371, toRad = (d) => d * Math.PI / 180;
+  const dLat = toRad(lat2 - lat1), dLon = toRad(lon2 - lon1);
+  const a = Math.sin(dLat / 2) ** 2 +
+    Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
+
+// マーカーのポップアップから「この店舗のレッスンを見る」操作。
+function gotoStore(s) {
+  state.view = "store";
+  state.region = "";
+  state.prefecture = s.prefecture || "";
+  state.gym = s.gym_id || "";
+  state.store_id = String(s.store_id || "");
+  setActiveTab("store");
+  const set = (sel, v) => { const el = $(sel); if (el) el.value = v; };
+  set("#f-region", ""); set("#f-prefecture", state.prefecture);
+  set("#f-gym", state.gym);
+  refreshStoreOptions(); set("#f-store", state.store_id);
+  update();
+}
+
+async function renderMap() {
+  const list = storesForMap();
+  $("#summary").innerHTML =
+    `<span>地図上の店舗 <b>${list.length.toLocaleString()}</b> 件</span>` +
+    `<span class="muted">ビュー: 近くで探す</span>`;
+  $("#main").innerHTML =
+    '<div id="mapView">' +
+    '<div class="map-toolbar">' +
+    '  <button class="btn locate" id="locateBtn">📍 現在地から探す</button>' +
+    '  <label>半径 <select id="mapRadius">' +
+    '    <option value="0">指定なし</option>' +
+    '    <option value="1">1km</option><option value="2">2km</option>' +
+    '    <option value="3">3km</option><option value="5" selected>5km</option>' +
+    '    <option value="10">10km</option><option value="20">20km</option>' +
+    '  </select></label>' +
+    '  <span class="map-hint" id="mapStatus"></span>' +
+    '</div>' +
+    '<div id="mapCanvas"></div>' +
+    '<div class="map-hint">ピンをタップすると店舗の時間割へ移動できます。エリア・都道府県・ジムの絞り込みは上のフィルタと連動します。</div>' +
+    '</div>';
+
+  if (!list.length) {
+    $("#mapStatus").textContent = "この条件では位置情報付きの店舗がありません。フィルタを広げてください。";
+    return;
+  }
+
+  try {
+    await loadLeaflet();
+  } catch (e) {
+    $("#mapCanvas").innerHTML =
+      `<div class="empty">地図を表示できませんでした（${escapeHtml(e.message)}）。オフライン環境では地図機能は利用できません。</div>`;
+    return;
+  }
+
+  try { if (MAP) { MAP.remove(); } } catch (_e) {}
+  MAP = null; MAP_USER = null;
+  MAP = L.map("mapCanvas", { scrollWheelZoom: true });
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  }).addTo(MAP);
+
+  const markers = [];
+  for (const s of list) {
+    const m = L.marker([s.lat, s.lon]);
+    const sub = [s.gym && !(s.store || "").includes(s.gym) ? s.gym : "",
+      s.region || ""].filter(Boolean).join(" / ");
+    m._store = s;
+    m.bindPopup(
+      `<div class="map-pop-name">${escapeHtml(s.store || "")}</div>` +
+      (sub ? `<div class="map-pop-sub">${escapeHtml(sub)}</div>` : "") +
+      `<button class="map-pop-btn" type="button">この店舗のレッスンを見る ↗</button>`);
+    m.addTo(MAP);
+    markers.push(m);
+  }
+  const group = L.featureGroup(markers);
+  MAP.fitBounds(group.getBounds().pad(0.15));
+
+  MAP.on("popupopen", (e) => {
+    const node = e.popup._contentNode;
+    const btn = node && node.querySelector(".map-pop-btn");
+    const s = e.popup._source && e.popup._source._store;
+    if (btn && s) btn.onclick = () => gotoStore(s);
+  });
+
+  // 現在地から半径内へ絞り込む。
+  const locate = () => {
+    if (!navigator.geolocation) { $("#mapStatus").textContent = "この端末では現在地を取得できません。"; return; }
+    $("#mapStatus").textContent = "現在地を取得中…";
+    navigator.geolocation.getCurrentPosition((pos) => {
+      const { latitude: lat, longitude: lon } = pos.coords;
+      const radius = parseFloat($("#mapRadius").value) || 0;
+      if (MAP_USER) { MAP_USER.forEach((l) => MAP.removeLayer(l)); }
+      MAP_USER = [];
+      const here = L.circleMarker([lat, lon], {
+        radius: 8, color: "#2563eb", fillColor: "#3b82f6", fillOpacity: 0.9,
+      }).addTo(MAP).bindPopup("現在地");
+      MAP_USER.push(here);
+      // 距離計算＆半径フィルタ
+      let near = markers.map((m) => ({
+        m, km: haversineKm(lat, lon, m._store.lat, m._store.lon),
+      })).sort((a, b) => a.km - b.km);
+      if (radius > 0) {
+        near.forEach(({ m, km }) => {
+          if (km <= radius) m.addTo(MAP); else MAP.removeLayer(m);
+        });
+        const circle = L.circle([lat, lon], {
+          radius: radius * 1000, color: "#2563eb", weight: 1, fillOpacity: 0.05,
+        }).addTo(MAP);
+        MAP_USER.push(circle);
+        const inside = near.filter((x) => x.km <= radius);
+        if (inside.length) {
+          MAP.fitBounds(L.featureGroup(inside.map((x) => x.m).concat([here]))
+            .getBounds().pad(0.2));
+          $("#mapStatus").textContent =
+            `半径${radius}km内に ${inside.length} 店舗（最寄り ${inside[0].km.toFixed(1)}km）`;
+        } else {
+          MAP.setView([lat, lon], 12);
+          $("#mapStatus").textContent =
+            `半径${radius}km内に店舗なし。最寄りは ${near[0].km.toFixed(1)}km。`;
+        }
+      } else {
+        markers.forEach((m) => m.addTo(MAP));
+        MAP.setView([lat, lon], 12);
+        $("#mapStatus").textContent =
+          near.length ? `最寄り店舗は ${near[0].km.toFixed(1)}km` : "";
+      }
+    }, () => {
+      $("#mapStatus").textContent = "現在地を取得できませんでした（位置情報の許可をご確認ください）。";
+    }, { enableHighAccuracy: true, timeout: 10000 });
+  };
+  $("#locateBtn").addEventListener("click", locate);
+  $("#mapRadius").addEventListener("change", () => {
+    if (MAP_USER && MAP_USER.length) locate();
+  });
+  setTimeout(() => MAP && MAP.invalidateSize(), 100);
 }
 
 function renderSubstitution() {
@@ -418,6 +654,8 @@ function renderSubstitution() {
 
 // ---- イベント ----
 function bind() {
+  const tt = $("#themeToggle");
+  if (tt) tt.addEventListener("click", cycleTheme);
   document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => {
     state.view = t.dataset.view; setActiveTab(state.view); update();
   }));
@@ -460,7 +698,9 @@ function bind() {
 }
 
 async function main() {
+  initTheme();
   loadState();
+  readUrlParams();   // URLのディープリンクは保存状態より優先
   try {
     await loadData();
   } catch (e) {

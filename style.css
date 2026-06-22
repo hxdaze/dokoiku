@@ -1,4 +1,26 @@
-:root {
+/* ===== テーマ(配色) =====
+   既定はブランド(どこジム♪)に合わせた明るいポップ配色。
+   ツールバーの🎨ボタンで dark / pop を切替できる(data-theme属性)。 */
+:root,
+:root[data-theme="light"] {
+  --bg: #fff5fa;
+  --panel: #ffffff;
+  --panel2: #fff0f6;
+  --border: #f3c6dd;
+  --text: #2b2230;
+  --muted: #7d6f86;
+  --accent: #ff4d88;       /* ブランドピンク */
+  --accent2: #7cc02a;      /* ブランドグリーン */
+  --chip: #fff0f6;
+  --warn: #f08a24;
+  --row-hover: #fff0f6;
+  --note-bg: #fff7ea;
+  --special-bg: #fff2e0;
+  --scheme: light;
+}
+
+/* ダーク(従来の暗い配色) */
+:root[data-theme="dark"] {
   --bg: #0f1115;
   --panel: #1a1e26;
   --panel2: #232834;
@@ -9,14 +31,36 @@
   --accent2: #4dd6a0;
   --chip: #2b3242;
   --warn: #ffc06b;
+  --row-hover: #25313f;
+  --note-bg: #20222b;
+  --special-bg: #2e2410;
+  --scheme: dark;
+}
+
+/* ポップ(明るめ・彩度高め。既定より一段華やか) */
+:root[data-theme="pop"] {
+  --bg: #fffbe8;
+  --panel: #ffffff;
+  --panel2: #fff4d6;
+  --border: #ffd98a;
+  --text: #3a2a10;
+  --muted: #9a7d4a;
+  --accent: #ff6a00;       /* オレンジ */
+  --accent2: #16a34a;
+  --chip: #fff4d6;
+  --warn: #e0531b;
+  --row-hover: #fff4d6;
+  --note-bg: #fff7e0;
+  --special-bg: #ffeccc;
+  --scheme: light;
 }
 
 * { box-sizing: border-box; }
 
 html {
-  /* ネイティブ部品(select/option/スクロールバー等)を暗テーマで描画させ、
-     プルダウンの選択肢が「白地に白文字」で見えなくなるのを防ぐ */
-  color-scheme: dark;
+  /* ネイティブ部品(select/option/スクロールバー等)をテーマに追従させ、
+     プルダウンの選択肢が見えなくなるのを防ぐ */
+  color-scheme: var(--scheme);
 }
 
 html, body {
@@ -33,10 +77,47 @@ header {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: linear-gradient(180deg, #11141a, #0f1115);
-  border-bottom: 1px solid var(--border);
-  padding: 10px 16px;
+  background: var(--panel);
+  border-bottom: 2px solid var(--accent);
+  padding: 8px 16px;
 }
+
+/* ツールバー: 左にロゴ、右にメタ情報＋テーマ切替 */
+.toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.brand { display: inline-flex; align-items: center; text-decoration: none; }
+.brand-logo {
+  height: 46px;
+  width: auto;
+  display: block;
+}
+.toolbar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.toolbar-right .sub { color: var(--muted); font-size: 12.5px; }
+.theme-toggle {
+  background: var(--chip);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 999px;
+  width: 38px;
+  height: 38px;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.theme-toggle:hover { border-color: var(--accent); }
 
 .title {
   display: flex;
@@ -121,8 +202,8 @@ header {
 }
 /* プルダウンの選択肢(ネイティブ popup)の地色・文字色を明示 */
 .field select option {
-  background-color: #232834;
-  color: #f4f6fa;
+  background-color: var(--panel2);
+  color: var(--text);
 }
 .field input::placeholder { color: var(--muted); opacity: 1; }
 .field input.q { min-width: 200px; }
@@ -207,9 +288,9 @@ a.store-link {
   font-weight: 600;
 }
 a.store-link:hover { text-decoration: underline; }
-tr:hover td { background: #25313f; }
+tr:hover td { background: var(--row-hover); }
 tr.lesson { cursor: pointer; }
-tr.lesson:hover td { background: #2c3a4d; }
+tr.lesson:hover td { background: var(--row-hover); }
 
 .day { font-weight: 700; color: var(--accent); white-space: nowrap; }
 .time { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--accent2); font-weight: 600; }
@@ -239,7 +320,7 @@ a { color: var(--accent); }
   margin: 12px 0;
   padding: 8px 12px;
   border-left: 3px solid var(--warn);
-  background: #20222b;
+  background: var(--note-bg);
   color: var(--muted);
   font-size: 12px;
   border-radius: 4px;
@@ -408,7 +489,7 @@ th.nosort { cursor: default; }
 .cal-block.compact .b-instr { display: none; }
 .cal-block.special {
   border-left-color: var(--warn);
-  background: #2e2410;
+  background: var(--special-bg);
 }
 .cal-block .tag-pay { background: var(--warn); color: #1a1206; border-radius: 4px; padding: 0 4px; font-size: 10px; font-weight: 700; }
 .cal-block .tag-res { background: var(--accent2); color: #06121a; border-radius: 4px; padding: 0 4px; font-size: 10px; font-weight: 700; }
@@ -429,6 +510,56 @@ th.nosort { cursor: default; }
   text-align: center;
 }
 
+/* ===== ジャンル(カテゴリー)アイコン ===== */
+.cat .cat-ico { margin-right: 4px; }
+/* カテゴリー別ビューの見出しに付くアイコン */
+.group > h2 .cat-ico { font-size: 18px; }
+/* セレクトの選択肢は絵文字込みで表示(option内テキストに付与) */
+
+/* ===== 地図(近くで探す) ===== */
+#mapView { padding: 0 0 60px; }
+.map-toolbar {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 12px 16px;
+  background: var(--panel);
+  border-bottom: 1px solid var(--border);
+}
+.map-toolbar .btn.locate {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 700;
+}
+.map-toolbar .btn.locate:hover { background: var(--accent); color: #fff; }
+.map-toolbar label { font-size: 12.5px; color: var(--muted); font-weight: 600; }
+.map-toolbar select {
+  background-color: var(--panel2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 9px;
+  font-size: 14px;
+}
+.map-hint { padding: 8px 16px; color: var(--muted); font-size: 12.5px; }
+#mapCanvas {
+  width: 100%;
+  height: calc(100vh - 230px);
+  min-height: 360px;
+  background: var(--panel2);
+}
+/* Leafletのポップアップ(店舗カード) */
+.leaflet-popup-content { margin: 10px 12px; font-size: 13px; }
+.map-pop-name { font-weight: 700; font-size: 14px; margin-bottom: 2px; color: #2b2230; }
+.map-pop-sub { color: #6b6b6b; font-size: 12px; margin-bottom: 6px; }
+.map-pop-btn {
+  display: inline-block; padding: 4px 10px; border-radius: 8px;
+  background: #ff4d88; color: #fff; text-decoration: none; font-weight: 700;
+  font-size: 12.5px;
+}
+.map-pop-dist { color: #7cc02a; font-weight: 700; }
+
 /* ===== モバイル対応 ===== */
 /* 広い表は横スクロールにして、列が潰れて文字が縦書きになるのを防ぐ。
    グループ枠内でスクロールさせ、セルは基本 nowrap(1文字折返し防止)。 */
@@ -441,9 +572,13 @@ td .muted { white-space: normal; }
 
 @media (max-width: 720px) {
   html, body { font-size: 14px; }
-  header { padding: 8px 10px; }
+  header { padding: 6px 10px; }
   .title h1 { font-size: 17px; }
   .title .sub { font-size: 11.5px; }
+  .brand-logo { height: 36px; }
+  .theme-toggle { width: 34px; height: 34px; font-size: 16px; }
+  .toolbar-right .sub { font-size: 11px; }
+  #mapCanvas { height: calc(100vh - 250px); }
   main { padding: 0 8px 60px; }
 
   /* フィルタは縦積み・各項目を横いっぱいに */

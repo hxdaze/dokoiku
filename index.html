@@ -3,8 +3,46 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>今日はどこでZUMBA？（エアロ・STEP・RITMOS・ヨガ・バレエ）</title>
-  <meta name="description" content="スポーツジムのスタジオレッスン時間割（ZUMBA・エアロ・STEP・RITMOS・SALSATION・ヨガ・バレエ等）を、曜日・時間帯・店舗・カテゴリー・先生・はしご・ジム別・エリア別で検索。" />
+  <title>どこジム♪｜全国スタジオレッスン検索（ZUMBA・エアロ・ダンス・ヨガ）</title>
+  <meta name="description" content="どこジム♪は、全国のスポーツジム・公共スポーツ施設のスタジオレッスン（ZUMBA・エアロ・STEP・ダンス・ヨガ・バレエ等）を、地域→ジャンル→店舗→曜日で検索できる無料サイト。地図から近くのレッスンも探せます。" />
+  <meta name="theme-color" content="#ff4d88" />
+  <link rel="canonical" href="https://hxdaze.github.io/dokoiku/" />
+
+  <!-- アイコン / PWA -->
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
+  <link rel="apple-touch-icon" href="icon-180.png" />
+  <link rel="manifest" href="site.webmanifest" />
+
+  <!-- OGP / Twitter -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="どこジム♪" />
+  <meta property="og:title" content="どこジム♪｜全国スタジオレッスン検索" />
+  <meta property="og:description" content="全国のジム・公共施設のスタジオレッスン（ZUMBA・エアロ・ダンス・ヨガ）を地域・ジャンル・店舗・曜日・地図で検索。" />
+  <meta property="og:url" content="https://hxdaze.github.io/dokoiku/" />
+  <meta property="og:image" content="https://hxdaze.github.io/dokoiku/icon-512.png" />
+  <meta property="og:locale" content="ja_JP" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="どこジム♪｜全国スタジオレッスン検索" />
+  <meta name="twitter:description" content="全国のジム・公共施設のスタジオレッスンを地域・ジャンル・店舗・曜日・地図で検索。" />
+  <meta name="twitter:image" content="https://hxdaze.github.io/dokoiku/icon-512.png" />
+
+  <!-- 構造化データ(JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "どこジム♪",
+    "alternateName": "どこずむ♪",
+    "url": "https://hxdaze.github.io/dokoiku/",
+    "description": "全国のスポーツジム・公共スポーツ施設のスタジオレッスン（ZUMBA・エアロ・ダンス・ヨガ等）を地域・ジャンル・店舗・曜日・地図で検索できる無料サイト。",
+    "inLanguage": "ja"
+  }
+  </script>
+
+  <!-- 地図(近くで探す)用。Leaflet(OpenStreetMap) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-1CGMESVHEZ"></script>
   <script>
@@ -15,24 +53,30 @@
   </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7911204223031859"
      crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="style.css?v=20260622142514" />
+  <link rel="stylesheet" href="style.css?v=20260622150739" />
 </head>
 <body>
   <header>
-    <div class="title">
-      <h1>今日はどこでZUMBA？</h1>
-      <span class="sub">エアロ・STEP・RITMOS・SALSATION・ヨガ・バレエ</span>
-      <span class="sub" id="metaSub">読み込み中…</span>
+    <div class="toolbar">
+      <a class="brand" href="./" aria-label="どこジム♪ ホーム">
+        <img src="logo.png" alt="どこジム♪ 全国スタジオレッスン検索サイト" class="brand-logo" />
+      </a>
+      <div class="toolbar-right">
+        <span class="sub" id="metaSub">読み込み中…</span>
+        <button class="theme-toggle" id="themeToggle" type="button"
+                title="配色を切り替え" aria-label="配色を切り替え">🎨</button>
+      </div>
     </div>
     <nav class="tabs" id="tabs">
-      <button class="tab active" data-view="day">曜日別</button>
-      <button class="tab" data-view="timeband">時間帯別</button>
-      <button class="tab" data-view="store">店舗別</button>
-      <button class="tab" data-view="category">カテゴリー別</button>
-      <button class="tab" data-view="instructor">先生別</button>
-      <button class="tab" data-view="hashigo">はしご</button>
-      <button class="tab" data-view="gym">ジム別</button>
-      <button class="tab" data-view="substitution">代行情報</button>
+      <button class="tab active" data-view="day">📅 曜日別</button>
+      <button class="tab" data-view="timeband">⏰ 時間帯別</button>
+      <button class="tab" data-view="store">🏠 店舗別</button>
+      <button class="tab" data-view="category">🏷️ カテゴリー別</button>
+      <button class="tab" data-view="instructor">🧑‍🏫 先生別</button>
+      <button class="tab" data-view="hashigo">🪜 はしご</button>
+      <button class="tab" data-view="gym">🏢 ジム別</button>
+      <button class="tab" data-view="substitution">🔁 代行情報</button>
+      <button class="tab" data-view="map">🗺️ 近くで探す</button>
     </nav>
   </header>
 
@@ -87,12 +131,13 @@
     <p style="margin:0 0 8px;color:#c0392b;font-weight:600;">
       ※掲載内容が間違っている場合があります。ジムのホームページを参照の上、ご参加ください。
     </p>
-    どこいくZUMBA ｜ データは各ジム公式サイトの公開情報をもとに構造化。生成日時は上部に表示。
+    どこジム♪（愛称：どこずむ♪）｜ データは各ジム公式サイトの公開情報をもとに構造化。生成日時は上部に表示。
     <span style="margin-left:10px;">管理者: <a href="https://www.facebook.com/hongxing.daze" target="_blank" rel="noopener">Facebook</a></span>
   </footer>
 
-  <script>window.BUILD_VERSION="20260622142514";</script>
-  <script src="query.js?v=20260622142514"></script>
-  <script src="app.js?v=20260622142514"></script>
+  <script>window.SITE_NAME = "どこジム♪";</script>
+  <script>window.BUILD_VERSION="20260622150739";</script>
+  <script src="query.js?v=20260622150739"></script>
+  <script src="app.js?v=20260622150739"></script>
 </body>
 </html>

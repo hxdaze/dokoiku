@@ -1,0 +1,15 @@
+{
+  "name": "どこジム♪ 全国スタジオレッスン検索",
+  "short_name": "どこジム♪",
+  "description": "全国のスポーツジム・公共施設のスタジオレッスン(ZUMBA・エアロ・ダンス・ヨガ等)を地域・ジャンル・店舗・曜日・地図で検索。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4d88",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
