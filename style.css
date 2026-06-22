@@ -494,6 +494,31 @@ a.gcal-link {
   background: rgba(56, 189, 248, 0.08);
 }
 a.gcal-link:hover { background: rgba(56, 189, 248, 0.18); text-decoration: none; }
+/* 時間列の📅(横スクロール不要・常に表示) */
+a.gcal-ico {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px; height: 24px;
+  margin-right: 4px;
+  border-radius: 7px;
+  font-size: 13px;
+  line-height: 1;
+  text-decoration: none;
+  border: 1px solid var(--border);
+  background: var(--card, #fff);
+  vertical-align: middle;
+}
+a.gcal-ico:hover { border-color: var(--accent2); filter: brightness(1.05); }
+/* 登録列: 横スクロール時も右端に固定表示 */
+.group > table th.gcal-col,
+.group > table td.gcal {
+  position: sticky;
+  right: 0;
+  z-index: 2;
+  background: var(--panel, #fff);
+  box-shadow: -4px 0 8px rgba(0, 0, 0, 0.05);
+}
 th.nosort { cursor: default; }
 .b-studio {
   margin-left: 6px; padding: 0 4px; border-radius: 6px;
@@ -627,6 +652,14 @@ th.nosort { cursor: default; }
   min-height: 360px;
   background: var(--panel2);
 }
+
+/* 地図ビュー: 説明文・敬意バナー・地図に不要なフィルタを隠して地図を上部へ */
+body.view-map .lead,
+body.view-map .homage { display: none; }
+body.view-map .filters .field:not(.map-filter),
+body.view-map #resetBtn { display: none; }
+body.view-map .filters { padding-top: 8px; padding-bottom: 8px; }
+body.view-map #mapCanvas { height: calc(100vh - 150px); }
 /* Leafletのポップアップ(店舗カード) */
 .leaflet-popup-content { margin: 10px 12px; font-size: 13px; }
 .map-pop-name { font-weight: 700; font-size: 14px; margin-bottom: 2px; color: #2b2230; }
@@ -678,7 +711,11 @@ td .muted { white-space: normal; }
   .brand-logo { height: 36px; }
   .theme-toggle { width: 34px; height: 34px; font-size: 16px; }
   .toolbar-right .sub { font-size: 11px; }
+  /* モバイルは固定ヘッダーを小さく: ロゴ横コピーとメタ表示は省略 */
+  .brand-tagline { display: none; }
+  .toolbar-right .sub { display: none; }
   #mapCanvas { height: calc(100vh - 250px); }
+  body.view-map #mapCanvas { height: calc(100vh - 120px); }
   main { padding: 0 8px 60px; }
 
   /* フィルタは縦積み・各項目を横いっぱいに */

@@ -260,6 +260,10 @@ function params() {
 // ---- 描画 ----
 function setActiveTab(v) {
   document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t.dataset.view === v));
+  // 地図ビューは集中レイアウト(説明文・敬意バナー・不要フィルタを隠す)。
+  document.body.classList.toggle("view-map", v === "map");
+  // ビュー切替時は先頭へスクロールしてヘッダー/操作部を見せる。
+  try { window.scrollTo({ top: 0, behavior: "auto" }); } catch (_e) { window.scrollTo(0, 0); }
 }
 
 function viewLabel(v) {
@@ -411,6 +415,13 @@ function gcalUrl(r) {
   });
   return "https://calendar.google.com/calendar/render?" + params.toString();
 }
+function gcalIcon(r) {
+  const u = gcalUrl(r);
+  if (!u) return "";
+  return `<a class="gcal-ico" href="${escapeAttr(u)}" target="_blank" rel="noopener" `
+    + `title="Googleカレンダーに毎週の予定として登録" aria-label="Googleカレンダーに登録">📅</a>`;
+}
+
 function gcalCell(r) {
   const u = gcalUrl(r);
   if (!u) return "";
@@ -425,7 +436,7 @@ function lessonRow(r, opts) {
   const studio = r.studio ? ` <span class="chip-studio">${escapeHtml(r.studio)}</span>` : "";
   const cells = [];
   if (opts.showDay) cells.push(`<td class="day">${escapeHtml(r.day || "")}</td>`);
-  cells.push(`<td class="time">${escapeHtml(GQ.fmtTime(r))}</td>`);
+  cells.push(`<td class="time">${gcalIcon(r)}${escapeHtml(GQ.fmtTime(r))}</td>`);
   cells.push(`<td class="dur muted">${escapeHtml(GQ.fmtDuration(r))}</td>`);
   if (opts.showStore) cells.push(`<td>${storeLink(r)}<div class="muted">${escapeHtml(r.region || "")}</div></td>`);
   cells.push(`<td class="cls">${escapeHtml(r.class_name || "")} ${tags.join(" ")}${studio}</td>`);
@@ -453,7 +464,7 @@ function tableCols(opts) {
 function tableHeader(opts) {
   return "<tr>" + tableCols(opts).map(([k, label]) => {
     // 「登録」(Googleカレンダー)列はソート対象外。
-    if (k === "gcal") return `<th class="nosort">${label}</th>`;
+    if (k === "gcal") return `<th class="nosort gcal-col">${label}</th>`;
     const mark = sortState.col === k ? `<span class="sort-mark">${sortState.dir === "asc" ? "▲" : "▼"}</span>` : "";
     return `<th class="sortable" data-col="${k}">${label}${mark}</th>`;
   }).join("") + "</tr>";
