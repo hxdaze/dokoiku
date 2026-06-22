@@ -74,6 +74,7 @@ let LESSONS = [];      // 現在ロード済みの全レッスン(都道府県�
 let STORES = [];
 let DAIKO = [];
 let STORE_URL = new Map();   // gym_id|store_id -> url
+let STORE_INFO = new Map();  // gym_id|store_id -> {lat,lon,phone,phone_fmt,address}
 let GYM_LABEL = new Map();
 let lastData = null;
 const sortState = { col: null, dir: "asc" };
@@ -131,7 +132,14 @@ async function loadData() {
   DAIKO = daiko;
   GQ.setOrders(meta);
   for (const g of meta.gyms) GYM_LABEL.set(g.id, g.label);
-  for (const s of stores) STORE_URL.set(s.gym_id + "|" + s.store_id, s.url);
+  for (const s of stores) {
+    const key = s.gym_id + "|" + s.store_id;
+    STORE_URL.set(key, s.url);
+    STORE_INFO.set(key, {
+      lat: s.lat, lon: s.lon, phone: s.phone, phone_fmt: s.phone_fmt,
+      address: s.address,
+    });
+  }
 
   PREF_INDEX = meta.pref_index || [];
   for (const p of PREF_INDEX) {
@@ -150,7 +158,14 @@ function lessonsFromDoc(doc) {
     o.reservation_required = !!o.reservation_required;
     o.gym_label = GYM_LABEL.get(o.gym_id) || o.gym_id;
     o.gym = o.gym_label;
-    o.url = STORE_URL.get(o.gym_id + "|" + o.store_id) || null;
+    const key = o.gym_id + "|" + o.store_id;
+    o.url = STORE_URL.get(key) || null;
+    const info = STORE_INFO.get(key);
+    if (info) {
+      o.lat = info.lat; o.lon = info.lon;
+      o.phone = info.phone; o.phone_fmt = info.phone_fmt;
+      o.address = o.address || info.address;
+    }
     return o;
   });
 }
@@ -304,6 +319,33 @@ function renderSummary(data) {
     `<span class="muted">ビュー: ${viewLabel(state.view)}</span>`;
 }
 
+// 地図(Googleマップ)へのリンクURL。座標があれば座標、無ければ住所で検索。
+function mapsUrl(r) {
+  if (typeof r.lat === "number" && typeof r.lon === "number") {
+    return `https://www.google.com/maps/search/?api=1&query=${r.lat},${r.lon}`;
+  }
+  if (r.address) {
+    return "https://www.google.com/maps/search/?api=1&query="
+      + encodeURIComponent(r.address);
+  }
+  return null;
+}
+
+// 店舗名の後ろに付く 地図/電話 のアイコンリンク。
+function storeIcons(r) {
+  const out = [];
+  const mu = mapsUrl(r);
+  if (mu) {
+    out.push(`<a class="store-ico map-ico" href="${escapeAttr(mu)}" target="_blank" `
+      + `rel="noopener" title="地図で見る（Googleマップ）" aria-label="地図で見る">📍</a>`);
+  }
+  if (r.phone) {
+    out.push(`<a class="store-ico tel-ico" href="tel:${escapeAttr(r.phone)}" `
+      + `title="電話する ${escapeAttr(r.phone_fmt || r.phone)}" aria-label="電話する">📞</a>`);
+  }
+  return out.length ? ` <span class="store-icos">${out.join("")}</span>` : "";
+}
+
 function storeLink(r) {
   const store = (r.store || "").trim();
   if (!store) return "";
@@ -312,9 +354,10 @@ function storeLink(r) {
     : escapeHtml(store);
   // ジム名を店舗名の前にチップで明示(店舗名にジム名が含まれる場合は省略)。
   const gym = (r.gym || "").trim();
-  return (gym && !store.includes(gym))
+  const head = (gym && !store.includes(gym))
     ? `<span class="chip-gym">${escapeHtml(gym)}</span>${link}`
     : link;
+  return head + storeIcons(r);
 }
 
 function noteText(r) {
@@ -450,7 +493,10 @@ function renderGroups(data) {
       : `<span class="cnt">${g.count.toLocaleString()}件</span>`;
     const gicon = state.view === "category"
       ? `<span class="cat-ico">${catIcon(g.key)}</span> ` : "";
-    out.push(`<section class="group"><h2>${gicon}${escapeHtml(g.key)} ${cnt}</h2><table><thead>${tableHeader(opts)}</thead><tbody>${rows}</tbody></table></section>`);
+    // 店舗別表示では見出し(店舗名)の横に地図/電話アイコンを付与。
+    const headIcons = (state.view === "store" && g.rows.length)
+      ? storeIcons(g.rows[0]) : "";
+    out.push(`<section class="group"><h2>${gicon}${escapeHtml(g.key)}${headIcons} ${cnt}</h2><table><thead>${tableHeader(opts)}</thead><tbody>${rows}</tbody></table></section>`);
   }
   let html = out.join("");
   if (shown < data.total) {
@@ -558,9 +604,18 @@ async function renderMap() {
     const sub = [s.gym && !(s.store || "").includes(s.gym) ? s.gym : "",
       s.region || ""].filter(Boolean).join(" / ");
     m._store = s;
+    const addr = s.address
+      ? `<div class="map-pop-addr">${escapeHtml(s.address)}</div>` : "";
+    const tel = s.phone
+      ? `<div class="map-pop-tel">☎ <a href="tel:${escapeAttr(s.phone)}">${escapeHtml(s.phone_fmt || s.phone)}</a></div>` : "";
+    const hours = s.hours
+      ? `<div class="map-pop-info">🕐 ${escapeHtml(s.hours)}</div>` : "";
+    const closed = s.closed
+      ? `<div class="map-pop-info">休 ${escapeHtml(s.closed)}</div>` : "";
     m.bindPopup(
       `<div class="map-pop-name">${escapeHtml(s.store || "")}</div>` +
       (sub ? `<div class="map-pop-sub">${escapeHtml(sub)}</div>` : "") +
+      addr + tel + hours + closed +
       `<button class="map-pop-btn" type="button">この店舗のレッスンを見る ↗</button>`);
     m.addTo(MAP);
     markers.push(m);

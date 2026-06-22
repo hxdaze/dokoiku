@@ -32,10 +32,19 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "どこジム♪",
-    "alternateName": "どこずむ♪",
+    "alternateName": ["どこずん♪", "どこジム", "全国スタジオレッスン検索"],
     "url": "https://hxdaze.github.io/dokoiku/",
-    "description": "全国のスポーツジム・公共スポーツ施設のスタジオレッスン（ZUMBA・エアロ・ダンス・ヨガ等）を地域・ジャンル・店舗・曜日・地図で検索できる無料サイト。",
-    "inLanguage": "ja"
+    "description": "全国のスポーツジム・公共スポーツ施設のスタジオレッスン（ZUMBA・エアロビクス・ダンス・ヨガ・ピラティス等）を地域・ジャンル・店舗・曜日・地図で検索できる無料サイト。",
+    "inLanguage": "ja",
+    "keywords": "スタジオレッスン,ZUMBA,ズンバ,エアロビクス,ダンス,ヨガ,ピラティス,フィットネス,スポーツジム,スポーツセンター,レッスンスケジュール,タイムスケジュール,時間割,体験",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://hxdaze.github.io/dokoiku/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
   }
   </script>
 
@@ -53,14 +62,21 @@
   </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7911204223031859"
      crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="style.css?v=20260622150739" />
+  <link rel="stylesheet" href="style.css?v=20260622163618" />
 </head>
 <body>
   <header>
     <div class="toolbar">
-      <a class="brand" href="./" aria-label="どこジム♪ ホーム">
-        <img src="logo.png" alt="どこジム♪ 全国スタジオレッスン検索サイト" class="brand-logo" />
-      </a>
+      <h1 class="brand">
+        <a href="./" aria-label="どこジム♪ ホーム">
+          <img src="logo.png" alt="どこジム♪｜全国スタジオレッスン検索サイト" class="brand-logo" />
+        </a>
+        <span class="visually-hidden">どこジム♪（どこずん♪）｜全国のスポーツジム・公共スポーツ施設のスタジオレッスン（ZUMBA・エアロビクス・ダンス・ヨガ・ピラティス）を地域・ジャンル・店舗・曜日・地図で検索</span>
+      </h1>
+      <p class="brand-tagline">
+        <span class="brand-tagline-genres">（STEP,ZUMBA,RITMOS,ヨガ,バレエ）</span>
+        スポーツジムのスタジオなどで汗を流したい人の為の、レッスンスケジュール情報
+      </p>
       <div class="toolbar-right">
         <span class="sub" id="metaSub">読み込み中…</span>
         <button class="theme-toggle" id="themeToggle" type="button"
@@ -79,6 +95,23 @@
       <button class="tab" data-view="map">🗺️ 近くで探す</button>
     </nav>
   </header>
+
+  <p class="lead">
+    <strong>全国のスポーツジム・公共スポーツ施設のスタジオレッスン</strong>を、
+    地域→ジャンル→店舗→曜日で検索。ZUMBA・エアロビクス・ダンス・ヨガ・ピラティスなど、
+    お近くのレッスンを<strong>地図</strong>からも探せます。
+  </p>
+  <aside class="homage">
+    <span class="homage-heart">♥</span>
+    <span class="homage-text">
+      このサイトは、長年レッスン情報をまとめてこられた
+      <strong>『今日はどこでエアロ？』</strong>（気まぐれei884 さん）へのリスペクトから生まれました。
+      元祖・本家はこちら。
+    </span>
+    <a class="homage-btn" href="https://kyoudoko.blog.jp/" target="_blank" rel="noopener">
+      今日はどこでエアロ？ を見る ↗
+    </a>
+  </aside>
 
   <section class="filters" id="filters">
     <div class="field">
@@ -131,13 +164,21 @@
     <p style="margin:0 0 8px;color:#c0392b;font-weight:600;">
       ※掲載内容が間違っている場合があります。ジムのホームページを参照の上、ご参加ください。
     </p>
-    どこジム♪（愛称：どこずむ♪）｜ データは各ジム公式サイトの公開情報をもとに構造化。生成日時は上部に表示。
+    <strong>どこジム♪</strong>（愛称：どこずん♪）は、全国のスポーツジム・スポーツセンター・公共スポーツ施設の
+    スタジオレッスン（ZUMBA／ズンバ・エアロビクス・ダンス・ヨガ・ピラティス・格闘技系・ステップ など）の
+    タイムスケジュールを、地域・ジャンル・店舗・曜日・地図から無料で検索できるサイトです。
+    データは各ジム公式サイトの公開情報をもとに構造化。生成日時は上部に表示。
     <span style="margin-left:10px;">管理者: <a href="https://www.facebook.com/hongxing.daze" target="_blank" rel="noopener">Facebook</a></span>
+    <p style="margin:10px 0 0;">
+      本サイトは、レッスン情報をまとめる文化を築かれた
+      <a href="https://kyoudoko.blog.jp/" target="_blank" rel="noopener"><strong>『今日はどこでエアロ？』</strong></a>
+      （気まぐれei884 さん）に深く敬意を表します。元祖・本家サイトもぜひご覧ください。
+    </p>
   </footer>
 
   <script>window.SITE_NAME = "どこジム♪";</script>
-  <script>window.BUILD_VERSION="20260622150739";</script>
-  <script src="query.js?v=20260622150739"></script>
-  <script src="app.js?v=20260622150739"></script>
+  <script>window.BUILD_VERSION="20260622163618";</script>
+  <script src="query.js?v=20260622163618"></script>
+  <script src="app.js?v=20260622163618"></script>
 </body>
 </html>
