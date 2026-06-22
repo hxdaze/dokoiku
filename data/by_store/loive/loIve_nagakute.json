@@ -2322,7 +2322,7 @@
     "end": "13:00",
     "class_name": "BEAT CORE HIT",
     "category": "MARTIAL ARTS",
-    "instructor": "Rin",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",

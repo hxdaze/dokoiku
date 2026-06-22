@@ -775,7 +775,7 @@
     "end": "15:30",
     "class_name": "CSLive パワーヨガ",
     "category": "YOGA & PILATES",
-    "instructor": "Rec",
+    "instructor": null,
     "studio": "スタジオ A",
     "reservation_required": false,
     "genre": "ミラクルレッスン",

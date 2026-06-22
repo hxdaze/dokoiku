@@ -160,6 +160,8 @@ function listInstructors(lessons, params) {
   for (const r of rows) {
     const n = r.instructor;
     if (!n) continue;
+    // 数字のみ等のパースミスは先生一覧から除外(データ側でも除去済み)。
+    if (/^[\d\.]+$/.test(n) || (/^[A-Za-z0-9]+$/.test(n) && !/[\u3040-\u30ff\u4e00-\u9fff]/.test(n))) continue;
     counts.set(n, (counts.get(n) || 0) + 1);
   }
   return [...counts.entries()]

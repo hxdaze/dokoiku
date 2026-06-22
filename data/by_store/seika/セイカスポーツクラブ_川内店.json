@@ -27,7 +27,7 @@
     "end": "12:00",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "RIHO",
+    "instructor": null,
     "studio": "45名",
     "reservation_required": true,
     "genre": null,

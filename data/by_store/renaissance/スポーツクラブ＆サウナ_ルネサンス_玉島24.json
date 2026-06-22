@@ -877,7 +877,7 @@
     "end": "21:45",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "MIKI",
+    "instructor": null,
     "studio": "第1スタジオ",
     "reservation_required": false,
     "genre": null,

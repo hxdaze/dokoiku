@@ -1540,7 +1540,7 @@
     "end": "19:00",
     "class_name": "Waist",
     "category": "OTHER",
-    "instructor": "HIBIKI",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",

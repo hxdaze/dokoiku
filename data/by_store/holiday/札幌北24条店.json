@@ -979,7 +979,7 @@
     "end": "15:30",
     "class_name": "From 名古屋 BOXING BEAST GAKU",
     "category": "MARTIAL ARTS",
-    "instructor": "GAKU",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "BOXING",

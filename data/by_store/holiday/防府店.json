@@ -469,7 +469,7 @@
     "end": "14:45",
     "class_name": "BOXING BEAST",
     "category": "MARTIAL ARTS",
-    "instructor": "YellOw",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "FITNESS",

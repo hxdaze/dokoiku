@@ -945,7 +945,7 @@
     "end": "11:45",
     "class_name": "ヨガ",
     "category": "YOGA & PILATES",
-    "instructor": "Kie",
+    "instructor": null,
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,

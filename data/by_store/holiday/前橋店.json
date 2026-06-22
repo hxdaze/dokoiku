@@ -418,7 +418,7 @@
     "end": "14:45",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "NATUMI",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

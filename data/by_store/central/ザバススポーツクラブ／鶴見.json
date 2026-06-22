@@ -2118,7 +2118,7 @@
     "end": "20:10",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "RUKI",
+    "instructor": null,
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,

@@ -273,7 +273,13 @@ function refreshStoreOptions() {
   if (state.prefecture) list = list.filter((s) => s.prefecture === state.prefecture);
   if (state.gym) list = list.filter((s) => s.gym_id === state.gym);
   list = list.slice().sort((a, b) => (a.store || "").localeCompare(b.store || "", "ja"));
-  setOptions($("#f-store"), list, { value: (s) => s.store_id, label: (s) => s.store });
+  setOptions($("#f-store"), list, {
+    value: (s) => s.store_id,
+    label: (s) => GQ.storeLabel({
+      store: s.store,
+      gym: state.gym ? "" : (GYM_LABEL.get(s.gym_id) || ""),
+    }),
+  });
 }
 
 function refreshInstructorOptions() {
@@ -367,7 +373,7 @@ function mapsUrl(r) {
   return null;
 }
 
-// 店舗名の後ろに付く 地図/電話 のアイコンリンク。
+// 店舗名の後ろに付く 地図/電話/HP のアイコンリンク。
 function storeIcons(r) {
   const out = [];
   const mu = mapsUrl(r);
@@ -379,21 +385,29 @@ function storeIcons(r) {
     out.push(`<a class="store-ico tel-ico" href="tel:${escapeAttr(r.phone)}" `
       + `title="電話する ${escapeAttr(r.phone_fmt || r.phone)}" aria-label="電話する">📞</a>`);
   }
+  if (r.url) {
+    out.push(`<a class="store-ico web-ico" href="${escapeAttr(r.url)}" target="_blank" `
+      + `rel="noopener" title="公式サイト" aria-label="公式サイト">🌐</a>`);
+  }
   return out.length ? ` <span class="store-icos">${out.join("")}</span>` : "";
 }
 
 function storeLink(r) {
   const store = (r.store || "").trim();
   if (!store) return "";
-  const link = r.url
-    ? `<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener" class="store-link">${escapeHtml(store)}</a>`
-    : escapeHtml(store);
-  // ジム名を店舗名の前にチップで明示(店舗名にジム名が含まれる場合は省略)。
-  const gym = (r.gym || "").trim();
-  const head = (gym && !store.includes(gym))
-    ? `<span class="chip-gym">${escapeHtml(gym)}</span>${link}`
-    : link;
-  return head + storeIcons(r);
+  const label = GQ.storeLabel(r);
+  const text = r.url
+    ? `<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener" class="store-link">${escapeHtml(label)}</a>`
+    : escapeHtml(label);
+  return text + storeIcons(r);
+}
+
+function storeGroupHead(r) {
+  const label = GQ.storeLabel(r);
+  const inner = r.url
+    ? `<a class="store-link store-head-link" href="${escapeAttr(r.url)}" target="_blank" rel="noopener">${escapeHtml(label)}</a>`
+    : escapeHtml(label);
+  return inner + storeIcons(r);
 }
 
 function noteText(r) {
@@ -458,7 +472,7 @@ function gcalCell(r) {
   const u = gcalUrl(r);
   if (!u) return "";
   return `<a class="gcal-link" href="${escapeAttr(u)}" target="_blank" rel="noopener" `
-    + `title="Googleカレンダーに毎週の予定として登録">📅 登録</a>`;
+    + `title="Googleカレンダーに毎週の予定として登録">📅</a>`;
 }
 
 function lessonRow(r, opts) {
@@ -473,7 +487,7 @@ function lessonRow(r, opts) {
   if (opts.showStore) cells.push(`<td>${storeLink(r)}<div class="muted">${escapeHtml(r.region || "")}</div></td>`);
   cells.push(`<td class="cls">${escapeHtml(r.class_name || "")} ${tags.join(" ")}${studio}</td>`);
   if (opts.showCategory) cells.push(`<td><span class="cat"><span class="cat-ico">${catIcon(r.category)}</span>${escapeHtml(r.category || "")}</span></td>`);
-  cells.push(`<td>${escapeHtml(r.instructor || "")}</td>`);
+  cells.push(`<td class="instructor">${escapeHtml(r.instructor || "")}</td>`);
   cells.push(`<td class="muted">${escapeHtml(noteText(r))}</td>`);
   cells.push(`<td class="gcal">${gcalCell(r)}</td>`);
   return `<tr>${cells.join("")}</tr>`;
@@ -536,10 +550,11 @@ function renderGroups(data) {
       : `<span class="cnt">${g.count.toLocaleString()}件</span>`;
     const gicon = state.view === "category"
       ? `<span class="cat-ico">${catIcon(g.key)}</span> ` : "";
-    // 店舗別表示では見出し(店舗名)の横に地図/電話アイコンを付与。
-    const headIcons = (state.view === "store" && g.rows.length)
-      ? storeIcons(g.rows[0]) : "";
-    out.push(`<section class="group"><h2>${gicon}${escapeHtml(g.key)}${headIcons} ${cnt}</h2><table><thead>${tableHeader(opts)}</thead><tbody>${rows}</tbody></table></section>`);
+    // 店舗別表示では見出し(店舗名)をHPリンク化し、地図/電話/HPアイコンを付与。
+    const headTitle = (state.view === "store" && g.rows.length)
+      ? storeGroupHead(g.rows[0]) : `${escapeHtml(g.key)}`;
+    const headIcons = "";
+    out.push(`<section class="group"><h2>${gicon}${headTitle}${headIcons} ${cnt}</h2><table><thead>${tableHeader(opts)}</thead><tbody>${rows}</tbody></table></section>`);
   }
   let html = out.join("");
   if (shown < data.total) {
@@ -644,21 +659,22 @@ async function renderMap() {
   const markers = [];
   for (const s of list) {
     const m = L.marker([s.lat, s.lon]);
-    const sub = [s.gym && !(s.store || "").includes(s.gym) ? s.gym : "",
-      s.region || ""].filter(Boolean).join(" / ");
+    const gymLabel = GYM_LABEL.get(s.gym_id) || s.gym || "";
+    const popLabel = GQ.storeLabel({ store: s.store, gym: gymLabel });
     m._store = s;
     const addr = s.address
       ? `<div class="map-pop-addr">${escapeHtml(s.address)}</div>` : "";
     const tel = s.phone
       ? `<div class="map-pop-tel">☎ <a href="tel:${escapeAttr(s.phone)}">${escapeHtml(s.phone_fmt || s.phone)}</a></div>` : "";
+    const web = s.url
+      ? `<div class="map-pop-web"><a href="${escapeAttr(s.url)}" target="_blank" rel="noopener">🌐 公式サイト</a></div>` : "";
     const hours = s.hours
       ? `<div class="map-pop-info">🕐 ${escapeHtml(s.hours)}</div>` : "";
     const closed = s.closed
       ? `<div class="map-pop-info">休 ${escapeHtml(s.closed)}</div>` : "";
     m.bindPopup(
-      `<div class="map-pop-name">${escapeHtml(s.store || "")}</div>` +
-      (sub ? `<div class="map-pop-sub">${escapeHtml(sub)}</div>` : "") +
-      addr + tel + hours + closed +
+      `<div class="map-pop-name">${escapeHtml(popLabel)}</div>` +
+      addr + web + tel + hours + closed +
       `<button class="map-pop-btn" type="button">この店舗のレッスンを見る ↗</button>`);
     m.addTo(MAP);
     markers.push(m);

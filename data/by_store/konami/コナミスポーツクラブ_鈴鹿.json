@@ -1319,7 +1319,7 @@
     "end": "11:00",
     "class_name": "オリジナルエアロ",
     "category": "AEROBICS",
-    "instructor": "MIKA",
+    "instructor": null,
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,

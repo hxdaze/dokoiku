@@ -894,7 +894,7 @@
     "end": "20:45",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "MOG",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

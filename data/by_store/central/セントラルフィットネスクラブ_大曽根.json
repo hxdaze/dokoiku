@@ -1013,7 +1013,7 @@
     "end": "13:40",
     "class_name": "ヨガ",
     "category": "YOGA & PILATES",
-    "instructor": "YURI",
+    "instructor": null,
     "studio": "第１スタジオ",
     "reservation_required": false,
     "genre": null,

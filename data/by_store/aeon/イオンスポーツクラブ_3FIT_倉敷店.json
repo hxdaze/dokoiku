@@ -775,7 +775,7 @@
     "end": "10:15",
     "class_name": "ラテンエアロ",
     "category": "LATIN",
-    "instructor": "YUKA",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",

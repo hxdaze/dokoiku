@@ -282,7 +282,7 @@
     "end": "11:00",
     "class_name": "ベリーダンス",
     "category": "BELLY DANCE",
-    "instructor": "Mana",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

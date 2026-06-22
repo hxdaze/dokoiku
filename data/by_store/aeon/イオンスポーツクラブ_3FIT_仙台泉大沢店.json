@@ -112,7 +112,7 @@
     "end": "17:00",
     "class_name": "有料レッスン ハワイアンプラ",
     "category": "HULA",
-    "instructor": "yuu",
+    "instructor": null,
     "studio": null,
     "reservation_required": true,
     "genre": "ZUMBA",

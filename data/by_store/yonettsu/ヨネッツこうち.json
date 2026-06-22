@@ -384,7 +384,7 @@
     "end": "10:45",
     "class_name": "週替わりレッスン",
     "category": "OTHER",
-    "instructor": "akari",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

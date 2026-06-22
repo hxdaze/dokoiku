@@ -78,7 +78,7 @@
     "end": "11:00",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "AKIKO",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

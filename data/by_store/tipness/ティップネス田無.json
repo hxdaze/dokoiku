@@ -1472,7 +1472,7 @@
     "end": "11:30",
     "class_name": "健康エール",
     "category": "WELLNESS",
-    "instructor": "45",
+    "instructor": null,
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,

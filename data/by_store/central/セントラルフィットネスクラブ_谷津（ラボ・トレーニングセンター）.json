@@ -163,7 +163,7 @@
     "end": "10:50",
     "class_name": "フラエクササイズ",
     "category": "HULA",
-    "instructor": "hiromi",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
