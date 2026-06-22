@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 147,
-  "store_count": 1943,
+  "gym_count": 148,
+  "store_count": 1944,
   "gyms": [
     {
       "gym_id": "lava",
@@ -6846,7 +6846,7 @@
         {
           "store_id": "27110",
           "store": "大阪中之島",
-          "region": "北海道・東北",
+          "region": "近畿",
           "lesson_count": 82,
           "path": "by_store/goldsgym/大阪中之島.json"
         },
@@ -14402,6 +14402,19 @@
           "region": "北海道・東北",
           "lesson_count": 11,
           "path": "by_store/chikafure/旭川市近文市民ふれあいセンター(ちかふれ).json"
+        }
+      ]
+    },
+    {
+      "gym_id": "koto_ariake",
+      "gym": "有明スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "有明スポーツセンター",
+          "region": "関東",
+          "lesson_count": 10,
+          "path": "by_store/koto_ariake/有明スポーツセンター.json"
         }
       ]
     },
