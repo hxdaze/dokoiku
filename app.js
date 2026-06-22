@@ -169,7 +169,7 @@ async function loadData() {
     STORE_URL.set(key, s.url);
     STORE_INFO.set(key, {
       lat: s.lat, lon: s.lon, phone: s.phone, phone_fmt: s.phone_fmt,
-      address: s.address,
+      address: s.address, reservation_url: s.reservation_url || null,
     });
   }
 
@@ -197,6 +197,7 @@ function lessonsFromDoc(doc) {
       o.lat = info.lat; o.lon = info.lon;
       o.phone = info.phone; o.phone_fmt = info.phone_fmt;
       o.address = o.address || info.address;
+      o.reservation_url = info.reservation_url || null;
     }
     return o;
   });
@@ -388,6 +389,10 @@ function storeIcons(r) {
   if (r.url) {
     out.push(`<a class="store-ico web-ico" href="${escapeAttr(r.url)}" target="_blank" `
       + `rel="noopener" title="公式サイト" aria-label="公式サイト">🌐</a>`);
+  }
+  if (r.reservation_url) {
+    out.push(`<a class="store-ico reserve-ico" href="${escapeAttr(r.reservation_url)}" target="_blank" `
+      + `rel="noopener" title="予約サイト" aria-label="予約サイト">🎫</a>`);
   }
   return out.length ? ` <span class="store-icos">${out.join("")}</span>` : "";
 }
@@ -668,13 +673,15 @@ async function renderMap() {
       ? `<div class="map-pop-tel">☎ <a href="tel:${escapeAttr(s.phone)}">${escapeHtml(s.phone_fmt || s.phone)}</a></div>` : "";
     const web = s.url
       ? `<div class="map-pop-web"><a href="${escapeAttr(s.url)}" target="_blank" rel="noopener">🌐 公式サイト</a></div>` : "";
+    const reserve = s.reservation_url
+      ? `<div class="map-pop-reserve"><a href="${escapeAttr(s.reservation_url)}" target="_blank" rel="noopener">🎫 予約サイト</a></div>` : "";
     const hours = s.hours
       ? `<div class="map-pop-info">🕐 ${escapeHtml(s.hours)}</div>` : "";
     const closed = s.closed
       ? `<div class="map-pop-info">休 ${escapeHtml(s.closed)}</div>` : "";
     m.bindPopup(
       `<div class="map-pop-name">${escapeHtml(popLabel)}</div>` +
-      addr + web + tel + hours + closed +
+      addr + web + reserve + tel + hours + closed +
       `<button class="map-pop-btn" type="button">この店舗のレッスンを見る ↗</button>`);
     m.addTo(MAP);
     markers.push(m);

@@ -761,6 +761,10 @@ body.view-map #mapCanvas { height: calc(100vh - 150px); }
 .map-pop-web { font-size: 12px; margin-bottom: 6px; }
 .map-pop-web a { color: var(--accent2); font-weight: 700; text-decoration: none; }
 .map-pop-web a:hover { text-decoration: underline; }
+.map-pop-reserve { font-size: 12px; margin-bottom: 6px; }
+.map-pop-reserve a { color: var(--accent); font-weight: 700; text-decoration: none; }
+.map-pop-reserve a:hover { text-decoration: underline; }
+.store-ico.reserve-ico:hover { border-color: var(--accent); }
 .map-pop-dist { color: #7cc02a; font-weight: 700; }
 
 /* ===== モバイル対応 ===== */
