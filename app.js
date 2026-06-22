@@ -112,20 +112,52 @@ function setOptions(sel, items, { value = (x) => x, label = (x) => x, head = '<o
   if (cur && [...sel.options].some((o) => o.value === cur)) sel.value = cur;
 }
 
+// ---- パス解決(GitHub Pagesサブディレクトリ / iOS WebClip対策) ----
+// ホーム画面追加起動時は location がずれることがあるため、<base> または
+// window.SITE_BASE で必ず正しいパスから data/*.json を fetch する。
+function siteBase() {
+  if (typeof window.SITE_BASE === "string" && window.SITE_BASE) {
+    const b = window.SITE_BASE;
+    return b.endsWith("/") ? b : b + "/";
+  }
+  const base = document.querySelector("base[href]");
+  if (base) {
+    const b = base.getAttribute("href") || "/";
+    return b.endsWith("/") ? b : b + "/";
+  }
+  const p = location.pathname || "/";
+  if (p.endsWith("/")) return p;
+  const i = p.lastIndexOf("/");
+  return i >= 0 ? p.slice(0, i + 1) : "/";
+}
+function absUrl(path) {
+  const rel = String(path || "").replace(/^\.\//, "");
+  const b = siteBase();
+  if (rel.startsWith("/")) return rel;
+  return b + rel;
+}
+
 // ---- データ読み込み ----
 // キャッシュ回避: ビルド版(window.BUILD_VERSION)をクエリに付与。
 function withVer(url) {
   const v = (typeof window !== "undefined" && window.BUILD_VERSION) || "";
-  return v ? `${url}?v=${encodeURIComponent(v)}` : url;
+  const u = absUrl(url);
+  return v ? `${u}?v=${encodeURIComponent(v)}` : u;
 }
 
 // 初期ロードは meta/stores/daiko のみ(軽量)。レッスン本体は都道府県単位で
 // スコープ選択時に遅延ロードする(一括DLによるモバイルのメモリ枯渇を回避)。
 async function loadData() {
   const [meta, stores, daiko] = await Promise.all([
-    fetch(withVer("data/meta.json")).then((r) => r.json()),
-    fetch(withVer("data/stores.json")).then((r) => r.json()),
-    fetch(withVer("data/daiko.json")).then((r) => r.json()).catch(() => []),
+    fetch(withVer("data/meta.json")).then((r) => {
+      if (!r.ok) throw new Error(`meta.json HTTP ${r.status}`);
+      return r.json();
+    }),
+    fetch(withVer("data/stores.json")).then((r) => {
+      if (!r.ok) throw new Error(`stores.json HTTP ${r.status}`);
+      return r.json();
+    }),
+    fetch(withVer("data/daiko.json")).then((r) => r.ok ? r.json() : []).catch(() => []),
   ]);
   META = meta;
   STORES = stores;
@@ -770,7 +802,10 @@ async function main() {
   try {
     await loadData();
   } catch (e) {
-    $("#main").innerHTML = `<div class="empty">データの読み込みに失敗しました（${escapeHtml(e.message)}）。<br>data/ 配下のJSONをローカルサーバ経由で配信してください。</div>`;
+    const msg = escapeHtml(e && e.message ? e.message : String(e));
+    $("#main").innerHTML =
+      `<div class="empty">データの読み込みに失敗しました（${msg}）。<br>`
+      + `Safariで開き直すか、ホーム画面のアイコンを削除して再追加してください。</div>`;
     return;
   }
   // 初回(スコープ未保存)は東京都を既定にして、空表示や全件ロードを避ける。
@@ -778,9 +813,32 @@ async function main() {
     state.prefecture = PREF_BY_NAME.has("東京都")
       ? "東京都" : ((PREF_INDEX[0] && PREF_INDEX[0].name) || "");
   }
-  fillControls();
-  bind();
-  await update();
+  try {
+    fillControls();
+    bind();
+    await update();
+  } catch (e) {
+    const msg = escapeHtml(e && e.message ? e.message : String(e));
+    $("#main").innerHTML =
+      `<div class="empty">表示中にエラーが発生しました（${msg}）。<br>`
+      + `ページを再読み込みしてください。</div>`;
+  }
 }
+
+window.addEventListener("error", (ev) => {
+  const m = $("#main");
+  if (m && m.querySelector(".loading")) {
+    m.innerHTML = `<div class="empty">問題が発生しました（${escapeHtml(ev.message || "不明")}）。<br>`
+      + `Safariで直接開くか、ホーム画面アイコンを削除して再追加してください。</div>`;
+  }
+});
+window.addEventListener("unhandledrejection", (ev) => {
+  const m = $("#main");
+  if (m && (m.querySelector(".loading") || !META)) {
+    const msg = escapeHtml((ev.reason && ev.reason.message) || String(ev.reason || "不明"));
+    m.innerHTML = `<div class="empty">読み込みに失敗しました（${msg}）。<br>`
+      + `通信環境を確認のうえ、再読み込みしてください。</div>`;
+  }
+});
 
 main();

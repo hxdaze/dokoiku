@@ -8,7 +8,13 @@
   <meta name="theme-color" content="#ff4d88" />
   <link rel="canonical" href="https://hxdaze.github.io/dokoiku/" />
 
+  <!-- iOS「ホーム画面に追加」(WebClip)向け。manifestだけでは不十分なため明示 -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="どこジム♪" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
   <!-- アイコン / PWA -->
+  <base href="/dokoiku/">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
   <link rel="apple-touch-icon" href="icon-180.png" />
   <link rel="manifest" href="site.webmanifest" />
@@ -62,7 +68,7 @@
   </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7911204223031859"
      crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="style.css?v=20260622163618" />
+  <link rel="stylesheet" href="style.css?v=20260622170043" />
 </head>
 <body>
   <header>
@@ -114,15 +120,15 @@
   </aside>
 
   <section class="filters" id="filters">
-    <div class="field">
+    <div class="field map-filter">
       <label>エリア（地域）</label>
       <select id="f-region"><option value="">すべて</option></select>
     </div>
-    <div class="field">
+    <div class="field map-filter">
       <label>都道府県</label>
       <select id="f-prefecture"><option value="">すべて</option></select>
     </div>
-    <div class="field">
+    <div class="field map-filter">
       <label>ジム</label>
       <select id="f-gym"><option value="">すべて</option></select>
     </div>
@@ -177,8 +183,8 @@
   </footer>
 
   <script>window.SITE_NAME = "どこジム♪";</script>
-  <script>window.BUILD_VERSION="20260622163618";</script>
-  <script src="query.js?v=20260622163618"></script>
-  <script src="app.js?v=20260622163618"></script>
+  <script>window.SITE_BASE="/dokoiku/";window.BUILD_VERSION="20260622170043";</script>
+  <script src="query.js?v=20260622170043"></script>
+  <script src="app.js?v=20260622170043"></script>
 </body>
 </html>
