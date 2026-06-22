@@ -10,13 +10,21 @@ const state = {
 };
 
 let META = null;
-let LESSONS = [];      // オブジェクト配列に復元したレッスン
+let LESSONS = [];      // 現在ロード済みの全レッスン(都道府県パートの連結)
 let STORES = [];
 let DAIKO = [];
 let STORE_URL = new Map();   // gym_id|store_id -> url
 let GYM_LABEL = new Map();
 let lastData = null;
 const sortState = { col: null, dir: "asc" };
+
+// --- 都道府県別 遅延ロード管理 ---
+const LESSON_PARTS = new Map();      // 都道府県名 -> レッスン配列
+const LOADED = new Set();            // ロード済み都道府県名
+let PREF_INDEX = [];                 // [{name, slug, region, count}]
+const PREF_BY_NAME = new Map();      // 都道府県名 -> {slug,...}
+const PREFS_BY_REGION = new Map();   // 地域 -> [都道府県名]
+let ALL_LOADED = false;              // 「全国読み込み」実行済みか
 
 // ---- 永続化 ----
 function saveState() {
@@ -49,10 +57,11 @@ function withVer(url) {
   return v ? `${url}?v=${encodeURIComponent(v)}` : url;
 }
 
+// 初期ロードは meta/stores/daiko のみ(軽量)。レッスン本体は都道府県単位で
+// スコープ選択時に遅延ロードする(一括DLによるモバイルのメモリ枯渇を回避)。
 async function loadData() {
-  const [meta, lessonsDoc, stores, daiko] = await Promise.all([
+  const [meta, stores, daiko] = await Promise.all([
     fetch(withVer("data/meta.json")).then((r) => r.json()),
-    fetch(withVer("data/lessons.json")).then((r) => r.json()),
     fetch(withVer("data/stores.json")).then((r) => r.json()),
     fetch(withVer("data/daiko.json")).then((r) => r.json()).catch(() => []),
   ]);
@@ -63,8 +72,18 @@ async function loadData() {
   for (const g of meta.gyms) GYM_LABEL.set(g.id, g.label);
   for (const s of stores) STORE_URL.set(s.gym_id + "|" + s.store_id, s.url);
 
-  const cols = lessonsDoc.columns;
-  LESSONS = lessonsDoc.rows.map((row) => {
+  PREF_INDEX = meta.pref_index || [];
+  for (const p of PREF_INDEX) {
+    PREF_BY_NAME.set(p.name, p);
+    if (!PREFS_BY_REGION.has(p.region)) PREFS_BY_REGION.set(p.region, []);
+    PREFS_BY_REGION.get(p.region).push(p.name);
+  }
+}
+
+// 列配列ドキュメント(都道府県パート)をオブジェクト配列へ復元し、ジム名/URLを付与。
+function lessonsFromDoc(doc) {
+  const cols = doc.columns;
+  return doc.rows.map((row) => {
     const o = {};
     cols.forEach((c, i) => { o[c] = row[i]; });
     o.reservation_required = !!o.reservation_required;
@@ -73,6 +92,50 @@ async function loadData() {
     o.url = STORE_URL.get(o.gym_id + "|" + o.store_id) || null;
     return o;
   });
+}
+
+// 指定の都道府県群のレッスンをロード(未ロード分のみfetch)。
+async function ensurePrefs(names) {
+  const todo = names.filter((n) => !LOADED.has(n));
+  await Promise.all(todo.map(async (name) => {
+    const info = PREF_BY_NAME.get(name);
+    if (!info) { LOADED.add(name); return; }
+    try {
+      const doc = await fetch(withVer(`data/lessons/${info.slug}.json`)).then((r) => r.json());
+      LESSON_PARTS.set(name, lessonsFromDoc(doc));
+    } catch (_e) {
+      LESSON_PARTS.set(name, []);
+    }
+    LOADED.add(name);
+  }));
+}
+
+// 現在の選択から、ロードが必要な都道府県の一覧を返す。未選択なら null。
+function scopePrefs() {
+  if (state.prefecture) return [state.prefecture];
+  if (state.region) return (PREFS_BY_REGION.get(state.region) || []).slice();
+  if (ALL_LOADED) return PREF_INDEX.map((p) => p.name);
+  return null;
+}
+
+// ロード済みパートを連結して LESSONS を再構築。
+function rebuildLessons() {
+  LESSONS = [];
+  for (const name of LOADED) {
+    const part = LESSON_PARTS.get(name);
+    if (part && part.length) LESSONS = LESSONS.concat(part);
+  }
+}
+
+// 全国(全都道府県)を読み込む(明示操作・PC向け)。
+async function loadAll() {
+  $("#main").innerHTML = '<div class="loading">全国のデータを読み込み中…（少し時間がかかります）</div>';
+  await ensurePrefs(PREF_INDEX.map((p) => p.name));
+  ALL_LOADED = true;
+  rebuildLessons();
+  refreshStoreOptions();
+  refreshInstructorOptions();
+  refreshViewRender();
 }
 
 function fillControls() {
@@ -132,8 +195,35 @@ function currentLimit() {
   return (!Number.isFinite(n) || n <= 0) ? Infinity : n;
 }
 
-function refreshView() {
+// スコープ未選択時の案内(全国読み込みボタン付き)。
+function renderChooseScope() {
+  $("#summary").innerHTML = "";
+  $("#main").innerHTML =
+    '<div class="empty">エリアまたは都道府県を選択してください。' +
+    '<br>地域を絞ることで素早く表示できます（モバイル推奨）。' +
+    '<div style="margin-top:14px;"><button class="btn" id="loadAllBtn">全国をまとめて読み込む</button></div></div>';
+  const b = document.getElementById("loadAllBtn");
+  if (b) b.addEventListener("click", loadAll);
+}
+
+// 選択スコープのデータを確保してから、店舗/先生の選択肢と一覧を更新する。
+async function update() {
   saveState();
+  if (state.view === "substitution") { renderSubstitution(); return; }
+  const prefs = scopePrefs();
+  if (!prefs) { refreshStoreOptions(); renderChooseScope(); return; }
+  if (prefs.some((n) => !LOADED.has(n))) {
+    $("#main").innerHTML = '<div class="loading">読み込み中…</div>';
+  }
+  await ensurePrefs(prefs);
+  rebuildLessons();
+  refreshStoreOptions();
+  refreshInstructorOptions();
+  refreshViewRender();
+}
+
+// LESSONS から現在ビューを構築して描画(ロード済み前提)。
+function refreshViewRender() {
   if (state.view === "substitution") { renderSubstitution(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
@@ -276,33 +366,34 @@ function renderSubstitution() {
 // ---- イベント ----
 function bind() {
   document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => {
-    state.view = t.dataset.view; setActiveTab(state.view); refreshView();
+    state.view = t.dataset.view; setActiveTab(state.view); update();
   }));
   $("#f-region").addEventListener("change", (e) => {
     state.region = e.target.value;
     // エリアと都道府県は排他: エリア選択時は都道府県を「すべて」に戻す。
     if (state.region) { state.prefecture = ""; $("#f-prefecture").value = ""; }
-    refreshStoreOptions(); refreshInstructorOptions(); refreshView();
+    update();
   });
   $("#f-prefecture").addEventListener("change", (e) => {
     state.prefecture = e.target.value;
     // 都道府県選択時はエリアを「すべて」に戻す。
     if (state.prefecture) { state.region = ""; $("#f-region").value = ""; }
-    refreshStoreOptions(); refreshInstructorOptions(); refreshView();
+    update();
   });
-  $("#f-gym").addEventListener("change", (e) => { state.gym = e.target.value; refreshStoreOptions(); refreshInstructorOptions(); refreshView(); });
-  $("#f-day").addEventListener("change", (e) => { state.day = e.target.value; refreshInstructorOptions(); refreshView(); });
-  $("#f-category").addEventListener("change", (e) => { state.category = e.target.value; refreshInstructorOptions(); refreshView(); });
-  $("#f-store").addEventListener("change", (e) => { state.store_id = e.target.value; refreshInstructorOptions(); refreshView(); });
-  $("#f-instructor").addEventListener("change", (e) => { state.instructor = e.target.value; refreshView(); });
+  $("#f-gym").addEventListener("change", (e) => { state.gym = e.target.value; saveState(); refreshStoreOptions(); refreshInstructorOptions(); refreshViewRender(); });
+  $("#f-day").addEventListener("change", (e) => { state.day = e.target.value; saveState(); refreshInstructorOptions(); refreshViewRender(); });
+  $("#f-category").addEventListener("change", (e) => { state.category = e.target.value; saveState(); refreshInstructorOptions(); refreshViewRender(); });
+  $("#f-store").addEventListener("change", (e) => { state.store_id = e.target.value; saveState(); refreshInstructorOptions(); refreshViewRender(); });
+  $("#f-instructor").addEventListener("change", (e) => { state.instructor = e.target.value; saveState(); refreshViewRender(); });
   $("#f-limit").addEventListener("change", (e) => { state.limit = e.target.value; saveState(); if (lastData && state.view !== "substitution") renderGroups(lastData); });
   let t = null;
-  $("#f-q").addEventListener("input", (e) => { state.q = e.target.value.trim(); clearTimeout(t); t = setTimeout(() => { refreshInstructorOptions(); refreshView(); }, 250); });
+  $("#f-q").addEventListener("input", (e) => { state.q = e.target.value.trim(); clearTimeout(t); t = setTimeout(() => { saveState(); refreshInstructorOptions(); refreshViewRender(); }, 250); });
   $("#resetBtn").addEventListener("click", () => {
-    Object.assign(state, { prefecture: "", gym: "", day: "", category: "", store_id: "", instructor: "", q: "" });
-    $("#f-prefecture").value = ""; $("#f-gym").value = ""; $("#f-day").value = ""; $("#f-category").value = "";
+    // 地理スコープ(エリア/都道府県)は維持し、副次フィルタのみクリアする。
+    Object.assign(state, { gym: "", day: "", category: "", store_id: "", instructor: "", q: "" });
+    $("#f-gym").value = ""; $("#f-day").value = ""; $("#f-category").value = "";
     $("#f-store").value = ""; $("#f-q").value = "";
-    refreshStoreOptions(); refreshInstructorOptions(); refreshView();
+    refreshStoreOptions(); refreshInstructorOptions(); refreshViewRender();
   });
   $("#main").addEventListener("click", (e) => {
     const th = e.target.closest("th.sortable");
@@ -323,9 +414,14 @@ async function main() {
     $("#main").innerHTML = `<div class="empty">データの読み込みに失敗しました（${escapeHtml(e.message)}）。<br>data/ 配下のJSONをローカルサーバ経由で配信してください。</div>`;
     return;
   }
+  // 初回(スコープ未保存)は東京都を既定にして、空表示や全件ロードを避ける。
+  if (!state.prefecture && !state.region) {
+    state.prefecture = PREF_BY_NAME.has("東京都")
+      ? "東京都" : ((PREF_INDEX[0] && PREF_INDEX[0].name) || "");
+  }
   fillControls();
   bind();
-  refreshView();
+  await update();
 }
 
 main();
