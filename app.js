@@ -85,6 +85,7 @@ const LOADED = new Set();            // ロード済み都道府県名
 let PREF_INDEX = [];                 // [{name, slug, region, count}]
 const PREF_BY_NAME = new Map();      // 都道府県名 -> {slug,...}
 const PREFS_BY_REGION = new Map();   // 地域 -> [都道府県名]
+const GYM_PREFS = new Map();         // gym_id -> Set(都道府県名)
 let ALL_LOADED = false;              // 「全国読み込み」実行済みか
 
 // ---- 永続化 ----
@@ -171,6 +172,10 @@ async function loadData() {
       lat: s.lat, lon: s.lon, phone: s.phone, phone_fmt: s.phone_fmt,
       address: s.address, reservation_url: s.reservation_url || null,
     });
+    if (s.gym_id && s.prefecture) {
+      if (!GYM_PREFS.has(s.gym_id)) GYM_PREFS.set(s.gym_id, new Set());
+      GYM_PREFS.get(s.gym_id).add(s.prefecture);
+    }
   }
 
   PREF_INDEX = meta.pref_index || [];
@@ -220,9 +225,45 @@ async function ensurePrefs(names) {
 }
 
 // 現在の選択から、ロードが必要な都道府県の一覧を返す。未選択なら null。
+function gymIdsFromQuery(q) {
+  const n = (q || "").normalize("NFKC").toUpperCase();
+  if (!n) return [];
+  const out = [];
+  for (const [id, label] of GYM_LABEL.entries()) {
+    const nl = (label || "").normalize("NFKC").toUpperCase();
+    if (nl.includes(n) || n.includes(nl)) out.push(id);
+  }
+  return out;
+}
+
+function prefsForGyms(gymIds) {
+  const prefs = new Set();
+  for (const gid of gymIds) {
+    const ps = GYM_PREFS.get(gid);
+    if (ps) ps.forEach((p) => prefs.add(p));
+  }
+  return prefs.size ? [...prefs] : null;
+}
+
 function scopePrefs() {
   if (state.prefecture) return [state.prefecture];
   if (state.region) return (PREFS_BY_REGION.get(state.region) || []).slice();
+  if (state.gym) {
+    const prefs = prefsForGyms([state.gym]);
+    if (prefs) return prefs;
+  }
+  if (state.store_id) {
+    const s = STORES.find((x) => String(x.store_id) === String(state.store_id));
+    if (s && s.prefecture) return [s.prefecture];
+  }
+  // フリーワードがジム名に一致する場合(例:「イオンスポーツ」)も該当都道府県をロード。
+  if (state.q && !state.gym) {
+    const gids = gymIdsFromQuery(state.q);
+    if (gids.length === 1) {
+      const prefs = prefsForGyms(gids);
+      if (prefs) return prefs;
+    }
+  }
   if (ALL_LOADED) return PREF_INDEX.map((p) => p.name);
   return null;
 }
@@ -320,8 +361,8 @@ function currentLimit() {
 function renderChooseScope() {
   $("#summary").innerHTML = "";
   $("#main").innerHTML =
-    '<div class="empty">エリアまたは都道府県を選択してください。' +
-    '<br>地域を絞ることで素早く表示できます（モバイル推奨）。' +
+    '<div class="empty">エリア・都道府県・ジムのいずれかを選択してください。' +
+    '<br>ジム名だけ選んでも表示できます（例: イオンスポーツクラブ）。' +
     '<div style="margin-top:14px;"><button class="btn" id="loadAllBtn">全国をまとめて読み込む</button></div></div>';
   const b = document.getElementById("loadAllBtn");
   if (b) b.addEventListener("click", loadAll);
