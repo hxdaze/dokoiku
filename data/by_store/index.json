@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 92,
-  "store_count": 1880,
+  "gym_count": 147,
+  "store_count": 1943,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12582,6 +12582,61 @@
       ]
     },
     {
+      "gym_id": "fitta",
+      "gym": "スポーツクラブ フィッタ",
+      "stores": [
+        {
+          "store_id": "izumi",
+          "store": "スポーツクラブ フィッタ ライトスタイル和泉",
+          "region": "中国・四国",
+          "lesson_count": 61,
+          "path": "by_store/fitta/スポーツクラブ_フィッタ_ライトスタイル和泉.json"
+        },
+        {
+          "store_id": "kinuyama",
+          "store": "スポーツクラブ フィッタ 衣山",
+          "region": "中国・四国",
+          "lesson_count": 174,
+          "path": "by_store/fitta/スポーツクラブ_フィッタ_衣山.json"
+        },
+        {
+          "store_id": "kochi",
+          "store": "スポーツクラブ フィッタ 高知",
+          "region": "中国・四国",
+          "lesson_count": 68,
+          "path": "by_store/fitta/スポーツクラブ_フィッタ_高知.json"
+        },
+        {
+          "store_id": "masaki",
+          "store": "スポーツクラブ フィッタ エミフルMASAKI",
+          "region": "中国・四国",
+          "lesson_count": 178,
+          "path": "by_store/fitta/スポーツクラブ_フィッタ_エミフルMASAKI.json"
+        },
+        {
+          "store_id": "matsuyama",
+          "store": "スポーツクラブ フィッタ 松山",
+          "region": "中国・四国",
+          "lesson_count": 84,
+          "path": "by_store/fitta/スポーツクラブ_フィッタ_松山.json"
+        },
+        {
+          "store_id": "niihama",
+          "store": "スポーツクラブ フィッタ 新居浜",
+          "region": "中国・四国",
+          "lesson_count": 17,
+          "path": "by_store/fitta/スポーツクラブ_フィッタ_新居浜.json"
+        },
+        {
+          "store_id": "shigenobu",
+          "store": "スポーツクラブ フィッタ 重信",
+          "region": "中国・四国",
+          "lesson_count": 188,
+          "path": "by_store/fitta/スポーツクラブ_フィッタ_重信.json"
+        }
+      ]
+    },
+    {
       "gym_id": "aim",
       "gym": "フィットネスクラブ AIM（エイム）",
       "stores": [
@@ -12745,6 +12800,19 @@
       ]
     },
     {
+      "gym_id": "erg_kagoshima",
+      "gym": "アーバンウェルネスクラブ・エルグ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "アーバンウェルネスクラブ・エルグ",
+          "region": "九州・沖縄",
+          "lesson_count": 380,
+          "path": "by_store/erg_kagoshima/アーバンウェルネスクラブ・エルグ.json"
+        }
+      ]
+    },
+    {
       "gym_id": "wing",
       "gym": "フィットネスクラブ ウイング",
       "stores": [
@@ -12885,6 +12953,19 @@
           "region": "中部・北陸",
           "lesson_count": 83,
           "path": "by_store/renaiss/スポーツクラブ_ルネッス敦賀.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "toyama_ihc",
+      "gym": "とやま健康パーク",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "とやま健康パーク(富山県立健康増進センター)",
+          "region": "中部・北陸",
+          "lesson_count": 261,
+          "path": "by_store/toyama_ihc/とやま健康パーク(富山県立健康増進センター).json"
         }
       ]
     },
@@ -13049,6 +13130,19 @@
       ]
     },
     {
+      "gym_id": "erg_techno",
+      "gym": "スポーツクラブ エルグ・テクノ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "スポーツクラブ エルグ・テクノ",
+          "region": "九州・沖縄",
+          "lesson_count": 155,
+          "path": "by_store/erg_techno/スポーツクラブ_エルグ・テクノ.json"
+        }
+      ]
+    },
+    {
       "gym_id": "advance_wakayama",
       "gym": "スポーツクラブアドヴァンス",
       "stores": [
@@ -13098,6 +13192,46 @@
           "region": "北海道・東北",
           "lesson_count": 145,
           "path": "by_store/sunpia_sendai/サンピアスポーツクラブ仙台.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "happy_tokushima",
+      "gym": "スポーツジム ハッピー",
+      "stores": [
+        {
+          "store_id": "anan",
+          "store": "スポーツジム ハッピー 阿南",
+          "region": "中国・四国",
+          "lesson_count": 27,
+          "path": "by_store/happy_tokushima/スポーツジム_ハッピー_阿南.json"
+        },
+        {
+          "store_id": "kamojima",
+          "store": "スポーツジム ハッピー 鴨島",
+          "region": "中国・四国",
+          "lesson_count": 57,
+          "path": "by_store/happy_tokushima/スポーツジム_ハッピー_鴨島.json"
+        },
+        {
+          "store_id": "tokushima",
+          "store": "スポーツジム ハッピー 徳島",
+          "region": "中国・四国",
+          "lesson_count": 60,
+          "path": "by_store/happy_tokushima/スポーツジム_ハッピー_徳島.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sunsports_ushiku",
+      "gym": "スポーツクラブ牛久",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "スポーツクラブ牛久",
+          "region": "関東",
+          "lesson_count": 141,
+          "path": "by_store/sunsports_ushiku/スポーツクラブ牛久.json"
         }
       ]
     },
@@ -13154,6 +13288,19 @@
       ]
     },
     {
+      "gym_id": "sunspa_omura",
+      "gym": "サンスパおおむら",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "サンスパおおむら サンスパスポーツジム",
+          "region": "九州・沖縄",
+          "lesson_count": 130,
+          "path": "by_store/sunspa_omura/サンスパおおむら_サンスパスポーツジム.json"
+        }
+      ]
+    },
+    {
       "gym_id": "wellsq",
       "gym": "ウェルネススクエア札幌",
       "stores": [
@@ -13163,6 +13310,19 @@
           "region": "北海道・東北",
           "lesson_count": 125,
           "path": "by_store/wellsq/ウェルネススクエア札幌.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "wako_seika",
+      "gym": "和光市総合体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "和光市総合体育館",
+          "region": "関東",
+          "lesson_count": 120,
+          "path": "by_store/wako_seika/和光市総合体育館.json"
         }
       ]
     },
@@ -13215,6 +13375,19 @@
           "region": "中部・北陸",
           "lesson_count": 91,
           "path": "by_store/aube/AUBE_FOR_ONE（オーブ）福井.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "bio_obihiro",
+      "gym": "フィットネスクラブBIO",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "フィットネスクラブBIO",
+          "region": "北海道・東北",
+          "lesson_count": 88,
+          "path": "by_store/bio_obihiro/フィットネスクラブBIO.json"
         }
       ]
     },
@@ -13297,6 +13470,32 @@
       ]
     },
     {
+      "gym_id": "tmch_act",
+      "gym": "健康増進センターACT",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "健康増進センターACT",
+          "region": "関東",
+          "lesson_count": 70,
+          "path": "by_store/tmch_act/健康増進センターACT.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "fitpia",
+      "gym": "フィットピア",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "フィットピア",
+          "region": "九州・沖縄",
+          "lesson_count": 69,
+          "path": "by_store/fitpia/フィットピア.json"
+        }
+      ]
+    },
+    {
       "gym_id": "nac",
       "gym": "スポーツクラブ・ナック（NAC）",
       "stores": [
@@ -13362,6 +13561,19 @@
       ]
     },
     {
+      "gym_id": "miyazaki_pool",
+      "gym": "パーソルアクアパーク宮崎",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "パーソルアクアパーク宮崎",
+          "region": "九州・沖縄",
+          "lesson_count": 62,
+          "path": "by_store/miyazaki_pool/パーソルアクアパーク宮崎.json"
+        }
+      ]
+    },
+    {
       "gym_id": "shibuya_sc",
       "gym": "渋谷区スポーツセンター",
       "stores": [
@@ -13414,6 +13626,19 @@
       ]
     },
     {
+      "gym_id": "welport_nadasaki",
+      "gym": "岡山市ウェルポートなださき",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "岡山市ウェルポートなださき",
+          "region": "中国・四国",
+          "lesson_count": 57,
+          "path": "by_store/welport_nadasaki/岡山市ウェルポートなださき.json"
+        }
+      ]
+    },
+    {
       "gym_id": "yonettsu",
       "gym": "ヨネッツこうち",
       "stores": [
@@ -13423,6 +13648,19 @@
           "region": "中国・四国",
           "lesson_count": 56,
           "path": "by_store/yonettsu/ヨネッツこうち.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "aqua_marine_chita",
+      "gym": "アクアマリンプラザ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "アクアマリンプラザ(西知多医療厚生組合)",
+          "region": "中部・北陸",
+          "lesson_count": 55,
+          "path": "by_store/aqua_marine_chita/アクアマリンプラザ(西知多医療厚生組合).json"
         }
       ]
     },
@@ -13440,6 +13678,84 @@
       ]
     },
     {
+      "gym_id": "ist_nara",
+      "gym": "イストフィットネスクラブ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "イストフィットネスクラブ",
+          "region": "近畿",
+          "lesson_count": 54,
+          "path": "by_store/ist_nara/イストフィットネスクラブ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "ota_pool",
+      "gym": "太田市温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "太田市温水プール",
+          "region": "関東",
+          "lesson_count": 54,
+          "path": "by_store/ota_pool/太田市温水プール.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_nishi_gym",
+      "gym": "札幌市西区体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市西区体育館",
+          "region": "北海道・東北",
+          "lesson_count": 54,
+          "path": "by_store/sapporo_nishi_gym/札幌市西区体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "jsquare_gifu",
+      "gym": "ジェイ・スクエア",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "ジェイ・スクエア",
+          "region": "中部・北陸",
+          "lesson_count": 53,
+          "path": "by_store/jsquare_gifu/ジェイ・スクエア.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "bumb",
+      "gym": "BumB東京スポーツ文化館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "BumB東京スポーツ文化館",
+          "region": "関東",
+          "lesson_count": 52,
+          "path": "by_store/bumb/BumB東京スポーツ文化館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "gsz_east",
+      "gym": "日環アリーナ栃木",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "日環アリーナ栃木(栃木県総合運動公園東エリア)",
+          "region": "関東",
+          "lesson_count": 50,
+          "path": "by_store/gsz_east/日環アリーナ栃木(栃木県総合運動公園東エリア).json"
+        }
+      ]
+    },
+    {
       "gym_id": "fitz_aoba",
       "gym": "フィッツスポーツクラブ甲府青葉",
       "stores": [
@@ -13449,6 +13765,19 @@
           "region": "中部・北陸",
           "lesson_count": 48,
           "path": "by_store/fitz_aoba/フィッツスポーツクラブ甲府青葉.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "kouza_pool",
+      "gym": "高座施設組合屋内温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "高座施設組合屋内温水プール",
+          "region": "関東",
+          "lesson_count": 46,
+          "path": "by_store/kouza_pool/高座施設組合屋内温水プール.json"
         }
       ]
     },
@@ -13479,6 +13808,71 @@
       ]
     },
     {
+      "gym_id": "terrsa_matsue",
+      "gym": "テルサスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "テルサスポーツクラブ",
+          "region": "中国・四国",
+          "lesson_count": 43,
+          "path": "by_store/terrsa_matsue/テルサスポーツクラブ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "niimi_genki",
+      "gym": "げんき広場にいみ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "げんき広場にいみ(新見市健康増進施設)",
+          "region": "中国・四国",
+          "lesson_count": 42,
+          "path": "by_store/niimi_genki/げんき広場にいみ(新見市健康増進施設).json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_atsubetsu_gym",
+      "gym": "札幌市厚別区体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市厚別区体育館",
+          "region": "北海道・東北",
+          "lesson_count": 42,
+          "path": "by_store/sapporo_atsubetsu_gym/札幌市厚別区体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "santecocore",
+      "gym": "サンテココア",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "サンテココア",
+          "region": "中国・四国",
+          "lesson_count": 41,
+          "path": "by_store/santecocore/サンテココア.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "yutorikku",
+      "gym": "ゆとりっく",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "ゆとりっく(うずしお温泉併設)",
+          "region": "近畿",
+          "lesson_count": 41,
+          "path": "by_store/yutorikku/ゆとりっく(うずしお温泉併設).json"
+        }
+      ]
+    },
+    {
       "gym_id": "budokan",
       "gym": "東京武道館",
       "stores": [
@@ -13488,6 +13882,45 @@
           "region": "関東",
           "lesson_count": 40,
           "path": "by_store/budokan/東京武道館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "saga_utopia",
+      "gym": "佐賀ユートピアSC",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "佐賀ユートピアスポーツクラブ",
+          "region": "九州・沖縄",
+          "lesson_count": 39,
+          "path": "by_store/saga_utopia/佐賀ユートピアスポーツクラブ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "tatsuno_shingu",
+      "gym": "たつの市新宮温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "たつの市新宮温水プール",
+          "region": "近畿",
+          "lesson_count": 38,
+          "path": "by_store/tatsuno_shingu/たつの市新宮温水プール.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_tsudome",
+      "gym": "札幌市つどーむ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市つどーむ",
+          "region": "北海道・東北",
+          "lesson_count": 37,
+          "path": "by_store/sapporo_tsudome/札幌市つどーむ.json"
         }
       ]
     },
@@ -13514,6 +13947,97 @@
           "region": "関東",
           "lesson_count": 35,
           "path": "by_store/meguro_sc/目黒区民センター体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_kiyota",
+      "gym": "札幌市清田区体育館・温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市清田区体育館・温水プール",
+          "region": "北海道・東北",
+          "lesson_count": 35,
+          "path": "by_store/sapporo_kiyota/札幌市清田区体育館・温水プール.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "yurutto",
+      "gym": "置賜スポーツ交流プラザ ユルット",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "置賜スポーツ交流プラザ ユルット",
+          "region": "北海道・東北",
+          "lesson_count": 34,
+          "path": "by_store/yurutto/置賜スポーツ交流プラザ_ユルット.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "suwakko",
+      "gym": "すわっこランド",
+      "stores": [
+        {
+          "store_id": "suwa",
+          "store": "すわっこランド",
+          "region": "中部・北陸",
+          "lesson_count": 33,
+          "path": "by_store/suwakko/すわっこランド.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "wpkc_kariya",
+      "gym": "ウォーターパレスKC",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "ウォーターパレスKC(刈谷知立環境組合)",
+          "region": "中部・北陸",
+          "lesson_count": 32,
+          "path": "by_store/wpkc_kariya/ウォーターパレスKC(刈谷知立環境組合).json"
+        }
+      ]
+    },
+    {
+      "gym_id": "jl_sports",
+      "gym": "ジェル／JLスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "ジェル／JLスポーツクラブ 鹿児島",
+          "region": "九州・沖縄",
+          "lesson_count": 31,
+          "path": "by_store/jl_sports/ジェル／JLスポーツクラブ_鹿児島.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "akiha_taiikukan",
+      "gym": "新潟市秋葉区総合体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "新潟市秋葉区総合体育館",
+          "region": "中部・北陸",
+          "lesson_count": 30,
+          "path": "by_store/akiha_taiikukan/新潟市秋葉区総合体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "kihoku_kenko",
+      "gym": "紀北健康センター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "紀北健康センター",
+          "region": "近畿",
+          "lesson_count": 30,
+          "path": "by_store/kihoku_kenko/紀北健康センター.json"
         }
       ]
     },
@@ -13557,6 +14081,19 @@
       ]
     },
     {
+      "gym_id": "kc_totor",
+      "gym": "日本トーター総合体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "日本トーター総合体育館",
+          "region": "中国・四国",
+          "lesson_count": 28,
+          "path": "by_store/kc_totor/日本トーター総合体育館.json"
+        }
+      ]
+    },
+    {
       "gym_id": "maxsc",
       "gym": "MAXスポーツクラブ",
       "stores": [
@@ -13596,6 +14133,45 @@
       ]
     },
     {
+      "gym_id": "nara_ymca",
+      "gym": "奈良YMCA",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "奈良YMCA",
+          "region": "近畿",
+          "lesson_count": 27,
+          "path": "by_store/nara_ymca/奈良YMCA.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "kc_kuroshio",
+      "gym": "くろしおアリーナ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "くろしおアリーナ",
+          "region": "中国・四国",
+          "lesson_count": 25,
+          "path": "by_store/kc_kuroshio/くろしおアリーナ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "morioka_yupiasu",
+      "gym": "盛岡市ゆぴあす",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "盛岡市ゆぴあす(余熱利用健康増進センター)",
+          "region": "北海道・東北",
+          "lesson_count": 24,
+          "path": "by_store/morioka_yupiasu/盛岡市ゆぴあす(余熱利用健康増進センター).json"
+        }
+      ]
+    },
+    {
       "gym_id": "nerima_sc",
       "gym": "練馬区立中村南スポーツ交流センター",
       "stores": [
@@ -13605,6 +14181,45 @@
           "region": "関東",
           "lesson_count": 24,
           "path": "by_store/nerima_sc/練馬区立中村南スポーツ交流センター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_higashi_pool",
+      "gym": "札幌市東温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市東温水プール",
+          "region": "北海道・東北",
+          "lesson_count": 23,
+          "path": "by_store/sapporo_higashi_pool/札幌市東温水プール.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_minami_gym",
+      "gym": "札幌市南区体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市南区体育館",
+          "region": "北海道・東北",
+          "lesson_count": 23,
+          "path": "by_store/sapporo_minami_gym/札幌市南区体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "aquapark_niigata",
+      "gym": "アクアパークにいがた",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "アクアパークにいがた(新潟市ふれあい健康センター)",
+          "region": "中部・北陸",
+          "lesson_count": 22,
+          "path": "by_store/aquapark_niigata/アクアパークにいがた(新潟市ふれあい健康センター).json"
         }
       ]
     },
@@ -13622,6 +14237,32 @@
       ]
     },
     {
+      "gym_id": "beppu_arena",
+      "gym": "べっぷアリーナ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "別府市総合体育館べっぷアリーナ",
+          "region": "九州・沖縄",
+          "lesson_count": 21,
+          "path": "by_store/beppu_arena/別府市総合体育館べっぷアリーナ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "kusatsu_aqua",
+      "gym": "インフロニア草津アクアティクスセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "インフロニア草津アクアティクスセンター",
+          "region": "近畿",
+          "lesson_count": 21,
+          "path": "by_store/kusatsu_aqua/インフロニア草津アクアティクスセンター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "xyst_wakayama",
       "gym": "ジストスポーツクラブ和歌山",
       "stores": [
@@ -13635,6 +14276,19 @@
       ]
     },
     {
+      "gym_id": "sapporo_atsubetsu_pool",
+      "gym": "札幌市厚別温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市厚別温水プール",
+          "region": "北海道・東北",
+          "lesson_count": 20,
+          "path": "by_store/sapporo_atsubetsu_pool/札幌市厚別温水プール.json"
+        }
+      ]
+    },
+    {
       "gym_id": "paja_yonago",
       "gym": "フィットネスクラブPAJA米子",
       "stores": [
@@ -13644,6 +14298,19 @@
           "region": "中国・四国",
           "lesson_count": 18,
           "path": "by_store/paja_yonago/フィットネスクラブPAJA米子.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_tsukisamu",
+      "gym": "札幌市月寒体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市月寒体育館",
+          "region": "北海道・東北",
+          "lesson_count": 18,
+          "path": "by_store/sapporo_tsukisamu/札幌市月寒体育館.json"
         }
       ]
     },
@@ -13674,6 +14341,19 @@
       ]
     },
     {
+      "gym_id": "studio_ing",
+      "gym": "スタジオ・イング",
+      "stores": [
+        {
+          "store_id": "kochi",
+          "store": "スタジオ・イング",
+          "region": "中国・四国",
+          "lesson_count": 15,
+          "path": "by_store/studio_ing/スタジオ・イング.json"
+        }
+      ]
+    },
+    {
       "gym_id": "esfortaota",
       "gym": "Ebara Waveアリーナおおた（大田区総合体育館）",
       "stores": [
@@ -13700,6 +14380,84 @@
       ]
     },
     {
+      "gym_id": "sendai_nakata",
+      "gym": "仙台市中田温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "仙台市中田温水プール",
+          "region": "北海道・東北",
+          "lesson_count": 12,
+          "path": "by_store/sendai_nakata/仙台市中田温水プール.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "chikafure",
+      "gym": "旭川市近文市民ふれあいセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "旭川市近文市民ふれあいセンター(ちかふれ)",
+          "region": "北海道・東北",
+          "lesson_count": 11,
+          "path": "by_store/chikafure/旭川市近文市民ふれあいセンター(ちかふれ).json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_shiroishi_pool",
+      "gym": "札幌市白石温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市白石温水プール",
+          "region": "北海道・東北",
+          "lesson_count": 9,
+          "path": "by_store/sapporo_shiroishi_pool/札幌市白石温水プール.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "yamagata_jaba",
+      "gym": "馬見ケ崎プール ジャバ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "馬見ケ崎プール ジャバ",
+          "region": "北海道・東北",
+          "lesson_count": 9,
+          "path": "by_store/yamagata_jaba/馬見ケ崎プール_ジャバ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "fukushima_ncv",
+      "gym": "NCVふくしまアリーナ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "NCVふくしまアリーナ",
+          "region": "北海道・東北",
+          "lesson_count": 8,
+          "path": "by_store/fukushima_ncv/NCVふくしまアリーナ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "sapporo_toyohira_pool",
+      "gym": "札幌市豊平公園温水プール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市豊平公園温水プール",
+          "region": "北海道・東北",
+          "lesson_count": 7,
+          "path": "by_store/sapporo_toyohira_pool/札幌市豊平公園温水プール.json"
+        }
+      ]
+    },
+    {
       "gym_id": "muchcolor",
       "gym": "マチカラフィットネス大分",
       "stores": [
@@ -13709,6 +14467,19 @@
           "region": "九州・沖縄",
           "lesson_count": 3,
           "path": "by_store/muchcolor/マチカラフィットネス大分.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "taketoyo_pool",
+      "gym": "CCNCプールたけとよ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "CCNCプールたけとよ(武豊町屋内温水プール)",
+          "region": "中部・北陸",
+          "lesson_count": 3,
+          "path": "by_store/taketoyo_pool/CCNCプールたけとよ(武豊町屋内温水プール).json"
         }
       ]
     },

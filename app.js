@@ -261,6 +261,55 @@ function noteText(r) {
   return n;
 }
 
+// ---- Googleカレンダー登録リンク ----
+// 週間レッスン(曜日+時刻)を、直近の該当曜日を初回とする毎週繰り返し予定として
+// Googleカレンダーに登録するための TEMPLATE URL を生成する。
+const _BYDAY = ["MO", "TU", "WE", "TH", "FR", "SA", "SU"];   // GQ.WEEK と同順
+function _hm(s) {
+  const m = /^(\d{1,2}):(\d{2})/.exec(s || "");
+  return m ? [parseInt(m[1], 10), parseInt(m[2], 10)] : null;
+}
+function _pad2(n) { return String(n).padStart(2, "0"); }
+function _fmtDT(d, h, mi) {
+  return `${d.getFullYear()}${_pad2(d.getMonth() + 1)}${_pad2(d.getDate())}T${_pad2(h)}${_pad2(mi)}00`;
+}
+function gcalUrl(r) {
+  const dayIdx = GQ.WEEK.indexOf(r.day);
+  const sh = _hm(r.start);
+  if (dayIdx < 0 || !sh) return "";
+  // 終了時刻: 無ければ開始+60分。
+  let eh = _hm(r.end);
+  let endTotal = eh ? eh[0] * 60 + eh[1] : (sh[0] * 60 + sh[1] + 60);
+  const endH = Math.floor(endTotal / 60) % 24, endM = endTotal % 60;
+  // 直近の該当曜日(JS: 0=日..6=土 / 当アプリ: 0=月..6=日)。
+  const jsTarget = (dayIdx + 1) % 7;
+  const d = new Date();
+  d.setHours(0, 0, 0, 0);
+  d.setDate(d.getDate() + ((jsTarget - d.getDay() + 7) % 7));
+  const dates = `${_fmtDT(d, sh[0], sh[1])}/${_fmtDT(d, endH, endM)}`;
+  const title = [r.class_name, r.studio].filter(Boolean).join(" / ") || "レッスン";
+  const detail = [
+    r.store ? `店舗: ${storeLabel(r)}` : "",
+    r.instructor ? `先生: ${r.instructor}` : "",
+    r.studio ? `スタジオ: ${r.studio}` : "",
+    noteText(r) ? `備考: ${noteText(r)}` : "",
+    r.url ? `公式: ${r.url}` : "",
+    "※スケジュールは変更される場合があります。最新は公式をご確認ください。",
+  ].filter(Boolean).join("\n");
+  const params = new URLSearchParams({
+    action: "TEMPLATE", text: title, dates,
+    details: detail, location: r.store || "", ctz: "Asia/Tokyo",
+    recur: `RRULE:FREQ=WEEKLY;BYDAY=${_BYDAY[dayIdx]}`,
+  });
+  return "https://calendar.google.com/calendar/render?" + params.toString();
+}
+function gcalCell(r) {
+  const u = gcalUrl(r);
+  if (!u) return "";
+  return `<a class="gcal-link" href="${escapeAttr(u)}" target="_blank" rel="noopener" `
+    + `title="Googleカレンダーに毎週の予定として登録">📅 登録</a>`;
+}
+
 function lessonRow(r, opts) {
   const tags = [];
   if (r.genre === "有料") tags.push('<span class="tag-pay">有料</span>');
@@ -275,6 +324,7 @@ function lessonRow(r, opts) {
   if (opts.showCategory) cells.push(`<td><span class="cat">${escapeHtml(r.category || "")}</span></td>`);
   cells.push(`<td>${escapeHtml(r.instructor || "")}</td>`);
   cells.push(`<td class="muted">${escapeHtml(noteText(r))}</td>`);
+  cells.push(`<td class="gcal">${gcalCell(r)}</td>`);
   return `<tr>${cells.join("")}</tr>`;
 }
 
@@ -288,11 +338,14 @@ function tableCols(opts) {
   if (opts.showCategory) cols.push(["category", "カテゴリー"]);
   cols.push(["instructor", "先生"]);
   cols.push(["note", "備考"]);
+  cols.push(["gcal", "登録"]);
   return cols;
 }
 
 function tableHeader(opts) {
   return "<tr>" + tableCols(opts).map(([k, label]) => {
+    // 「登録」(Googleカレンダー)列はソート対象外。
+    if (k === "gcal") return `<th class="nosort">${label}</th>`;
     const mark = sortState.col === k ? `<span class="sort-mark">${sortState.dir === "asc" ? "▲" : "▼"}</span>` : "";
     return `<th class="sortable" data-col="${k}">${label}${mark}</th>`;
   }).join("") + "</tr>";

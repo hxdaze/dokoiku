@@ -326,6 +326,16 @@ table.calendar th.cal-time, table.calendar td.cal-time {
   color: var(--muted); border: 1px solid var(--border);
   background: rgba(127, 127, 127, 0.08); white-space: nowrap;
 }
+/* Googleカレンダー登録リンク */
+td.gcal { white-space: nowrap; text-align: center; }
+a.gcal-link {
+  display: inline-block; padding: 2px 8px; border-radius: 8px;
+  font-size: 12px; font-weight: 600; text-decoration: none; white-space: nowrap;
+  color: var(--accent2); border: 1px solid var(--border);
+  background: rgba(56, 189, 248, 0.08);
+}
+a.gcal-link:hover { background: rgba(56, 189, 248, 0.18); text-decoration: none; }
+th.nosort { cursor: default; }
 .b-studio {
   margin-left: 6px; padding: 0 4px; border-radius: 6px;
   font-size: 10px; color: var(--muted);
