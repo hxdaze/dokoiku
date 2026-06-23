@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 160,
-  "store_count": 2047,
+  "gym_count": 166,
+  "store_count": 2066,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12853,6 +12853,88 @@
       ]
     },
     {
+      "gym_id": "blue_fitness",
+      "gym": "BLUE FITNESS 24",
+      "stores": [
+        {
+          "store_id": "gotanno",
+          "store": "BLUE FITNESS 24 +studio 五反野",
+          "region": "関東",
+          "lesson_count": 118,
+          "path": "by_store/blue_fitness/BLUE_FITNESS_24_+studio_五反野.json"
+        },
+        {
+          "store_id": "inagekaigan",
+          "store": "BLUE FITNESS 24 +studio 稲毛海岸",
+          "region": "関東",
+          "lesson_count": 66,
+          "path": "by_store/blue_fitness/BLUE_FITNESS_24_+studio_稲毛海岸.json"
+        },
+        {
+          "store_id": "kachidoki",
+          "store": "BLUE FITNESS 24 +studio 勝どき",
+          "region": "関東",
+          "lesson_count": 129,
+          "path": "by_store/blue_fitness/BLUE_FITNESS_24_+studio_勝どき.json"
+        },
+        {
+          "store_id": "kayabacho",
+          "store": "BLUE FITNESS 24 +studio 茅場町・新川",
+          "region": "関東",
+          "lesson_count": 122,
+          "path": "by_store/blue_fitness/BLUE_FITNESS_24_+studio_茅場町・新川.json"
+        },
+        {
+          "store_id": "kiyosumishirakawa",
+          "store": "BLUE FITNESS 24 +studio 清澄白河",
+          "region": "関東",
+          "lesson_count": 127,
+          "path": "by_store/blue_fitness/BLUE_FITNESS_24_+studio_清澄白河.json"
+        },
+        {
+          "store_id": "mizue",
+          "store": "BLUE FITNESS 24 +studio 瑞江",
+          "region": "関東",
+          "lesson_count": 82,
+          "path": "by_store/blue_fitness/BLUE_FITNESS_24_+studio_瑞江.json"
+        },
+        {
+          "store_id": "nishifunabashi",
+          "store": "BLUE FITNESS 24 +studio 西船橋南口",
+          "region": "関東",
+          "lesson_count": 111,
+          "path": "by_store/blue_fitness/BLUE_FITNESS_24_+studio_西船橋南口.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "coco_kara",
+      "gym": "フィットネス＆スパ ココカラ",
+      "stores": [
+        {
+          "store_id": "honatsugi",
+          "store": "フィットネス＆スパ ココカラ本厚木",
+          "region": "関東",
+          "lesson_count": 230,
+          "path": "by_store/coco_kara/フィットネス＆スパ_ココカラ本厚木.json"
+        },
+        {
+          "store_id": "konandai",
+          "store": "フィットネス＆スパ ココカラ港南台",
+          "region": "関東",
+          "lesson_count": 164,
+          "path": "by_store/coco_kara/フィットネス＆スパ_ココカラ港南台.json"
+        },
+        {
+          "store_id": "tsujido",
+          "store": "フィットネス＆スパ ココカラ辻堂",
+          "region": "関東",
+          "lesson_count": 286,
+          "path": "by_store/coco_kara/フィットネス＆スパ_ココカラ辻堂.json"
+        }
+      ]
+    },
+    {
       "gym_id": "amiida",
       "gym": "溶岩ホットヨガ アミーダ",
       "stores": [
@@ -13292,6 +13374,26 @@
       ]
     },
     {
+      "gym_id": "vivo",
+      "gym": "スポーツクラブVivo",
+      "stores": [
+        {
+          "store_id": "dainichi",
+          "store": "Bears大日 スポーツクラブVivo",
+          "region": "近畿",
+          "lesson_count": 109,
+          "path": "by_store/vivo/Bears大日_スポーツクラブVivo.json"
+        },
+        {
+          "store_id": "seishin_minami",
+          "store": "西神南スポーツクラブVivo",
+          "region": "近畿",
+          "lesson_count": 252,
+          "path": "by_store/vivo/西神南スポーツクラブVivo.json"
+        }
+      ]
+    },
+    {
       "gym_id": "blueearth",
       "gym": "総合スポーツクラブ ブルーアース",
       "stores": [
@@ -13538,6 +13640,33 @@
       ]
     },
     {
+      "gym_id": "viva",
+      "gym": "ビバスポーツアカデミー",
+      "stores": [
+        {
+          "store_id": "hirakata",
+          "store": "ビバスポーツアカデミー枚方",
+          "region": "近畿",
+          "lesson_count": 64,
+          "path": "by_store/viva/ビバスポーツアカデミー枚方.json"
+        },
+        {
+          "store_id": "minamikusatsu",
+          "store": "ビバスポーツアカデミー南草津",
+          "region": "近畿",
+          "lesson_count": 96,
+          "path": "by_store/viva/ビバスポーツアカデミー南草津.json"
+        },
+        {
+          "store_id": "seta",
+          "store": "ビバスポーツアカデミー瀬田",
+          "region": "近畿",
+          "lesson_count": 71,
+          "path": "by_store/viva/ビバスポーツアカデミー瀬田.json"
+        }
+      ]
+    },
+    {
       "gym_id": "fole",
       "gym": "FOLEフィットネスクラブ東雲",
       "stores": [
@@ -13621,6 +13750,26 @@
           "region": "近畿",
           "lesson_count": 62,
           "path": "by_store/bfit_kansai/B-fit_スポーツクラブ_鶴見.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "nagaden_fxa",
+      "gym": "フィットネスクラブ エフバイエー",
+      "stores": [
+        {
+          "store_id": "nakano",
+          "store": "フィットネスクラブ エフバイエー中野",
+          "region": "中部・北陸",
+          "lesson_count": 79,
+          "path": "by_store/nagaden_fxa/フィットネスクラブ_エフバイエー中野.json"
+        },
+        {
+          "store_id": "suzaka",
+          "store": "フィットネスクラブ エフバイエー須坂",
+          "region": "中部・北陸",
+          "lesson_count": 88,
+          "path": "by_store/nagaden_fxa/フィットネスクラブ_エフバイエー須坂.json"
         }
       ]
     },
@@ -13985,6 +14134,26 @@
           "region": "九州・沖縄",
           "lesson_count": 130,
           "path": "by_store/sunspa_omura/サンスパおおむら_サンスパスポーツジム.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "serra",
+      "gym": "サーラスポーツ",
+      "stores": [
+        {
+          "store_id": "hamamatsu",
+          "store": "サーラスポーツ浜松",
+          "region": "中部・北陸",
+          "lesson_count": 42,
+          "path": "by_store/serra/サーラスポーツ浜松.json"
+        },
+        {
+          "store_id": "toyohashi",
+          "store": "サーラスポーツ豊橋",
+          "region": "中部・北陸",
+          "lesson_count": 85,
+          "path": "by_store/serra/サーラスポーツ豊橋.json"
         }
       ]
     },

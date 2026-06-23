@@ -833,14 +833,16 @@ function bind() {
     if (state.prefecture) { state.region = ""; $("#f-region").value = ""; }
     update();
   });
-  $("#f-gym").addEventListener("change", (e) => { state.gym = e.target.value; saveState(); refreshStoreOptions(); refreshInstructorOptions(); refreshViewRender(); });
+  // ジム/店舗/フリーワードは選択でスコープ(必要な都道府県)が変わるため、
+  // update() で対象データをロードしてから描画する(未ロード県の0件表示バグ対策)。
+  $("#f-gym").addEventListener("change", (e) => { state.gym = e.target.value; refreshStoreOptions(); refreshInstructorOptions(); update(); });
   $("#f-day").addEventListener("change", (e) => { state.day = e.target.value; saveState(); refreshInstructorOptions(); refreshViewRender(); });
   $("#f-category").addEventListener("change", (e) => { state.category = e.target.value; saveState(); refreshInstructorOptions(); refreshViewRender(); });
-  $("#f-store").addEventListener("change", (e) => { state.store_id = e.target.value; saveState(); refreshInstructorOptions(); refreshViewRender(); });
+  $("#f-store").addEventListener("change", (e) => { state.store_id = e.target.value; refreshInstructorOptions(); update(); });
   $("#f-instructor").addEventListener("change", (e) => { state.instructor = e.target.value; saveState(); refreshViewRender(); });
   $("#f-limit").addEventListener("change", (e) => { state.limit = e.target.value; saveState(); if (lastData && state.view !== "substitution") renderGroups(lastData); });
   let t = null;
-  $("#f-q").addEventListener("input", (e) => { state.q = e.target.value.trim(); clearTimeout(t); t = setTimeout(() => { saveState(); refreshInstructorOptions(); refreshViewRender(); }, 250); });
+  $("#f-q").addEventListener("input", (e) => { state.q = e.target.value.trim(); clearTimeout(t); t = setTimeout(() => { refreshInstructorOptions(); update(); }, 250); });
   $("#resetBtn").addEventListener("click", () => {
     // 地理スコープ(エリア/都道府県)は維持し、副次フィルタのみクリアする。
     Object.assign(state, { gym: "", day: "", category: "", store_id: "", instructor: "", q: "" });
