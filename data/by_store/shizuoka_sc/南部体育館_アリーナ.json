@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "shizuoka_sc",
+    "store_id": "南部体育館",
+    "store": "南部体育館 アリーナ",
+    "region": "中部・北陸",
+    "prefecture": "静岡県",
+    "day": "金",
+    "start": "19:00",
+    "end": "20:00",
+    "class_name": "ダンスエクササイズ教室",
+    "category": "JAZZ DANCE",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": "都度参加可"
+  }
+]

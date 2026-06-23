@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 152,
-  "store_count": 2008,
+  "gym_count": 158,
+  "store_count": 2045,
   "gyms": [
     {
       "gym_id": "lava",
@@ -10546,6 +10546,334 @@
       ]
     },
     {
+      "gym_id": "aeon",
+      "gym": "イオンスポーツクラブ",
+      "stores": [
+        {
+          "store_id": "イオンウエルネスラウンジ-3fit-柏増尾台店",
+          "store": "イオンウエルネスラウンジ 3FIT 柏増尾台店",
+          "region": "関東",
+          "lesson_count": 88,
+          "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_柏増尾台店.json"
+        },
+        {
+          "store_id": "イオンウエルネスラウンジ-3fit-柳津店",
+          "store": "イオンウエルネスラウンジ 3FIT 柳津店",
+          "region": "中部・北陸",
+          "lesson_count": 69,
+          "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_柳津店.json"
+        },
+        {
+          "store_id": "イオンウエルネスラウンジ-3fit-検見川浜店",
+          "store": "イオンウエルネスラウンジ 3FIT 検見川浜店",
+          "region": "関東",
+          "lesson_count": 77,
+          "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_検見川浜店.json"
+        },
+        {
+          "store_id": "イオンウエルネスラウンジ-3fit南砂店",
+          "store": "イオンウエルネスラウンジ 3FIT 南砂店",
+          "region": "関東",
+          "lesson_count": 85,
+          "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_南砂店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-仙台泉大沢店",
+          "store": "イオンスポーツクラブ 3FIT 仙台泉大沢店",
+          "region": "北海道・東北",
+          "lesson_count": 53,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_仙台泉大沢店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-八事店",
+          "store": "イオンスポーツクラブ 3FIT 八事店",
+          "region": "中部・北陸",
+          "lesson_count": 51,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_八事店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-天王町店",
+          "store": "イオンスポーツクラブ 3FIT 天王町店",
+          "region": "関東",
+          "lesson_count": 28,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_天王町店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-宇多津店",
+          "store": "イオンスポーツクラブ 3FIT 宇多津店",
+          "region": "中国・四国",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_宇多津店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-岡崎店",
+          "store": "イオンスポーツクラブ 3FIT 岡崎店",
+          "region": "中部・北陸",
+          "lesson_count": 128,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_岡崎店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-成田店",
+          "store": "イオンスポーツクラブ 3FIT 成田店",
+          "region": "関東",
+          "lesson_count": 123,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_成田店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-栃木店",
+          "store": "イオンスポーツクラブ 3FIT 栃木店",
+          "region": "関東",
+          "lesson_count": 93,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_栃木店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-橋本店",
+          "store": "イオンスポーツクラブ 3FIT 橋本店",
+          "region": "関東",
+          "lesson_count": 64,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_橋本店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-熱田千年店",
+          "store": "イオンスポーツクラブ 3FIT 熱田千年店",
+          "region": "中部・北陸",
+          "lesson_count": 67,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_熱田千年店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-福井開発店",
+          "store": "イオンスポーツクラブ 3FIT 福井開発店",
+          "region": "中部・北陸",
+          "lesson_count": 30,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_福井開発店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-笠間店",
+          "store": "イオンスポーツクラブ 3FIT 笠間店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_笠間店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-西台店",
+          "store": "イオンスポーツクラブ 3FIT 西台店",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_西台店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-釜石店",
+          "store": "イオンスポーツクラブ 3FIT 釜石店",
+          "region": "北海道・東北",
+          "lesson_count": 74,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_釜石店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-長浦店",
+          "store": "イオンスポーツクラブ 3FIT 長浦店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_長浦店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-高知店",
+          "store": "イオンスポーツクラブ 3FIT 高知店",
+          "region": "中国・四国",
+          "lesson_count": 122,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_高知店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-おゆみ野店",
+          "store": "イオンスポーツクラブ おゆみ野店",
+          "region": "関東",
+          "lesson_count": 81,
+          "path": "by_store/aeon/イオンスポーツクラブ_おゆみ野店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-レイクタウン店",
+          "store": "イオンスポーツクラブ レイクタウン店",
+          "region": "関東",
+          "lesson_count": 18,
+          "path": "by_store/aeon/イオンスポーツクラブ_レイクタウン店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-伊丹昆陽店",
+          "store": "イオンスポーツクラブ 伊丹昆陽店",
+          "region": "近畿",
+          "lesson_count": 82,
+          "path": "by_store/aeon/イオンスポーツクラブ_伊丹昆陽店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-倉敷店",
+          "store": "イオンスポーツクラブ 3FIT 倉敷店",
+          "region": "中国・四国",
+          "lesson_count": 117,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_倉敷店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-大高店",
+          "store": "イオンスポーツクラブ 大高店",
+          "region": "中部・北陸",
+          "lesson_count": 146,
+          "path": "by_store/aeon/イオンスポーツクラブ_大高店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-姫路店",
+          "store": "イオンスポーツクラブ 3FIT 姫路店",
+          "region": "近畿",
+          "lesson_count": 111,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_姫路店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-東浦店",
+          "store": "イオンスポーツクラブ 3FIT 東浦店",
+          "region": "中部・北陸",
+          "lesson_count": 117,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_東浦店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-浜松西店",
+          "store": "イオンスポーツクラブ 3FIT浜松西店",
+          "region": "中部・北陸",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT浜松西店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-浦和美園店",
+          "store": "イオンスポーツクラブ 浦和美園店",
+          "region": "関東",
+          "lesson_count": 88,
+          "path": "by_store/aeon/イオンスポーツクラブ_浦和美園店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-相模原店",
+          "store": "イオンスポーツクラブ 3FIT相模原店",
+          "region": "関東",
+          "lesson_count": 52,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT相模原店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-近江八幡店",
+          "store": "イオンスポーツクラブ 3FIT 近江八幡店",
+          "region": "近畿",
+          "lesson_count": 119,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_近江八幡店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-3fit-十日市場店",
+          "store": "イオンフィットネススタジオ 3FIT 十日市場店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンフィットネススタジオ_3FIT_十日市場店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-3fit-大和店",
+          "store": "イオンフィットネススタジオ 3FIT 大和店",
+          "region": "関東",
+          "lesson_count": 20,
+          "path": "by_store/aeon/イオンフィットネススタジオ_3FIT_大和店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-せんげん台店",
+          "store": "イオンフィットネススタジオ 3FIT せんげん台店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンフィットネススタジオ_3FIT_せんげん台店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-マリンピア店",
+          "store": "イオンフィットネススタジオ マリンピア店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンフィットネススタジオ_マリンピア店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-ユーカリが丘店",
+          "store": "イオンフィットネススタジオ ユーカリが丘店",
+          "region": "関東",
+          "lesson_count": 30,
+          "path": "by_store/aeon/イオンフィットネススタジオ_ユーカリが丘店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-下妻店",
+          "store": "イオンフィットネススタジオ 下妻店",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/aeon/イオンフィットネススタジオ_下妻店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-与野店",
+          "store": "イオンフィットネススタジオ 与野店",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/aeon/イオンフィットネススタジオ_与野店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-今市店",
+          "store": "イオンフィットネススタジオ 今市店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンフィットネススタジオ_今市店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-仙台中山店",
+          "store": "イオンフィットネススタジオ 仙台中山店",
+          "region": "北海道・東北",
+          "lesson_count": 7,
+          "path": "by_store/aeon/イオンフィットネススタジオ_仙台中山店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-千葉ニュータウン店",
+          "store": "イオンフィットネススタジオ 千葉ニュータウン店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンフィットネススタジオ_千葉ニュータウン店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-守谷店",
+          "store": "イオンフィットネススタジオ 守谷店",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/aeon/イオンフィットネススタジオ_守谷店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-小山店",
+          "store": "イオンフィットネススタジオ 小山店",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/aeon/イオンフィットネススタジオ_小山店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-昭島店",
+          "store": "イオンフィットネススタジオ 昭島店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンフィットネススタジオ_昭島店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-秦野店",
+          "store": "イオンフィットネススタジオ 秦野店",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/aeon/イオンフィットネススタジオ_秦野店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-茅ヶ崎中央店",
+          "store": "イオンフィットネススタジオ 茅ヶ崎中央店",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/aeon/イオンフィットネススタジオ_茅ヶ崎中央店.json"
+        },
+        {
+          "store_id": "イオンフィットネススタジオ-高根木戸店",
+          "store": "イオンフィットネススタジオ 高根木戸店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンフィットネススタジオ_高根木戸店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "zenplace",
       "gym": "zen place（ピラティス・ヨガ）",
       "stores": [
@@ -11507,208 +11835,6 @@
           "region": "関東",
           "lesson_count": 16,
           "path": "by_store/zenplace/zen_place_二子玉川.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "aeon",
-      "gym": "イオンスポーツクラブ",
-      "stores": [
-        {
-          "store_id": "イオンウエルネスラウンジ-3fit-柏増尾台店",
-          "store": "イオンウエルネスラウンジ 3FIT 柏増尾台店",
-          "region": "関東",
-          "lesson_count": 53,
-          "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_柏増尾台店.json"
-        },
-        {
-          "store_id": "イオンウエルネスラウンジ-3fit-柳津店",
-          "store": "イオンウエルネスラウンジ 3FIT 柳津店",
-          "region": "中部・北陸",
-          "lesson_count": 48,
-          "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_柳津店.json"
-        },
-        {
-          "store_id": "イオンウエルネスラウンジ-3fit-検見川浜店",
-          "store": "イオンウエルネスラウンジ 3FIT 検見川浜店",
-          "region": "関東",
-          "lesson_count": 56,
-          "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_検見川浜店.json"
-        },
-        {
-          "store_id": "イオンウエルネスラウンジ-3fit南砂店",
-          "store": "イオンウエルネスラウンジ 3FIT 南砂店",
-          "region": "関東",
-          "lesson_count": 57,
-          "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_南砂店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-仙台泉大沢店",
-          "store": "イオンスポーツクラブ 3FIT 仙台泉大沢店",
-          "region": "北海道・東北",
-          "lesson_count": 39,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_仙台泉大沢店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-八事店",
-          "store": "イオンスポーツクラブ 3FIT 八事店",
-          "region": "中部・北陸",
-          "lesson_count": 51,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_八事店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-岡崎店",
-          "store": "イオンスポーツクラブ 3FIT 岡崎店",
-          "region": "中部・北陸",
-          "lesson_count": 100,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_岡崎店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-成田店",
-          "store": "イオンスポーツクラブ 3FIT 成田店",
-          "region": "関東",
-          "lesson_count": 95,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_成田店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-栃木店",
-          "store": "イオンスポーツクラブ 3FIT 栃木店",
-          "region": "関東",
-          "lesson_count": 92,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_栃木店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-熱田千年店",
-          "store": "イオンスポーツクラブ 3FIT 熱田千年店",
-          "region": "中部・北陸",
-          "lesson_count": 49,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_熱田千年店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-福井開発店",
-          "store": "イオンスポーツクラブ 3FIT 福井開発店",
-          "region": "中部・北陸",
-          "lesson_count": 43,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_福井開発店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-西台店",
-          "store": "イオンスポーツクラブ 3FIT 西台店",
-          "region": "関東",
-          "lesson_count": 50,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_西台店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-釜石店",
-          "store": "イオンスポーツクラブ 3FIT 釜石店",
-          "region": "北海道・東北",
-          "lesson_count": 30,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_釜石店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-3fit-高知店",
-          "store": "イオンスポーツクラブ 3FIT 高知店",
-          "region": "中国・四国",
-          "lesson_count": 101,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_高知店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-おゆみ野店",
-          "store": "イオンスポーツクラブ おゆみ野店",
-          "region": "関東",
-          "lesson_count": 97,
-          "path": "by_store/aeon/イオンスポーツクラブ_おゆみ野店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-レイクタウン店",
-          "store": "イオンスポーツクラブ レイクタウン店",
-          "region": "関東",
-          "lesson_count": 70,
-          "path": "by_store/aeon/イオンスポーツクラブ_レイクタウン店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-伊丹昆陽店",
-          "store": "イオンスポーツクラブ 伊丹昆陽店",
-          "region": "近畿",
-          "lesson_count": 78,
-          "path": "by_store/aeon/イオンスポーツクラブ_伊丹昆陽店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-倉敷店",
-          "store": "イオンスポーツクラブ 3FIT 倉敷店",
-          "region": "中国・四国",
-          "lesson_count": 118,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_倉敷店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-大高店",
-          "store": "イオンスポーツクラブ 大高店",
-          "region": "中部・北陸",
-          "lesson_count": 132,
-          "path": "by_store/aeon/イオンスポーツクラブ_大高店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-姫路店",
-          "store": "イオンスポーツクラブ 3FIT 姫路店",
-          "region": "近畿",
-          "lesson_count": 111,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_姫路店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-東浦店",
-          "store": "イオンスポーツクラブ 3FIT 東浦店",
-          "region": "中部・北陸",
-          "lesson_count": 206,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_東浦店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-浜松西店",
-          "store": "イオンスポーツクラブ 3FIT浜松西店",
-          "region": "中部・北陸",
-          "lesson_count": 108,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT浜松西店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-浦和美園店",
-          "store": "イオンスポーツクラブ 浦和美園店",
-          "region": "関東",
-          "lesson_count": 74,
-          "path": "by_store/aeon/イオンスポーツクラブ_浦和美園店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-相模原店",
-          "store": "イオンスポーツクラブ 3FIT相模原店",
-          "region": "関東",
-          "lesson_count": 49,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT相模原店.json"
-        },
-        {
-          "store_id": "イオンスポーツクラブ-近江八幡店",
-          "store": "イオンスポーツクラブ 3FIT 近江八幡店",
-          "region": "近畿",
-          "lesson_count": 105,
-          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_近江八幡店.json"
-        },
-        {
-          "store_id": "イオンフィットネススタジオ-3fit-十日市場店",
-          "store": "イオンフィットネススタジオ 3FIT 十日市場店",
-          "region": "関東",
-          "lesson_count": 34,
-          "path": "by_store/aeon/イオンフィットネススタジオ_3FIT_十日市場店.json"
-        },
-        {
-          "store_id": "イオンフィットネススタジオ-3fit-大和店",
-          "store": "イオンフィットネススタジオ 3FIT 大和店",
-          "region": "関東",
-          "lesson_count": 13,
-          "path": "by_store/aeon/イオンフィットネススタジオ_3FIT_大和店.json"
-        },
-        {
-          "store_id": "イオンフィットネススタジオ-ユーカリが丘店",
-          "store": "イオンフィットネススタジオ ユーカリが丘店",
-          "region": "関東",
-          "lesson_count": 29,
-          "path": "by_store/aeon/イオンフィットネススタジオ_ユーカリが丘店.json"
         }
       ]
     },
@@ -13262,6 +13388,96 @@
       ]
     },
     {
+      "gym_id": "yokohama_sc",
+      "gym": "横浜市スポーツセンター",
+      "stores": [
+        {
+          "store_id": "asahi",
+          "store": "横浜市旭スポーツセンター",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/yokohama_sc/横浜市旭スポーツセンター.json"
+        },
+        {
+          "store_id": "isogo",
+          "store": "横浜市磯子スポーツセンター",
+          "region": "関東",
+          "lesson_count": 32,
+          "path": "by_store/yokohama_sc/横浜市磯子スポーツセンター.json"
+        },
+        {
+          "store_id": "izumi",
+          "store": "横浜市泉スポーツセンター",
+          "region": "関東",
+          "lesson_count": 10,
+          "path": "by_store/yokohama_sc/横浜市泉スポーツセンター.json"
+        },
+        {
+          "store_id": "kanazawa",
+          "store": "横浜市金沢スポーツセンター",
+          "region": "関東",
+          "lesson_count": 23,
+          "path": "by_store/yokohama_sc/横浜市金沢スポーツセンター.json"
+        },
+        {
+          "store_id": "konan",
+          "store": "横浜市港南スポーツセンター",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/yokohama_sc/横浜市港南スポーツセンター.json"
+        },
+        {
+          "store_id": "midori",
+          "store": "横浜市緑スポーツセンター",
+          "region": "関東",
+          "lesson_count": 15,
+          "path": "by_store/yokohama_sc/横浜市緑スポーツセンター.json"
+        },
+        {
+          "store_id": "naka",
+          "store": "横浜市中スポーツセンター",
+          "region": "関東",
+          "lesson_count": 16,
+          "path": "by_store/yokohama_sc/横浜市中スポーツセンター.json"
+        },
+        {
+          "store_id": "sakae",
+          "store": "横浜市栄スポーツセンター",
+          "region": "関東",
+          "lesson_count": 17,
+          "path": "by_store/yokohama_sc/横浜市栄スポーツセンター.json"
+        },
+        {
+          "store_id": "seya",
+          "store": "横浜市瀬谷スポーツセンター",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/yokohama_sc/横浜市瀬谷スポーツセンター.json"
+        },
+        {
+          "store_id": "totsuka",
+          "store": "横浜市戸塚スポーツセンター",
+          "region": "関東",
+          "lesson_count": 37,
+          "path": "by_store/yokohama_sc/横浜市戸塚スポーツセンター.json"
+        },
+        {
+          "store_id": "tsurumi",
+          "store": "横浜市鶴見スポーツセンター",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/yokohama_sc/横浜市鶴見スポーツセンター.json"
+        },
+        {
+          "store_id": "tsuzuki",
+          "store": "横浜市都筑スポーツセンター",
+          "region": "関東",
+          "lesson_count": 26,
+          "path": "by_store/yokohama_sc/横浜市都筑スポーツセンター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "toyama_ihc",
       "gym": "とやま健康パーク",
       "stores": [
@@ -14072,6 +14288,19 @@
       ]
     },
     {
+      "gym_id": "shinjuku_sc",
+      "gym": "新宿スポーツセンター",
+      "stores": [
+        {
+          "store_id": "shinjuku_sc",
+          "store": "新宿スポーツセンター",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/shinjuku_sc/新宿スポーツセンター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "scan_himi",
       "gym": "メディカルフィットネスクラブ スキャン(S-can)",
       "stores": [
@@ -14224,6 +14453,19 @@
           "region": "関東",
           "lesson_count": 50,
           "path": "by_store/gsz_east/日環アリーナ栃木(栃木県総合運動公園東エリア).json"
+        }
+      ]
+    },
+    {
+      "gym_id": "nagoya_sc",
+      "gym": "名古屋市スポーツセンター",
+      "stores": [
+        {
+          "store_id": "meito",
+          "store": "名東スポーツセンター",
+          "region": "中部・北陸",
+          "lesson_count": 50,
+          "path": "by_store/nagoya_sc/名東スポーツセンター.json"
         }
       ]
     },
@@ -14657,6 +14899,19 @@
       ]
     },
     {
+      "gym_id": "muko_kenko",
+      "gym": "向日市健康増進センター",
+      "stores": [
+        {
+          "store_id": "muko_kenko",
+          "store": "向日市健康増進センター",
+          "region": "近畿",
+          "lesson_count": 23,
+          "path": "by_store/muko_kenko/向日市健康増進センター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "sapporo_higashi_pool",
       "gym": "札幌市東温水プール",
       "stores": [
@@ -14943,6 +15198,19 @@
       ]
     },
     {
+      "gym_id": "kameda_gym",
+      "gym": "亀田総合体育館",
+      "stores": [
+        {
+          "store_id": "kameda",
+          "store": "亀田総合体育館",
+          "region": "中部・北陸",
+          "lesson_count": 5,
+          "path": "by_store/kameda_gym/亀田総合体育館.json"
+        }
+      ]
+    },
+    {
       "gym_id": "muchcolor",
       "gym": "マチカラフィットネス大分",
       "stores": [
@@ -14952,6 +15220,33 @@
           "region": "九州・沖縄",
           "lesson_count": 3,
           "path": "by_store/muchcolor/マチカラフィットネス大分.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "shizuoka_sc",
+      "gym": "静岡市スポーツ協会",
+      "stores": [
+        {
+          "store_id": "南部体育館",
+          "store": "南部体育館 アリーナ",
+          "region": "中部・北陸",
+          "lesson_count": 1,
+          "path": "by_store/shizuoka_sc/南部体育館_アリーナ.json"
+        },
+        {
+          "store_id": "南部体育館剣道場",
+          "store": "南部体育館 剣道場",
+          "region": "中部・北陸",
+          "lesson_count": 1,
+          "path": "by_store/shizuoka_sc/南部体育館_剣道場.json"
+        },
+        {
+          "store_id": "東部体育館",
+          "store": "東部体育館 アリーナ",
+          "region": "中部・北陸",
+          "lesson_count": 1,
+          "path": "by_store/shizuoka_sc/東部体育館_アリーナ.json"
         }
       ]
     },

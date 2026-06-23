@@ -59,12 +59,12 @@
     "day": "月",
     "start": "13:30",
     "end": "14:15",
-    "class_name": "骨盤コンディショニング",
+    "class_name": "背骨コンディショニング",
     "category": "YOGA & PILATES",
     "instructor": "新井",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "骨盤コンディショニング",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -81,7 +81,7 @@
     "instructor": "スタッフ",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "ストレッチボール",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -115,7 +115,7 @@
     "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -132,7 +132,7 @@
     "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -149,7 +149,7 @@
     "instructor": "関田",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -166,7 +166,7 @@
     "instructor": "しん",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -200,7 +200,7 @@
     "instructor": "スタッフ",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "骨盤コンディショニング",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -212,12 +212,29 @@
     "day": "火",
     "start": "13:20",
     "end": "14:05",
-    "class_name": "THRIVE",
+    "class_name": "THRIIVE",
     "category": "OTHER",
     "instructor": "梅津",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "健康体操",
+    "note": null
+  },
+  {
+    "gym_id": "aeon",
+    "store_id": "イオンスポーツクラブ-相模原店",
+    "store": "イオンスポーツクラブ 3FIT相模原店",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "day": "火",
+    "start": "14:25",
+    "end": "15:10",
+    "class_name": "パレトン",
+    "category": "OTHER",
+    "instructor": "林",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -234,7 +251,24 @@
     "instructor": "林",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
+    "note": null
+  },
+  {
+    "gym_id": "aeon",
+    "store_id": "イオンスポーツクラブ-相模原店",
+    "store": "イオンスポーツクラブ 3FIT相模原店",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "day": "火",
+    "start": "15:30",
+    "end": "16:00",
+    "class_name": "SHOKO",
+    "category": "OTHER",
+    "instructor": "林",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -248,10 +282,10 @@
     "end": "16:00",
     "class_name": "ピラティス",
     "category": "YOGA & PILATES",
-    "instructor": null,
+    "instructor": "青木",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "ピラティス",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -268,7 +302,7 @@
     "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "キッズダンス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -285,7 +319,7 @@
     "instructor": "青木",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "ピラティス",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -302,7 +336,7 @@
     "instructor": "佐々木",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -319,7 +353,7 @@
     "instructor": "梅津",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "骨盤コンディショニング",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -336,7 +370,7 @@
     "instructor": "しん",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -353,7 +387,7 @@
     "instructor": "林",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "ジャズダンス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -370,7 +404,7 @@
     "instructor": "林",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "HIPHOP",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -387,7 +421,7 @@
     "instructor": "林",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -404,7 +438,7 @@
     "instructor": "村田",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "太極拳",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -421,7 +455,7 @@
     "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "キッズダンス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -438,7 +472,7 @@
     "instructor": "宮嶋",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -469,10 +503,10 @@
     "end": "11:35",
     "class_name": "ディスコワールド",
     "category": "OTHER",
-    "instructor": "宮崎",
+    "instructor": "宮嶋",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -489,7 +523,7 @@
     "instructor": "梅津",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "骨盤コンディショニング",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -506,7 +540,7 @@
     "instructor": "スタッフ",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "ストレッチボール",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -523,7 +557,7 @@
     "instructor": "高橋",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ステップ",
     "note": null
   },
   {
@@ -540,7 +574,7 @@
     "instructor": "南",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "ZUMBA",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -557,7 +591,24 @@
     "instructor": "芹澤",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
+    "note": null
+  },
+  {
+    "gym_id": "aeon",
+    "store_id": "イオンスポーツクラブ-相模原店",
+    "store": "イオンスポーツクラブ 3FIT相模原店",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "day": "木",
+    "start": "20:45",
+    "end": "21:30",
+    "class_name": "RITMOS",
+    "category": "RITMOS",
+    "instructor": "しん",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -591,7 +642,7 @@
     "instructor": "スタッフ",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "ストレッチボール",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -608,7 +659,7 @@
     "instructor": "スタッフ",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "骨盤コンディショニング",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -625,7 +676,7 @@
     "instructor": "越後",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ステップ",
     "note": null
   },
   {
@@ -642,7 +693,7 @@
     "instructor": "青木",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "骨盤コンディショニング",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -676,7 +727,7 @@
     "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "キッズダンス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -688,12 +739,12 @@
     "day": "金",
     "start": "20:45",
     "end": "21:30",
-    "class_name": "RITMOS",
-    "category": "RITMOS",
-    "instructor": "しん",
+    "class_name": "UBOUND",
+    "category": "CYCLING",
+    "instructor": "能美",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -710,7 +761,7 @@
     "instructor": "中野",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ステップ",
     "note": null
   },
   {
@@ -727,7 +778,7 @@
     "instructor": "中野",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "骨盤コンディショニング",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -741,10 +792,10 @@
     "end": "12:45",
     "class_name": "Q-ren",
     "category": "OTHER",
-    "instructor": "宮崎",
+    "instructor": "宮嶋",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -761,7 +812,7 @@
     "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "キッズダンス",
+    "genre": "ダンス",
     "note": null
   },
   {
@@ -778,7 +829,7 @@
     "instructor": "佐々木",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "骨盤コンディショニング",
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -795,7 +846,24 @@
     "instructor": "佐々木",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
+    "note": null
+  },
+  {
+    "gym_id": "aeon",
+    "store_id": "イオンスポーツクラブ-相模原店",
+    "store": "イオンスポーツクラブ 3FIT相模原店",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "day": "日",
+    "start": "12:00",
+    "end": "12:45",
+    "class_name": "Q-ren",
+    "category": "OTHER",
+    "instructor": "宮嶋",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "健康体操",
     "note": null
   },
   {
@@ -809,27 +877,10 @@
     "end": "13:50",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "宮崎",
+    "instructor": "宮嶋",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "ZUMBA",
-    "note": null
-  },
-  {
-    "gym_id": "aeon",
-    "store_id": "イオンスポーツクラブ-相模原店",
-    "store": "イオンスポーツクラブ 3FIT相模原店",
-    "region": "関東",
-    "prefecture": "神奈川県",
-    "day": "日",
-    "start": "20:45",
-    "end": "21:30",
-    "class_name": "UBOUND",
-    "category": "CYCLING",
-    "instructor": "能美",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
+    "genre": "ダンス",
     "note": null
   }
 ]

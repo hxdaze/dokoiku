@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "shizuoka_sc",
+    "store_id": "南部体育館剣道場",
+    "store": "南部体育館 剣道場",
+    "region": "中部・北陸",
+    "prefecture": "静岡県",
+    "day": "土",
+    "start": "10:45",
+    "end": "11:45",
+    "class_name": "ZUMBA",
+    "category": "ZUMBA",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": "年間"
+  }
+]
