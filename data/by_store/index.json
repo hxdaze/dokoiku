@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 166,
-  "store_count": 2066,
+  "gym_count": 168,
+  "store_count": 2131,
   "gyms": [
     {
       "gym_id": "lava",
@@ -8676,6 +8676,362 @@
       ]
     },
     {
+      "gym_id": "fiteasy",
+      "gym": "フィットイージー（FIT-EASY）",
+      "stores": [
+        {
+          "store_id": "aichi-fuso",
+          "store": "フィットイージー扶桑店",
+          "region": "中部・北陸",
+          "lesson_count": 6,
+          "path": "by_store/fiteasy/フィットイージー扶桑店.json"
+        },
+        {
+          "store_id": "aichi-inazawa",
+          "store": "フィットイージー稲沢店",
+          "region": "中部・北陸",
+          "lesson_count": 99,
+          "path": "by_store/fiteasy/フィットイージー稲沢店.json"
+        },
+        {
+          "store_id": "aichi-inazawakouenmae",
+          "store": "フィットイージー稲沢公園前店",
+          "region": "中部・北陸",
+          "lesson_count": 124,
+          "path": "by_store/fiteasy/フィットイージー稲沢公園前店.json"
+        },
+        {
+          "store_id": "aichi-itaka",
+          "store": "フィットイージー猪高店",
+          "region": "中部・北陸",
+          "lesson_count": 92,
+          "path": "by_store/fiteasy/フィットイージー猪高店.json"
+        },
+        {
+          "store_id": "aichi-kanie",
+          "store": "フィットイージー蟹江店",
+          "region": "中部・北陸",
+          "lesson_count": 41,
+          "path": "by_store/fiteasy/フィットイージー蟹江店.json"
+        },
+        {
+          "store_id": "aichi-komenoki",
+          "store": "フィットイージー日進米野木店",
+          "region": "中部・北陸",
+          "lesson_count": 29,
+          "path": "by_store/fiteasy/フィットイージー日進米野木店.json"
+        },
+        {
+          "store_id": "aichi-meiekiminami",
+          "store": "フィットイージー名駅南店",
+          "region": "中部・北陸",
+          "lesson_count": 98,
+          "path": "by_store/fiteasy/フィットイージー名駅南店.json"
+        },
+        {
+          "store_id": "aichi-meikou",
+          "store": "フィットイージー名港店",
+          "region": "中部・北陸",
+          "lesson_count": 158,
+          "path": "by_store/fiteasy/フィットイージー名港店.json"
+        },
+        {
+          "store_id": "aichi-nakagawa",
+          "store": "フィットイージー中川店",
+          "region": "中部・北陸",
+          "lesson_count": 97,
+          "path": "by_store/fiteasy/フィットイージー中川店.json"
+        },
+        {
+          "store_id": "aichi-naruko",
+          "store": "フィットイージー鳴子店",
+          "region": "中部・北陸",
+          "lesson_count": 197,
+          "path": "by_store/fiteasy/フィットイージー鳴子店.json"
+        },
+        {
+          "store_id": "aichi-nisshinakaike",
+          "store": "フィットイージー日進赤池店",
+          "region": "中部・北陸",
+          "lesson_count": 71,
+          "path": "by_store/fiteasy/フィットイージー日進赤池店.json"
+        },
+        {
+          "store_id": "aichi-okazaki",
+          "store": "フィットイージー岡崎店",
+          "region": "中部・北陸",
+          "lesson_count": 101,
+          "path": "by_store/fiteasy/フィットイージー岡崎店.json"
+        },
+        {
+          "store_id": "aichi-toyota",
+          "store": "フィットイージー豊田店",
+          "region": "中部・北陸",
+          "lesson_count": 11,
+          "path": "by_store/fiteasy/フィットイージー豊田店.json"
+        },
+        {
+          "store_id": "aichi-yatomi",
+          "store": "フィットイージーイオンタウン弥富店",
+          "region": "中部・北陸",
+          "lesson_count": 120,
+          "path": "by_store/fiteasy/フィットイージーイオンタウン弥富店.json"
+        },
+        {
+          "store_id": "fukui-sabae",
+          "store": "フィットイージー鯖江店",
+          "region": "中部・北陸",
+          "lesson_count": 100,
+          "path": "by_store/fiteasy/フィットイージー鯖江店.json"
+        },
+        {
+          "store_id": "fukui",
+          "store": "フィットイージー福井大和田店",
+          "region": "中部・北陸",
+          "lesson_count": 96,
+          "path": "by_store/fiteasy/フィットイージー福井大和田店.json"
+        },
+        {
+          "store_id": "gifu-seki",
+          "store": "フィットイージー関店",
+          "region": "中部・北陸",
+          "lesson_count": 102,
+          "path": "by_store/fiteasy/フィットイージー関店.json"
+        },
+        {
+          "store_id": "gunma-annaka",
+          "store": "フィットイージー安中店",
+          "region": "関東",
+          "lesson_count": 99,
+          "path": "by_store/fiteasy/フィットイージー安中店.json"
+        },
+        {
+          "store_id": "gunma-hakoda",
+          "store": "フィットイージー前橋箱田店",
+          "region": "関東",
+          "lesson_count": 99,
+          "path": "by_store/fiteasy/フィットイージー前橋箱田店.json"
+        },
+        {
+          "store_id": "gunma-oota",
+          "store": "フィットイージー太田店",
+          "region": "関東",
+          "lesson_count": 103,
+          "path": "by_store/fiteasy/フィットイージー太田店.json"
+        },
+        {
+          "store_id": "gunma-tatebayashi",
+          "store": "フィットイージー館林店",
+          "region": "関東",
+          "lesson_count": 102,
+          "path": "by_store/fiteasy/フィットイージー館林店.json"
+        },
+        {
+          "store_id": "hamamatsu-minami",
+          "store": "フィットイージー浜松南店",
+          "region": "中部・北陸",
+          "lesson_count": 180,
+          "path": "by_store/fiteasy/フィットイージー浜松南店.json"
+        },
+        {
+          "store_id": "hiroshima-fukuyamamidorimachi",
+          "store": "フィットイージー福山緑町店",
+          "region": "中国・四国",
+          "lesson_count": 47,
+          "path": "by_store/fiteasy/フィットイージー福山緑町店.json"
+        },
+        {
+          "store_id": "hyogo-himeji",
+          "store": "フィットイージー姫路店",
+          "region": "近畿",
+          "lesson_count": 99,
+          "path": "by_store/fiteasy/フィットイージー姫路店.json"
+        },
+        {
+          "store_id": "iida",
+          "store": "フィットイージー飯田店",
+          "region": "中部・北陸",
+          "lesson_count": 101,
+          "path": "by_store/fiteasy/フィットイージー飯田店.json"
+        },
+        {
+          "store_id": "ise",
+          "store": "フィットイージー伊勢店",
+          "region": "近畿",
+          "lesson_count": 102,
+          "path": "by_store/fiteasy/フィットイージー伊勢店.json"
+        },
+        {
+          "store_id": "ishikawa-komatsu",
+          "store": "フィットイージー小松店",
+          "region": "中部・北陸",
+          "lesson_count": 103,
+          "path": "by_store/fiteasy/フィットイージー小松店.json"
+        },
+        {
+          "store_id": "kagawa-marugame",
+          "store": "フィットイージー丸亀店",
+          "region": "中国・四国",
+          "lesson_count": 54,
+          "path": "by_store/fiteasy/フィットイージー丸亀店.json"
+        },
+        {
+          "store_id": "kagoshima-kokubu",
+          "store": "フィットイージー鹿児島国分店",
+          "region": "九州・沖縄",
+          "lesson_count": 108,
+          "path": "by_store/fiteasy/フィットイージー鹿児島国分店.json"
+        },
+        {
+          "store_id": "kuwana-shinnishikata",
+          "store": "フィットイージー桑名新西方店",
+          "region": "近畿",
+          "lesson_count": 33,
+          "path": "by_store/fiteasy/フィットイージー桑名新西方店.json"
+        },
+        {
+          "store_id": "mie-iga",
+          "store": "フィットイージー伊賀店",
+          "region": "近畿",
+          "lesson_count": 244,
+          "path": "by_store/fiteasy/フィットイージー伊賀店.json"
+        },
+        {
+          "store_id": "mie-matuzaka-gozu",
+          "store": "フィットイージー松阪郷津店",
+          "region": "近畿",
+          "lesson_count": 97,
+          "path": "by_store/fiteasy/フィットイージー松阪郷津店.json"
+        },
+        {
+          "store_id": "miyazaki-miyazakikobayashi",
+          "store": "フィットイージー宮崎小林店",
+          "region": "九州・沖縄",
+          "lesson_count": 116,
+          "path": "by_store/fiteasy/フィットイージー宮崎小林店.json"
+        },
+        {
+          "store_id": "nagano-ina",
+          "store": "フィットイージー伊那店",
+          "region": "中部・北陸",
+          "lesson_count": 99,
+          "path": "by_store/fiteasy/フィットイージー伊那店.json"
+        },
+        {
+          "store_id": "nagano-okaya",
+          "store": "フィットイージー岡谷店",
+          "region": "中部・北陸",
+          "lesson_count": 104,
+          "path": "by_store/fiteasy/フィットイージー岡谷店.json"
+        },
+        {
+          "store_id": "nagano-sakudaira",
+          "store": "フィットイージー佐久平店",
+          "region": "中部・北陸",
+          "lesson_count": 74,
+          "path": "by_store/fiteasy/フィットイージー佐久平店.json"
+        },
+        {
+          "store_id": "nagano-suwa",
+          "store": "フィットイージー諏訪店",
+          "region": "中部・北陸",
+          "lesson_count": 104,
+          "path": "by_store/fiteasy/フィットイージー諏訪店.json"
+        },
+        {
+          "store_id": "nagano-ueda",
+          "store": "フィットイージー上田店",
+          "region": "中部・北陸",
+          "lesson_count": 98,
+          "path": "by_store/fiteasy/フィットイージー上田店.json"
+        },
+        {
+          "store_id": "nagoya-hara",
+          "store": "フィットイージー原店",
+          "region": "中部・北陸",
+          "lesson_count": 134,
+          "path": "by_store/fiteasy/フィットイージー原店.json"
+        },
+        {
+          "store_id": "nagoya-minami",
+          "store": "フィットイージー名古屋南店",
+          "region": "中部・北陸",
+          "lesson_count": 102,
+          "path": "by_store/fiteasy/フィットイージー名古屋南店.json"
+        },
+        {
+          "store_id": "nara-kouryou",
+          "store": "フィットイージー広陵店",
+          "region": "近畿",
+          "lesson_count": 166,
+          "path": "by_store/fiteasy/フィットイージー広陵店.json"
+        },
+        {
+          "store_id": "okayama-ima",
+          "store": "フィットイージー岡山今店",
+          "region": "中国・四国",
+          "lesson_count": 42,
+          "path": "by_store/fiteasy/フィットイージー岡山今店.json"
+        },
+        {
+          "store_id": "saitama-hasuda",
+          "store": "フィットイージー蓮田店",
+          "region": "関東",
+          "lesson_count": 102,
+          "path": "by_store/fiteasy/フィットイージー蓮田店.json"
+        },
+        {
+          "store_id": "saitama-higashimatsuyama",
+          "store": "フィットイージー東松山店",
+          "region": "関東",
+          "lesson_count": 101,
+          "path": "by_store/fiteasy/フィットイージー東松山店.json"
+        },
+        {
+          "store_id": "shizuoka-inter",
+          "store": "フィットイージー静岡インター店",
+          "region": "中部・北陸",
+          "lesson_count": 199,
+          "path": "by_store/fiteasy/フィットイージー静岡インター店.json"
+        },
+        {
+          "store_id": "shizuoka-shimizu",
+          "store": "フィットイージー清水店",
+          "region": "中部・北陸",
+          "lesson_count": 95,
+          "path": "by_store/fiteasy/フィットイージー清水店.json"
+        },
+        {
+          "store_id": "shizuoka-yaizu",
+          "store": "フィットイージー焼津店",
+          "region": "中部・北陸",
+          "lesson_count": 103,
+          "path": "by_store/fiteasy/フィットイージー焼津店.json"
+        },
+        {
+          "store_id": "toyama-nakazone",
+          "store": "フィットイージーグリーンモール中曽根店",
+          "region": "中部・北陸",
+          "lesson_count": 11,
+          "path": "by_store/fiteasy/フィットイージーグリーンモール中曽根店.json"
+        },
+        {
+          "store_id": "toyama-yotsuba",
+          "store": "フィットイージー 富山中央店",
+          "region": "中部・北陸",
+          "lesson_count": 108,
+          "path": "by_store/fiteasy/フィットイージー_富山中央店.json"
+        },
+        {
+          "store_id": "yamanashi-kofu",
+          "store": "フィットイージー甲府店",
+          "region": "中部・北陸",
+          "lesson_count": 103,
+          "path": "by_store/fiteasy/フィットイージー甲府店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "axtos",
       "gym": "スポーツクラブアクトス",
       "stores": [
@@ -12413,6 +12769,117 @@
           "region": "近畿",
           "lesson_count": 121,
           "path": "by_store/gunze/グンゼスポーツ京都八幡.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "fit365",
+      "gym": "FIT365",
+      "stores": [
+        {
+          "store_id": "fukuiminami",
+          "store": "FIT365ワイプラザ福井南",
+          "region": "中部・北陸",
+          "lesson_count": 92,
+          "path": "by_store/fit365/FIT365ワイプラザ福井南.json"
+        },
+        {
+          "store_id": "fukushimaizumi",
+          "store": "FIT365福島泉",
+          "region": "北海道・東北",
+          "lesson_count": 67,
+          "path": "by_store/fit365/FIT365福島泉.json"
+        },
+        {
+          "store_id": "fukushimaomori",
+          "store": "FIT365 福島大森",
+          "region": "北海道・東北",
+          "lesson_count": 66,
+          "path": "by_store/fit365/FIT365_福島大森.json"
+        },
+        {
+          "store_id": "funabori",
+          "store": "FIT365船堀",
+          "region": "関東",
+          "lesson_count": 60,
+          "path": "by_store/fit365/FIT365船堀.json"
+        },
+        {
+          "store_id": "hakodate",
+          "store": "FIT365函館八幡通り",
+          "region": "北海道・東北",
+          "lesson_count": 21,
+          "path": "by_store/fit365/FIT365函館八幡通り.json"
+        },
+        {
+          "store_id": "higashine",
+          "store": "FIT365東根",
+          "region": "北海道・東北",
+          "lesson_count": 66,
+          "path": "by_store/fit365/FIT365東根.json"
+        },
+        {
+          "store_id": "hikone",
+          "store": "FIT365ベルロード彦根",
+          "region": "近畿",
+          "lesson_count": 68,
+          "path": "by_store/fit365/FIT365ベルロード彦根.json"
+        },
+        {
+          "store_id": "hirosaki",
+          "store": "FIT365弘前城東",
+          "region": "北海道・東北",
+          "lesson_count": 100,
+          "path": "by_store/fit365/FIT365弘前城東.json"
+        },
+        {
+          "store_id": "ichinoseki",
+          "store": "FIT365 イオン一関インター",
+          "region": "北海道・東北",
+          "lesson_count": 44,
+          "path": "by_store/fit365/FIT365_イオン一関インター.json"
+        },
+        {
+          "store_id": "iwakionahama",
+          "store": "FIT365いわき小名浜",
+          "region": "北海道・東北",
+          "lesson_count": 19,
+          "path": "by_store/fit365/FIT365いわき小名浜.json"
+        },
+        {
+          "store_id": "kamiiino",
+          "store": "FIT365イオンタウン富山上飯野",
+          "region": "中部・北陸",
+          "lesson_count": 98,
+          "path": "by_store/fit365/FIT365イオンタウン富山上飯野.json"
+        },
+        {
+          "store_id": "miyakonojo",
+          "store": "FIT365都城",
+          "region": "九州・沖縄",
+          "lesson_count": 29,
+          "path": "by_store/fit365/FIT365都城.json"
+        },
+        {
+          "store_id": "natori",
+          "store": "FIT365名取",
+          "region": "北海道・東北",
+          "lesson_count": 78,
+          "path": "by_store/fit365/FIT365名取.json"
+        },
+        {
+          "store_id": "okegawa",
+          "store": "FIT365桶川マメトラショッピングパーク",
+          "region": "関東",
+          "lesson_count": 136,
+          "path": "by_store/fit365/FIT365桶川マメトラショッピングパーク.json"
+        },
+        {
+          "store_id": "shiki",
+          "store": "FIT365志木",
+          "region": "関東",
+          "lesson_count": 67,
+          "path": "by_store/fit365/FIT365志木.json"
         }
       ]
     },
