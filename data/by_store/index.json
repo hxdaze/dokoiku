@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 151,
-  "store_count": 1993,
+  "gym_count": 152,
+  "store_count": 2008,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12582,6 +12582,96 @@
       ]
     },
     {
+      "gym_id": "itoman_w",
+      "gym": "イトマンスポーツスクエア",
+      "stores": [
+        {
+          "store_id": "fujisawa",
+          "store": "イトマンスポーツスクエア 平塚店",
+          "region": "その他",
+          "lesson_count": 43,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_平塚店.json"
+        },
+        {
+          "store_id": "hiratsuka",
+          "store": "イトマンスポーツスクエア 茅ヶ崎店",
+          "region": "その他",
+          "lesson_count": 94,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_茅ヶ崎店.json"
+        },
+        {
+          "store_id": "kasukabe",
+          "store": "イトマンスポーツスクエア 川口元郷店",
+          "region": "その他",
+          "lesson_count": 151,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_川口元郷店.json"
+        },
+        {
+          "store_id": "kawaguchi",
+          "store": "イトマンスポーツスクエア 日進店",
+          "region": "その他",
+          "lesson_count": 22,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_日進店.json"
+        },
+        {
+          "store_id": "kawaguchimotogou",
+          "store": "イトマンスポーツスクエア 川口店",
+          "region": "その他",
+          "lesson_count": 95,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_川口店.json"
+        },
+        {
+          "store_id": "kozunomori",
+          "store": "イトマンスポーツスクエア 南柏店",
+          "region": "その他",
+          "lesson_count": 39,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_南柏店.json"
+        },
+        {
+          "store_id": "minamifuruya",
+          "store": "イトマンスポーツスクエア 金沢文庫店",
+          "region": "その他",
+          "lesson_count": 49,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_金沢文庫店.json"
+        },
+        {
+          "store_id": "minamikashiwa",
+          "store": "イトマンスポーツスクエア 北松戸店",
+          "region": "その他",
+          "lesson_count": 14,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_北松戸店.json"
+        },
+        {
+          "store_id": "mito",
+          "store": "イトマンスポーツスクエア つくば店",
+          "region": "その他",
+          "lesson_count": 74,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_つくば店.json"
+        },
+        {
+          "store_id": "nagareyama",
+          "store": "イトマンスポーツスクエア 公津の杜店",
+          "region": "その他",
+          "lesson_count": 104,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_公津の杜店.json"
+        },
+        {
+          "store_id": "toyoshiki",
+          "store": "イトマンスポーツスクエア 浦安店",
+          "region": "その他",
+          "lesson_count": 82,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_浦安店.json"
+        },
+        {
+          "store_id": "urayasu",
+          "store": "イトマンスポーツスクエア 流山おおたかの森店",
+          "region": "その他",
+          "lesson_count": 70,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_流山おおたかの森店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "fitta",
       "gym": "スポーツクラブ フィッタ",
       "stores": [
@@ -12947,7 +13037,7 @@
           "store_id": "takadanobaba",
           "store": "高田馬場",
           "region": "関東",
-          "lesson_count": 184,
+          "lesson_count": 183,
           "path": "by_store/seibu/高田馬場.json"
         },
         {
@@ -12956,6 +13046,61 @@
           "region": "関東",
           "lesson_count": 246,
           "path": "by_store/seibu/所沢.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "bion",
+      "gym": "ホットヨガスタジオ美温",
+      "stores": [
+        {
+          "store_id": "meinohama",
+          "store": "ヨガなら、ホットヨガスタジオ美温 姪浜。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。",
+          "region": "その他",
+          "lesson_count": 52,
+          "path": "by_store/bion/ヨガなら、ホットヨガスタジオ美温_姪浜。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。.json"
+        },
+        {
+          "store_id": "musashiurawa",
+          "store": "ヨガなら、ホットヨガスタジオ美温 武蔵浦和。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。",
+          "region": "その他",
+          "lesson_count": 48,
+          "path": "by_store/bion/ヨガなら、ホットヨガスタジオ美温_武蔵浦和。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。.json"
+        },
+        {
+          "store_id": "nakamozu",
+          "store": "ヨガなら、ホットヨガスタジオ美温 なかもず。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。",
+          "region": "その他",
+          "lesson_count": 38,
+          "path": "by_store/bion/ヨガなら、ホットヨガスタジオ美温_なかもず。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。.json"
+        },
+        {
+          "store_id": "odaka",
+          "store": "ヨガなら、ホットヨガスタジオ美温 大高。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。",
+          "region": "その他",
+          "lesson_count": 38,
+          "path": "by_store/bion/ヨガなら、ホットヨガスタジオ美温_大高。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。.json"
+        },
+        {
+          "store_id": "operacity",
+          "store": "ホットヨガスタジオ美温 東京オペラシティ。話題のホットヨガスタジオが新宿エリアにオープン",
+          "region": "その他",
+          "lesson_count": 70,
+          "path": "by_store/bion/ホットヨガスタジオ美温_東京オペラシティ。話題のホットヨガスタジオが新宿エリアにオープン.json"
+        },
+        {
+          "store_id": "osaki",
+          "store": "ヨガなら、ホットヨガスタジオ美温 大崎。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。",
+          "region": "その他",
+          "lesson_count": 64,
+          "path": "by_store/bion/ヨガなら、ホットヨガスタジオ美温_大崎。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。.json"
+        },
+        {
+          "store_id": "rokakouen",
+          "store": "ヨガなら、ホットヨガスタジオ美温 芦花公園。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。",
+          "region": "その他",
+          "lesson_count": 75,
+          "path": "by_store/bion/ヨガなら、ホットヨガスタジオ美温_芦花公園。話題のホットヨガ、溶岩石ホットヨガスタジオ美温。.json"
         }
       ]
     },
@@ -13113,40 +13258,6 @@
           "region": "中部・北陸",
           "lesson_count": 83,
           "path": "by_store/renaiss/スポーツクラブ_ルネッス敦賀.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "itoman_w",
-      "gym": "イトマンスポーツスクエア",
-      "stores": [
-        {
-          "store_id": "fujisawa",
-          "store": "イトマンスポーツスクエア 平塚店",
-          "region": "その他",
-          "lesson_count": 43,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_平塚店.json"
-        },
-        {
-          "store_id": "hiratsuka",
-          "store": "イトマンスポーツスクエア 茅ヶ崎店",
-          "region": "その他",
-          "lesson_count": 94,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_茅ヶ崎店.json"
-        },
-        {
-          "store_id": "kasukabe",
-          "store": "イトマンスポーツスクエア 川口元郷店",
-          "region": "その他",
-          "lesson_count": 151,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_川口元郷店.json"
-        },
-        {
-          "store_id": "kawaguchi",
-          "store": "イトマンスポーツスクエア 日進店",
-          "region": "その他",
-          "lesson_count": 22,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_日進店.json"
         }
       ]
     },
