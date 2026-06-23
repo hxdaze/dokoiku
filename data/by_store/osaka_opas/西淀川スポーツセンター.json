@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "osaka_opas",
+    "store_id": "西淀川",
+    "store": "西淀川スポーツセンター",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "金",
+    "start": "10:30",
+    "end": "11:45",
+    "class_name": "ヘルシーフィットダンス",
+    "category": "JAZZ DANCE",
+    "instructor": null,
+    "studio": "第1体育場",
+    "reservation_required": true,
+    "genre": null,
+    "note": "対象:16歳以上"
+  }
+]

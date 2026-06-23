@@ -1,0 +1,36 @@
+[
+  {
+    "gym_id": "osaka_opas",
+    "store_id": "大正",
+    "store": "大正スポーツセンター",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "水",
+    "start": "10:00",
+    "end": "11:30",
+    "class_name": "太極拳",
+    "category": "KUNG FU",
+    "instructor": null,
+    "studio": "第2体育場",
+    "reservation_required": true,
+    "genre": null,
+    "note": "対象:16歳以上"
+  },
+  {
+    "gym_id": "osaka_opas",
+    "store_id": "大正",
+    "store": "大正スポーツセンター",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "土",
+    "start": "10:00",
+    "end": "11:30",
+    "class_name": "たのしくエアロ",
+    "category": "AEROBICS",
+    "instructor": null,
+    "studio": "第2体育場",
+    "reservation_required": true,
+    "genre": null,
+    "note": "対象:16歳以上"
+  }
+]

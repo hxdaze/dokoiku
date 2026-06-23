@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "osaka_opas",
+    "store_id": "浪速",
+    "store": "浪速スポーツセンター",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "水",
+    "start": "11:00",
+    "end": "11:55",
+    "class_name": "初めてでも大丈夫♪ お気軽エンジョイ社交ダンス",
+    "category": "JAZZ DANCE",
+    "instructor": null,
+    "studio": "第2体育場",
+    "reservation_required": true,
+    "genre": null,
+    "note": "対象:15歳以上"
+  }
+]

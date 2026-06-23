@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 148,
-  "store_count": 1944,
+  "gym_count": 151,
+  "store_count": 1993,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12637,6 +12637,166 @@
       ]
     },
     {
+      "gym_id": "amiida",
+      "gym": "溶岩ホットヨガ アミーダ",
+      "stores": [
+        {
+          "store_id": "abiko",
+          "store": "アミーダ あびこショッピングプラザ店",
+          "region": "その他",
+          "lesson_count": 29,
+          "path": "by_store/amiida/アミーダ_あびこショッピングプラザ店.json"
+        },
+        {
+          "store_id": "ariake",
+          "store": "アミーダ 有明ガーデン店",
+          "region": "その他",
+          "lesson_count": 35,
+          "path": "by_store/amiida/アミーダ_有明ガーデン店.json"
+        },
+        {
+          "store_id": "ekoda",
+          "store": "アミーダ 江古田店",
+          "region": "その他",
+          "lesson_count": 30,
+          "path": "by_store/amiida/アミーダ_江古田店.json"
+        },
+        {
+          "store_id": "higashimatsudo",
+          "store": "アミーダ 東松戸店",
+          "region": "その他",
+          "lesson_count": 31,
+          "path": "by_store/amiida/アミーダ_東松戸店.json"
+        },
+        {
+          "store_id": "kasai",
+          "store": "アミーダ 葛西店",
+          "region": "その他",
+          "lesson_count": 30,
+          "path": "by_store/amiida/アミーダ_葛西店.json"
+        },
+        {
+          "store_id": "kasaihojyo",
+          "store": "アミーダ イオンモール加西北条店",
+          "region": "その他",
+          "lesson_count": 27,
+          "path": "by_store/amiida/アミーダ_イオンモール加西北条店.json"
+        },
+        {
+          "store_id": "kisarazu",
+          "store": "アミーダ アピタ木更津店",
+          "region": "その他",
+          "lesson_count": 31,
+          "path": "by_store/amiida/アミーダ_アピタ木更津店.json"
+        },
+        {
+          "store_id": "komagome",
+          "store": "アミーダ 駒込店",
+          "region": "その他",
+          "lesson_count": 34,
+          "path": "by_store/amiida/アミーダ_駒込店.json"
+        },
+        {
+          "store_id": "maebashi",
+          "store": "アミーダ けやきウォーク前橋店",
+          "region": "その他",
+          "lesson_count": 28,
+          "path": "by_store/amiida/アミーダ_けやきウォーク前橋店.json"
+        },
+        {
+          "store_id": "misato",
+          "store": "アミーダ 三郷中央店",
+          "region": "その他",
+          "lesson_count": 30,
+          "path": "by_store/amiida/アミーダ_三郷中央店.json"
+        },
+        {
+          "store_id": "muikamachi",
+          "store": "アミーダ イオン六日町店",
+          "region": "その他",
+          "lesson_count": 25,
+          "path": "by_store/amiida/アミーダ_イオン六日町店.json"
+        },
+        {
+          "store_id": "musashi_shinjo",
+          "store": "アミーダ 武蔵新城店",
+          "region": "その他",
+          "lesson_count": 26,
+          "path": "by_store/amiida/アミーダ_武蔵新城店.json"
+        },
+        {
+          "store_id": "nishikoyama",
+          "store": "アミーダ 西小山店",
+          "region": "その他",
+          "lesson_count": 33,
+          "path": "by_store/amiida/アミーダ_西小山店.json"
+        },
+        {
+          "store_id": "nishiogikubo",
+          "store": "アミーダ 西荻窪店",
+          "region": "その他",
+          "lesson_count": 29,
+          "path": "by_store/amiida/アミーダ_西荻窪店.json"
+        },
+        {
+          "store_id": "ootakanomori",
+          "store": "アミーダ 流山おおたかの森店",
+          "region": "その他",
+          "lesson_count": 32,
+          "path": "by_store/amiida/アミーダ_流山おおたかの森店.json"
+        },
+        {
+          "store_id": "oyumino",
+          "store": "アミーダ イオンタウンおゆみ野店",
+          "region": "その他",
+          "lesson_count": 31,
+          "path": "by_store/amiida/アミーダ_イオンタウンおゆみ野店.json"
+        },
+        {
+          "store_id": "shinozaki",
+          "store": "アミーダ 篠崎店",
+          "region": "その他",
+          "lesson_count": 32,
+          "path": "by_store/amiida/アミーダ_篠崎店.json"
+        },
+        {
+          "store_id": "tamadairanomori",
+          "store": "アミーダ イオンモール多摩平の森店",
+          "region": "その他",
+          "lesson_count": 33,
+          "path": "by_store/amiida/アミーダ_イオンモール多摩平の森店.json"
+        },
+        {
+          "store_id": "tokoname",
+          "store": "アミーダ イオンモール常滑店",
+          "region": "その他",
+          "lesson_count": 28,
+          "path": "by_store/amiida/アミーダ_イオンモール常滑店.json"
+        },
+        {
+          "store_id": "yashio",
+          "store": "アミーダ 八潮店",
+          "region": "その他",
+          "lesson_count": 31,
+          "path": "by_store/amiida/アミーダ_八潮店.json"
+        },
+        {
+          "store_id": "yotsukaido",
+          "store": "アミーダ イトーヨーカドー四街道店",
+          "region": "その他",
+          "lesson_count": 29,
+          "path": "by_store/amiida/アミーダ_イトーヨーカドー四街道店.json"
+        },
+        {
+          "store_id": "yotsuya",
+          "store": "アミーダ 四谷三丁目店",
+          "region": "その他",
+          "lesson_count": 36,
+          "path": "by_store/amiida/アミーダ_四谷三丁目店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "aim",
       "gym": "フィットネスクラブ AIM（エイム）",
       "stores": [
@@ -12957,6 +13117,40 @@
       ]
     },
     {
+      "gym_id": "itoman_w",
+      "gym": "イトマンスポーツスクエア",
+      "stores": [
+        {
+          "store_id": "fujisawa",
+          "store": "イトマンスポーツスクエア 平塚店",
+          "region": "その他",
+          "lesson_count": 43,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_平塚店.json"
+        },
+        {
+          "store_id": "hiratsuka",
+          "store": "イトマンスポーツスクエア 茅ヶ崎店",
+          "region": "その他",
+          "lesson_count": 94,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_茅ヶ崎店.json"
+        },
+        {
+          "store_id": "kasukabe",
+          "store": "イトマンスポーツスクエア 川口元郷店",
+          "region": "その他",
+          "lesson_count": 151,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_川口元郷店.json"
+        },
+        {
+          "store_id": "kawaguchi",
+          "store": "イトマンスポーツスクエア 日進店",
+          "region": "その他",
+          "lesson_count": 22,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_日進店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "toyama_ihc",
       "gym": "とやま健康パーク",
       "stores": [
@@ -13126,6 +13320,173 @@
           "region": "中国・四国",
           "lesson_count": 158,
           "path": "by_store/aimare/フィットネスクラブ_アイ・マーレ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "osaka_opas",
+      "gym": "大阪市スポーツセンター",
+      "stores": [
+        {
+          "store_id": "HOS住吉",
+          "store": "HOS住吉スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 18,
+          "path": "by_store/osaka_opas/HOS住吉スポーツセンター.json"
+        },
+        {
+          "store_id": "中央",
+          "store": "中央スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 6,
+          "path": "by_store/osaka_opas/中央スポーツセンター.json"
+        },
+        {
+          "store_id": "住之江",
+          "store": "住之江スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 3,
+          "path": "by_store/osaka_opas/住之江スポーツセンター.json"
+        },
+        {
+          "store_id": "北",
+          "store": "北スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 10,
+          "path": "by_store/osaka_opas/北スポーツセンター.json"
+        },
+        {
+          "store_id": "大正",
+          "store": "大正スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 2,
+          "path": "by_store/osaka_opas/大正スポーツセンター.json"
+        },
+        {
+          "store_id": "天王寺",
+          "store": "天王寺スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 6,
+          "path": "by_store/osaka_opas/天王寺スポーツセンター.json"
+        },
+        {
+          "store_id": "平野",
+          "store": "平野スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 4,
+          "path": "by_store/osaka_opas/平野スポーツセンター.json"
+        },
+        {
+          "store_id": "旭",
+          "store": "旭スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 7,
+          "path": "by_store/osaka_opas/旭スポーツセンター.json"
+        },
+        {
+          "store_id": "東住吉",
+          "store": "東住吉スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 5,
+          "path": "by_store/osaka_opas/東住吉スポーツセンター.json"
+        },
+        {
+          "store_id": "東成",
+          "store": "東成スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 9,
+          "path": "by_store/osaka_opas/東成スポーツセンター.json"
+        },
+        {
+          "store_id": "東淀川",
+          "store": "東淀川スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 11,
+          "path": "by_store/osaka_opas/東淀川スポーツセンター.json"
+        },
+        {
+          "store_id": "此花",
+          "store": "此花スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 6,
+          "path": "by_store/osaka_opas/此花スポーツセンター.json"
+        },
+        {
+          "store_id": "浪速",
+          "store": "浪速スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 1,
+          "path": "by_store/osaka_opas/浪速スポーツセンター.json"
+        },
+        {
+          "store_id": "淀川",
+          "store": "淀川スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 9,
+          "path": "by_store/osaka_opas/淀川スポーツセンター.json"
+        },
+        {
+          "store_id": "港",
+          "store": "港スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 4,
+          "path": "by_store/osaka_opas/港スポーツセンター.json"
+        },
+        {
+          "store_id": "生野",
+          "store": "生野スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 4,
+          "path": "by_store/osaka_opas/生野スポーツセンター.json"
+        },
+        {
+          "store_id": "福島",
+          "store": "福島スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 4,
+          "path": "by_store/osaka_opas/福島スポーツセンター.json"
+        },
+        {
+          "store_id": "西",
+          "store": "西スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 8,
+          "path": "by_store/osaka_opas/西スポーツセンター.json"
+        },
+        {
+          "store_id": "西成",
+          "store": "西成スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 9,
+          "path": "by_store/osaka_opas/西成スポーツセンター.json"
+        },
+        {
+          "store_id": "西淀川",
+          "store": "西淀川スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 1,
+          "path": "by_store/osaka_opas/西淀川スポーツセンター.json"
+        },
+        {
+          "store_id": "都島",
+          "store": "都島スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 17,
+          "path": "by_store/osaka_opas/都島スポーツセンター.json"
+        },
+        {
+          "store_id": "阿倍野",
+          "store": "阿倍野スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 9,
+          "path": "by_store/osaka_opas/阿倍野スポーツセンター.json"
+        },
+        {
+          "store_id": "鶴見",
+          "store": "鶴見スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 5,
+          "path": "by_store/osaka_opas/鶴見スポーツセンター.json"
         }
       ]
     },
