@@ -17,8 +17,8 @@
     "genre",
     "note"
   ],
-  "gym_count": 158,
-  "store_count": 2045,
+  "gym_count": 160,
+  "store_count": 2047,
   "gyms": [
     {
       "gym_id": "lava",
@@ -14145,6 +14145,19 @@
       ]
     },
     {
+      "gym_id": "zushi_arena",
+      "gym": "逗子アリーナ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "逗子アリーナ",
+          "region": "関東",
+          "lesson_count": 71,
+          "path": "by_store/zushi_arena/逗子アリーナ.json"
+        }
+      ]
+    },
+    {
       "gym_id": "bfit",
       "gym": "B-fit スポーツクラブ 熊本嘉島",
       "stores": [
@@ -14596,6 +14609,19 @@
           "region": "関東",
           "lesson_count": 40,
           "path": "by_store/budokan/東京武道館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "moriguchi_sports",
+      "gym": "守口市民体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "守口市民体育館",
+          "region": "近畿",
+          "lesson_count": 40,
+          "path": "by_store/moriguchi_sports/守口市民体育館.json"
         }
       ]
     },
