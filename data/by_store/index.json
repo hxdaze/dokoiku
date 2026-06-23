@@ -10743,7 +10743,7 @@
     },
     {
       "gym_id": "nas",
-      "gym": "nas",
+      "gym": "NAS",
       "stores": [
         {
           "store_id": "abeno",
@@ -14095,7 +14095,7 @@
     },
     {
       "gym_id": "pal_sports",
-      "gym": "pal_sports",
+      "gym": "PAL_SPORTS",
       "stores": [
         {
           "store_id": "nagoya",
@@ -15080,19 +15080,6 @@
       ]
     },
     {
-      "gym_id": "bumb",
-      "gym": "BumB東京スポーツ文化館",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "BumB東京スポーツ文化館",
-          "region": "関東",
-          "lesson_count": 52,
-          "path": "by_store/bumb/BumB東京スポーツ文化館.json"
-        }
-      ]
-    },
-    {
       "gym_id": "gsz_east",
       "gym": "日環アリーナ栃木",
       "stores": [
@@ -15115,6 +15102,19 @@
           "region": "中部・北陸",
           "lesson_count": 50,
           "path": "by_store/nagoya_sc/名東スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "bumb",
+      "gym": "BumB東京スポーツ文化館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "BumB東京スポーツ文化館",
+          "region": "関東",
+          "lesson_count": 48,
+          "path": "by_store/bumb/BumB東京スポーツ文化館.json"
         }
       ]
     },
