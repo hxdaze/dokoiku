@@ -18,8 +18,8 @@
     "note",
     "instructor_id"
   ],
-  "gym_count": 201,
-  "store_count": 2164,
+  "gym_count": 202,
+  "store_count": 2165,
   "gyms": [
     {
       "gym_id": "lava",
@@ -16260,6 +16260,19 @@
           "region": "北海道・東北",
           "lesson_count": 7,
           "path": "by_store/sapporo_toyohira_pool/札幌市豊平公園温水プール.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "yamanashi_koseiren",
+      "gym": "山梨県厚生連健康管理センター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "山梨県厚生連健康管理センター",
+          "region": "中部・北陸",
+          "lesson_count": 7,
+          "path": "by_store/yamanashi_koseiren/山梨県厚生連健康管理センター.json"
         }
       ]
     },
