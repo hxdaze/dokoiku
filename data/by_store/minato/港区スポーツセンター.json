@@ -2191,39 +2191,5 @@
     "reservation_required": false,
     "genre": "ダンス",
     "note": null
-  },
-  {
-    "gym_id": "minato",
-    "store_id": "minato",
-    "store": "港区スポーツセンター",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "火",
-    "start": "09:30",
-    "end": "10:15",
-    "class_name": "医療と体育を結びつけた体操で、中国の古代武術を基礎とした運動です。",
-    "category": "WELLNESS",
-    "instructor": null,
-    "studio": "スタジオのタイムテーブル（２０２６年４月１日～）",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "minato",
-    "store_id": "minato",
-    "store": "港区スポーツセンター",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "火",
-    "start": "10:30",
-    "end": "11:15",
-    "class_name": "身体をほぐし、機能改善に繋がる簡単な筋コンディショニングなどを行います。",
-    "category": "STRENGTH & CORE",
-    "instructor": null,
-    "studio": "スタジオのタイムテーブル（２０２６年４月１日～）",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
   }
 ]
