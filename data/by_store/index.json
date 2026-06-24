@@ -477,7 +477,7 @@
           "store_id": "gifu_minokamo",
           "store": "美濃加茂店",
           "region": "中部・北陸",
-          "lesson_count": 383,
+          "lesson_count": 382,
           "path": "by_store/lava/美濃加茂店.json"
         },
         {
@@ -6044,7 +6044,7 @@
           "store_id": "chikusa",
           "store": "メガロス 千種",
           "region": "中部・北陸",
-          "lesson_count": 695,
+          "lesson_count": 674,
           "path": "by_store/megalos/メガロス_千種.json"
         },
         {
@@ -6065,7 +6065,7 @@
           "store_id": "hachiouji",
           "store": "メガロス 八王子",
           "region": "関東",
-          "lesson_count": 347,
+          "lesson_count": 328,
           "path": "by_store/megalos/メガロス_八王子.json"
         },
         {
@@ -6184,7 +6184,7 @@
           "store_id": "saginuma",
           "store": "メガロス 鷺沼",
           "region": "関東",
-          "lesson_count": 255,
+          "lesson_count": 253,
           "path": "by_store/megalos/メガロス_鷺沼.json"
         },
         {
@@ -6233,7 +6233,7 @@
           "store_id": "tsunashima",
           "store": "メガロス 綱島",
           "region": "関東",
-          "lesson_count": 604,
+          "lesson_count": 580,
           "path": "by_store/megalos/メガロス_綱島.json"
         },
         {
@@ -7302,7 +7302,7 @@
           "store_id": "SHP075",
           "store": "ティップネス藤枝",
           "region": "中部・北陸",
-          "lesson_count": 285,
+          "lesson_count": 283,
           "path": "by_store/tipness/ティップネス藤枝.json"
         },
         {
@@ -8028,7 +8028,7 @@
           "store_id": "aeon-kamisato",
           "store": "loIve aeon-kamisato",
           "region": "関東",
-          "lesson_count": 186,
+          "lesson_count": 185,
           "path": "by_store/loive/loIve_aeon-kamisato.json"
         },
         {
@@ -10032,7 +10032,7 @@
           "store_id": "saidaiji",
           "store": "西大寺",
           "region": "近畿",
-          "lesson_count": 218,
+          "lesson_count": 217,
           "path": "by_store/cospa/西大寺.json"
         },
         {
@@ -10855,7 +10855,7 @@
           "store_id": "shinozaki",
           "store": "NAS篠崎",
           "region": "関東",
-          "lesson_count": 106,
+          "lesson_count": 105,
           "path": "by_store/nas/NAS篠崎.json"
         },
         {
@@ -12913,7 +12913,7 @@
           "store_id": "minamisakurai",
           "store": "東武スポーツクラブ みなみさくらい",
           "region": "関東",
-          "lesson_count": 69,
+          "lesson_count": 67,
           "path": "by_store/tobu/東武スポーツクラブ_みなみさくらい.json"
         },
         {
@@ -13713,7 +13713,7 @@
           "store_id": "takadanobaba",
           "store": "高田馬場",
           "region": "関東",
-          "lesson_count": 184,
+          "lesson_count": 183,
           "path": "by_store/seibu/高田馬場.json"
         },
         {
@@ -13801,14 +13801,14 @@
           "store_id": "aomori",
           "store": "ウイング青森",
           "region": "北海道・東北",
-          "lesson_count": 92,
+          "lesson_count": 90,
           "path": "by_store/wing/ウイング青森.json"
         },
         {
           "store_id": "goshogawara",
           "store": "ウイング五所川原",
           "region": "北海道・東北",
-          "lesson_count": 42,
+          "lesson_count": 40,
           "path": "by_store/wing/ウイング五所川原.json"
         },
         {
@@ -13822,7 +13822,7 @@
           "store_id": "hirosaki",
           "store": "ウイング弘前",
           "region": "北海道・東北",
-          "lesson_count": 41,
+          "lesson_count": 39,
           "path": "by_store/wing/ウイング弘前.json"
         },
         {
@@ -14089,7 +14089,7 @@
           "store_id": "yok",
           "store": "OKスポーツクラブ山城",
           "region": "中国・四国",
-          "lesson_count": 69,
+          "lesson_count": 57,
           "path": "by_store/oksports/OKスポーツクラブ山城.json"
         }
       ]

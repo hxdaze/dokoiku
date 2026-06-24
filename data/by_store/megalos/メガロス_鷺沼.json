@@ -958,23 +958,6 @@
     "region": "関東",
     "prefecture": "神奈川県",
     "day": "金",
-    "start": "9:30",
-    "end": "10:00",
-    "class_name": "レギュラー会員様 利用可能時間",
-    "category": "OTHER",
-    "instructor": null,
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": null,
-    "note": null
-  },
-  {
-    "gym_id": "megalos",
-    "store_id": "saginuma",
-    "store": "メガロス 鷺沼",
-    "region": "関東",
-    "prefecture": "神奈川県",
-    "day": "金",
     "start": "10:00",
     "end": "10:30",
     "class_name": "ZUMBA",
@@ -4316,22 +4299,5 @@
     "reservation_required": false,
     "genre": "バスボール",
     "note": "使用コート:2コース / バスボール団体"
-  },
-  {
-    "gym_id": "megalos",
-    "store_id": "saginuma",
-    "store": "メガロス 鷺沼",
-    "region": "関東",
-    "prefecture": "神奈川県",
-    "day": "土",
-    "start": "19:50",
-    "end": "20:00",
-    "class_name": "3コースは会員様がご利用いただけます",
-    "category": "OTHER",
-    "instructor": null,
-    "studio": "スタジオB",
-    "reservation_required": false,
-    "genre": "バスボール",
-    "note": "※5日1,2コースは終了後15分まで"
   }
 ]
