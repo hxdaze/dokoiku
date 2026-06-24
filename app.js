@@ -167,6 +167,8 @@ function loadState() {
     const s = JSON.parse(localStorage.getItem(STATE_KEY) || "{}");
     for (const k of Object.keys(state)) if (typeof s[k] === "string") state[k] = s[k];
   } catch (_e) {}
+  // エリアと都道府県は排他。旧バージョンで両方保存された状態は都道府県を優先。
+  if (state.region && state.prefecture) state.region = "";
 }
 
 function escapeHtml(s) {
@@ -1128,6 +1130,8 @@ async function main() {
   initTheme();
   loadState();
   readUrlParams();   // URLのディープリンクは保存状態より優先
+  // エリアと都道府県は排他(両方指定なら都道府県を優先)。
+  if (state.region && state.prefecture) state.region = "";
   try {
     await loadData();
   } catch (e) {
