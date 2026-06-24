@@ -14,9 +14,11 @@ const state = {
 // ジャンル(カテゴリー)アイコン。カテゴリー名(英語)→絵文字。
 const CATEGORY_ICON = {
   "ZUMBA": "💃", "RITMOS": "💃", "BAILA": "💃", "SALSATION": "💃", "LATIN": "💃",
-  "HULA": "🌺", "BELLY DANCE": "🪭", "STREET DANCE": "🕺", "BALLET": "🩰",
-  "JAZZ DANCE": "🎶", "STEP": "👟", "MARTIAL ARTS": "🥊", "KUNG FU": "🥋",
-  "YOGA & PILATES": "🧘", "AQUA": "🌊", "SWIMMING": "🏊", "CYCLING": "🚴",
+  "HULA": "🌺", "BELLY DANCE": "🪭", "HIP HOP": "🧢", "STREET DANCE": "🕺",
+  "BALLET": "🩰", "JAZZ DANCE": "🎶", "STEP": "👟", "BOXING": "🥊",
+  "MARTIAL ARTS": "🥋", "KUNG FU": "🐉",
+  "PILATES": "🤸‍♀️", "YOGA": "🧘", "YOGA & PILATES": "🧘",
+  "AQUA": "🌊", "SWIMMING": "🏊", "CYCLING": "🚴",
   "RUNNING": "🏃", "STRENGTH & CORE": "💪", "FAT BURN": "🔥",
   "STRETCH & RELAX": "🌿", "WELLNESS": "🍀", "KIDS": "🧒", "AEROBICS": "🤸",
   "OTHER": "✨",

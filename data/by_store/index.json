@@ -2730,7 +2730,7 @@
           "store_id": "cf-kiyosu",
           "store": "セントラルフィットネスクラブ 清洲",
           "region": "中部・北陸",
-          "lesson_count": 127,
+          "lesson_count": 131,
           "path": "by_store/central/セントラルフィットネスクラブ_清洲.json"
         },
         {
@@ -3129,7 +3129,7 @@
           "store_id": "kameari",
           "store": "セントラルフィットネスクラブ 亀有",
           "region": "関東",
-          "lesson_count": 123,
+          "lesson_count": 124,
           "path": "by_store/central/セントラルフィットネスクラブ_亀有.json"
         },
         {
@@ -3213,7 +3213,7 @@
           "store_id": "maebashi",
           "store": "セントラルウェルネスクラブ24 前橋",
           "region": "関東",
-          "lesson_count": 156,
+          "lesson_count": 158,
           "path": "by_store/central/セントラルウェルネスクラブ24_前橋.json"
         },
         {
@@ -3234,7 +3234,7 @@
           "store_id": "minamiaoyama",
           "store": "セントラルフィットネスクラブ24 南青山",
           "region": "関東",
-          "lesson_count": 146,
+          "lesson_count": 148,
           "path": "by_store/central/セントラルフィットネスクラブ24_南青山.json"
         },
         {
@@ -3332,7 +3332,7 @@
           "store_id": "nishidai",
           "store": "セントラルフィットネスクラブ 西台",
           "region": "関東",
-          "lesson_count": 158,
+          "lesson_count": 160,
           "path": "by_store/central/セントラルフィットネスクラブ_西台.json"
         },
         {
@@ -3437,7 +3437,7 @@
           "store_id": "sapporo",
           "store": "セントラルウェルネスクラブ24 札幌",
           "region": "北海道・東北",
-          "lesson_count": 164,
+          "lesson_count": 166,
           "path": "by_store/central/セントラルウェルネスクラブ24_札幌.json"
         },
         {
@@ -3542,7 +3542,7 @@
           "store_id": "takasaki",
           "store": "セントラルウェルネスクラブ24 高崎",
           "region": "関東",
-          "lesson_count": 153,
+          "lesson_count": 154,
           "path": "by_store/central/セントラルウェルネスクラブ24_高崎.json"
         },
         {
@@ -3689,7 +3689,7 @@
           "store_id": "yoga",
           "store": "セントラルフィットネスクラブ24 用賀",
           "region": "関東",
-          "lesson_count": 152,
+          "lesson_count": 153,
           "path": "by_store/central/セントラルフィットネスクラブ24_用賀.json"
         },
         {
@@ -5471,7 +5471,7 @@
           "store_id": "higashihiroshima",
           "store": "スポーツクラブ＆サウナ ルネサンス 東広島24",
           "region": "中国・四国",
-          "lesson_count": 64,
+          "lesson_count": 66,
           "path": "by_store/renaissance/スポーツクラブ＆サウナ_ルネサンス_東広島24.json"
         },
         {
@@ -5506,7 +5506,7 @@
           "store_id": "himeji",
           "store": "スポーツクラブ＆サウナスパ ルネサンス 姫路",
           "region": "近畿",
-          "lesson_count": 112,
+          "lesson_count": 114,
           "path": "by_store/renaissance/スポーツクラブ＆サウナスパ_ルネサンス_姫路.json"
         },
         {
@@ -5555,7 +5555,7 @@
           "store_id": "iwaki",
           "store": "スポーツクラブ＆サウナ ルネサンス いわき",
           "region": "北海道・東北",
-          "lesson_count": 86,
+          "lesson_count": 87,
           "path": "by_store/renaissance/スポーツクラブ＆サウナ_ルネサンス_いわき.json"
         },
         {
@@ -5674,7 +5674,7 @@
           "store_id": "kumamotominami",
           "store": "スポーツクラブ＆サウナスパ ルネサンス 熊本南24",
           "region": "九州・沖縄",
-          "lesson_count": 132,
+          "lesson_count": 134,
           "path": "by_store/renaissance/スポーツクラブ＆サウナスパ_ルネサンス_熊本南24.json"
         },
         {
@@ -5926,7 +5926,7 @@
           "store_id": "tokuyama",
           "store": "スポーツクラブ＆サウナスパ ルネサンス 徳山24",
           "region": "中国・四国",
-          "lesson_count": 109,
+          "lesson_count": 110,
           "path": "by_store/renaissance/スポーツクラブ＆サウナスパ_ルネサンス_徳山24.json"
         },
         {
@@ -6344,7 +6344,7 @@
           "store_id": "12140",
           "store": "行徳千葉フィットネスセンター (OPEN 24 HOURS)",
           "region": "関東",
-          "lesson_count": 84,
+          "lesson_count": 85,
           "path": "by_store/goldsgym/行徳千葉フィットネスセンター_(OPEN_24_HOURS).json"
         },
         {
@@ -6680,7 +6680,7 @@
           "store_id": "20210224",
           "store": "イオンモール宮崎",
           "region": "九州・沖縄",
-          "lesson_count": 73,
+          "lesson_count": 74,
           "path": "by_store/goldsgym/イオンモール宮崎.json"
         },
         {
@@ -6855,7 +6855,7 @@
           "store_id": "27120",
           "store": "梅田大阪  (OPEN 24 HOURS)",
           "region": "近畿",
-          "lesson_count": 51,
+          "lesson_count": 52,
           "path": "by_store/goldsgym/梅田大阪_(OPEN_24_HOURS).json"
         },
         {
@@ -10890,7 +10890,7 @@
           "store_id": "warabi",
           "store": "NAS蕨",
           "region": "関東",
-          "lesson_count": 140,
+          "lesson_count": 141,
           "path": "by_store/nas/NAS蕨.json"
         },
         {
@@ -12677,7 +12677,7 @@
           "store_id": "gion",
           "store": "グンゼスポーツイオンモール広島祇園",
           "region": "中国・四国",
-          "lesson_count": 161,
+          "lesson_count": 162,
           "path": "by_store/gunze/グンゼスポーツイオンモール広島祇園.json"
         },
         {
@@ -12754,7 +12754,7 @@
           "store_id": "toyama",
           "store": "グンゼスポーツ富山市民プラザ",
           "region": "中部・北陸",
-          "lesson_count": 58,
+          "lesson_count": 60,
           "path": "by_store/gunze/グンゼスポーツ富山市民プラザ.json"
         },
         {
