@@ -427,7 +427,8 @@ function setActiveTab(v) {
 function viewLabel(v) {
   return { day: "曜日別", timeband: "時間帯別", store: "店舗別", category: "カテゴリー別",
     instructor: "先生別", search: "イントラ検索", fav: "お気に入り", hashigo: "はしご",
-    gym: "ジム別", substitution: "代行情報", map: "近くで探す" }[v] || v;
+    gym: "ジム別", substitution: "代行情報", map: "近くで探す",
+    about: "紹介", help: "ヘルプ" }[v] || v;
 }
 
 function currentLimit() {
@@ -543,6 +544,91 @@ async function renderInstructorDetail(ins) {
   if (bk) bk.addEventListener("click", () => { state.instructor_id = ""; saveState(); renderInstructorView(); });
 }
 
+// ---- 紹介ページ(サイト概要・各機能の案内) ----
+function renderAbout() {
+  const m = META || {};
+  const n = (x) => (x || 0).toLocaleString();
+  $("#summary").innerHTML = `<span class="muted">ページ: 紹介</span>`;
+  $("#main").innerHTML = `
+  <div class="doc">
+    <h2>「どこジム♪」について</h2>
+    <p>全国のフィットネスクラブ・スポーツジム・公共スポーツ施設の
+       <b>スタジオレッスン時間割</b>を、横断して検索できるサイトです。
+       「いつ・どこで・どんなクラスが・誰の担当で」開催されるかを、目的に合わせて探せます。</p>
+    <p class="doc-stat">収録: <b>${n(m.lesson_count)}</b> レッスン ／ <b>${n(m.store_count)}</b> 店舗 ／
+       <b>${m.gyms ? m.gyms.length : 0}</b> ジム</p>
+
+    <h3>探し方(タブ)</h3>
+    <ul class="doc-list">
+      <li>📅 <b>曜日別</b> / ⏰ <b>時間帯別</b> … 曜日・時間から探す</li>
+      <li>🏠 <b>店舗別</b> / 🏢 <b>ジム別</b> … 施設から探す</li>
+      <li>🏷️ <b>カテゴリー別</b> … ヨガ/ピラティス/ZUMBA/ダンス/ボクシング等のジャンルで探す</li>
+      <li>🧑‍🏫 <b>先生別</b> / 🔎 <b>イントラ検索</b> … 担当インストラクターから探す(表記ゆれは名寄せ済み)</li>
+      <li>⭐ <b>お気に入り</b> … 気になるクラスを保存(端末内・登録不要)。一覧/週間カレンダー表示</li>
+      <li>🪜 <b>はしご</b> … 同じ日に複数クラスを掛け持ちする計画に</li>
+      <li>🔁 <b>代行情報</b> … 代行・変更のお知らせ</li>
+      <li>🗺️ <b>近くで探す</b> … 地図/現在地から近い施設を探す</li>
+    </ul>
+
+    <h3>絞り込み</h3>
+    <p>エリア・都道府県・ジム・店舗・曜日・カテゴリー・先生・フリーワードで絞り込めます。
+       スマホでもサクサク動くよう、選んだ範囲のデータだけを読み込みます。</p>
+
+    <div class="doc-credit">
+      <p>このサイトは、長年レッスン情報をまとめてこられた
+         <b>『今日はどこでエアロ？』</b>(気まぐれei884 さん)へのリスペクトから生まれました。</p>
+      <a class="btn" href="https://kyoudoko.blog.jp/" target="_blank" rel="noopener">本家を見る ↗</a>
+    </div>
+    <p class="muted doc-note">※掲載情報は変更される場合があります。最新・正確な情報は各施設の公式サイトでご確認ください。</p>
+  </div>`;
+}
+
+// ---- ヘルプページ(使い方・FAQ) ----
+function renderHelp() {
+  $("#summary").innerHTML = `<span class="muted">ページ: ヘルプ</span>`;
+  $("#main").innerHTML = `
+  <div class="doc">
+    <h2>使い方ガイド</h2>
+
+    <h3>1. 地域をしぼる</h3>
+    <ul class="doc-list">
+      <li>「エリア」か「都道府県」のどちらかを選びます(両方は選べません。片方を選ぶともう片方は自動で「すべて」に戻ります)。</li>
+      <li>ジム名だけ選んでもOK(例: イオンスポーツクラブ)。その施設のある地域を自動で読み込みます。</li>
+    </ul>
+
+    <h3>2. クラスをしぼる</h3>
+    <ul class="doc-list">
+      <li>曜日・カテゴリー・先生・店舗・フリーワードで重ねて絞り込めます。</li>
+      <li>表の見出し(時間・曜日など)をタップすると並べ替えできます。</li>
+    </ul>
+
+    <h3>3. ⭐ お気に入り</h3>
+    <ul class="doc-list">
+      <li>各クラス行の <b>☆</b> を押すと保存されます(この端末内に保存・ログイン不要)。</li>
+      <li>「⭐ お気に入り」タブで、<b>一覧</b>と<b>週間カレンダー</b>で確認できます。</li>
+    </ul>
+
+    <h3>4. 🔎 先生(インストラクター)で探す</h3>
+    <ul class="doc-list">
+      <li>「イントラ検索」で名前を入力し、Enter または 🔎検索ボタンで検索します。</li>
+      <li>表記ゆれや店舗をまたいだ同一人物は、できるだけ名寄せしています。</li>
+      <li>クラス一覧の<b>先生名</b>をタップすると、その先生の出講クラス一覧へ移動します(そこから☆登録も可)。</li>
+    </ul>
+
+    <h3>5. 📅 Googleカレンダー登録</h3>
+    <ul class="doc-list">
+      <li>各クラスの「登録」からGoogleカレンダーに追加できます(毎週の予定として活用)。</li>
+    </ul>
+
+    <h3>よくある質問</h3>
+    <ul class="doc-list">
+      <li><b>登録は必要?</b> いいえ。お気に入りは端末内に保存され、ログイン不要です。</li>
+      <li><b>情報は正確?</b> 自動収集のため誤りが残る場合があります。最新は各施設の公式でご確認ください。</li>
+      <li><b>表示が更新されない</b> ブラウザの再読み込み(キャッシュクリア)をお試しください。</li>
+    </ul>
+  </div>`;
+}
+
 // ---- 広告枠(Google AdSense + 独自バナー併用。data/ads.json で月別設定。未設定なら非表示) ----
 function renderAds() {
   const cfg = ADS;
@@ -652,6 +738,8 @@ async function update() {
   if (state.view === "map") { renderMap(); return; }
   if (state.view === "search") { await renderInstructorView(); return; }
   if (state.view === "fav") { renderFavView(); return; }
+  if (state.view === "about") { renderAbout(); return; }
+  if (state.view === "help") { renderHelp(); return; }
   const prefs = scopePrefs();
   if (!prefs) { refreshStoreOptions(); renderChooseScope(); return; }
   if (prefs.some((n) => !LOADED.has(n))) {
@@ -670,6 +758,8 @@ function refreshViewRender() {
   if (state.view === "map") { renderMap(); return; }
   if (state.view === "search") { renderInstructorView(); return; }
   if (state.view === "fav") { renderFavView(); return; }
+  if (state.view === "about") { renderAbout(); return; }
+  if (state.view === "help") { renderHelp(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
   sortState.col = null;

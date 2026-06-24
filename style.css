@@ -855,6 +855,17 @@ td .muted { white-space: normal; }
 a.ins-link { color: var(--accent, #2a7); text-decoration: none; border-bottom: 1px dotted currentColor; cursor: pointer; }
 a.ins-link:hover { text-decoration: none; opacity: .8; }
 
+/* ---- 紹介/ヘルプ ---- */
+.doc { max-width: 760px; margin: 0 auto; padding: 12px 14px; line-height: 1.7; }
+.doc h2 { font-size: 20px; margin: 8px 0 12px; }
+.doc h3 { font-size: 16px; margin: 20px 0 6px; border-left: 4px solid var(--accent, #3a7); padding-left: 8px; }
+.doc p { margin: 6px 0; }
+.doc .doc-stat { font-size: 14px; color: var(--muted, #666); }
+.doc-list { margin: 6px 0 6px 1.1em; padding: 0; }
+.doc-list li { margin: 4px 0; }
+.doc-credit { margin: 18px 0; padding: 12px; background: var(--card, #f5f5f5); border-radius: 10px; }
+.doc-note { font-size: 12px; margin-top: 14px; }
+
 /* ---- 広告枠(未設定なら display:none で非表示) ---- */
 .ad-slot { margin: 12px auto; max-width: 970px; text-align: center; overflow: hidden; }
 .ad-slot ins.adsbygoogle { display: block; }
