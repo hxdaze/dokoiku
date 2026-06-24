@@ -398,7 +398,10 @@ function renderInstructorList() {
     `<span>登録イントラ <b>${INSTRUCTORS.length.toLocaleString()}</b> 名(名寄せ済)</span>` +
     (q ? `<span>該当 <b>${list.length.toLocaleString()}</b> 名</span>` : "") +
     `<span class="muted">ビュー: イントラ検索</span>`;
-  const box = `<div class="ins-search"><input id="insQ" type="search" autocomplete="off" placeholder="イントラ名で検索（例: 高嶋 / さとう / Natsumi）" value="${escapeAttr(state.iq || "")}"></div>`;
+  const box = `<div class="ins-search">` +
+    `<input id="insQ" type="search" autocomplete="off" enterkeyhint="search" ` +
+    `placeholder="イントラ名で検索（例: 高嶋 / さとう / Natsumi）" value="${escapeAttr(state.iq || "")}">` +
+    `<button class="btn" id="insGo">🔎 検索</button></div>`;
   if (!q) {
     $("#main").innerHTML = box +
       '<div class="empty">イントラ名を入力して検索してください。<br>表記ゆれ・店舗をまたいだ同一人物は名寄せ済みです。</div>';
@@ -421,15 +424,24 @@ function renderInstructorList() {
       state.instructor_id = b.dataset.id; saveState(); renderInstructorView();
     }));
   }
+  // 検索はリアルタイムではなく、Enter または検索ボタンで実行する。
+  // (日本語入力の変換確定Enterでは実行しない: isComposing をガード)
   const inp = document.getElementById("insQ");
+  const runSearch = () => {
+    if (!inp) return;
+    const v = inp.value.trim();
+    if (v === (state.iq || "")) return;  // 変化なしなら再描画しない
+    state.iq = v; saveState(); renderInstructorList();
+  };
   if (inp) {
-    let t = null;
-    inp.addEventListener("input", (e) => {
-      state.iq = e.target.value.trim();
-      clearTimeout(t); t = setTimeout(() => { saveState(); renderInstructorList(); }, 200);
+    inp.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && !e.isComposing) { e.preventDefault(); runSearch(); }
     });
     inp.focus();
+    const val = inp.value; inp.value = ""; inp.value = val;  // カーソルを末尾へ
   }
+  const go = document.getElementById("insGo");
+  if (go) go.addEventListener("click", runSearch);
 }
 
 async function renderInstructorDetail(ins) {
