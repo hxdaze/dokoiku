@@ -627,22 +627,5 @@
     "reservation_required": false,
     "genre": "ストレングス",
     "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "80209",
-    "store": "牛久茨城（フランチャイズ店）",
-    "region": "関東",
-    "prefecture": "茨城県",
-    "day": "日",
-    "start": "9:00",
-    "end": null,
-    "class_name": "日曜日・祝日",
-    "category": "OTHER",
-    "instructor": null,
-    "studio": "SUN",
-    "reservation_required": false,
-    "genre": null,
-    "note": "第2月曜が祝日の"
   }
 ]

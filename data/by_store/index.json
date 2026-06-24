@@ -3465,7 +3465,7 @@
           "store_id": "shimokitazawa",
           "store": "セントラルフィットネスクラブ24 下北沢",
           "region": "関東",
-          "lesson_count": 121,
+          "lesson_count": 122,
           "path": "by_store/central/セントラルフィットネスクラブ24_下北沢.json"
         },
         {
@@ -6351,7 +6351,7 @@
           "store_id": "12160",
           "store": "浦安千葉",
           "region": "関東",
-          "lesson_count": 62,
+          "lesson_count": 60,
           "path": "by_store/goldsgym/浦安千葉.json"
         },
         {
@@ -6379,14 +6379,14 @@
           "store_id": "13110",
           "store": "イースト東京",
           "region": "関東",
-          "lesson_count": 96,
+          "lesson_count": 92,
           "path": "by_store/goldsgym/イースト東京.json"
         },
         {
           "store_id": "13120",
           "store": "ノース東京",
           "region": "関東",
-          "lesson_count": 66,
+          "lesson_count": 65,
           "path": "by_store/goldsgym/ノース東京.json"
         },
         {
@@ -6505,7 +6505,7 @@
           "store_id": "13260",
           "store": "八王子東京",
           "region": "関東",
-          "lesson_count": 73,
+          "lesson_count": 72,
           "path": "by_store/goldsgym/八王子東京.json"
         },
         {
@@ -6701,7 +6701,7 @@
           "store_id": "20211014",
           "store": "名古屋金山",
           "region": "中部・北陸",
-          "lesson_count": 56,
+          "lesson_count": 55,
           "path": "by_store/goldsgym/名古屋金山.json"
         },
         {
@@ -6750,7 +6750,7 @@
           "store_id": "20220627",
           "store": "国立東京",
           "region": "関東",
-          "lesson_count": 84,
+          "lesson_count": 83,
           "path": "by_store/goldsgym/国立東京.json"
         },
         {
@@ -6848,7 +6848,7 @@
           "store_id": "27110",
           "store": "大阪中之島",
           "region": "近畿",
-          "lesson_count": 82,
+          "lesson_count": 81,
           "path": "by_store/goldsgym/大阪中之島.json"
         },
         {
@@ -6932,7 +6932,7 @@
           "store_id": "71221",
           "store": "東陽町スーパーセンター",
           "region": "関東",
-          "lesson_count": 102,
+          "lesson_count": 99,
           "path": "by_store/goldsgym/東陽町スーパーセンター.json"
         },
         {
@@ -6946,7 +6946,7 @@
           "store_id": "80209",
           "store": "牛久茨城（フランチャイズ店）",
           "region": "関東",
-          "lesson_count": 38,
+          "lesson_count": 37,
           "path": "by_store/goldsgym/牛久茨城（フランチャイズ店）.json"
         },
         {
@@ -7043,7 +7043,7 @@
           "store_id": "SHP019",
           "store": "ティップネス天王寺",
           "region": "近畿",
-          "lesson_count": 156,
+          "lesson_count": 157,
           "path": "by_store/tipness/ティップネス天王寺.json"
         },
         {
@@ -7854,7 +7854,7 @@
           "store_id": "081-shinhassamu",
           "store": "札幌新発寒店",
           "region": "北海道・東北",
-          "lesson_count": 90,
+          "lesson_count": 89,
           "path": "by_store/holiday/札幌新発寒店.json"
         },
         {
@@ -9348,7 +9348,7 @@
           "store_id": "yagoto",
           "store": "アクトス 八事店",
           "region": "中部・北陸",
-          "lesson_count": 100,
+          "lesson_count": 101,
           "path": "by_store/axtos/アクトス_八事店.json"
         },
         {
@@ -10890,7 +10890,7 @@
           "store_id": "warabi",
           "store": "NAS蕨",
           "region": "関東",
-          "lesson_count": 141,
+          "lesson_count": 140,
           "path": "by_store/nas/NAS蕨.json"
         },
         {
@@ -13260,7 +13260,7 @@
           "store_id": "urayasu",
           "store": "イトマンスポーツスクエア 流山おおたかの森店",
           "region": "その他",
-          "lesson_count": 70,
+          "lesson_count": 69,
           "path": "by_store/itoman_w/イトマンスポーツスクエア_流山おおたかの森店.json"
         }
       ]
@@ -13700,7 +13700,7 @@
           "store_id": "fresco-tarumi",
           "store": "KTVフィットネスクラブ フレスコ垂水",
           "region": "近畿",
-          "lesson_count": 253,
+          "lesson_count": 252,
           "path": "by_store/fresco/KTVフィットネスクラブ_フレスコ垂水.json"
         }
       ]
@@ -14122,7 +14122,7 @@
           "store_id": "minamikusatsu",
           "store": "ビバスポーツアカデミー南草津",
           "region": "近畿",
-          "lesson_count": 96,
+          "lesson_count": 94,
           "path": "by_store/viva/ビバスポーツアカデミー南草津.json"
         },
         {
