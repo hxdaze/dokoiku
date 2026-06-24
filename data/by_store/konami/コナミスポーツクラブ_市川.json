@@ -452,7 +452,7 @@
     "end": "11:30",
     "class_name": "少人数制スタジオレッスン",
     "category": "OTHER",
-    "instructor": null,
+    "instructor": "Ayaka",
     "studio": "スタジオ2(体育館)",
     "reservation_required": false,
     "genre": null,

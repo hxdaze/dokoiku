@@ -1285,7 +1285,7 @@
     "end": "19:55",
     "class_name": "ヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "CSLIVE",
     "studio": "第１スタジオ",
     "reservation_required": true,
     "genre": null,

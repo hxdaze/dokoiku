@@ -724,7 +724,7 @@
     "end": "14:15",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": null,
+    "instructor": "NAO",
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "FITNESS",

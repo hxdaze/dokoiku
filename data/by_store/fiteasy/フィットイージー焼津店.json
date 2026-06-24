@@ -333,7 +333,7 @@
     "end": "11:30",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": null,
+    "instructor": "MIYUKI",
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",

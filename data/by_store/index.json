@@ -2744,7 +2744,7 @@
           "store_id": "cf-kotesashi",
           "store": "セントラルフィットネスクラブ24 小手指",
           "region": "関東",
-          "lesson_count": 121,
+          "lesson_count": 122,
           "path": "by_store/central/セントラルフィットネスクラブ24_小手指.json"
         },
         {
@@ -2996,7 +2996,7 @@
           "store_id": "hachioji",
           "store": "セントラルフィットネスクラブ 八王子",
           "region": "関東",
-          "lesson_count": 167,
+          "lesson_count": 168,
           "path": "by_store/central/セントラルフィットネスクラブ_八王子.json"
         },
         {
@@ -3052,7 +3052,7 @@
           "store_id": "hiratsuka",
           "store": "セントラルフィットネスクラブ 湘南平塚",
           "region": "関東",
-          "lesson_count": 124,
+          "lesson_count": 125,
           "path": "by_store/central/セントラルフィットネスクラブ_湘南平塚.json"
         },
         {
@@ -3772,28 +3772,28 @@
           "store_id": "aichi-hisaya-odori",
           "store": "ピラティスK hisaya-odori",
           "region": "中部・北陸",
-          "lesson_count": 275,
+          "lesson_count": 286,
           "path": "by_store/pilatesk/ピラティスK_hisaya-odori.json"
         },
         {
           "store_id": "aichi-kasugai",
           "store": "ピラティスK kasugai",
           "region": "中部・北陸",
-          "lesson_count": 305,
+          "lesson_count": 306,
           "path": "by_store/pilatesk/ピラティスK_kasugai.json"
         },
         {
           "store_id": "aichi-meisei",
           "store": "ピラティスK meisei",
           "region": "中部・北陸",
-          "lesson_count": 311,
+          "lesson_count": 315,
           "path": "by_store/pilatesk/ピラティスK_meisei.json"
         },
         {
           "store_id": "aichi-ootagawa",
           "store": "ピラティスK ootagawa",
           "region": "中部・北陸",
-          "lesson_count": 311,
+          "lesson_count": 319,
           "path": "by_store/pilatesk/ピラティスK_ootagawa.json"
         },
         {
@@ -3842,7 +3842,7 @@
           "store_id": "gunma-maebashi",
           "store": "ピラティスK maebashi",
           "region": "関東",
-          "lesson_count": 313,
+          "lesson_count": 316,
           "path": "by_store/pilatesk/ピラティスK_maebashi.json"
         },
         {
@@ -3870,7 +3870,7 @@
           "store_id": "hokkaido-hakodate",
           "store": "ピラティスK hakodate",
           "region": "北海道・東北",
-          "lesson_count": 305,
+          "lesson_count": 314,
           "path": "by_store/pilatesk/ピラティスK_hakodate.json"
         },
         {
@@ -3919,14 +3919,14 @@
           "store_id": "hyogo-himeji",
           "store": "ピラティスK himeji",
           "region": "近畿",
-          "lesson_count": 284,
+          "lesson_count": 285,
           "path": "by_store/pilatesk/ピラティスK_himeji.json"
         },
         {
           "store_id": "hyogo-kobe",
           "store": "ピラティスK kobe",
           "region": "近畿",
-          "lesson_count": 268,
+          "lesson_count": 276,
           "path": "by_store/pilatesk/ピラティスK_kobe.json"
         },
         {
@@ -3940,14 +3940,14 @@
           "store_id": "hyogo-nishinomiya",
           "store": "ピラティスK nishinomiya",
           "region": "近畿",
-          "lesson_count": 284,
+          "lesson_count": 294,
           "path": "by_store/pilatesk/ピラティスK_nishinomiya.json"
         },
         {
           "store_id": "ishikawa-kanazawa",
           "store": "ピラティスK kanazawa",
           "region": "中部・北陸",
-          "lesson_count": 101,
+          "lesson_count": 107,
           "path": "by_store/pilatesk/ピラティスK_kanazawa.json"
         },
         {
@@ -3961,42 +3961,42 @@
           "store_id": "kanagawa-atsugi",
           "store": "ピラティスK atsugi",
           "region": "関東",
-          "lesson_count": 274,
+          "lesson_count": 293,
           "path": "by_store/pilatesk/ピラティスK_atsugi.json"
         },
         {
           "store_id": "kanagawa-center-kita",
           "store": "ピラティスK center-kita",
           "region": "関東",
-          "lesson_count": 209,
+          "lesson_count": 215,
           "path": "by_store/pilatesk/ピラティスK_center-kita.json"
         },
         {
           "store_id": "kanagawa-futamatagawa",
           "store": "ピラティスK futamatagawa",
           "region": "関東",
-          "lesson_count": 250,
+          "lesson_count": 253,
           "path": "by_store/pilatesk/ピラティスK_futamatagawa.json"
         },
         {
           "store_id": "kanagawa-kamiooka",
           "store": "ピラティスK kamiooka",
           "region": "関東",
-          "lesson_count": 293,
+          "lesson_count": 302,
           "path": "by_store/pilatesk/ピラティスK_kamiooka.json"
         },
         {
           "store_id": "kanagawa-kawasaki",
           "store": "ピラティスK kawasaki",
           "region": "関東",
-          "lesson_count": 309,
+          "lesson_count": 318,
           "path": "by_store/pilatesk/ピラティスK_kawasaki.json"
         },
         {
           "store_id": "kanagawa-mizonokuchi",
           "store": "ピラティスK mizonokuchi",
           "region": "関東",
-          "lesson_count": 310,
+          "lesson_count": 314,
           "path": "by_store/pilatesk/ピラティスK_mizonokuchi.json"
         },
         {
@@ -4115,7 +4115,7 @@
           "store_id": "osaka-ibaraki",
           "store": "ピラティスK ibaraki",
           "region": "近畿",
-          "lesson_count": 117,
+          "lesson_count": 118,
           "path": "by_store/pilatesk/ピラティスK_ibaraki.json"
         },
         {
@@ -4129,7 +4129,7 @@
           "store_id": "osaka-kuzuha",
           "store": "ピラティスK kuzuha",
           "region": "近畿",
-          "lesson_count": 109,
+          "lesson_count": 112,
           "path": "by_store/pilatesk/ピラティスK_kuzuha.json"
         },
         {
@@ -4290,7 +4290,7 @@
           "store_id": "shiga-minami-kusatsu",
           "store": "ピラティスK minami-kusatsu",
           "region": "近畿",
-          "lesson_count": 121,
+          "lesson_count": 122,
           "path": "by_store/pilatesk/ピラティスK_minami-kusatsu.json"
         },
         {
@@ -4353,7 +4353,7 @@
           "store_id": "tokyo-higashi-yamato",
           "store": "ピラティスK higashi-yamato",
           "region": "関東",
-          "lesson_count": 157,
+          "lesson_count": 158,
           "path": "by_store/pilatesk/ピラティスK_higashi-yamato.json"
         },
         {
@@ -4388,7 +4388,7 @@
           "store_id": "tokyo-kasuga",
           "store": "ピラティスK kasuga",
           "region": "関東",
-          "lesson_count": 114,
+          "lesson_count": 115,
           "path": "by_store/pilatesk/ピラティスK_kasuga.json"
         },
         {
@@ -4437,7 +4437,7 @@
           "store_id": "tokyo-omori",
           "store": "ピラティスK omori",
           "region": "関東",
-          "lesson_count": 86,
+          "lesson_count": 88,
           "path": "by_store/pilatesk/ピラティスK_omori.json"
         },
         {
@@ -5045,7 +5045,7 @@
           "store_id": "004469",
           "store": "コナミスポーツクラブ 府中",
           "region": "関東",
-          "lesson_count": 123,
+          "lesson_count": 124,
           "path": "by_store/konami/コナミスポーツクラブ_府中.json"
         },
         {
@@ -6079,7 +6079,7 @@
           "store_id": "hibiya",
           "store": "メガロス 日比谷シャンテ",
           "region": "関東",
-          "lesson_count": 116,
+          "lesson_count": 117,
           "path": "by_store/megalos/メガロス_日比谷シャンテ.json"
         },
         {
@@ -6205,7 +6205,7 @@
           "store_id": "souka",
           "store": "メガロス 草加",
           "region": "関東",
-          "lesson_count": 607,
+          "lesson_count": 608,
           "path": "by_store/megalos/メガロス_草加.json"
         },
         {
@@ -6226,14 +6226,14 @@
           "store_id": "tachikawa_reflet",
           "store": "メガロス ルフレ立川南 ー女性専用スタジオー",
           "region": "関東",
-          "lesson_count": 71,
+          "lesson_count": 72,
           "path": "by_store/megalos/メガロス_ルフレ立川南_ー女性専用スタジオー.json"
         },
         {
           "store_id": "tsunashima",
           "store": "メガロス 綱島",
           "region": "関東",
-          "lesson_count": 603,
+          "lesson_count": 604,
           "path": "by_store/megalos/メガロス_綱島.json"
         },
         {
@@ -6267,7 +6267,7 @@
           "store_id": "10210",
           "store": "南大沢東京",
           "region": "関東",
-          "lesson_count": 90,
+          "lesson_count": 91,
           "path": "by_store/goldsgym/南大沢東京.json"
         },
         {
@@ -6316,7 +6316,7 @@
           "store_id": "12120",
           "store": "幕張千葉WBG",
           "region": "関東",
-          "lesson_count": 144,
+          "lesson_count": 146,
           "path": "by_store/goldsgym/幕張千葉WBG.json"
         },
         {
@@ -6365,7 +6365,7 @@
           "store_id": "12180",
           "store": "本八幡千葉",
           "region": "関東",
-          "lesson_count": 68,
+          "lesson_count": 70,
           "path": "by_store/goldsgym/本八幡千葉.json"
         },
         {
@@ -6477,14 +6477,14 @@
           "store_id": "13220",
           "store": "サウス東京ANNEX",
           "region": "関東",
-          "lesson_count": 123,
+          "lesson_count": 124,
           "path": "by_store/goldsgym/サウス東京ANNEX.json"
         },
         {
           "store_id": "13230",
           "store": "サウス東京 (OPEN 24 HOURS)",
           "region": "関東",
-          "lesson_count": 53,
+          "lesson_count": 54,
           "path": "by_store/goldsgym/サウス東京_(OPEN_24_HOURS).json"
         },
         {
@@ -6589,7 +6589,7 @@
           "store_id": "180926",
           "store": "山口宇部（フランチャイズ店）",
           "region": "中国・四国",
-          "lesson_count": 60,
+          "lesson_count": 61,
           "path": "by_store/goldsgym/山口宇部（フランチャイズ店）.json"
         },
         {
@@ -6827,7 +6827,7 @@
           "store_id": "26100",
           "store": "京都二条 (OPEN 24 HOURS)",
           "region": "近畿",
-          "lesson_count": 91,
+          "lesson_count": 92,
           "path": "by_store/goldsgym/京都二条_(OPEN_24_HOURS).json"
         },
         {
@@ -6987,7 +6987,7 @@
           "store_id": "SHP001",
           "store": "TIP.X TOKYO渋谷",
           "region": "関東",
-          "lesson_count": 250,
+          "lesson_count": 251,
           "path": "by_store/tipness/TIP.X_TOKYO渋谷.json"
         },
         {
@@ -7029,7 +7029,7 @@
           "store_id": "SHP013",
           "store": "ティップネス藤沢",
           "region": "関東",
-          "lesson_count": 193,
+          "lesson_count": 194,
           "path": "by_store/tipness/ティップネス藤沢.json"
         },
         {
@@ -7043,7 +7043,7 @@
           "store_id": "SHP019",
           "store": "ティップネス天王寺",
           "region": "近畿",
-          "lesson_count": 157,
+          "lesson_count": 159,
           "path": "by_store/tipness/ティップネス天王寺.json"
         },
         {
@@ -7218,14 +7218,14 @@
           "store_id": "SHP052",
           "store": "ティップネス二俣川24hours",
           "region": "関東",
-          "lesson_count": 282,
+          "lesson_count": 284,
           "path": "by_store/tipness/ティップネス二俣川24hours.json"
         },
         {
           "store_id": "SHP056",
           "store": "ティップネス川崎",
           "region": "関東",
-          "lesson_count": 328,
+          "lesson_count": 329,
           "path": "by_store/tipness/ティップネス川崎.json"
         },
         {
@@ -8015,7 +8015,7 @@
           "store_id": "105-higashikishiwada",
           "store": "東岸和田店",
           "region": "近畿",
-          "lesson_count": 85,
+          "lesson_count": 86,
           "path": "by_store/holiday/東岸和田店.json"
         }
       ]
@@ -8028,7 +8028,7 @@
           "store_id": "aeon-kamisato",
           "store": "loIve aeon-kamisato",
           "region": "関東",
-          "lesson_count": 185,
+          "lesson_count": 186,
           "path": "by_store/loive/loIve_aeon-kamisato.json"
         },
         {
@@ -8245,7 +8245,7 @@
           "store_id": "tomakomai",
           "store": "loIve tomakomai",
           "region": "北海道・東北",
-          "lesson_count": 163,
+          "lesson_count": 167,
           "path": "by_store/loive/loIve_tomakomai.json"
         },
         {
@@ -8335,7 +8335,7 @@
           "store_id": "fukaya",
           "store": "JOYFIT24 深谷",
           "region": "関東",
-          "lesson_count": 149,
+          "lesson_count": 150,
           "path": "by_store/joyfit/JOYFIT24_深谷.json"
         },
         {
@@ -8398,14 +8398,14 @@
           "store_id": "ikkyu",
           "store": "JOYFIT24 01(ゼロワン)",
           "region": "北海道・東北",
-          "lesson_count": 281,
+          "lesson_count": 283,
           "path": "by_store/joyfit/JOYFIT24_01(ゼロワン).json"
         },
         {
           "store_id": "ishinomaki",
           "store": "JOYFIT24 石巻",
           "region": "北海道・東北",
-          "lesson_count": 47,
+          "lesson_count": 48,
           "path": "by_store/joyfit/JOYFIT24_石巻.json"
         },
         {
@@ -8447,7 +8447,7 @@
           "store_id": "marugame",
           "store": "JOYFIT24 丸亀",
           "region": "中国・四国",
-          "lesson_count": 76,
+          "lesson_count": 78,
           "path": "by_store/joyfit/JOYFIT24_丸亀.json"
         },
         {
@@ -8650,7 +8650,7 @@
           "store_id": "tsukubatakezono",
           "store": "JOYFIT つくば竹園",
           "region": "関東",
-          "lesson_count": 113,
+          "lesson_count": 114,
           "path": "by_store/joyfit/JOYFIT_つくば竹園.json"
         },
         {
@@ -8852,7 +8852,7 @@
           "store_id": "iida",
           "store": "フィットイージー飯田店",
           "region": "中部・北陸",
-          "lesson_count": 101,
+          "lesson_count": 103,
           "path": "by_store/fiteasy/フィットイージー飯田店.json"
         },
         {
@@ -9194,7 +9194,7 @@
           "store_id": "kasugai",
           "store": "アクトス 春日井店",
           "region": "中部・北陸",
-          "lesson_count": 87,
+          "lesson_count": 88,
           "path": "by_store/axtos/アクトス_春日井店.json"
         },
         {
@@ -10074,7 +10074,7 @@
           "store_id": "toyonakashoji",
           "store": "豊中少路24",
           "region": "近畿",
-          "lesson_count": 128,
+          "lesson_count": 130,
           "path": "by_store/cospa/豊中少路24.json"
         },
         {
@@ -10820,7 +10820,7 @@
           "store_id": "osaki",
           "store": "NAS大崎",
           "region": "関東",
-          "lesson_count": 170,
+          "lesson_count": 171,
           "path": "by_store/nas/NAS大崎.json"
         },
         {
@@ -13197,7 +13197,7 @@
           "store_id": "kasukabe",
           "store": "イトマンスポーツスクエア 川口元郷店",
           "region": "その他",
-          "lesson_count": 151,
+          "lesson_count": 153,
           "path": "by_store/itoman_w/イトマンスポーツスクエア_川口元郷店.json"
         },
         {
@@ -13646,7 +13646,7 @@
           "store_id": "due_musashikoyama",
           "store": "アトリオドゥーエNext武蔵小山",
           "region": "関東",
-          "lesson_count": 180,
+          "lesson_count": 181,
           "path": "by_store/atrio/アトリオドゥーエNext武蔵小山.json"
         },
         {
@@ -13713,14 +13713,14 @@
           "store_id": "takadanobaba",
           "store": "高田馬場",
           "region": "関東",
-          "lesson_count": 183,
+          "lesson_count": 184,
           "path": "by_store/seibu/高田馬場.json"
         },
         {
           "store_id": "tokorozawa",
           "store": "所沢",
           "region": "関東",
-          "lesson_count": 245,
+          "lesson_count": 247,
           "path": "by_store/seibu/所沢.json"
         }
       ]
@@ -13849,7 +13849,7 @@
           "store_id": "dainichi",
           "store": "Bears大日 スポーツクラブVivo",
           "region": "近畿",
-          "lesson_count": 109,
+          "lesson_count": 110,
           "path": "by_store/vivo/Bears大日_スポーツクラブVivo.json"
         },
         {
@@ -14155,7 +14155,7 @@
           "store_id": "takasaki",
           "store": "グランクラブ高崎",
           "region": "関東",
-          "lesson_count": 203,
+          "lesson_count": 204,
           "path": "by_store/grandclub/グランクラブ高崎.json"
         }
       ]
@@ -14763,7 +14763,7 @@
           "store_id": "main",
           "store": "フィットネスクラブBIO",
           "region": "北海道・東北",
-          "lesson_count": 87,
+          "lesson_count": 88,
           "path": "by_store/bio_obihiro/フィットネスクラブBIO.json"
         }
       ]

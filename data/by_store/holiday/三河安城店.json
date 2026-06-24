@@ -1081,7 +1081,7 @@
     "end": "12:30",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": null,
+    "instructor": "TOMO",
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",

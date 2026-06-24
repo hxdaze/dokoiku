@@ -571,7 +571,7 @@
     "end": "11:50",
     "class_name": "ヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "Grace",
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,

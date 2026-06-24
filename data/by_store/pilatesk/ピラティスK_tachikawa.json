@@ -1336,7 +1336,7 @@
     "end": "19:00",
     "class_name": "Shape up waist",
     "category": "PILATES",
-    "instructor": null,
+    "instructor": "Mao",
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",

@@ -384,7 +384,7 @@
     "end": "11:20",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": null,
+    "instructor": "AKIKO",
     "studio": "ROSSO",
     "reservation_required": true,
     "genre": null,

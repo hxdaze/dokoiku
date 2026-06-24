@@ -10,11 +10,11 @@
     "end": "10:55",
     "class_name": "朝ヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "kasumi",
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
-    "genre": null,
-    "note": null
+    "genre": "ヨガ",
+    "note": "1週間の始まりをヨガで気持ちよくスタートしましょう。呼吸に合わせて無理なく自分のペースで身体を動かしていくクラスです。"
   },
   {
     "gym_id": "aeon",
@@ -27,11 +27,11 @@
     "end": "12:10",
     "class_name": "骨盤エクササイズ",
     "category": "WELLNESS",
-    "instructor": null,
+    "instructor": "kasumi",
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
-    "genre": null,
-    "note": null
+    "genre": "エクササイズ",
+    "note": "日常生活で生まれた骨盤・体の歪みを、ストレッチやエクササイズで、ゆっくりと矯正していくクラスです。"
   },
   {
     "gym_id": "aeon",
@@ -44,11 +44,11 @@
     "end": "13:25",
     "class_name": "体幹ピラティス",
     "category": "PILATES",
-    "instructor": null,
+    "instructor": "MARIKO",
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
-    "genre": null,
-    "note": null
+    "genre": "エクササイズ",
+    "note": "体幹(コア)を中心に全身の筋肉をバランスよく鍛え、姿勢や柔軟性、バランス感覚を向上させるエクササイズです。"
   },
   {
     "gym_id": "aeon",
@@ -61,11 +61,11 @@
     "end": "10:55",
     "class_name": "ベーシックヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "ASUKA",
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
-    "genre": null,
-    "note": null
+    "genre": "ヨガ",
+    "note": "ヨガの基本的なポーズを穏やかな呼吸とともに、心身を整えていくクラスです。ヨガが初めての方でも安心してご参加いただけます。"
   },
   {
     "gym_id": "aeon",
@@ -112,11 +112,11 @@
     "end": "12:10",
     "class_name": "リセットヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "ASUKA",
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
-    "genre": null,
-    "note": null
+    "genre": "ヨガ",
+    "note": "繰り返す動きやヨガのポーズで筋肉に刺激を入れながら、呼吸に合わせて全身を心地よく動かすことで心と体をリセット♡柔軟性UP,身体の歪み解消にも効果的です。"
   },
   {
     "gym_id": "aeon",
@@ -146,7 +146,7 @@
     "end": "10:55",
     "class_name": "リラックスヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "AKO",
     "studio": "新体操スタジオ",
     "reservation_required": false,
     "genre": null,
@@ -435,7 +435,7 @@
     "end": "11:30",
     "class_name": "初級エアロビクス",
     "category": "AEROBICS",
-    "instructor": null,
+    "instructor": "Natsumi",
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
@@ -469,7 +469,7 @@
     "end": "11:30",
     "class_name": "初級エアロビクス",
     "category": "AEROBICS",
-    "instructor": null,
+    "instructor": "Natsumi",
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",

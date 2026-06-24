@@ -486,7 +486,7 @@
     "end": "12:40",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": null,
+    "instructor": "Lisa",
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,

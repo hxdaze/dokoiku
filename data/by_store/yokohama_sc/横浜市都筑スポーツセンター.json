@@ -350,7 +350,7 @@
     "end": "10:50",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": null,
+    "instructor": "YOKO",
     "studio": null,
     "reservation_required": false,
     "genre": null,

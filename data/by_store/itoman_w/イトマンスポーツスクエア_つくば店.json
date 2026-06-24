@@ -707,7 +707,7 @@
     "end": "13:45",
     "class_name": "フリースタイルダンス",
     "category": "JAZZ DANCE",
-    "instructor": null,
+    "instructor": "HIDE",
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,

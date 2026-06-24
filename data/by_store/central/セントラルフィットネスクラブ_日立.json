@@ -979,7 +979,7 @@
     "end": "15:30",
     "class_name": "ヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "CSREC",
     "studio": "第1スタジオ",
     "reservation_required": true,
     "genre": null,

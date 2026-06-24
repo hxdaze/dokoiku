@@ -231,7 +231,7 @@
     "end": "13:30",
     "class_name": "ヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "YUMIKO",
     "studio": null,
     "reservation_required": false,
     "genre": null,

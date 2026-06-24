@@ -2322,7 +2322,7 @@
     "end": "11:00",
     "class_name": "イシユアギ HARU",
     "category": "OTHER",
-    "instructor": null,
+    "instructor": "HARU",
     "studio": null,
     "reservation_required": false,
     "genre": null,

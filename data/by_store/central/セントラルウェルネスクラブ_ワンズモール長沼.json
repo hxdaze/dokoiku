@@ -809,7 +809,7 @@
     "end": "13:10",
     "class_name": "シェイプパンプPOWER",
     "category": "STRENGTH & CORE",
-    "instructor": null,
+    "instructor": "CSLive",
     "studio": "HOTスタジオ",
     "reservation_required": false,
     "genre": null,
