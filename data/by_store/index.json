@@ -6778,7 +6778,7 @@
           "store_id": "210305",
           "store": "合志熊本",
           "region": "九州・沖縄",
-          "lesson_count": 64,
+          "lesson_count": 63,
           "path": "by_store/goldsgym/合志熊本.json"
         },
         {
@@ -8461,7 +8461,7 @@
           "store_id": "matsumotoshounai",
           "store": "JOYFIT24 松本庄内",
           "region": "中部・北陸",
-          "lesson_count": 86,
+          "lesson_count": 84,
           "path": "by_store/joyfit/JOYFIT24_松本庄内.json"
         },
         {
@@ -12899,7 +12899,7 @@
           "store_id": "funabashi",
           "store": "東武スポーツクラブ プレオン船橋",
           "region": "関東",
-          "lesson_count": 336,
+          "lesson_count": 335,
           "path": "by_store/tobu/東武スポーツクラブ_プレオン船橋.json"
         },
         {
@@ -13190,7 +13190,7 @@
           "store_id": "hiratsuka",
           "store": "イトマンスポーツスクエア 茅ヶ崎店",
           "region": "その他",
-          "lesson_count": 94,
+          "lesson_count": 92,
           "path": "by_store/itoman_w/イトマンスポーツスクエア_茅ヶ崎店.json"
         },
         {
@@ -13260,7 +13260,7 @@
           "store_id": "urayasu",
           "store": "イトマンスポーツスクエア 流山おおたかの森店",
           "region": "その他",
-          "lesson_count": 69,
+          "lesson_count": 68,
           "path": "by_store/itoman_w/イトマンスポーツスクエア_流山おおたかの森店.json"
         }
       ]
@@ -13890,7 +13890,7 @@
           "store_id": "shikishima",
           "store": "ブルーアース敷島店",
           "region": "中部・北陸",
-          "lesson_count": 66,
+          "lesson_count": 64,
           "path": "by_store/blueearth/ブルーアース敷島店.json"
         },
         {

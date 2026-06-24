@@ -1154,22 +1154,5 @@
     "reservation_required": true,
     "genre": null,
     "note": "19:45~20:45 / 有料スクール"
-  },
-  {
-    "gym_id": "itoman_w",
-    "store_id": "urayasu",
-    "store": "イトマンスポーツスクエア 流山おおたかの森店",
-    "region": "その他",
-    "prefecture": null,
-    "day": "日",
-    "start": "18:30",
-    "end": "20:30",
-    "class_name": "マシンジム・プールエリア利用時間",
-    "category": "OTHER",
-    "instructor": null,
-    "studio": null,
-    "reservation_required": false,
-    "genre": null,
-    "note": "18:30 まで"
   }
 ]
