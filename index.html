@@ -68,7 +68,16 @@
   </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7911204223031859"
      crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="style.css?v=20260625080130" />
+  <!-- 広告設定: Google AdSense と独自広告を併用可。各枠は未設定なら非表示。
+       adsense: AdSenseの広告ユニットID(data-ad-slot)。html: 独自広告のHTML。 -->
+  <script>
+    window.ADS = {
+      client: "ca-pub-7911204223031859",
+      top:    { adsense: "", html: "" },   // 検索設定と検索結果の間
+      bottom: { adsense: "", html: "" },   // 検索結果の最後
+    };
+  </script>
+  <link rel="stylesheet" href="style.css?v=20260625081551" />
 </head>
 <body>
   <header>
@@ -158,8 +167,13 @@
     <button class="btn btn-clear" id="resetBtn" type="button">✕ クリア</button>
   </section>
 
+  <!-- 広告枠(検索設定と検索結果の間)。window.ADS未設定なら非表示。 -->
+  <div id="ad-top" class="ad-slot"></div>
+
   <div class="summary" id="summary"></div>
   <main id="main"><div class="loading">読み込み中…</div></main>
+  <!-- 広告枠(検索結果の最後)。window.ADS未設定なら非表示。 -->
+  <div id="ad-bottom" class="ad-slot"></div>
   <aside class="homage">
     <span class="homage-heart">♥</span>
     <span class="homage-text">
@@ -188,8 +202,8 @@
   </footer>
 
   <script>window.SITE_NAME = "どこジム♪";</script>
-  <script>window.SITE_BASE="/dokoiku/";window.BUILD_VERSION="20260625080130";</script>
-  <script src="query.js?v=20260625080130"></script>
-  <script src="app.js?v=20260625080130"></script>
+  <script>window.SITE_BASE="/dokoiku/";window.BUILD_VERSION="20260625081551";</script>
+  <script src="query.js?v=20260625081551"></script>
+  <script src="app.js?v=20260625081551"></script>
 </body>
 </html>

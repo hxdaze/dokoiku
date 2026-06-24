@@ -540,6 +540,42 @@ async function renderInstructorDetail(ins) {
   if (bk) bk.addEventListener("click", () => { state.instructor_id = ""; saveState(); renderInstructorView(); });
 }
 
+// ---- 広告枠(Google AdSense + 独自広告を併用。window.ADS で設定。未設定なら非表示) ----
+function renderAds() {
+  const cfg = (typeof window !== "undefined" && window.ADS) || null;
+  for (const pos of ["top", "bottom"]) {
+    const el = document.getElementById(`ad-${pos}`);
+    if (!el) continue;
+    const slot = cfg && cfg[pos];
+    el.innerHTML = "";
+    el.style.display = "none";
+    if (!slot) continue;
+    let shown = false;
+    // 1) 独自広告(HTML)
+    if (slot.html) {
+      const box = document.createElement("div");
+      box.className = "ad-custom";
+      box.innerHTML = slot.html;
+      el.appendChild(box);
+      shown = true;
+    }
+    // 2) Google AdSense(広告ユニットID指定時)
+    if (slot.adsense && cfg.client) {
+      const ins = document.createElement("ins");
+      ins.className = "adsbygoogle";
+      ins.style.display = "block";
+      ins.setAttribute("data-ad-client", cfg.client);
+      ins.setAttribute("data-ad-slot", slot.adsense);
+      ins.setAttribute("data-ad-format", "auto");
+      ins.setAttribute("data-full-width-responsive", "true");
+      el.appendChild(ins);
+      try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (_e) {}
+      shown = true;
+    }
+    el.style.display = shown ? "" : "none";
+  }
+}
+
 // ---- お気に入りビュー(一覧／週間カレンダー。端末内localStorage) ----
 function renderFavView() {
   const favs = [...FAV.values()];
@@ -1149,6 +1185,7 @@ async function main() {
   try {
     fillControls();
     bind();
+    renderAds();
     await update();
   } catch (e) {
     const msg = escapeHtml(e && e.message ? e.message : String(e));
