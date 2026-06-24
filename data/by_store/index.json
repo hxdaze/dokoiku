@@ -2674,7 +2674,7 @@
           "store_id": "alpark",
           "store": "セントラルフィットネスクラブ アルパーク（広島）",
           "region": "中国・四国",
-          "lesson_count": 121,
+          "lesson_count": 130,
           "path": "by_store/central/セントラルフィットネスクラブ_アルパーク（広島）.json"
         },
         {
@@ -2912,7 +2912,7 @@
           "store_id": "futamatagawa",
           "store": "セントラルフィットネスクラブ24 二俣川",
           "region": "関東",
-          "lesson_count": 158,
+          "lesson_count": 175,
           "path": "by_store/central/セントラルフィットネスクラブ24_二俣川.json"
         },
         {
@@ -2996,7 +2996,7 @@
           "store_id": "hachioji",
           "store": "セントラルフィットネスクラブ 八王子",
           "region": "関東",
-          "lesson_count": 165,
+          "lesson_count": 167,
           "path": "by_store/central/セントラルフィットネスクラブ_八王子.json"
         },
         {
@@ -3087,7 +3087,7 @@
           "store_id": "ichikawa",
           "store": "セントラルフィットネスクラブ 市川",
           "region": "関東",
-          "lesson_count": 112,
+          "lesson_count": 117,
           "path": "by_store/central/セントラルフィットネスクラブ_市川.json"
         },
         {
@@ -3122,7 +3122,7 @@
           "store_id": "jiyugaoka",
           "store": "セントラルフィットネスクラブ24自由が丘",
           "region": "関東",
-          "lesson_count": 170,
+          "lesson_count": 171,
           "path": "by_store/central/セントラルフィットネスクラブ24自由が丘.json"
         },
         {
@@ -3171,7 +3171,7 @@
           "store_id": "kitasendai",
           "store": "セントラルウェルネスクラブ 北仙台",
           "region": "北海道・東北",
-          "lesson_count": 120,
+          "lesson_count": 121,
           "path": "by_store/central/セントラルウェルネスクラブ_北仙台.json"
         },
         {
@@ -3451,7 +3451,7 @@
           "store_id": "sendai",
           "store": "セントラルフィットネスクラブ24 仙台",
           "region": "北海道・東北",
-          "lesson_count": 121,
+          "lesson_count": 161,
           "path": "by_store/central/セントラルフィットネスクラブ24_仙台.json"
         },
         {
@@ -6072,14 +6072,14 @@
           "store_id": "hamamatsu",
           "store": "メガロス 浜松市野",
           "region": "中部・北陸",
-          "lesson_count": 308,
+          "lesson_count": 324,
           "path": "by_store/megalos/メガロス_浜松市野.json"
         },
         {
           "store_id": "hibiya",
           "store": "メガロス 日比谷シャンテ",
           "region": "関東",
-          "lesson_count": 117,
+          "lesson_count": 116,
           "path": "by_store/megalos/メガロス_日比谷シャンテ.json"
         },
         {
@@ -6121,7 +6121,7 @@
           "store_id": "kichijoji",
           "store": "メガロス 吉祥寺",
           "region": "関東",
-          "lesson_count": 163,
+          "lesson_count": 165,
           "path": "by_store/megalos/メガロス_吉祥寺.json"
         },
         {
@@ -6142,7 +6142,7 @@
           "store_id": "machida",
           "store": "メガロス 町田",
           "region": "関東",
-          "lesson_count": 248,
+          "lesson_count": 247,
           "path": "by_store/megalos/メガロス_町田.json"
         },
         {
@@ -6477,7 +6477,7 @@
           "store_id": "13220",
           "store": "サウス東京ANNEX",
           "region": "関東",
-          "lesson_count": 130,
+          "lesson_count": 123,
           "path": "by_store/goldsgym/サウス東京ANNEX.json"
         },
         {
@@ -6512,7 +6512,7 @@
           "store_id": "14110",
           "store": "溝の口神奈川",
           "region": "関東",
-          "lesson_count": 90,
+          "lesson_count": 91,
           "path": "by_store/goldsgym/溝の口神奈川.json"
         },
         {
@@ -10834,7 +10834,7 @@
           "store_id": "rivercity21",
           "store": "フィットネス&スパNAS リバーシティ21",
           "region": "関東",
-          "lesson_count": 99,
+          "lesson_count": 102,
           "path": "by_store/nas/フィットネス&スパNAS_リバーシティ21.json"
         },
         {
@@ -11036,7 +11036,7 @@
           "store_id": "イオンスポーツクラブ-3fit-高知店",
           "store": "イオンスポーツクラブ 3FIT 高知店",
           "region": "中国・四国",
-          "lesson_count": 122,
+          "lesson_count": 125,
           "path": "by_store/aeon/イオンスポーツクラブ_3FIT_高知店.json"
         },
         {
@@ -12231,7 +12231,7 @@
           "store_id": "kumagaya",
           "store": "スポーツスパ アスリエ熊谷",
           "region": "関東",
-          "lesson_count": 187,
+          "lesson_count": 186,
           "path": "by_store/asurie/スポーツスパ_アスリエ熊谷.json"
         },
         {
@@ -12245,7 +12245,7 @@
           "store_id": "saginuma",
           "store": "スポーツスパ アスリエ鷺沼",
           "region": "関東",
-          "lesson_count": 108,
+          "lesson_count": 106,
           "path": "by_store/asurie/スポーツスパ_アスリエ鷺沼.json"
         },
         {
@@ -13211,7 +13211,7 @@
           "store_id": "kawaguchimotogou",
           "store": "イトマンスポーツスクエア 川口店",
           "region": "その他",
-          "lesson_count": 95,
+          "lesson_count": 94,
           "path": "by_store/itoman_w/イトマンスポーツスクエア_川口店.json"
         },
         {
@@ -14122,7 +14122,7 @@
           "store_id": "minamikusatsu",
           "store": "ビバスポーツアカデミー南草津",
           "region": "近畿",
-          "lesson_count": 94,
+          "lesson_count": 95,
           "path": "by_store/viva/ビバスポーツアカデミー南草津.json"
         },
         {
@@ -14685,7 +14685,7 @@
           "store_id": "main",
           "store": "和光市総合体育館",
           "region": "関東",
-          "lesson_count": 120,
+          "lesson_count": 119,
           "path": "by_store/wako_seika/和光市総合体育館.json"
         }
       ]
@@ -15640,19 +15640,6 @@
       ]
     },
     {
-      "gym_id": "neighborhood_kiyosumi",
-      "gym": "ネイバーフッドクラブ清澄白河",
-      "stores": [
-        {
-          "store_id": "kiyosumi",
-          "store": "ネイバーフッドクラブ清澄白河",
-          "region": "関東",
-          "lesson_count": 29,
-          "path": "by_store/neighborhood_kiyosumi/ネイバーフッドクラブ清澄白河.json"
-        }
-      ]
-    },
-    {
       "gym_id": "sanda_kagawa",
       "gym": "プロスパークラブサンダ",
       "stores": [
@@ -15701,6 +15688,19 @@
           "region": "中部・北陸",
           "lesson_count": 28,
           "path": "by_store/maxsc/MAXスポーツクラブ（広徳店）.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "neighborhood_kiyosumi",
+      "gym": "ネイバーフッドクラブ清澄白河",
+      "stores": [
+        {
+          "store_id": "kiyosumi",
+          "store": "ネイバーフッドクラブ清澄白河",
+          "region": "関東",
+          "lesson_count": 28,
+          "path": "by_store/neighborhood_kiyosumi/ネイバーフッドクラブ清澄白河.json"
         }
       ]
     },
