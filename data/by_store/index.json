@@ -14489,14 +14489,14 @@
     },
     {
       "gym_id": "muni_nissin_sc",
-      "gym": "レッスン教室一覧",
+      "gym": "日進市スポーツセンター",
       "stores": [
         {
           "store_id": "main",
-          "store": "レッスン教室一覧",
+          "store": "日進市スポーツセンター",
           "region": "中部・北陸",
           "lesson_count": 145,
-          "path": "by_store/muni_nissin_sc/レッスン教室一覧.json"
+          "path": "by_store/muni_nissin_sc/日進市スポーツセンター.json"
         }
       ]
     },
@@ -14581,14 +14581,14 @@
     },
     {
       "gym_id": "muni_sportsfield",
-      "gym": "プログラム表│フィットネス&クア",
+      "gym": "フィットネス&クア スポーツフィールド",
       "stores": [
         {
           "store_id": "main",
-          "store": "プログラム表│フィットネス&クア",
+          "store": "フィットネス&クア スポーツフィールド",
           "region": "関東",
           "lesson_count": 132,
-          "path": "by_store/muni_sportsfield/プログラム表│フィットネス&クア.json"
+          "path": "by_store/muni_sportsfield/フィットネス&クア_スポーツフィールド.json"
         }
       ]
     },
@@ -14731,14 +14731,14 @@
     },
     {
       "gym_id": "muni_kotohira_ikoinosato",
-      "gym": "レッスンスケジュール",
+      "gym": "ヴィスポこんぴら",
       "stores": [
         {
           "store_id": "main",
-          "store": "レッスンスケジュール",
+          "store": "ヴィスポこんぴら",
           "region": "中国・四国",
           "lesson_count": 96,
-          "path": "by_store/muni_kotohira_ikoinosato/レッスンスケジュール.json"
+          "path": "by_store/muni_kotohira_ikoinosato/ヴィスポこんぴら.json"
         }
       ]
     },
@@ -15238,14 +15238,14 @@
     },
     {
       "gym_id": "muni_tokushimacity_sports",
-      "gym": "教室案内",
+      "gym": "徳島市体育振興公社",
       "stores": [
         {
           "store_id": "main",
-          "store": "教室案内",
+          "store": "徳島市体育振興公社",
           "region": "中国・四国",
           "lesson_count": 53,
-          "path": "by_store/muni_tokushimacity_sports/教室案内.json"
+          "path": "by_store/muni_tokushimacity_sports/徳島市体育振興公社.json"
         }
       ]
     },
@@ -15511,14 +15511,14 @@
     },
     {
       "gym_id": "muni_tama_sports",
-      "gym": "総合体育館",
+      "gym": "多摩市立総合体育館",
       "stores": [
         {
           "store_id": "main",
-          "store": "総合体育館",
+          "store": "多摩市立総合体育館",
           "region": "関東",
           "lesson_count": 35,
-          "path": "by_store/muni_tama_sports/総合体育館.json"
+          "path": "by_store/muni_tama_sports/多摩市立総合体育館.json"
         }
       ]
     },
@@ -16187,14 +16187,14 @@
     },
     {
       "gym_id": "muni_sports_kodaira",
-      "gym": "教室案内",
+      "gym": "小平市体育施設",
       "stores": [
         {
           "store_id": "main",
-          "store": "教室案内",
-          "region": "北海道・東北",
+          "store": "小平市体育施設",
+          "region": "関東",
           "lesson_count": 10,
-          "path": "by_store/muni_sports_kodaira/教室案内.json"
+          "path": "by_store/muni_sports_kodaira/小平市体育施設.json"
         }
       ]
     },
