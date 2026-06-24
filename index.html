@@ -68,16 +68,9 @@
   </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7911204223031859"
      crossorigin="anonymous"></script>
-  <!-- 広告設定: Google AdSense と独自広告を併用可。各枠は未設定なら非表示。
-       adsense: AdSenseの広告ユニットID(data-ad-slot)。html: 独自広告のHTML。 -->
-  <script>
-    window.ADS = {
-      client: "ca-pub-7911204223031859",
-      top:    { adsense: "", html: "" },   // 検索設定と検索結果の間
-      bottom: { adsense: "", html: "" },   // 検索結果の最後
-    };
-  </script>
-  <link rel="stylesheet" href="style.css?v=20260625081551" />
+  <!-- 広告は config/ads.json で月別に設定し、ビルド時に data/ads.json へ反映。
+       Google AdSense と独自バナー(複数=ローテーション)を併用可。未設定の枠は非表示。 -->
+  <link rel="stylesheet" href="style.css?v=20260625082248" />
 </head>
 <body>
   <header>
@@ -202,8 +195,8 @@
   </footer>
 
   <script>window.SITE_NAME = "どこジム♪";</script>
-  <script>window.SITE_BASE="/dokoiku/";window.BUILD_VERSION="20260625081551";</script>
-  <script src="query.js?v=20260625081551"></script>
-  <script src="app.js?v=20260625081551"></script>
+  <script>window.SITE_BASE="/dokoiku/";window.BUILD_VERSION="20260625082248";</script>
+  <script src="query.js?v=20260625082248"></script>
+  <script src="app.js?v=20260625082248"></script>
 </body>
 </html>

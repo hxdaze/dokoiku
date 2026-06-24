@@ -101,6 +101,7 @@ let STORE_INFO = new Map();  // gym_id|store_id -> {lat,lon,phone,phone_fmt,addr
 let GYM_LABEL = new Map();
 let INSTRUCTORS = [];                  // イントラDB(サマリ配列)
 const INSTRUCTOR_BY_ID = new Map();    // id -> サマリ
+let ADS = null;                        // 広告設定(data/ads.json 解決済み)
 let lastData = null;
 const sortState = { col: null, dir: "asc" };
 
@@ -220,7 +221,7 @@ function withVer(url) {
 // 初期ロードは meta/stores/daiko のみ(軽量)。レッスン本体は都道府県単位で
 // スコープ選択時に遅延ロードする(一括DLによるモバイルのメモリ枯渇を回避)。
 async function loadData() {
-  const [meta, stores, daiko, instructors] = await Promise.all([
+  const [meta, stores, daiko, instructors, ads] = await Promise.all([
     fetch(withVer("data/meta.json")).then((r) => {
       if (!r.ok) throw new Error(`meta.json HTTP ${r.status}`);
       return r.json();
@@ -231,12 +232,14 @@ async function loadData() {
     }),
     fetch(withVer("data/daiko.json")).then((r) => r.ok ? r.json() : []).catch(() => []),
     fetch(withVer("data/instructors.json")).then((r) => r.ok ? r.json() : { instructors: [] }).catch(() => ({ instructors: [] })),
+    fetch(withVer("data/ads.json")).then((r) => r.ok ? r.json() : null).catch(() => null),
   ]);
   META = meta;
   STORES = stores;
   DAIKO = daiko;
   INSTRUCTORS = (instructors && instructors.instructors) || [];
   for (const ins of INSTRUCTORS) INSTRUCTOR_BY_ID.set(ins.id, ins);
+  ADS = ads || (typeof window !== "undefined" ? window.ADS : null) || null;
   loadFav();
   GQ.setOrders(meta);
   for (const g of meta.gyms) GYM_LABEL.set(g.id, g.label);
@@ -540,23 +543,28 @@ async function renderInstructorDetail(ins) {
   if (bk) bk.addEventListener("click", () => { state.instructor_id = ""; saveState(); renderInstructorView(); });
 }
 
-// ---- 広告枠(Google AdSense + 独自広告を併用。window.ADS で設定。未設定なら非表示) ----
+// ---- 広告枠(Google AdSense + 独自バナー併用。data/ads.json で月別設定。未設定なら非表示) ----
 function renderAds() {
-  const cfg = (typeof window !== "undefined" && window.ADS) || null;
+  const cfg = ADS;
+  if (!cfg) return;
   for (const pos of ["top", "bottom"]) {
     const el = document.getElementById(`ad-${pos}`);
     if (!el) continue;
-    const slot = cfg && cfg[pos];
+    const slot = cfg[pos] || {};
     el.innerHTML = "";
     el.style.display = "none";
-    if (!slot) continue;
     let shown = false;
-    // 1) 独自広告(HTML)
-    if (slot.html) {
-      const box = document.createElement("div");
-      box.className = "ad-custom";
-      box.innerHTML = slot.html;
-      el.appendChild(box);
+    // 1) 独自バナー(複数用意し、読込ごとにランダムで1つ表示=ローテーション)
+    const banners = Array.isArray(slot.banners) ? slot.banners.filter((b) => b && b.img) : [];
+    if (banners.length) {
+      const b = banners[Math.floor(Math.random() * banners.length)];
+      const a = document.createElement("a");
+      a.className = "ad-banner";
+      if (b.link) { a.href = b.link; a.target = "_blank"; a.rel = "noopener sponsored"; }
+      const img = document.createElement("img");
+      img.src = b.img; img.alt = b.alt || "広告"; img.loading = "lazy";
+      a.appendChild(img);
+      el.appendChild(a);
       shown = true;
     }
     // 2) Google AdSense(広告ユニットID指定時)
