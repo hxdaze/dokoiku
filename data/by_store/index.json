@@ -6316,7 +6316,7 @@
           "store_id": "12120",
           "store": "幕張千葉WBG",
           "region": "関東",
-          "lesson_count": 146,
+          "lesson_count": 142,
           "path": "by_store/goldsgym/幕張千葉WBG.json"
         },
         {
@@ -6330,7 +6330,7 @@
           "store_id": "12131",
           "store": "幕張ベイパークアリーナ",
           "region": "関東",
-          "lesson_count": 224,
+          "lesson_count": 220,
           "path": "by_store/goldsgym/幕張ベイパークアリーナ.json"
         },
         {
@@ -6344,7 +6344,7 @@
           "store_id": "12140",
           "store": "行徳千葉フィットネスセンター (OPEN 24 HOURS)",
           "region": "関東",
-          "lesson_count": 85,
+          "lesson_count": 83,
           "path": "by_store/goldsgym/行徳千葉フィットネスセンター_(OPEN_24_HOURS).json"
         },
         {
@@ -10771,7 +10771,7 @@
           "store_id": "hirano",
           "store": "NAS平野",
           "region": "近畿",
-          "lesson_count": 201,
+          "lesson_count": 199,
           "path": "by_store/nas/NAS平野.json"
         },
         {
@@ -12968,7 +12968,7 @@
           "store_id": "yoshiki",
           "store": "SSS SPORTS PLAZA 吉敷",
           "region": "中国・四国",
-          "lesson_count": 355,
+          "lesson_count": 352,
           "path": "by_store/sss_yamaguchi/SSS_SPORTS_PLAZA_吉敷.json"
         }
       ]
@@ -13383,7 +13383,7 @@
           "store_id": "honatsugi",
           "store": "フィットネス＆スパ ココカラ本厚木",
           "region": "関東",
-          "lesson_count": 230,
+          "lesson_count": 229,
           "path": "by_store/coco_kara/フィットネス＆スパ_ココカラ本厚木.json"
         },
         {
