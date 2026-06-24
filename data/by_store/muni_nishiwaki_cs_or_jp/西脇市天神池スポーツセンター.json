@@ -1,0 +1,53 @@
+[
+  {
+    "gym_id": "muni_nishiwaki_cs_or_jp",
+    "store_id": "main",
+    "store": "西脇市天神池スポーツセンター",
+    "region": "近畿",
+    "prefecture": "兵庫県",
+    "day": "火",
+    "start": "08:30",
+    "end": "09:30",
+    "class_name": "Aコース",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  },
+  {
+    "gym_id": "muni_nishiwaki_cs_or_jp",
+    "store_id": "main",
+    "store": "西脇市天神池スポーツセンター",
+    "region": "近畿",
+    "prefecture": "兵庫県",
+    "day": "火",
+    "start": "08:30",
+    "end": "09:30",
+    "class_name": "Bコース",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  },
+  {
+    "gym_id": "muni_nishiwaki_cs_or_jp",
+    "store_id": "main",
+    "store": "西脇市天神池スポーツセンター",
+    "region": "近畿",
+    "prefecture": "兵庫県",
+    "day": "火",
+    "start": "08:30",
+    "end": "09:30",
+    "class_name": "Cコース",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  }
+]

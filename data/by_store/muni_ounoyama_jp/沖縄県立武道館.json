@@ -1,0 +1,36 @@
+[
+  {
+    "gym_id": "muni_ounoyama_jp",
+    "store_id": "main",
+    "store": "沖縄県立武道館",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "day": "月",
+    "start": "18:40",
+    "end": "20:00",
+    "class_name": "水泳",
+    "category": "SWIMMING",
+    "instructor": null,
+    "studio": "水泳プール",
+    "reservation_required": true,
+    "genre": null,
+    "note": "6/18~9/28(定員に達し次第終了) / 成人"
+  },
+  {
+    "gym_id": "muni_ounoyama_jp",
+    "store_id": "main",
+    "store": "沖縄県立武道館",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "day": "木",
+    "start": "18:40",
+    "end": "20:00",
+    "class_name": "水泳",
+    "category": "SWIMMING",
+    "instructor": null,
+    "studio": "水泳プール",
+    "reservation_required": true,
+    "genre": null,
+    "note": "6/18~9/28(定員に達し次第終了) / 成人"
+  }
+]

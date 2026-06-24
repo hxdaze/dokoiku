@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "muni_fitness21_or_jp",
+    "store_id": "main",
+    "store": "大阪市立西スポーツセンター",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "木",
+    "start": "16:45",
+    "end": "17:45",
+    "class_name": "かけっこ教室",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "第2体育場 (7階)",
+    "reservation_required": true,
+    "genre": "スポーツ",
+    "note": "全8回"
+  }
+]

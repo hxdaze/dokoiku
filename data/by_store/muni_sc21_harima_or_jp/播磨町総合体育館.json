@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "muni_sc21_harima_or_jp",
+    "store_id": "main",
+    "store": "播磨町総合体育館",
+    "region": "近畿",
+    "prefecture": "兵庫県",
+    "day": "土",
+    "start": "19:30",
+    "end": "20:45",
+    "class_name": "トレーニング教室",
+    "category": "STRENGTH & CORE",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": true,
+    "genre": null,
+    "note": null
+  }
+]

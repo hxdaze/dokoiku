@@ -528,16 +528,11 @@ async function renderInstructorDetail(ins) {
     ? `<span class="muted"> 別表記: ${escapeHtml(ins.aliases.join(", "))}</span>` : "";
   const head = `<div class="ins-search"><button class="btn" id="insBack">← イントラ検索へ戻る</button>` +
     `<b style="margin-left:10px">${escapeHtml(ins.name)}</b>${alias}</div>`;
-  const body = rows.map((r) => {
-    const label = r.url
-      ? `<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener">${escapeHtml(r.store || "")}</a>`
-      : escapeHtml(r.store || "");
-    return `<tr><td>${escapeHtml(r.gym || "")}</td><td>${label}</td>` +
-      `<td>${escapeHtml(r.day || "")}</td><td>${escapeHtml((r.start || "") + "〜" + (r.end || ""))}</td>` +
-      `<td>${escapeHtml(r.class_name || "")}</td><td>${escapeHtml(r.category || "")}</td></tr>`;
-  }).join("");
+  // クラス検索と同じ行(☆お気に入り・店舗/先生リンク・Gカレ登録)で表示する。
+  const opts = { showDay: true, showStore: true, showCategory: true };
   $("#main").innerHTML = head + (rows.length
-    ? `<table class="ins-table"><thead><tr><th>ジム</th><th>店舗</th><th>曜日</th><th>時間</th><th>クラス</th><th>カテゴリー</th></tr></thead><tbody>${body}</tbody></table>`
+    ? `<table class="grid"><thead>${tableHeader(opts)}</thead><tbody>`
+      + rows.map((r) => lessonRow(r, opts)).join("") + "</tbody></table>"
     : '<div class="empty">レッスンが見つかりませんでした。</div>');
   const bk = document.getElementById("insBack");
   if (bk) bk.addEventListener("click", () => { state.instructor_id = ""; saveState(); renderInstructorView(); });
