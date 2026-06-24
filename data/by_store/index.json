@@ -15,10 +15,11 @@
     "studio",
     "reservation_required",
     "genre",
-    "note"
+    "note",
+    "instructor_id"
   ],
-  "gym_count": 168,
-  "store_count": 2131,
+  "gym_count": 201,
+  "store_count": 2164,
   "gyms": [
     {
       "gym_id": "lava",
@@ -14487,6 +14488,19 @@
       ]
     },
     {
+      "gym_id": "muni_nissin_sc",
+      "gym": "レッスン教室一覧",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "レッスン教室一覧",
+          "region": "中部・北陸",
+          "lesson_count": 145,
+          "path": "by_store/muni_nissin_sc/レッスン教室一覧.json"
+        }
+      ]
+    },
+    {
       "gym_id": "sunpia_sendai",
       "gym": "サンピアスポーツクラブ仙台",
       "stores": [
@@ -14566,6 +14580,19 @@
       ]
     },
     {
+      "gym_id": "muni_sportsfield",
+      "gym": "プログラム表│フィットネス&クア",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "プログラム表│フィットネス&クア",
+          "region": "関東",
+          "lesson_count": 132,
+          "path": "by_store/muni_sportsfield/プログラム表│フィットネス&クア.json"
+        }
+      ]
+    },
+    {
       "gym_id": "minato",
       "gym": "港区スポーツセンター",
       "stores": [
@@ -14638,6 +14665,19 @@
       ]
     },
     {
+      "gym_id": "muni_higashinarisc",
+      "gym": "東成スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "東成スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 123,
+          "path": "by_store/muni_higashinarisc/東成スポーツセンター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "wako_seika",
       "gym": "和光市総合体育館",
       "stores": [
@@ -14686,6 +14726,19 @@
           "region": "関東",
           "lesson_count": 99,
           "path": "by_store/itabashi_sc/板橋区立小豆沢体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_kotohira_ikoinosato",
+      "gym": "レッスンスケジュール",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "レッスンスケジュール",
+          "region": "中国・四国",
+          "lesson_count": 96,
+          "path": "by_store/muni_kotohira_ikoinosato/レッスンスケジュール.json"
         }
       ]
     },
@@ -14768,6 +14821,19 @@
       ]
     },
     {
+      "gym_id": "muni_spo_aca",
+      "gym": "スポーツアカデミー土浦",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "スポーツアカデミー土浦",
+          "region": "関東",
+          "lesson_count": 75,
+          "path": "by_store/muni_spo_aca/スポーツアカデミー土浦.json"
+        }
+      ]
+    },
+    {
       "gym_id": "powerhouse_miyazaki",
       "gym": "パワーハウスジム宮崎",
       "stores": [
@@ -14833,6 +14899,32 @@
       ]
     },
     {
+      "gym_id": "muni_oshino_fc",
+      "gym": "忍野村フィットネスセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "忍野村フィットネスセンター",
+          "region": "中部・北陸",
+          "lesson_count": 67,
+          "path": "by_store/muni_oshino_fc/忍野村フィットネスセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_sangranfit",
+      "gym": "札幌市中央区体育館スポー",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "札幌市中央区体育館スポー",
+          "region": "北海道・東北",
+          "lesson_count": 67,
+          "path": "by_store/muni_sangranfit/札幌市中央区体育館スポー.json"
+        }
+      ]
+    },
+    {
       "gym_id": "nac",
       "gym": "スポーツクラブ・ナック（NAC）",
       "stores": [
@@ -14855,6 +14947,19 @@
           "region": "関東",
           "lesson_count": 65,
           "path": "by_store/ywcawow/東京YWCA_フィットネスワオ（女性専用）.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_tairyoku",
+      "gym": "君津メディカルスポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "君津メディカルスポーツセンター",
+          "region": "関東",
+          "lesson_count": 64,
+          "path": "by_store/muni_tairyoku/君津メディカルスポーツセンター.json"
         }
       ]
     },
@@ -14911,6 +15016,32 @@
       ]
     },
     {
+      "gym_id": "muni_edogawa_sotai",
+      "gym": "江戸川区総合体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "江戸川区総合体育館",
+          "region": "関東",
+          "lesson_count": 62,
+          "path": "by_store/muni_edogawa_sotai/江戸川区総合体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_hadano_sports",
+      "gym": "（公財）秦野市スポーツ協会",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "（公財）秦野市スポーツ協会",
+          "region": "関東",
+          "lesson_count": 61,
+          "path": "by_store/muni_hadano_sports/（公財）秦野市スポーツ協会.json"
+        }
+      ]
+    },
+    {
       "gym_id": "shibuya_sc",
       "gym": "渋谷区スポーツセンター",
       "stores": [
@@ -14924,6 +15055,19 @@
       ]
     },
     {
+      "gym_id": "muni_ebina_shimin_act",
+      "gym": "えびな市民活動センター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "えびな市民活動センター",
+          "region": "関東",
+          "lesson_count": 60,
+          "path": "by_store/muni_ebina_shimin_act/えびな市民活動センター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "alpen",
       "gym": "アルペンフィットネスクラブ",
       "stores": [
@@ -14933,6 +15077,19 @@
           "region": "中部・北陸",
           "lesson_count": 59,
           "path": "by_store/alpen/アルペンフィットネスクラブ甲府.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_kanagawa_sc",
+      "gym": "横浜市神奈川スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "横浜市神奈川スポーツセンター",
+          "region": "関東",
+          "lesson_count": 59,
+          "path": "by_store/muni_kanagawa_sc/横浜市神奈川スポーツセンター.json"
         }
       ]
     },
@@ -15076,6 +15233,32 @@
           "region": "中部・北陸",
           "lesson_count": 53,
           "path": "by_store/jsquare_gifu/ジェイ・スクエア.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_tokushimacity_sports",
+      "gym": "教室案内",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "教室案内",
+          "region": "中国・四国",
+          "lesson_count": 53,
+          "path": "by_store/muni_tokushimacity_sports/教室案内.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_asahi_sportsclub",
+      "gym": "朝日スポーツクラブ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "朝日スポーツクラブ",
+          "region": "近畿",
+          "lesson_count": 52,
+          "path": "by_store/muni_asahi_sportsclub/朝日スポーツクラブ.json"
         }
       ]
     },
@@ -15327,6 +15510,19 @@
       ]
     },
     {
+      "gym_id": "muni_tama_sports",
+      "gym": "総合体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "総合体育館",
+          "region": "関東",
+          "lesson_count": 35,
+          "path": "by_store/muni_tama_sports/総合体育館.json"
+        }
+      ]
+    },
+    {
       "gym_id": "sapporo_kiyota",
       "gym": "札幌市清田区体育館・温水プール",
       "stores": [
@@ -15336,6 +15532,19 @@
           "region": "北海道・東北",
           "lesson_count": 35,
           "path": "by_store/sapporo_kiyota/札幌市清田区体育館・温水プール.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_kosai_sports",
+      "gym": "湖西市スポーツ施設",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "湖西市スポーツ施設",
+          "region": "中部・北陸",
+          "lesson_count": 34,
+          "path": "by_store/muni_kosai_sports/湖西市スポーツ施設.json"
         }
       ]
     },
@@ -15388,6 +15597,19 @@
           "region": "九州・沖縄",
           "lesson_count": 31,
           "path": "by_store/jl_sports/ジェル／JLスポーツクラブ_鹿児島.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_kasamakanri",
+      "gym": "笠間市運動施設",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "笠間市運動施設",
+          "region": "関東",
+          "lesson_count": 31,
+          "path": "by_store/muni_kasamakanri/笠間市運動施設.json"
         }
       ]
     },
@@ -15522,6 +15744,19 @@
       ]
     },
     {
+      "gym_id": "muni_kumagaya_kenkousc",
+      "gym": "熊谷市立健康スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "熊谷市立健康スポーツセンター",
+          "region": "関東",
+          "lesson_count": 26,
+          "path": "by_store/muni_kumagaya_kenkousc/熊谷市立健康スポーツセンター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "kc_kuroshio",
       "gym": "くろしおアリーナ",
       "stores": [
@@ -15531,6 +15766,32 @@
           "region": "中国・四国",
           "lesson_count": 25,
           "path": "by_store/kc_kuroshio/くろしおアリーナ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_e_spo",
+      "gym": "江別市民体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "江別市民体育館",
+          "region": "北海道・東北",
+          "lesson_count": 25,
+          "path": "by_store/muni_e_spo/江別市民体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_kuriyama_sc",
+      "gym": "栗山町スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "栗山町スポーツセンター",
+          "region": "北海道・東北",
+          "lesson_count": 25,
+          "path": "by_store/muni_kuriyama_sc/栗山町スポーツセンター.json"
         }
       ]
     },
@@ -15570,6 +15831,32 @@
           "region": "近畿",
           "lesson_count": 23,
           "path": "by_store/muko_kenko/向日市健康増進センター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_hos_sumiyoshi",
+      "gym": "阿倍野スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "阿倍野スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 23,
+          "path": "by_store/muni_hos_sumiyoshi/阿倍野スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_tsushi_sports",
+      "gym": "津市運動施設 (安濃地域)",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "津市運動施設 (安濃地域)",
+          "region": "近畿",
+          "lesson_count": 23,
+          "path": "by_store/muni_tsushi_sports/津市運動施設_(安濃地域).json"
         }
       ]
     },
@@ -15652,6 +15939,19 @@
       ]
     },
     {
+      "gym_id": "muni_miyakojimasc",
+      "gym": "都島スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "都島スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 21,
+          "path": "by_store/muni_miyakojimasc/都島スポーツセンター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "xyst_wakayama",
       "gym": "ジストスポーツクラブ和歌山",
       "stores": [
@@ -15704,6 +16004,19 @@
       ]
     },
     {
+      "gym_id": "muni_asahisc",
+      "gym": "旭スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "旭スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 17,
+          "path": "by_store/muni_asahisc/旭スポーツセンター.json"
+        }
+      ]
+    },
+    {
       "gym_id": "v10kanazawa",
       "gym": "スポーツクラブ V10ヴィテンかなざわ",
       "stores": [
@@ -15726,6 +16039,32 @@
           "region": "中国・四国",
           "lesson_count": 17,
           "path": "by_store/zero_tottori/フィットネス&スパ_Zeroスポーツ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_ssk_dazaifu_gym",
+      "gym": "とびうめアリーナ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "とびうめアリーナ",
+          "region": "九州・沖縄",
+          "lesson_count": 16,
+          "path": "by_store/muni_ssk_dazaifu_gym/とびうめアリーナ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_ssk_hakata_gym",
+      "gym": "福岡市立博多体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "福岡市立博多体育館",
+          "region": "九州・沖縄",
+          "lesson_count": 15,
+          "path": "by_store/muni_ssk_hakata_gym/福岡市立博多体育館.json"
         }
       ]
     },
@@ -15756,6 +16095,19 @@
       ]
     },
     {
+      "gym_id": "muni_ludens",
+      "gym": "NPO法人ルーデンススポーツクラブ",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "NPO法人ルーデンススポーツクラブ",
+          "region": "中部・北陸",
+          "lesson_count": 13,
+          "path": "by_store/muni_ludens/NPO法人ルーデンススポーツクラブ.json"
+        }
+      ]
+    },
+    {
       "gym_id": "arakawa",
       "gym": "荒川総合スポーツセンター",
       "stores": [
@@ -15765,6 +16117,19 @@
           "region": "関東",
           "lesson_count": 12,
           "path": "by_store/arakawa/荒川総合スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_hiranosc",
+      "gym": "平野スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "平野スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 12,
+          "path": "by_store/muni_hiranosc/平野スポーツセンター.json"
         }
       ]
     },
@@ -15808,6 +16173,32 @@
       ]
     },
     {
+      "gym_id": "muni_akigawa_gymnasium",
+      "gym": "あきる野市秋川体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "あきる野市秋川体育館",
+          "region": "関東",
+          "lesson_count": 10,
+          "path": "by_store/muni_akigawa_gymnasium/あきる野市秋川体育館.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_sports_kodaira",
+      "gym": "教室案内",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "教室案内",
+          "region": "北海道・東北",
+          "lesson_count": 10,
+          "path": "by_store/muni_sports_kodaira/教室案内.json"
+        }
+      ]
+    },
+    {
       "gym_id": "sapporo_shiroishi_pool",
       "gym": "札幌市白石温水プール",
       "stores": [
@@ -15843,6 +16234,19 @@
           "region": "北海道・東北",
           "lesson_count": 8,
           "path": "by_store/fukushima_ncv/NCVふくしまアリーナ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_fukushimasc",
+      "gym": "福島スポーツセンター",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "福島スポーツセンター",
+          "region": "近畿",
+          "lesson_count": 8,
+          "path": "by_store/muni_fukushimasc/福島スポーツセンター.json"
         }
       ]
     },
@@ -15942,6 +16346,32 @@
           "region": "関東",
           "lesson_count": 1,
           "path": "by_store/mahya/巣鴨Class（スタジオ_BOOM!!!）.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_city",
+      "gym": "スポーツプログラム ヨガ教室2ヶ月コース（午前コース",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "スポーツプログラム ヨガ教室2ヶ月コース（午前コース",
+          "region": "中部・北陸",
+          "lesson_count": 2,
+          "path": "by_store/muni_city/スポーツプログラム_ヨガ教室2ヶ月コース（午前コース.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_okaya_sports",
+      "gym": "長野県岡谷市スポーツ施設",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "長野県岡谷市スポーツ施設",
+          "region": "中部・北陸",
+          "lesson_count": 1,
+          "path": "by_store/muni_okaya_sports/長野県岡谷市スポーツ施設.json"
         }
       ]
     }

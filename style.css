@@ -831,3 +831,23 @@ td .muted { white-space: normal; }
   .field { flex: 1 1 100%; }
   .summary { gap: 8px; font-size: 12px; }
 }
+
+/* ---- イントラ検索 ---- */
+.ins-search { padding: 10px 6px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.ins-search input[type="search"] {
+  flex: 1 1 320px; max-width: 520px; padding: 10px 12px; font-size: 15px;
+  border: 1px solid var(--border, #ccc); border-radius: 8px;
+}
+.ins-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; padding: 6px; }
+.ins-card {
+  text-align: left; padding: 10px 12px; border: 1px solid var(--border, #ddd);
+  border-radius: 10px; background: var(--card, #fff); cursor: pointer; transition: .12s;
+}
+.ins-card:hover { border-color: var(--accent, #3a7); box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+.ins-name { font-weight: 700; font-size: 15px; }
+.ins-alias { font-weight: 400; font-size: 12px; color: var(--muted, #888); }
+.ins-meta { font-size: 12px; color: var(--muted, #777); margin-top: 3px; }
+.ins-genres { font-size: 11px; color: var(--accent, #3a7); margin-top: 3px; }
+.ins-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.ins-table th, .ins-table td { border-bottom: 1px solid var(--border, #eee); padding: 6px 8px; text-align: left; }
+.ins-table thead th { position: sticky; top: 0; background: var(--card, #fff); }

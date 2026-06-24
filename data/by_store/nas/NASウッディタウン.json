@@ -758,7 +758,7 @@
     "end": "22:00",
     "class_name": "ピックルボール",
     "category": "OTHER",
-    "instructor": "無料練習会",
+    "instructor": null,
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,

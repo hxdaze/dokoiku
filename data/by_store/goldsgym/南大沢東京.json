@@ -1217,7 +1217,7 @@
     "end": "11:00",
     "class_name": "RITMOS",
     "category": "RITMOS",
-    "instructor": "週替わり",
+    "instructor": null,
     "studio": "Astudio",
     "reservation_required": false,
     "genre": "ダンス",

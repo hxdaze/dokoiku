@@ -894,7 +894,7 @@
     "end": "12:00",
     "class_name": "おとなの水泳教室",
     "category": "SWIMMING",
-    "instructor": "大垣秀60",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,

@@ -945,7 +945,7 @@
     "end": "12:00",
     "class_name": "骨格リセットエクササイズ",
     "category": "YOGA & PILATES",
-    "instructor": "映像プログラム",
+    "instructor": null,
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,

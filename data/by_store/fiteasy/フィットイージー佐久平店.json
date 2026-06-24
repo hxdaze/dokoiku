@@ -1251,7 +1251,7 @@
     "end": "21:00",
     "class_name": "KICK OUT",
     "category": "MARTIAL ARTS",
-    "instructor": "~キックボクシング~わこ",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": "キックボクシング",

@@ -673,7 +673,7 @@
     "end": "14:00",
     "class_name": "少人数制スタジオレッスン",
     "category": "OTHER",
-    "instructor": "】佐竹真",
+    "instructor": null,
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,

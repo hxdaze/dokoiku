@@ -809,7 +809,7 @@
     "end": "11:30",
     "class_name": "フィンスイミング",
     "category": "SWIMMING",
-    "instructor": "重川奏音※フィン持参",
+    "instructor": null,
     "studio": "大プール",
     "reservation_required": false,
     "genre": null,

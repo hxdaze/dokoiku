@@ -1,0 +1,36 @@
+[
+  {
+    "gym_id": "muni_city",
+    "store_id": "main",
+    "store": "スポーツプログラム ヨガ教室2ヶ月コース（午前コース",
+    "region": "中部・北陸",
+    "prefecture": "岐阜県",
+    "day": "火",
+    "start": "10:00",
+    "end": "11:00",
+    "class_name": "ヨガ教室",
+    "category": "YOGA & PILATES",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": "ヨガ",
+    "note": null
+  },
+  {
+    "gym_id": "muni_city",
+    "store_id": "main",
+    "store": "スポーツプログラム ヨガ教室2ヶ月コース（午前コース",
+    "region": "中部・北陸",
+    "prefecture": "岐阜県",
+    "day": "火",
+    "start": "19:00",
+    "end": "20:00",
+    "class_name": "ヨガ教室",
+    "category": "YOGA & PILATES",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": "ヨガ",
+    "note": null
+  }
+]

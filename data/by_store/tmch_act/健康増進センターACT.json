@@ -690,7 +690,7 @@
     "end": "15:15",
     "class_name": "姿勢改善EX30",
     "category": "WELLNESS",
-    "instructor": "スタッフ",
+    "instructor": null,
     "studio": "第1・3・5",
     "reservation_required": false,
     "genre": null,

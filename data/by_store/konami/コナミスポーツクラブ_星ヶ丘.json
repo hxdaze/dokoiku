@@ -537,7 +537,7 @@
     "end": "21:00",
     "class_name": "少人数制スタジオレッスン",
     "category": "OTHER",
-    "instructor": "石川美晴/前田龍騎",
+    "instructor": null,
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,

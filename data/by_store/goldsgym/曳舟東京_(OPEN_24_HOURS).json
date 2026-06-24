@@ -945,7 +945,7 @@
     "end": "14:30",
     "class_name": "&ボディメイクピラティス",
     "category": "YOGA & PILATES",
-    "instructor": "&ボディメイク",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": null,

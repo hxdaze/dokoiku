@@ -248,7 +248,7 @@
     "end": "11:45",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "MaMё",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": null,

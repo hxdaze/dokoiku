@@ -1489,7 +1489,7 @@
     "end": "10:30",
     "class_name": "少人数制スタジオレッスン",
     "category": "OTHER",
-    "instructor": "】水島葉子",
+    "instructor": null,
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,

@@ -1438,7 +1438,7 @@
     "end": "22:00",
     "class_name": "Group Fight",
     "category": "MARTIAL ARTS",
-    "instructor": "石﨑知紗",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": null,

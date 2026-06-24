@@ -163,7 +163,7 @@
     "end": "14:00",
     "class_name": "K-POP&HIIPHOP",
     "category": "OTHER",
-    "instructor": "N&A",
+    "instructor": null,
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,

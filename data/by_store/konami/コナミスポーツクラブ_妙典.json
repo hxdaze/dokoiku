@@ -197,7 +197,7 @@
     "end": "12:00",
     "class_name": "成人水泳教室",
     "category": "SWIMMING",
-    "instructor": "西真弓※初中級となります",
+    "instructor": null,
     "studio": "プール",
     "reservation_required": false,
     "genre": null,

@@ -8,7 +8,7 @@ const THEME_CYCLE = ["light", "dark", "pop"];
 
 const state = {
   view: "day", region: "", prefecture: "", gym: "", day: "", category: "",
-  store_id: "", instructor: "", q: "", limit: "200",
+  store_id: "", instructor: "", instructor_id: "", iq: "", q: "", limit: "200",
 };
 
 // ジャンル(カテゴリー)アイコン。カテゴリー名(英語)→絵文字。
@@ -76,6 +76,8 @@ let DAIKO = [];
 let STORE_URL = new Map();   // gym_id|store_id -> url
 let STORE_INFO = new Map();  // gym_id|store_id -> {lat,lon,phone,phone_fmt,address}
 let GYM_LABEL = new Map();
+let INSTRUCTORS = [];                  // イントラDB(サマリ配列)
+const INSTRUCTOR_BY_ID = new Map();    // id -> サマリ
 let lastData = null;
 const sortState = { col: null, dir: "asc" };
 
@@ -149,7 +151,7 @@ function withVer(url) {
 // 初期ロードは meta/stores/daiko のみ(軽量)。レッスン本体は都道府県単位で
 // スコープ選択時に遅延ロードする(一括DLによるモバイルのメモリ枯渇を回避)。
 async function loadData() {
-  const [meta, stores, daiko] = await Promise.all([
+  const [meta, stores, daiko, instructors] = await Promise.all([
     fetch(withVer("data/meta.json")).then((r) => {
       if (!r.ok) throw new Error(`meta.json HTTP ${r.status}`);
       return r.json();
@@ -159,10 +161,13 @@ async function loadData() {
       return r.json();
     }),
     fetch(withVer("data/daiko.json")).then((r) => r.ok ? r.json() : []).catch(() => []),
+    fetch(withVer("data/instructors.json")).then((r) => r.ok ? r.json() : { instructors: [] }).catch(() => ({ instructors: [] })),
   ]);
   META = meta;
   STORES = stores;
   DAIKO = daiko;
+  INSTRUCTORS = (instructors && instructors.instructors) || [];
+  for (const ins of INSTRUCTORS) INSTRUCTOR_BY_ID.set(ins.id, ins);
   GQ.setOrders(meta);
   for (const g of meta.gyms) GYM_LABEL.set(g.id, g.label);
   for (const s of stores) {
@@ -348,8 +353,8 @@ function setActiveTab(v) {
 
 function viewLabel(v) {
   return { day: "曜日別", timeband: "時間帯別", store: "店舗別", category: "カテゴリー別",
-    instructor: "先生別", hashigo: "はしご", gym: "ジム別", substitution: "代行情報",
-    map: "近くで探す" }[v] || v;
+    instructor: "先生別", search: "イントラ検索", hashigo: "はしご", gym: "ジム別",
+    substitution: "代行情報", map: "近くで探す" }[v] || v;
 }
 
 function currentLimit() {
@@ -368,11 +373,102 @@ function renderChooseScope() {
   if (b) b.addEventListener("click", loadAll);
 }
 
+// ---- イントラ検索ビュー(名寄せ済みイントラDBを検索→出講先を表示) ----
+function renderInstructorView() {
+  if (state.instructor_id && INSTRUCTOR_BY_ID.has(state.instructor_id)) {
+    return renderInstructorDetail(INSTRUCTOR_BY_ID.get(state.instructor_id));
+  }
+  return renderInstructorList();
+}
+
+function renderInstructorList() {
+  const q = (state.iq || "").normalize("NFKC").toLowerCase().replace(/[\s　]/g, "");
+  let list = [];
+  if (q) {
+    list = INSTRUCTORS.filter((s) => {
+      const hay = (s.name + " " + (s.aliases || []).join(" "))
+        .normalize("NFKC").toLowerCase().replace(/[\s　]/g, "");
+      return hay.includes(q);
+    });
+  }
+  $("#summary").innerHTML =
+    `<span>登録イントラ <b>${INSTRUCTORS.length.toLocaleString()}</b> 名(名寄せ済)</span>` +
+    (q ? `<span>該当 <b>${list.length.toLocaleString()}</b> 名</span>` : "") +
+    `<span class="muted">ビュー: イントラ検索</span>`;
+  const box = `<div class="ins-search"><input id="insQ" type="search" autocomplete="off" placeholder="イントラ名で検索（例: 高嶋 / さとう / Natsumi）" value="${escapeAttr(state.iq || "")}"></div>`;
+  if (!q) {
+    $("#main").innerHTML = box +
+      '<div class="empty">イントラ名を入力して検索してください。<br>表記ゆれ・店舗をまたいだ同一人物は名寄せ済みです。</div>';
+  } else if (!list.length) {
+    $("#main").innerHTML = box + '<div class="empty">該当するイントラが見つかりません。</div>';
+  } else {
+    const cards = list.slice(0, 300).map((s) => {
+      const genres = (s.genres || []).slice(0, 5).join(" / ");
+      const prefs = (s.prefs || []).slice(0, 4).join("・") + ((s.prefs || []).length > 4 ? " 他" : "");
+      const alias = s.aliases && s.aliases.length
+        ? `<span class="ins-alias"> (${escapeHtml(s.aliases.slice(0, 3).join(", "))})</span>` : "";
+      return `<button class="ins-card" data-id="${escapeAttr(s.id)}">
+        <div class="ins-name">${escapeHtml(s.name)}${alias}</div>
+        <div class="ins-meta">${s.gym_count}ジム ｜ ${s.lesson_count}レッスン ｜ ${escapeHtml(prefs)}</div>
+        <div class="ins-genres">${escapeHtml(genres)}</div></button>`;
+    }).join("");
+    $("#main").innerHTML = box + `<div class="ins-list">${cards}</div>` +
+      (list.length > 300 ? `<div class="muted" style="padding:8px">上位300名を表示（${list.length}名中）。さらに絞り込んでください。</div>` : "");
+    $("#main").querySelectorAll(".ins-card").forEach((b) => b.addEventListener("click", () => {
+      state.instructor_id = b.dataset.id; saveState(); renderInstructorView();
+    }));
+  }
+  const inp = document.getElementById("insQ");
+  if (inp) {
+    let t = null;
+    inp.addEventListener("input", (e) => {
+      state.iq = e.target.value.trim();
+      clearTimeout(t); t = setTimeout(() => { saveState(); renderInstructorList(); }, 200);
+    });
+    inp.focus();
+  }
+}
+
+async function renderInstructorDetail(ins) {
+  const prefs = (ins.prefs && ins.prefs.length) ? ins.prefs : PREF_INDEX.map((p) => p.name);
+  $("#main").innerHTML = '<div class="loading">読み込み中…</div>';
+  await ensurePrefs(prefs);
+  rebuildLessons();
+  const rows = LESSONS.filter((r) => r.instructor_id === ins.id);
+  rows.sort((a, b) =>
+    (a.gym || "").localeCompare(b.gym || "", "ja") ||
+    (a.store || "").localeCompare(b.store || "", "ja") ||
+    GQ.WEEK.indexOf(a.day) - GQ.WEEK.indexOf(b.day) ||
+    (a.start || "").localeCompare(b.start || ""));
+  $("#summary").innerHTML =
+    `<span><b>${escapeHtml(ins.name)}</b></span>` +
+    `<span>出講 <b>${rows.length}</b> レッスン</span>` +
+    `<span class="muted">${ins.gym_count}ジム / ${(ins.prefs || []).length}都道府県</span>`;
+  const alias = ins.aliases && ins.aliases.length
+    ? `<span class="muted"> 別表記: ${escapeHtml(ins.aliases.join(", "))}</span>` : "";
+  const head = `<div class="ins-search"><button class="btn" id="insBack">← イントラ検索へ戻る</button>` +
+    `<b style="margin-left:10px">${escapeHtml(ins.name)}</b>${alias}</div>`;
+  const body = rows.map((r) => {
+    const label = r.url
+      ? `<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener">${escapeHtml(r.store || "")}</a>`
+      : escapeHtml(r.store || "");
+    return `<tr><td>${escapeHtml(r.gym || "")}</td><td>${label}</td>` +
+      `<td>${escapeHtml(r.day || "")}</td><td>${escapeHtml((r.start || "") + "〜" + (r.end || ""))}</td>` +
+      `<td>${escapeHtml(r.class_name || "")}</td><td>${escapeHtml(r.category || "")}</td></tr>`;
+  }).join("");
+  $("#main").innerHTML = head + (rows.length
+    ? `<table class="ins-table"><thead><tr><th>ジム</th><th>店舗</th><th>曜日</th><th>時間</th><th>クラス</th><th>カテゴリー</th></tr></thead><tbody>${body}</tbody></table>`
+    : '<div class="empty">レッスンが見つかりませんでした。</div>');
+  const bk = document.getElementById("insBack");
+  if (bk) bk.addEventListener("click", () => { state.instructor_id = ""; saveState(); renderInstructorView(); });
+}
+
 // 選択スコープのデータを確保してから、店舗/先生の選択肢と一覧を更新する。
 async function update() {
   saveState();
   if (state.view === "substitution") { renderSubstitution(); return; }
   if (state.view === "map") { renderMap(); return; }
+  if (state.view === "search") { await renderInstructorView(); return; }
   const prefs = scopePrefs();
   if (!prefs) { refreshStoreOptions(); renderChooseScope(); return; }
   if (prefs.some((n) => !LOADED.has(n))) {
@@ -389,6 +485,7 @@ async function update() {
 function refreshViewRender() {
   if (state.view === "substitution") { renderSubstitution(); return; }
   if (state.view === "map") { renderMap(); return; }
+  if (state.view === "search") { renderInstructorView(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
   sortState.col = null;
@@ -819,7 +916,10 @@ function bind() {
   const tt = $("#themeToggle");
   if (tt) tt.addEventListener("click", cycleTheme);
   document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => {
-    state.view = t.dataset.view; setActiveTab(state.view); update();
+    state.view = t.dataset.view;
+    // イントラ検索タブはまず検索リストから(前回の個別表示状態をクリア)。
+    if (state.view === "search") state.instructor_id = "";
+    setActiveTab(state.view); update();
   }));
   $("#f-region").addEventListener("change", (e) => {
     state.region = e.target.value;

@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "muni_okaya_sports",
+    "store_id": "main",
+    "store": "長野県岡谷市スポーツ施設",
+    "region": "中部・北陸",
+    "prefecture": "長野県",
+    "day": "月",
+    "start": "09:00",
+    "end": null,
+    "class_name": "大人の教室",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "受付窓口",
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  }
+]

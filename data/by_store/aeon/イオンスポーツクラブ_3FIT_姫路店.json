@@ -1506,7 +1506,7 @@
     "end": "20:45",
     "class_name": "アクアビクス",
     "category": "AQUA",
-    "instructor": "スタッフ",
+    "instructor": null,
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",

@@ -707,7 +707,7 @@
     "end": "11:00",
     "class_name": "ストレッチ/オンライン",
     "category": "STRETCH & RELAX",
-    "instructor": "オンラインレッスン",
+    "instructor": null,
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,

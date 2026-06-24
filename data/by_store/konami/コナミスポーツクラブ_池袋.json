@@ -826,7 +826,7 @@
     "end": "15:00",
     "class_name": "少人数制スタジオレッスン",
     "category": "OTHER",
-    "instructor": "高橋亜希子)",
+    "instructor": null,
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,

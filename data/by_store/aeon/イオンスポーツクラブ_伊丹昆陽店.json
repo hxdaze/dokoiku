@@ -503,7 +503,7 @@
     "end": "19:45",
     "class_name": "週替わり",
     "category": "OTHER",
-    "instructor": "スタッフ",
+    "instructor": null,
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,

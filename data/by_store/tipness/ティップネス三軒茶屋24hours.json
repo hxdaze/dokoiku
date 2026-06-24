@@ -2084,7 +2084,7 @@
     "end": "12:00",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "SATŌ",
+    "instructor": null,
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",

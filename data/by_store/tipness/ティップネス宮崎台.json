@@ -3410,7 +3410,7 @@
     "end": "12:15",
     "class_name": "初級スイミングスクール",
     "category": "SWIMMING",
-    "instructor": "中上級",
+    "instructor": null,
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",

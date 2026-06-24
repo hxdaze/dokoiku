@@ -656,7 +656,7 @@
     "end": "16:00",
     "class_name": "ボールストレッチ スタッフ",
     "category": "STRETCH & RELAX",
-    "instructor": "スタッフ",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": null,

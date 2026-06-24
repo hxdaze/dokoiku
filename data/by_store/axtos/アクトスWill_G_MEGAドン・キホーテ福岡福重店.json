@@ -1421,7 +1421,7 @@
     "end": "20:15",
     "class_name": "パラエティ",
     "category": "OTHER",
-    "instructor": "レッスン",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

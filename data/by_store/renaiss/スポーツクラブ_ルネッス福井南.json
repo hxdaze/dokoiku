@@ -1030,7 +1030,7 @@
     "end": "19:30",
     "class_name": "HOTヨガ",
     "category": "YOGA & PILATES",
-    "instructor": "週替わり",
+    "instructor": null,
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,

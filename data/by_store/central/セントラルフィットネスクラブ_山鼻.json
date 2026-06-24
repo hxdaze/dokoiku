@@ -1421,7 +1421,7 @@
     "end": "13:20",
     "class_name": "中級水泳",
     "category": "SWIMMING",
-    "instructor": "小林<クロール>",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": null,

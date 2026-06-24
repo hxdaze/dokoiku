@@ -316,7 +316,7 @@
     "end": "12:00",
     "class_name": "初級 藤田 上級 工藤",
     "category": "OTHER",
-    "instructor": "藤田,工藤",
+    "instructor": null,
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,

@@ -571,7 +571,7 @@
     "end": "14:20",
     "class_name": "ヨガ",
     "category": "YOGA & PILATES",
-    "instructor": "??橋",
+    "instructor": null,
     "studio": "オープンスタジオ",
     "reservation_required": true,
     "genre": null,

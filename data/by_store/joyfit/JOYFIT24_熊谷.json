@@ -316,7 +316,7 @@
     "end": "22:00",
     "class_name": "BODYBALANCE",
     "category": "WELLNESS",
-    "instructor": "FX45正樹",
+    "instructor": null,
     "studio": "HOT Studio",
     "reservation_required": false,
     "genre": null,

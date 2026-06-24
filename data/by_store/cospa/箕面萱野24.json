@@ -775,7 +775,7 @@
     "end": "14:00",
     "class_name": "ヨガ",
     "category": "YOGA & PILATES",
-    "instructor": "SEIYOGA~60",
+    "instructor": null,
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,

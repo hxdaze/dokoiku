@@ -1081,7 +1081,7 @@
     "end": "11:30",
     "class_name": "アクアウォーキング",
     "category": "AQUA",
-    "instructor": "スタッフ",
+    "instructor": null,
     "studio": "プール",
     "reservation_required": false,
     "genre": null,

@@ -1625,7 +1625,7 @@
     "end": "19:10",
     "class_name": "ZUMBA",
     "category": "ZUMBA",
-    "instructor": "週替わり",
+    "instructor": null,
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,

@@ -1574,7 +1574,7 @@
     "end": "17:00",
     "class_name": "太極拳スクール",
     "category": "KUNG FU",
-    "instructor": "舘/平川",
+    "instructor": null,
     "studio": "スタジオ１",
     "reservation_required": true,
     "genre": "有料",

@@ -571,7 +571,7 @@
     "end": "12:30",
     "class_name": "少人数制スタジオレッスン",
     "category": "OTHER",
-    "instructor": "※アロービックダンス",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

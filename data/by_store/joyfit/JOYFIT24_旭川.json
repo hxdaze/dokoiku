@@ -1098,7 +1098,7 @@
     "end": "11:00",
     "class_name": "フラダンス",
     "category": "HULA",
-    "instructor": "純子/さゆり",
+    "instructor": null,
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,

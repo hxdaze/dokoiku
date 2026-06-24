@@ -1115,7 +1115,7 @@
     "end": "13:50",
     "class_name": "少人数制スタジオレッスン",
     "category": "OTHER",
-    "instructor": "】saaya",
+    "instructor": null,
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,

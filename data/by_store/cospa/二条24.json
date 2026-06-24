@@ -452,7 +452,7 @@
     "end": "20:30",
     "class_name": "エアロビクス レベル2",
     "category": "AEROBICS",
-    "instructor": "山﨑",
+    "instructor": null,
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "有料スクール",

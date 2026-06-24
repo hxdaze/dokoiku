@@ -1030,7 +1030,7 @@
     "end": "15:35",
     "class_name": "Balletone",
     "category": "BALLET",
-    "instructor": "※週替わり",
+    "instructor": null,
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "初心者向け",

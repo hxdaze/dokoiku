@@ -979,7 +979,7 @@
     "end": "10:00",
     "class_name": "AERO × BOX30",
     "category": "AEROBICS",
-    "instructor": "コレクト15",
+    "instructor": null,
     "studio": "プール",
     "reservation_required": false,
     "genre": null,

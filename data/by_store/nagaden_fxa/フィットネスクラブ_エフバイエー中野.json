@@ -282,7 +282,7 @@
     "end": "11:20",
     "class_name": "スイムレッスン 初・中級",
     "category": "SWIMMING",
-    "instructor": "初:竹内中:小山",
+    "instructor": null,
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",

@@ -503,7 +503,7 @@
     "end": "12:10",
     "class_name": "スタッフレッスン",
     "category": "OTHER",
-    "instructor": "スタッフ",
+    "instructor": null,
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,

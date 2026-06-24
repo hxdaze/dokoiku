@@ -741,7 +741,7 @@
     "end": "13:40",
     "class_name": "ボッチャ",
     "category": "OTHER",
-    "instructor": "ジムスタッフ",
+    "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,

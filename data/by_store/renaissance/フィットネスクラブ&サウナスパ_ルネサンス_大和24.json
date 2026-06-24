@@ -758,7 +758,7 @@
     "end": "19:00",
     "class_name": "MOSSA Athlete",
     "category": "OTHER",
-    "instructor": "映像プログラム",
+    "instructor": null,
     "studio": "第1スタジオ",
     "reservation_required": false,
     "genre": null,

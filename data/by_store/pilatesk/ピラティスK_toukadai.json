@@ -3172,7 +3172,7 @@
     "end": "22:00",
     "class_name": "Waist",
     "category": "OTHER",
-    "instructor": "Back&Arm",
+    "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": "Basic",
