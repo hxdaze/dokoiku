@@ -1,0 +1,36 @@
+[
+  {
+    "gym_id": "muni_city_yashio_lg_jp",
+    "store_id": "main",
+    "store": "令和8年度春のスポーツ教室「コース教室」",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "day": "水",
+    "start": "19:00",
+    "end": "20:00",
+    "class_name": "ボクサシェイプ教室",
+    "category": "STRENGTH & CORE",
+    "instructor": "SHIZUKA",
+    "studio": "エイトアリーナ 多目的室2",
+    "reservation_required": true,
+    "genre": null,
+    "note": null
+  },
+  {
+    "gym_id": "muni_city_yashio_lg_jp",
+    "store_id": "main",
+    "store": "令和8年度春のスポーツ教室「コース教室」",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "day": "木",
+    "start": "19:00",
+    "end": "20:00",
+    "class_name": "ナイトピラティス教室",
+    "category": "PILATES",
+    "instructor": "川崎智佳子",
+    "studio": "エイトアリーナ 多目的室2",
+    "reservation_required": true,
+    "genre": null,
+    "note": null
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "gym_id": "muni_ssksports_com",
+    "store_id": "main",
+    "store": "港スポーツセンター港スポーツセンターのスポーツ教室一覧／OPAS施",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "土",
+    "start": "09:15",
+    "end": "11:00",
+    "class_name": "バドミントン",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": "バドミントン",
+    "note": "整理券配布及び受付 9:00 / 8コート"
+  },
+  {
+    "gym_id": "muni_ssksports_com",
+    "store_id": "main",
+    "store": "港スポーツセンター港スポーツセンターのスポーツ教室一覧／OPAS施",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "土",
+    "start": "11:15",
+    "end": "13:00",
+    "class_name": "バドミントン",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": "バドミントン",
+    "note": "整理券配布及び受付 11:00 / 8コート"
+  },
+  {
+    "gym_id": "muni_ssksports_com",
+    "store_id": "main",
+    "store": "港スポーツセンター港スポーツセンターのスポーツ教室一覧／OPAS施",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "土",
+    "start": "15:30",
+    "end": "17:15",
+    "class_name": "バスケットボール",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": "バスケットボール",
+    "note": "全てのゴールが大人の高さになります。"
+  }
+]

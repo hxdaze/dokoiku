@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "muni_sunmaritz_or_jp",
+    "store_id": "main",
+    "store": "ゆざわサンマリッツスポーツクラブ",
+    "region": "北海道・東北",
+    "prefecture": "秋田県",
+    "day": "火",
+    "start": "10:30",
+    "end": "11:30",
+    "class_name": "ヨガ教室",
+    "category": "YOGA",
+    "instructor": "日野さや子さん",
+    "studio": "ヨガ教室要項",
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  }
+]

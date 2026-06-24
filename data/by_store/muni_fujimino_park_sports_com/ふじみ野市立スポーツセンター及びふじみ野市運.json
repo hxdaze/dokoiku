@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "muni_fujimino_park_sports_com",
+    "store_id": "main",
+    "store": "ふじみ野市立スポーツセンター及びふじみ野市運...",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "day": "木",
+    "start": "18:30",
+    "end": "20:30",
+    "class_name": "中学生用バレーボール教室",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "バレーボール教室",
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  }
+]

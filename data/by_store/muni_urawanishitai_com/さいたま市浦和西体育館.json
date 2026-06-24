@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "muni_urawanishitai_com",
+    "store_id": "main",
+    "store": "さいたま市浦和西体育館",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "day": "月",
+    "start": "10:00",
+    "end": "12:00",
+    "class_name": "なわとび×鉄棒×トランポリン教室",
+    "category": "CYCLING",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": true,
+    "genre": null,
+    "note": "5歳～小学4年生まで対象！"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "gym_id": "muni_sports_fukuokacity_or_jp",
+    "store_id": "main",
+    "store": "福岡市スポーツ協会 ※スポーツ教室のご案内",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "day": "月",
+    "start": "13:00",
+    "end": "14:30",
+    "class_name": "ボクシング体験!ボクシングエクササイズ",
+    "category": "BOXING",
+    "instructor": null,
+    "studio": "ボクシングエクササイズ",
+    "reservation_required": true,
+    "genre": "ボクシング",
+    "note": null
+  }
+]
