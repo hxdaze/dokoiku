@@ -2439,10 +2439,10 @@
     "day": "土",
     "start": "10:15",
     "end": "11:00",
-    "class_name": "神田 晋吾",
-    "category": "OTHER",
+    "class_name": "溶岩スタジオ/サイクル",
+    "category": "CYCLING",
     "instructor": "TAKARA",
-    "studio": "溶岩スタジオ/サイクル",
+    "studio": null,
     "reservation_required": false,
     "genre": null,
     "note": null
