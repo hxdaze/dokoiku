@@ -26,6 +26,26 @@ const CATEGORY_ICON = {
 };
 function catIcon(cat) { return CATEGORY_ICON[cat] || "✨"; }
 
+// レッスン行の先生名をイントラ検索へのリンクにする(instructor_id があれば)。
+function instructorCell(r) {
+  const name = r && r.instructor ? r.instructor : "";
+  if (name && r.instructor_id && INSTRUCTOR_BY_ID.has(r.instructor_id)) {
+    return `<a href="#" class="ins-link" data-iid="${escapeAttr(r.instructor_id)}" `
+      + `title="${escapeAttr(name)}の出講先を見る">${escapeHtml(name)}</a>`;
+  }
+  return escapeHtml(name);
+}
+
+// 指定イントラのイントラ検索(個別ページ)へ遷移する。
+function gotoInstructor(iid) {
+  if (!INSTRUCTOR_BY_ID.has(iid)) return;
+  state.view = "search";
+  state.instructor_id = iid;
+  setActiveTab("search");
+  saveState();
+  update();
+}
+
 // ---- テーマ(配色) ----
 function applyTheme(name) {
   if (!THEME_CYCLE.includes(name)) name = "light";
@@ -645,7 +665,7 @@ function lessonRow(r, opts) {
   if (opts.showStore) cells.push(`<td>${storeLink(r)}<div class="muted">${escapeHtml(r.region || "")}</div></td>`);
   cells.push(`<td class="cls">${escapeHtml(r.class_name || "")} ${tags.join(" ")}${studio}</td>`);
   if (opts.showCategory) cells.push(`<td><span class="cat"><span class="cat-ico">${catIcon(r.category)}</span>${escapeHtml(r.category || "")}</span></td>`);
-  cells.push(`<td class="instructor">${escapeHtml(r.instructor || "")}</td>`);
+  cells.push(`<td class="instructor">${instructorCell(r)}</td>`);
   cells.push(`<td class="muted">${escapeHtml(noteText(r))}</td>`);
   cells.push(`<td class="gcal">${gcalCell(r)}</td>`);
   return `<tr>${cells.join("")}</tr>`;
@@ -966,6 +986,13 @@ function bind() {
     refreshStoreOptions(); refreshInstructorOptions(); refreshViewRender();
   });
   $("#main").addEventListener("click", (e) => {
+    // 先生名リンク → イントラ検索の個別ページへ
+    const link = e.target.closest("a.ins-link");
+    if (link) {
+      e.preventDefault();
+      gotoInstructor(link.dataset.iid);
+      return;
+    }
     const th = e.target.closest("th.sortable");
     if (th && lastData && state.view !== "substitution") {
       const c = th.dataset.col;

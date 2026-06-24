@@ -851,3 +851,6 @@ td .muted { white-space: normal; }
 .ins-table { width: 100%; border-collapse: collapse; font-size: 13px; }
 .ins-table th, .ins-table td { border-bottom: 1px solid var(--border, #eee); padding: 6px 8px; text-align: left; }
 .ins-table thead th { position: sticky; top: 0; background: var(--card, #fff); }
+/* レッスン行の先生名リンク(→イントラ検索) */
+a.ins-link { color: var(--accent, #2a7); text-decoration: none; border-bottom: 1px dotted currentColor; cursor: pointer; }
+a.ins-link:hover { text-decoration: none; opacity: .8; }
