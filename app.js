@@ -8,7 +8,7 @@ const THEME_CYCLE = ["light", "dark", "pop"];
 
 const state = {
   view: "day", region: "", prefecture: "", gym: "", day: "", category: "",
-  store_id: "", instructor: "", instructor_id: "", iq: "", q: "", limit: "200",
+  store_id: "", instructor: "", instructor_id: "", iq: "", favview: "list", q: "", limit: "200",
 };
 
 // ジャンル(カテゴリー)アイコン。カテゴリー名(英語)→絵文字。
@@ -104,6 +104,50 @@ const INSTRUCTOR_BY_ID = new Map();    // id -> サマリ
 let lastData = null;
 const sortState = { col: null, dir: "asc" };
 
+// ---- お気に入り(localStorage・サーバ不要) ----
+const FAV_KEY = "gymfav_v1";
+let FAV = new Map();                   // favKey -> レッスンobj(表示に必要な項目)
+const LESSON_BY_FK = new Map();        // 描画中レッスンの favKey -> obj(トグル時の参照用)
+
+function loadFav() {
+  try {
+    const arr = JSON.parse(localStorage.getItem(FAV_KEY) || "[]");
+    FAV = new Map(arr.map((o) => [favKey(o), o]));
+  } catch (_e) { FAV = new Map(); }
+}
+function saveFav() {
+  try { localStorage.setItem(FAV_KEY, JSON.stringify([...FAV.values()])); } catch (_e) {}
+}
+function favKey(r) {
+  return [r.gym_id, r.store_id, r.day, r.start, r.end, r.class_name, r.studio || ""].join("|");
+}
+function isFav(r) { return FAV.has(favKey(r)); }
+function favObj(r) {
+  // 一覧/カレンダー表示に必要な項目だけ保存(遅延ロード不要にする)。
+  return {
+    gym_id: r.gym_id, gym: r.gym || r.gym_label, store_id: r.store_id, store: r.store,
+    region: r.region, prefecture: r.prefecture, day: r.day, start: r.start, end: r.end,
+    class_name: r.class_name, category: r.category, instructor: r.instructor,
+    instructor_id: r.instructor_id, studio: r.studio, url: r.url,
+    reservation_required: r.reservation_required, genre: r.genre, note: r.note,
+  };
+}
+function toggleFav(fk) {
+  if (FAV.has(fk)) { FAV.delete(fk); }
+  else {
+    const o = LESSON_BY_FK.get(fk) || null;
+    if (o) FAV.set(fk, favObj(o));
+  }
+  saveFav();
+}
+function favStar(r) {
+  const fk = favKey(r);
+  const on = FAV.has(fk);
+  return `<button class="favbtn${on ? " on" : ""}" data-fk="${escapeAttr(fk)}" ` +
+    `title="${on ? "お気に入り解除" : "お気に入りに追加"}" aria-pressed="${on}">` +
+    `${on ? "★" : "☆"}</button>`;
+}
+
 // --- 都道府県別 遅延ロード管理 ---
 const LESSON_PARTS = new Map();      // 都道府県名 -> レッスン配列
 const LOADED = new Set();            // ロード済み都道府県名
@@ -191,6 +235,7 @@ async function loadData() {
   DAIKO = daiko;
   INSTRUCTORS = (instructors && instructors.instructors) || [];
   for (const ins of INSTRUCTORS) INSTRUCTOR_BY_ID.set(ins.id, ins);
+  loadFav();
   GQ.setOrders(meta);
   for (const g of meta.gyms) GYM_LABEL.set(g.id, g.label);
   for (const s of stores) {
@@ -376,8 +421,8 @@ function setActiveTab(v) {
 
 function viewLabel(v) {
   return { day: "曜日別", timeband: "時間帯別", store: "店舗別", category: "カテゴリー別",
-    instructor: "先生別", search: "イントラ検索", hashigo: "はしご", gym: "ジム別",
-    substitution: "代行情報", map: "近くで探す" }[v] || v;
+    instructor: "先生別", search: "イントラ検索", fav: "お気に入り", hashigo: "はしご",
+    gym: "ジム別", substitution: "代行情報", map: "近くで探す" }[v] || v;
 }
 
 function currentLimit() {
@@ -498,12 +543,74 @@ async function renderInstructorDetail(ins) {
   if (bk) bk.addEventListener("click", () => { state.instructor_id = ""; saveState(); renderInstructorView(); });
 }
 
+// ---- お気に入りビュー(一覧／週間カレンダー。端末内localStorage) ----
+function renderFavView() {
+  const favs = [...FAV.values()];
+  favs.forEach((r) => LESSON_BY_FK.set(favKey(r), r));
+  const mode = state.favview === "cal" ? "cal" : "list";
+  $("#summary").innerHTML =
+    `<span>お気に入り <b>${favs.length}</b> 件</span>` +
+    `<span class="muted">端末内に保存(ログイン不要)</span>`;
+  const head = `<div class="ins-search fav-head">` +
+    `<div class="fav-modes">` +
+    `<button class="btn fav-mode${mode === "list" ? " active" : ""}" data-fmode="list">📋 一覧</button>` +
+    `<button class="btn fav-mode${mode === "cal" ? " active" : ""}" data-fmode="cal">📅 週カレンダー</button>` +
+    `</div>` +
+    (favs.length ? `<button class="btn" id="favClear">全て解除</button>` : "") +
+    `</div>`;
+  let body;
+  if (!favs.length) {
+    body = '<div class="empty">お気に入りはまだありません。<br>' +
+      '各レッスンの ☆ を押すと、ここに保存されます（この端末内に保存・ログイン不要）。</div>';
+  } else if (mode === "cal") {
+    body = favCalendarHtml(favs);
+  } else {
+    body = favListHtml(favs);
+  }
+  $("#main").innerHTML = head + body;
+  $("#main").querySelectorAll(".fav-mode").forEach((b) =>
+    b.addEventListener("click", () => { state.favview = b.dataset.fmode; saveState(); renderFavView(); }));
+  const clr = document.getElementById("favClear");
+  if (clr) clr.addEventListener("click", () => {
+    if (confirm("お気に入りを全て解除しますか？")) { FAV.clear(); saveFav(); renderFavView(); }
+  });
+}
+
+function favListHtml(favs) {
+  const opts = { showDay: true, showStore: true, showCategory: true };
+  const rows = favs.slice().sort((a, b) =>
+    GQ.dayKey(a.day) - GQ.dayKey(b.day) || GQ.startMin(a.start) - GQ.startMin(b.start));
+  return `<table class="grid"><thead>${tableHeader(opts)}</thead><tbody>` +
+    rows.map((r) => lessonRow(r, opts)).join("") + "</tbody></table>";
+}
+
+function favCalendarHtml(favs) {
+  const days = GQ.WEEK;
+  const byDay = {};
+  days.forEach((d) => { byDay[d] = []; });
+  favs.forEach((r) => { (byDay[r.day] || (byDay[r.day] = [])).push(r); });
+  const cols = days.map((d) => {
+    const items = (byDay[d] || []).sort((a, b) => GQ.startMin(a.start) - GQ.startMin(b.start));
+    const evs = items.map((r) => `<div class="fav-ev">` +
+      `<button class="favbtn on fav-ev-x" data-fk="${escapeAttr(favKey(r))}" title="お気に入り解除">★</button>` +
+      `<div class="fav-ev-t">${escapeHtml((r.start || "") + "〜" + (r.end || ""))}</div>` +
+      `<div class="fav-ev-c">${catIcon(r.category)} ${escapeHtml(r.class_name || "")}</div>` +
+      `<div class="fav-ev-s muted">${escapeHtml(r.gym || "")} ${escapeHtml(r.store || "")}` +
+      `${r.studio ? " / " + escapeHtml(r.studio) : ""}</div>` +
+      `${r.instructor ? `<div class="fav-ev-i muted">${instructorCell(r)}</div>` : ""}</div>`).join("")
+      || '<div class="fav-empty muted">—</div>';
+    return `<div class="fav-col"><div class="fav-col-h">${d}</div>${evs}</div>`;
+  }).join("");
+  return `<div class="fav-cal">${cols}</div>`;
+}
+
 // 選択スコープのデータを確保してから、店舗/先生の選択肢と一覧を更新する。
 async function update() {
   saveState();
   if (state.view === "substitution") { renderSubstitution(); return; }
   if (state.view === "map") { renderMap(); return; }
   if (state.view === "search") { await renderInstructorView(); return; }
+  if (state.view === "fav") { renderFavView(); return; }
   const prefs = scopePrefs();
   if (!prefs) { refreshStoreOptions(); renderChooseScope(); return; }
   if (prefs.some((n) => !LOADED.has(n))) {
@@ -521,6 +628,7 @@ function refreshViewRender() {
   if (state.view === "substitution") { renderSubstitution(); return; }
   if (state.view === "map") { renderMap(); return; }
   if (state.view === "search") { renderInstructorView(); return; }
+  if (state.view === "fav") { renderFavView(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
   sortState.col = null;
@@ -658,7 +766,9 @@ function lessonRow(r, opts) {
   if (r.genre === "有料") tags.push('<span class="tag-pay">有料</span>');
   if (r.reservation_required) tags.push('<span class="tag-res">要予約</span>');
   const studio = r.studio ? ` <span class="chip-studio">${escapeHtml(r.studio)}</span>` : "";
+  LESSON_BY_FK.set(favKey(r), r);
   const cells = [];
+  cells.push(`<td class="fav">${favStar(r)}</td>`);
   if (opts.showDay) cells.push(`<td class="day">${escapeHtml(r.day || "")}</td>`);
   cells.push(`<td class="time">${gcalIcon(r)}${escapeHtml(GQ.fmtTime(r))}</td>`);
   cells.push(`<td class="dur muted">${escapeHtml(GQ.fmtDuration(r))}</td>`);
@@ -673,6 +783,7 @@ function lessonRow(r, opts) {
 
 function tableCols(opts) {
   const cols = [];
+  cols.push(["fav", "★"]);
   if (opts.showDay) cols.push(["day", "曜日"]);
   cols.push(["time", "時間"]);
   cols.push(["duration", "所要"]);
@@ -687,8 +798,8 @@ function tableCols(opts) {
 
 function tableHeader(opts) {
   return "<tr>" + tableCols(opts).map(([k, label]) => {
-    // 「登録」(Googleカレンダー)列はソート対象外。
-    if (k === "gcal") return `<th class="nosort gcal-col">${label}</th>`;
+    // 「登録」(Googleカレンダー)・「★」(お気に入り)列はソート対象外。
+    if (k === "gcal" || k === "fav") return `<th class="nosort ${k}-col">${label}</th>`;
     const mark = sortState.col === k ? `<span class="sort-mark">${sortState.dir === "asc" ? "▲" : "▼"}</span>` : "";
     return `<th class="sortable" data-col="${k}">${label}${mark}</th>`;
   }).join("") + "</tr>";
@@ -986,6 +1097,21 @@ function bind() {
     refreshStoreOptions(); refreshInstructorOptions(); refreshViewRender();
   });
   $("#main").addEventListener("click", (e) => {
+    // お気に入り(★)トグル
+    const fb = e.target.closest(".favbtn");
+    if (fb) {
+      e.preventDefault();
+      toggleFav(fb.dataset.fk);
+      if (state.view === "fav") { renderFavView(); }
+      else {
+        const on = FAV.has(fb.dataset.fk);
+        fb.classList.toggle("on", on);
+        fb.textContent = on ? "★" : "☆";
+        fb.setAttribute("aria-pressed", String(on));
+        fb.title = on ? "お気に入り解除" : "お気に入りに追加";
+      }
+      return;
+    }
     // 先生名リンク → イントラ検索の個別ページへ
     const link = e.target.closest("a.ins-link");
     if (link) {
@@ -994,7 +1120,7 @@ function bind() {
       return;
     }
     const th = e.target.closest("th.sortable");
-    if (th && lastData && state.view !== "substitution") {
+    if (th && lastData && !["substitution", "fav", "search", "map"].includes(state.view)) {
       const c = th.dataset.col;
       if (sortState.col === c) sortState.dir = sortState.dir === "asc" ? "desc" : "asc";
       else { sortState.col = c; sortState.dir = "asc"; }

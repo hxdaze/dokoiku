@@ -854,3 +854,26 @@ td .muted { white-space: normal; }
 /* レッスン行の先生名リンク(→イントラ検索) */
 a.ins-link { color: var(--accent, #2a7); text-decoration: none; border-bottom: 1px dotted currentColor; cursor: pointer; }
 a.ins-link:hover { text-decoration: none; opacity: .8; }
+
+/* ---- お気に入り ---- */
+.favbtn { background: none; border: none; cursor: pointer; font-size: 18px; line-height: 1;
+  color: #bbb; padding: 2px 4px; }
+.favbtn.on { color: #f5a623; }
+th.fav-col, td.fav { width: 30px; text-align: center; }
+.fav-head { justify-content: space-between; }
+.fav-modes { display: flex; gap: 6px; }
+.fav-mode.active { background: var(--accent, #2a7); color: #fff; }
+.fav-cal { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; padding: 6px; }
+.fav-col { min-width: 0; }
+.fav-col-h { font-weight: 700; text-align: center; padding: 4px; background: var(--card, #f3f3f3);
+  border-radius: 6px; position: sticky; top: 0; }
+.fav-ev { position: relative; border: 1px solid var(--border, #e3e3e3); border-radius: 8px;
+  padding: 6px 8px; margin-top: 6px; background: var(--card, #fff); font-size: 12px; }
+.fav-ev-t { font-weight: 700; }
+.fav-ev-c { margin-top: 2px; }
+.fav-ev-x { position: absolute; top: 2px; right: 2px; font-size: 14px; }
+.fav-empty { text-align: center; padding: 8px 0; }
+@media (max-width: 720px) {
+  .fav-cal { grid-template-columns: 1fr; }
+  .fav-col-h { position: static; }
+}
