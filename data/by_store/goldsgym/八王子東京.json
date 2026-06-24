@@ -99,7 +99,7 @@
     "studio": "Aスタ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -484,13 +484,13 @@
     "day": "水",
     "start": "19:00",
     "end": "20:00",
-    "class_name": "変更変更バレエ初級",
+    "class_name": "バレエ初級",
     "category": "BALLET",
     "instructor": "堀江結月",
     "studio": "Bスタ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -960,13 +960,13 @@
     "day": "金",
     "start": "19:15",
     "end": "20:00",
-    "class_name": "変更変更オリジナルエアロ初級",
+    "class_name": "オリジナルエアロ初級",
     "category": "AEROBICS",
     "instructor": "中川正博",
     "studio": "Bスタ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -983,7 +983,7 @@
     "studio": "Bスタ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -1113,13 +1113,13 @@
     "day": "土",
     "start": "15:45",
     "end": "16:45",
-    "class_name": "変更変更バレエ初級",
+    "class_name": "バレエ初級",
     "category": "BALLET",
     "instructor": "堀江結月",
     "studio": "Bスタ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",

@@ -6456,7 +6456,7 @@
           "store_id": "13200",
           "store": "銀座東京 (OPEN 24 HOURS)",
           "region": "関東",
-          "lesson_count": 55,
+          "lesson_count": 54,
           "path": "by_store/goldsgym/銀座東京_(OPEN_24_HOURS).json"
         },
         {
@@ -6750,7 +6750,7 @@
           "store_id": "20220627",
           "store": "国立東京",
           "region": "関東",
-          "lesson_count": 83,
+          "lesson_count": 82,
           "path": "by_store/goldsgym/国立東京.json"
         },
         {
@@ -13720,7 +13720,7 @@
           "store_id": "tokorozawa",
           "store": "所沢",
           "region": "関東",
-          "lesson_count": 246,
+          "lesson_count": 245,
           "path": "by_store/seibu/所沢.json"
         }
       ]

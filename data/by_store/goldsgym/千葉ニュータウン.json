@@ -1470,13 +1470,13 @@
     "day": "金",
     "start": "11:50",
     "end": "12:35",
-    "class_name": "●変更カーディオFキックボクシング",
+    "class_name": "カーディオFキックボクシング",
     "category": "BOXING",
     "instructor": "KUMI.F",
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -1487,13 +1487,13 @@
     "day": "金",
     "start": "12:50",
     "end": "13:40",
-    "class_name": "●変更Qrenボディメンテナンス",
+    "class_name": "Qrenボディメンテナンス",
     "category": "OTHER",
     "instructor": "KUMI.F",
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",

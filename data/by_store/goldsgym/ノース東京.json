@@ -314,13 +314,13 @@
     "day": "水",
     "start": "20:15",
     "end": "21:15",
-    "class_name": "時間変更GROUP POWER",
+    "class_name": "GROUP POWER",
     "category": "STRENGTH & CORE",
     "instructor": null,
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",

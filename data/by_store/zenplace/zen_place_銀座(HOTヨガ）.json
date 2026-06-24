@@ -25,13 +25,13 @@
     "day": "木",
     "start": "11:00",
     "end": "12:30",
-    "class_name": "時間変更 HOT 26+2 90min",
+    "class_name": "HOT 26+2 90min",
     "category": "OTHER",
     "instructor": null,
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "zenplace",

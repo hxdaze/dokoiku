@@ -167,7 +167,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -178,13 +178,13 @@
     "day": "火",
     "start": "14:45",
     "end": "15:30",
-    "class_name": "変更変更シェイプアップローインパクト",
+    "class_name": "シェイプアップローインパクト",
     "category": "STRENGTH & CORE",
     "instructor": "中川正博",
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -195,13 +195,13 @@
     "day": "火",
     "start": "17:50",
     "end": "18:50",
-    "class_name": "変更変更avex DanceMaster JAZZクラス",
+    "class_name": "avex DanceMaster JAZZクラス",
     "category": "JAZZ DANCE",
     "instructor": null,
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料スクール"
+    "note": "有料スクール / 変更"
   },
   {
     "gym_id": "goldsgym",
@@ -388,7 +388,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -399,13 +399,13 @@
     "day": "水",
     "start": "20:30",
     "end": "21:30",
-    "class_name": "変更変更オリジナルエアロ中級",
+    "class_name": "オリジナルエアロ中級",
     "category": "AEROBICS",
     "instructor": "青木美緒",
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -467,13 +467,13 @@
     "day": "木",
     "start": "13:50",
     "end": "14:50",
-    "class_name": "変更変更オリジナルエアロ初中級",
+    "class_name": "オリジナルエアロ初中級",
     "category": "AEROBICS",
     "instructor": "相原萌絵",
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
@@ -501,13 +501,13 @@
     "day": "木",
     "start": "19:15",
     "end": "20:15",
-    "class_name": "変更変更オリジナルエアロ初中級",
+    "class_name": "オリジナルエアロ初中級",
     "category": "AEROBICS",
     "instructor": "中安佑介",
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": "変更"
   },
   {
     "gym_id": "goldsgym",
