@@ -839,7 +839,39 @@ function renderMatchedEvents() {
   });
 }
 
-// ---- 広告枠(Google AdSense + 独自バナー併用。data/ads.json で月別設定。未設定なら非表示) ----
+// ---- 広告枠(Google AdSense + 独自バナー/A8 HTML。data/ads.json で月別設定) ----
+function _renderAdBanner(el, b) {
+  if (b.html) {
+    const wrap = document.createElement("div");
+    wrap.className = "ad-html-embed";
+    wrap.innerHTML = b.html;
+    el.appendChild(wrap);
+    return true;
+  }
+  if (!b.img) return false;
+  const a = document.createElement("a");
+  a.className = "ad-banner";
+  if (b.link) { a.href = b.link; a.target = "_blank"; a.rel = "noopener sponsored"; }
+  const img = document.createElement("img");
+  img.src = b.img; img.alt = b.alt || "広告"; img.loading = "lazy";
+  a.appendChild(img);
+  el.appendChild(a);
+  return true;
+}
+
+function _renderAdSenseUnit(el, client, slot) {
+  const ins = document.createElement("ins");
+  ins.className = "adsbygoogle";
+  ins.style.display = "block";
+  ins.setAttribute("data-ad-client", client);
+  if (slot) ins.setAttribute("data-ad-slot", slot);
+  ins.setAttribute("data-ad-format", "auto");
+  ins.setAttribute("data-full-width-responsive", "true");
+  el.appendChild(ins);
+  try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (_e) {}
+  return true;
+}
+
 function renderAds() {
   const cfg = ADS;
   if (!cfg) return;
@@ -850,34 +882,46 @@ function renderAds() {
     el.innerHTML = "";
     el.style.display = "none";
     let shown = false;
-    // 1) 独自バナー(複数用意し、読込ごとにランダムで1つ表示=ローテーション)
-    const banners = Array.isArray(slot.banners) ? slot.banners.filter((b) => b && b.img) : [];
+    // 1) 独自バナー / A8 HTML 埋め込み(複数はランダム1件)
+    const banners = Array.isArray(slot.banners)
+      ? slot.banners.filter((b) => b && (b.img || b.html)) : [];
     if (banners.length) {
       const b = banners[Math.floor(Math.random() * banners.length)];
-      const a = document.createElement("a");
-      a.className = "ad-banner";
-      if (b.link) { a.href = b.link; a.target = "_blank"; a.rel = "noopener sponsored"; }
-      const img = document.createElement("img");
-      img.src = b.img; img.alt = b.alt || "広告"; img.loading = "lazy";
-      a.appendChild(img);
-      el.appendChild(a);
-      shown = true;
+      shown = _renderAdBanner(el, b);
     }
-    // 2) Google AdSense(広告ユニットID指定時)
+    // 2) Google AdSense(ユニットID指定)
     if (slot.adsense && cfg.client) {
-      const ins = document.createElement("ins");
-      ins.className = "adsbygoogle";
-      ins.style.display = "block";
-      ins.setAttribute("data-ad-client", cfg.client);
-      ins.setAttribute("data-ad-slot", slot.adsense);
-      ins.setAttribute("data-ad-format", "auto");
-      ins.setAttribute("data-full-width-responsive", "true");
-      el.appendChild(ins);
-      try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (_e) {}
-      shown = true;
+      shown = _renderAdSenseUnit(el, cfg.client, slot.adsense) || shown;
+    } else if (cfg.auto_ads && cfg.client && !shown) {
+      // 3) slot 未設定時: Auto Ads 形式で枠内に表示を試行
+      shown = _renderAdSenseUnit(el, cfg.client, "") || shown;
     }
     el.style.display = shown ? "" : "none";
   }
+  initA8Affiliate();
+}
+
+function initA8Affiliate() {
+  const a8 = ADS && ADS.a8;
+  if (!a8 || !a8.enabled || !a8.config_id) return;
+  const run = () => {
+    try {
+      if (typeof a8linkmgr === "function") {
+        a8linkmgr({ config_id: a8.config_id });
+      }
+    } catch (_e) { /* A8 未読込 */ }
+  };
+  if (typeof a8linkmgr === "function") {
+    run();
+    return;
+  }
+  if (document.querySelector('script[data-a8linkmgr="1"]')) return;
+  const s = document.createElement("script");
+  s.src = "https://statics.a8.net/a8link/a8linkmgr.js";
+  s.async = true;
+  s.dataset.a8linkmgr = "1";
+  s.onload = run;
+  document.body.appendChild(s);
 }
 
 // ---- お気に入りビュー(一覧／週間カレンダー。端末内localStorage) ----

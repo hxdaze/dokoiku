@@ -924,6 +924,8 @@ a.ins-link:hover { text-decoration: none; opacity: .8; }
 /* ---- 広告枠(未設定なら display:none で非表示) ---- */
 .ad-slot { margin: 12px auto; max-width: 970px; text-align: center; overflow: hidden; }
 .ad-slot ins.adsbygoogle { display: block; }
+.ad-html-embed img { max-width: 100%; height: auto; }
+.ad-html-embed a { display: inline-block; }
 .ad-banner { display: inline-block; line-height: 0; }
 .ad-banner img { max-width: 100%; height: auto; border-radius: 6px; }
 
