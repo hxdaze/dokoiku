@@ -18,8 +18,8 @@
     "note",
     "instructor_id"
   ],
-  "gym_count": 250,
-  "store_count": 2213,
+  "gym_count": 247,
+  "store_count": 2212,
   "gyms": [
     {
       "gym_id": "lava",
@@ -12774,19 +12774,6 @@
       ]
     },
     {
-      "gym_id": "muni_spozai946_jp",
-      "gym": "一般財団法人釧路市スポーツ振興財団学校行事",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "一般財団法人釧路市スポーツ振興財団学校行事",
-          "region": "北海道・東北",
-          "lesson_count": 1150,
-          "path": "by_store/muni_spozai946_jp/一般財団法人釧路市スポーツ振興財団学校行事.json"
-        }
-      ]
-    },
-    {
       "gym_id": "fit365",
       "gym": "FIT365",
       "stores": [
@@ -13876,7 +13863,7 @@
     },
     {
       "gym_id": "muni_matsumoto_sc_co_jp",
-      "gym": "長野県内最大級のスポーツクラブ",
+      "gym": "スポーツネットワークSAM",
       "stores": [
         {
           "store_id": "main",
@@ -13884,6 +13871,33 @@
           "region": "中部・北陸",
           "lesson_count": 344,
           "path": "by_store/muni_matsumoto_sc_co_jp/長野県内最大級のスポーツクラブ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "best_style",
+      "gym": "BEST STYLE FITNESS",
+      "stores": [
+        {
+          "store_id": "makuhari",
+          "store": "BEST STYLE FITNESS海浜幕張",
+          "region": "関東",
+          "lesson_count": 98,
+          "path": "by_store/best_style/BEST_STYLE_FITNESS海浜幕張.json"
+        },
+        {
+          "store_id": "omiya",
+          "store": "BEST STYLE FITNESS大宮",
+          "region": "関東",
+          "lesson_count": 49,
+          "path": "by_store/best_style/BEST_STYLE_FITNESS大宮.json"
+        },
+        {
+          "store_id": "shinurayasu",
+          "store": "BEST STYLE FITNESS新浦安",
+          "region": "関東",
+          "lesson_count": 193,
+          "path": "by_store/best_style/BEST_STYLE_FITNESS新浦安.json"
         }
       ]
     },
@@ -14174,19 +14188,6 @@
       ]
     },
     {
-      "gym_id": "muni_city_nagoya_jp",
-      "gym": "各スポーツセンターで行われる講座",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "各スポーツセンターで行われる講座",
-          "region": "中部・北陸",
-          "lesson_count": 217,
-          "path": "by_store/muni_city_nagoya_jp/各スポーツセンターで行われる講座.json"
-        }
-      ]
-    },
-    {
       "gym_id": "grandclub",
       "gym": "グランクラブ高崎",
       "stores": [
@@ -14295,7 +14296,7 @@
     },
     {
       "gym_id": "muni_sports_info_jp",
-      "gym": "体育館教室",
+      "gym": "スポーツインフォメーションみしま",
       "stores": [
         {
           "store_id": "main",
@@ -14843,19 +14844,6 @@
           "region": "北海道・東北",
           "lesson_count": 88,
           "path": "by_store/bio_obihiro/フィットネスクラブBIO.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "muni_kspa_or_jp",
-      "gym": "熊本県スポーツ振興事業団",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "熊本県スポーツ振興事業団",
-          "region": "九州・沖縄",
-          "lesson_count": 85,
-          "path": "by_store/muni_kspa_or_jp/熊本県スポーツ振興事業団.json"
         }
       ]
     },
@@ -16767,19 +16755,6 @@
           "region": "九州・沖縄",
           "lesson_count": 3,
           "path": "by_store/muchcolor/マチカラフィットネス大分.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "muni_city_aomori_aomori_jp",
-      "gym": "各種講座情報（市民センター）",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "各種講座情報（市民センター）",
-          "region": "北海道・東北",
-          "lesson_count": 3,
-          "path": "by_store/muni_city_aomori_aomori_jp/各種講座情報（市民センター）.json"
         }
       ]
     },
