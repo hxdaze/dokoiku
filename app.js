@@ -103,6 +103,17 @@ let INSTRUCTORS = [];                  // イントラDB(サマリ配列)
 const INSTRUCTOR_BY_ID = new Map();    // id -> サマリ
 let ADS = null;                        // 広告設定(data/ads.json 解決済み)
 let EVENTS = [];                       // 日付指定イベント(未来分。data/events.json)
+let DOMAIN = null;                     // ドメインパック(data/domain.json。用語/サイト識別)
+
+// ドメイン用語(provider/location/session/staff/category)。未取得時は現行ジム語。
+const _TERM_FALLBACK = {
+  provider: "ジム", location: "店舗", session: "レッスン",
+  staff: "先生", staff_search: "イントラ検索", category: "カテゴリー",
+};
+function T(key) {
+  const t = DOMAIN && DOMAIN.terms;
+  return (t && t[key]) || _TERM_FALLBACK[key] || key;
+}
 let lastData = null;
 const sortState = { col: null, dir: "asc" };
 
@@ -239,6 +250,9 @@ async function loadData() {
     .then((r) => r.ok ? r.json() : { events: [] })
     .then((j) => (j && j.events) || [])
     .catch(() => []);
+  DOMAIN = await fetch(withVer("data/domain.json"))
+    .then((r) => r.ok ? r.json() : null)
+    .catch(() => null);
   META = meta;
   STORES = stores;
   DAIKO = daiko;
@@ -430,9 +444,11 @@ function setActiveTab(v) {
 }
 
 function viewLabel(v) {
-  return { day: "曜日別", timeband: "時間帯別", store: "店舗別", category: "カテゴリー別",
-    instructor: "先生別", search: "イントラ検索", fav: "お気に入り", hashigo: "はしご",
-    gym: "ジム別", substitution: "代行情報", map: "近くで探す", event: "イベント検索",
+  return { day: "曜日別", timeband: "時間帯別", store: T("location") + "別",
+    category: T("category") + "別",
+    instructor: T("staff") + "別", search: T("staff_search"), fav: "お気に入り",
+    hashigo: "はしご", gym: T("provider") + "別", substitution: "代行情報",
+    map: "近くで探す", event: "イベント検索",
     about: "紹介", help: "ヘルプ", business: "掲載・広告" }[v] || v;
 }
 
