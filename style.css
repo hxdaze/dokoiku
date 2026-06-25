@@ -865,6 +865,11 @@ a.ins-link:hover { text-decoration: none; opacity: .8; }
 .doc-list li { margin: 4px 0; }
 .doc-credit { margin: 18px 0; padding: 12px; background: var(--card, #f5f5f5); border-radius: 10px; }
 .doc-note { font-size: 12px; margin-top: 14px; }
+.doc-contact { margin: 10px 0 4px; padding: 14px; background: #f0fbf3; border: 1px solid #d4eedd;
+  border-radius: 10px; text-align: center; }
+.doc-contact .line-qr { width: 200px; height: 200px; max-width: 70vw; max-height: 70vw;
+  border-radius: 10px; background: #fff; padding: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.12); }
+.doc-contact p { font-size: 12px; margin: 8px 0 0; }
 
 /* ---- 広告枠(未設定なら display:none で非表示) ---- */
 .ad-slot { margin: 12px auto; max-width: 970px; text-align: center; overflow: hidden; }
