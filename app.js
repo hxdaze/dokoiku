@@ -583,9 +583,14 @@ function renderAbout() {
     <p>掲載内容の誤り・追加リクエスト・ご感想などは <b>LINE</b> でお気軽にどうぞ。
        下のQRコードを読み取って友だち追加し、メッセージをお送りください。</p>
     <div class="doc-contact">
-      <img class="line-qr" src="line-qr.png" alt="LINE 友だち追加用QRコード"
-           width="200" height="200" loading="lazy" />
-      <p class="muted">スマホで見ている方は、画像を長押しして保存→LINEで読み取りもできます。</p>
+      <a href="https://lin.ee/8vN5Bk7" target="_blank" rel="noopener" title="LINEで友だち追加">
+        <img class="line-qr" src="line-qr.png" alt="LINE 友だち追加用QRコード"
+             width="200" height="200" loading="lazy" />
+      </a>
+      <p style="margin:10px 0 0;">
+        <a class="btn" href="https://lin.ee/8vN5Bk7" target="_blank" rel="noopener">LINEで友だち追加 ↗</a>
+      </p>
+      <p class="muted">QRコード（またはボタン）をタップするとLINEが開きます。</p>
     </div>
 
     <div class="doc-credit">
@@ -666,14 +671,18 @@ function renderBusiness() {
     <p class="doc-stat">現在の規模: <b>${n(m.lesson_count)}</b> レッスン ／ <b>${n(m.store_count)}</b> 店舗 ／
        <b>${m.gyms ? m.gyms.length : 0}</b> ジムを収録</p>
 
-    <h3>🆓 無料掲載（レッスン・教室）</h3>
-    <p>ジム事業者様・個人で活動されている先生から、<b>無料での掲載受付</b>を行っています。
-       いただいた情報（または公式サイト等の<b>公開情報</b>）をもとに、どこジム♪側でデータを整え、
-       <b>検索結果に表示</b>されるようにします。</p>
+    <h3>🆓 レッスンの無料掲載</h3>
+    <p>「どこジム♪」では、レッスン情報の<b>掲載を無料で受け付けています</b>。
+       ジムを運営される事業者様だけでなく、<b>個人でレッスンや教室を開かれている先生</b>も大歓迎です。
+       「もっと多くの方にレッスンを見つけてほしい」——そんな声にお応えします。</p>
+    <p>ご連絡いただければ、お知らせいただいた情報や、すでに公開されている
+       公式サイト・SNS等の<b>公開情報</b>をもとに、どこジム♪側でデータを整え、
+       <b>検索結果に表示されるよう取り込み</b>ます。掲載・更新の費用はかかりません。</p>
     <ul class="doc-list">
-      <li>対象: スポーツジム／スタジオ／公共施設、個人レッスン・少人数教室 など</li>
-      <li>掲載内容: レッスンの曜日・時間・ジャンル・担当の先生・場所 など</li>
-      <li>掲載料は無料です（内容確認のうえ掲載します）。</li>
+      <li><b>対象</b>: スポーツジム／スタジオ／公共施設、個人レッスン・少人数の教室 など</li>
+      <li><b>掲載内容</b>: 曜日・時間・ジャンル・担当の先生・開催場所 など</li>
+      <li><b>費用</b>: 無料（内容を確認のうえ掲載します）</li>
+      <li><b>修正・取り下げ</b>: 掲載後の内容変更や掲載停止のご希望にも随時対応します</li>
     </ul>
 
     <h3>🎉 イベント掲載</h3>
@@ -698,9 +707,14 @@ function renderBusiness() {
     <p>掲載のご依頼・ご相談は、<b>LINE</b> で管理者までお気軽にご連絡ください。
        内容をうかがったうえで対応いたします。</p>
     <div class="doc-contact">
-      <p style="margin:0 0 8px;">下のQRコードから友だち追加してメッセージをお送りください。</p>
-      <img class="line-qr" src="line-qr.png" alt="LINE 友だち追加用QRコード"
-           width="200" height="200" loading="lazy" />
+      <p style="margin:0 0 8px;">下のQRコード（タップでも開けます）から友だち追加してメッセージをお送りください。</p>
+      <a href="https://lin.ee/8vN5Bk7" target="_blank" rel="noopener" title="LINEで友だち追加">
+        <img class="line-qr" src="line-qr.png" alt="LINE 友だち追加用QRコード"
+             width="200" height="200" loading="lazy" />
+      </a>
+      <p style="margin:10px 0 0;">
+        <a class="btn" href="https://lin.ee/8vN5Bk7" target="_blank" rel="noopener">LINEで友だち追加 ↗</a>
+      </p>
       <p class="muted">「掲載希望（レッスン／イベント／広告）」と添えていただくとスムーズです。</p>
     </div>
 
