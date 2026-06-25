@@ -1256,6 +1256,17 @@ function bind() {
     if (state.view === "search") state.instructor_id = "";
     setActiveTab(state.view); update();
   }));
+
+  // 管理者LINE: フッターのリンクからQRコード入りダイアログを開く。
+  const lineLink = document.getElementById("adminLine");
+  const lineDialog = document.getElementById("lineDialog");
+  if (lineLink && lineDialog && typeof lineDialog.showModal === "function") {
+    lineLink.addEventListener("click", (e) => { e.preventDefault(); lineDialog.showModal(); });
+    const x = document.getElementById("lineDialogX");
+    if (x) x.addEventListener("click", () => lineDialog.close());
+    // 背景(バックドロップ)クリックで閉じる。
+    lineDialog.addEventListener("click", (e) => { if (e.target === lineDialog) lineDialog.close(); });
+  }
   $("#f-region").addEventListener("change", (e) => {
     state.region = e.target.value;
     // エリアと都道府県は排他: エリア選択時は都道府県を「すべて」に戻す。
