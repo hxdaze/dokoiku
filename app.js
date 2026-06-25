@@ -428,7 +428,7 @@ function viewLabel(v) {
   return { day: "曜日別", timeband: "時間帯別", store: "店舗別", category: "カテゴリー別",
     instructor: "先生別", search: "イントラ検索", fav: "お気に入り", hashigo: "はしご",
     gym: "ジム別", substitution: "代行情報", map: "近くで探す",
-    about: "紹介", help: "ヘルプ" }[v] || v;
+    about: "紹介", help: "ヘルプ", business: "業者様向け" }[v] || v;
 }
 
 function currentLimit() {
@@ -647,6 +647,44 @@ function renderHelp() {
   </div>`;
 }
 
+// ---- 業者様向けページ(広告掲載のご案内) ----
+function renderBusiness() {
+  const m = META || {};
+  const n = (x) => (x || 0).toLocaleString();
+  $("#summary").innerHTML = `<span class="muted">ページ: 業者様向け</span>`;
+  $("#main").innerHTML = `
+  <div class="doc">
+    <h2>業者様向けのご案内</h2>
+    <p>「どこジム♪」は、全国のスタジオレッスンを横断検索できる情報サイトです。
+       フィットネス・健康・美容など、運動に関心の高い利用者の方々にご覧いただいています。</p>
+    <p class="doc-stat">現在の規模: <b>${n(m.lesson_count)}</b> レッスン ／ <b>${n(m.store_count)}</b> 店舗 ／
+       <b>${m.gyms ? m.gyms.length : 0}</b> ジムを収録</p>
+
+    <h3>📣 広告掲載について</h3>
+    <p>業者様の広告掲載を受け付けております。
+       広告は<b>検索ページ</b>（検索結果まわりの広告枠）に掲載され、
+       目的を持って情報を探している利用者の方々へ直接お届けします。</p>
+    <ul class="doc-list">
+      <li><b>掲載場所</b>: 検索条件と検索結果の間、および検索結果の末尾</li>
+      <li><b>掲載形式</b>: バナー画像＋リンク（グラフィック広告）</li>
+      <li><b>掲載期間</b>: 月単位でのお申し込みに対応しています</li>
+    </ul>
+
+    <h3>📨 お申し込み・お問い合わせ</h3>
+    <p>掲載料金・掲載枠の空き状況・入稿規定など、詳細は<b>管理者までご連絡</b>ください。
+       内容をうかがったうえで、最適なご提案をいたします。</p>
+    <div class="doc-contact">
+      <p style="margin:0 0 8px;"><b>LINE</b> でお気軽にご連絡ください（下のQRコードから友だち追加）。</p>
+      <img class="line-qr" src="line-qr.png" alt="LINE 友だち追加用QRコード"
+           width="200" height="200" loading="lazy" />
+      <p class="muted">「広告掲載希望」とメッセージいただけるとスムーズです。</p>
+    </div>
+
+    <p class="muted doc-note">※掲載内容は当サイトの趣旨に沿うものに限らせていただく場合があります。
+       あらかじめご了承ください。</p>
+  </div>`;
+}
+
 // ---- 広告枠(Google AdSense + 独自バナー併用。data/ads.json で月別設定。未設定なら非表示) ----
 function renderAds() {
   const cfg = ADS;
@@ -758,6 +796,7 @@ async function update() {
   if (state.view === "fav") { renderFavView(); return; }
   if (state.view === "about") { renderAbout(); return; }
   if (state.view === "help") { renderHelp(); return; }
+  if (state.view === "business") { renderBusiness(); return; }
   const prefs = scopePrefs();
   if (!prefs) { refreshStoreOptions(); renderChooseScope(); return; }
   if (prefs.some((n) => !LOADED.has(n))) {
@@ -778,6 +817,7 @@ function refreshViewRender() {
   if (state.view === "fav") { renderFavView(); return; }
   if (state.view === "about") { renderAbout(); return; }
   if (state.view === "help") { renderHelp(); return; }
+  if (state.view === "business") { renderBusiness(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
   sortState.col = null;
