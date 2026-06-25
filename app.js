@@ -102,6 +102,7 @@ let GYM_LABEL = new Map();
 let INSTRUCTORS = [];                  // イントラDB(サマリ配列)
 const INSTRUCTOR_BY_ID = new Map();    // id -> サマリ
 let ADS = null;                        // 広告設定(data/ads.json 解決済み)
+let EVENTS = [];                       // 日付指定イベント(未来分。data/events.json)
 let lastData = null;
 const sortState = { col: null, dir: "asc" };
 
@@ -234,6 +235,10 @@ async function loadData() {
     fetch(withVer("data/instructors.json")).then((r) => r.ok ? r.json() : { instructors: [] }).catch(() => ({ instructors: [] })),
     fetch(withVer("data/ads.json")).then((r) => r.ok ? r.json() : null).catch(() => null),
   ]);
+  EVENTS = await fetch(withVer("data/events.json"))
+    .then((r) => r.ok ? r.json() : { events: [] })
+    .then((j) => (j && j.events) || [])
+    .catch(() => []);
   META = meta;
   STORES = stores;
   DAIKO = daiko;
@@ -427,8 +432,8 @@ function setActiveTab(v) {
 function viewLabel(v) {
   return { day: "曜日別", timeband: "時間帯別", store: "店舗別", category: "カテゴリー別",
     instructor: "先生別", search: "イントラ検索", fav: "お気に入り", hashigo: "はしご",
-    gym: "ジム別", substitution: "代行情報", map: "近くで探す",
-    about: "紹介", help: "ヘルプ", business: "業者様向け" }[v] || v;
+    gym: "ジム別", substitution: "代行情報", map: "近くで探す", event: "イベント検索",
+    about: "紹介", help: "ヘルプ", business: "掲載・広告" }[v] || v;
 }
 
 function currentLimit() {
@@ -647,42 +652,169 @@ function renderHelp() {
   </div>`;
 }
 
-// ---- 業者様向けページ(広告掲載のご案内) ----
+// ---- 掲載・広告のご案内ページ(事業者・個人の方向け) ----
 function renderBusiness() {
   const m = META || {};
   const n = (x) => (x || 0).toLocaleString();
-  $("#summary").innerHTML = `<span class="muted">ページ: 業者様向け</span>`;
+  $("#summary").innerHTML = `<span class="muted">ページ: 掲載・広告</span>`;
   $("#main").innerHTML = `
   <div class="doc">
-    <h2>業者様向けのご案内</h2>
+    <h2>掲載・広告のご案内</h2>
     <p>「どこジム♪」は、全国のスタジオレッスンを横断検索できる情報サイトです。
-       フィットネス・健康・美容など、運動に関心の高い利用者の方々にご覧いただいています。</p>
+       フィットネス・健康・美容など、運動に関心の高い利用者の方々にご覧いただいています。
+       <b>ジムを運営される事業者様</b>はもちろん、<b>個人でレッスンを開催されている先生</b>も対象です。</p>
     <p class="doc-stat">現在の規模: <b>${n(m.lesson_count)}</b> レッスン ／ <b>${n(m.store_count)}</b> 店舗 ／
        <b>${m.gyms ? m.gyms.length : 0}</b> ジムを収録</p>
 
-    <h3>📣 広告掲載について</h3>
-    <p>業者様の広告掲載を受け付けております。
-       広告は<b>検索ページ</b>（検索結果まわりの広告枠）に掲載され、
-       目的を持って情報を探している利用者の方々へ直接お届けします。</p>
+    <h3>🆓 無料掲載（レッスン・教室）</h3>
+    <p>ジム事業者様・個人で活動されている先生から、<b>無料での掲載受付</b>を行っています。
+       いただいた情報（または公式サイト等の<b>公開情報</b>）をもとに、どこジム♪側でデータを整え、
+       <b>検索結果に表示</b>されるようにします。</p>
     <ul class="doc-list">
-      <li><b>掲載場所</b>: 検索条件と検索結果の間、および検索結果の末尾</li>
-      <li><b>掲載形式</b>: バナー画像＋リンク（グラフィック広告）</li>
-      <li><b>掲載期間</b>: 月単位でのお申し込みに対応しています</li>
+      <li>対象: スポーツジム／スタジオ／公共施設、個人レッスン・少人数教室 など</li>
+      <li>掲載内容: レッスンの曜日・時間・ジャンル・担当の先生・場所 など</li>
+      <li>掲載料は無料です（内容確認のうえ掲載します）。</li>
+    </ul>
+
+    <h3>🎉 イベント掲載</h3>
+    <p>日付指定の<b>特別レッスン・ワークショップ・フェス</b>などのイベントも掲載できます。
+       「🎉 イベント検索」に表示され、開催日が近い順に並びます。検索条件に一致する場合は、
+       通常の検索結果の先頭にも<b>関連イベント</b>として表示されます。</p>
+    <ul class="doc-list">
+      <li>掲載項目: 開催日・時間・場所・ジャンル・先生・内容・参加費・<b>申込みURL</b></li>
+      <li>申込みURLから、主催者様の申込ページへ直接ご誘導します。</li>
+      <li>開催日を過ぎたイベントは自動的に表示されなくなります。</li>
+    </ul>
+
+    <h3>📣 広告掲載（バナー）</h3>
+    <p>より積極的にPRしたい事業者様向けに、<b>バナー広告</b>も受け付けています。</p>
+    <ul class="doc-list">
+      <li>掲載場所: 検索条件と検索結果の間、および検索結果の末尾</li>
+      <li>掲載形式: バナー画像＋リンク（グラフィック広告）</li>
+      <li>掲載期間: 月単位でのお申し込みに対応しています</li>
     </ul>
 
     <h3>📨 お申し込み・お問い合わせ</h3>
-    <p>掲載料金・掲載枠の空き状況・入稿規定など、詳細は<b>管理者までご連絡</b>ください。
-       内容をうかがったうえで、最適なご提案をいたします。</p>
+    <p>掲載のご依頼・ご相談は、<b>LINE</b> で管理者までお気軽にご連絡ください。
+       内容をうかがったうえで対応いたします。</p>
     <div class="doc-contact">
-      <p style="margin:0 0 8px;"><b>LINE</b> でお気軽にご連絡ください（下のQRコードから友だち追加）。</p>
+      <p style="margin:0 0 8px;">下のQRコードから友だち追加してメッセージをお送りください。</p>
       <img class="line-qr" src="line-qr.png" alt="LINE 友だち追加用QRコード"
            width="200" height="200" loading="lazy" />
-      <p class="muted">「広告掲載希望」とメッセージいただけるとスムーズです。</p>
+      <p class="muted">「掲載希望（レッスン／イベント／広告）」と添えていただくとスムーズです。</p>
     </div>
 
     <p class="muted doc-note">※掲載内容は当サイトの趣旨に沿うものに限らせていただく場合があります。
-       あらかじめご了承ください。</p>
+       公開情報をもとに掲載する際も、誤りのご指摘や掲載停止のご希望に随時対応します。</p>
   </div>`;
+}
+
+// ---- イベント(日付指定) ----
+// 現在の絞り込み(地域/都道府県/ジム/カテゴリー/先生/フリーワード)に一致する
+// 未来イベントを返す。EVENTS はビルド時に未来分のみ・日付昇順で出力済み。
+function filteredEvents() {
+  const reg = state.region, pref = state.prefecture, cat = state.category;
+  const gymLabel = state.gym ? (GYM_LABEL.get(state.gym) || "") : "";
+  const iq = (state.iq || "").normalize("NFKC").toLowerCase();
+  const q = (state.q || "").normalize("NFKC").toLowerCase();
+  return EVENTS.filter((e) => {
+    if (reg && e.region !== reg) return false;
+    if (pref && e.prefecture !== pref) return false;
+    if (cat && e.category !== cat) return false;
+    if (gymLabel) {
+      const g = (e.gym || "").normalize("NFKC");
+      const s = (e.store || "").normalize("NFKC");
+      if (!g.includes(gymLabel) && !s.includes(gymLabel)) return false;
+    }
+    if (iq) {
+      if (!(e.instructor || "").normalize("NFKC").toLowerCase().includes(iq)) return false;
+    }
+    if (q) {
+      const hay = [e.title, e.genre, e.instructor, e.description, e.store, e.address, e.gym]
+        .join(" ").normalize("NFKC").toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function fmtEventDate(d) {
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(d || "");
+  if (!m) return { md: d || "", yr: "", iso: d || "" };
+  return { md: `${parseInt(m[2], 10)}/${parseInt(m[3], 10)}`, yr: m[1], iso: d };
+}
+
+function eventPlace(e) {
+  const p = e.store || e.gym || (e.address || "").split(/\s|　/)[0] || "";
+  return p + (e.prefecture ? `（${e.prefecture}）` : "");
+}
+
+function eventCard(e) {
+  const d = fmtEventDate(e.date);
+  const time = (e.start || e.end) ? `⏰ ${escapeHtml(e.start || "")}${e.end ? "–" + escapeHtml(e.end) : ""}` : "";
+  const place = e.store || e.gym || e.address ? `📍 ${escapeHtml(eventPlace(e))}` : "";
+  const genre = e.genre || e.category ? `🏷️ ${escapeHtml(e.genre || e.category)}` : "";
+  const ins = e.instructor ? `🧑‍🏫 ${escapeHtml(e.instructor)}` : "";
+  const meta = [time, place, genre, ins].filter(Boolean).join("　／　");
+  const fee = e.fee ? `<span class="ev-fee">💴 ${escapeHtml(e.fee)}</span>` : "";
+  const apply = e.apply_url
+    ? `<a class="btn ev-apply" href="${escapeAttr(e.apply_url)}" target="_blank" rel="noopener">申込み・詳細 ↗</a>`
+    : "";
+  const desc = e.description ? `<div class="ev-desc">${escapeHtml(e.description)}</div>` : "";
+  return `<div class="ev-card">
+    <div class="ev-date"><span class="ev-md">${escapeHtml(d.md)}</span>
+      <span class="ev-wd">(${escapeHtml(e.weekday || "")})</span>
+      <span class="ev-yr">${escapeHtml(d.yr)}</span></div>
+    <div class="ev-body">
+      <div class="ev-title">${catIcon(e.category)} ${escapeHtml(e.title)}</div>
+      <div class="ev-meta">${meta}</div>
+      ${desc}
+      <div class="ev-foot">${fee}${apply}</div>
+    </div>
+  </div>`;
+}
+
+// イベント検索タブ本体。
+function renderEvents() {
+  const list = filteredEvents();
+  const total = EVENTS.length;
+  $("#summary").innerHTML = `<span class="muted">イベント: ${list.length} 件` +
+    (total !== list.length ? ` / 全${total}件` : "") + `（開催日が近い順・未来のみ）</span>`;
+  if (!total) {
+    $("#main").innerHTML = `<div class="empty">現在、掲載中のイベントはありません。<br>` +
+      `イベント掲載のご依頼は「📣 業者様向け」ページからどうぞ。</div>`;
+    return;
+  }
+  if (!list.length) {
+    $("#main").innerHTML = `<div class="empty">条件に一致するイベントがありません。絞り込みを変えてお試しください。</div>`;
+    return;
+  }
+  $("#main").innerHTML = `<div class="ev-list">${list.map(eventCard).join("")}</div>`;
+}
+
+// 通常検索ビューの先頭に、現在の絞り込みに一致するイベントを差し込む。
+function renderMatchedEvents() {
+  const main = $("#main");
+  if (!main) return;
+  // 何らかの絞り込みがあるときだけ表示(全件の無条件表示は避ける)。
+  const hasFilter = state.region || state.prefecture || state.gym || state.category
+    || state.store_id || state.q;
+  if (!hasFilter) return;
+  const list = filteredEvents();
+  if (!list.length) return;
+  const show = list.slice(0, 4);
+  const more = list.length > show.length
+    ? `<div class="ev-more"><a href="#" id="evSeeAll">イベント検索で全${list.length}件を見る →</a></div>` : "";
+  const banner = document.createElement("div");
+  banner.className = "ev-banner";
+  banner.innerHTML = `<div class="ev-banner-h">🎉 条件に合うイベント（${list.length}件）</div>` +
+    `<div class="ev-list">${show.map(eventCard).join("")}</div>${more}`;
+  main.insertBefore(banner, main.firstChild);
+  const all = document.getElementById("evSeeAll");
+  if (all) all.addEventListener("click", (e) => {
+    e.preventDefault();
+    state.view = "event"; setActiveTab("event"); update();
+  });
 }
 
 // ---- 広告枠(Google AdSense + 独自バナー併用。data/ads.json で月別設定。未設定なら非表示) ----
@@ -797,6 +929,7 @@ async function update() {
   if (state.view === "about") { renderAbout(); return; }
   if (state.view === "help") { renderHelp(); return; }
   if (state.view === "business") { renderBusiness(); return; }
+  if (state.view === "event") { renderEvents(); return; }
   const prefs = scopePrefs();
   if (!prefs) { refreshStoreOptions(); renderChooseScope(); return; }
   if (prefs.some((n) => !LOADED.has(n))) {
@@ -818,11 +951,13 @@ function refreshViewRender() {
   if (state.view === "about") { renderAbout(); return; }
   if (state.view === "help") { renderHelp(); return; }
   if (state.view === "business") { renderBusiness(); return; }
+  if (state.view === "event") { renderEvents(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
   sortState.col = null;
   renderSummary(data);
   renderGroups(data);
+  renderMatchedEvents();
 }
 
 function renderSummary(data) {
