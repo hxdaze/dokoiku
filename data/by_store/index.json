@@ -18,8 +18,8 @@
     "note",
     "instructor_id"
   ],
-  "gym_count": 247,
-  "store_count": 2212,
+  "gym_count": 242,
+  "store_count": 2207,
   "gyms": [
     {
       "gym_id": "lava",
@@ -15043,19 +15043,6 @@
       ]
     },
     {
-      "gym_id": "muni_city_kumagaya_lg_jp",
-      "gym": "令和8年度 熊谷市スポーツ教室：熊谷市ホームページ",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "令和8年度 熊谷市スポーツ教室：熊谷市ホームページ",
-          "region": "関東",
-          "lesson_count": 65,
-          "path": "by_store/muni_city_kumagaya_lg_jp/令和8年度_熊谷市スポーツ教室：熊谷市ホームページ.json"
-        }
-      ]
-    },
-    {
       "gym_id": "ywcawow",
       "gym": "東京YWCA フィットネスワオ",
       "stores": [
@@ -15902,7 +15889,7 @@
     },
     {
       "gym_id": "muni_ssh_lp_com",
-      "gym": "神戸体育館6施設のご紹介",
+      "gym": "神戸市立体育館",
       "stores": [
         {
           "store_id": "main",
@@ -16512,21 +16499,8 @@
       ]
     },
     {
-      "gym_id": "muni_sports_navi_pref_kochi_lg_jp",
-      "gym": "スポーツ教室",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "スポーツ教室",
-          "region": "中国・四国",
-          "lesson_count": 8,
-          "path": "by_store/muni_sports_navi_pref_kochi_lg_jp/スポーツ教室.json"
-        }
-      ]
-    },
-    {
       "gym_id": "muni_tsc_7_com",
-      "gym": "総合型地域スポーツクラブNPO法人たか...",
+      "gym": "たかはまスポーツクラブ",
       "stores": [
         {
           "store_id": "main",
@@ -16565,7 +16539,7 @@
     },
     {
       "gym_id": "muni_kameyamasports_jp",
-      "gym": "施設空き状況",
+      "gym": "亀山市運動施設",
       "stores": [
         {
           "store_id": "main",
@@ -16578,7 +16552,7 @@
     },
     {
       "gym_id": "muni_mocca_dance_com",
-      "gym": "京都市上京区ダンス＆ピラティス教室mocca（モッカ）にっしんでんきアリーナ京都",
+      "gym": "京都市上京区ダンス＆ピラティス教室mocca（モッカ）",
       "stores": [
         {
           "store_id": "main",
@@ -16643,7 +16617,7 @@
     },
     {
       "gym_id": "muni_toyokawa_sports_net",
-      "gym": "豊川市スポーツ施設ガイド",
+      "gym": "豊川市スポーツ施設",
       "stores": [
         {
           "store_id": "main",
@@ -16734,7 +16708,7 @@
     },
     {
       "gym_id": "muni_onojo_sports_or_jp",
-      "gym": "イベント情報",
+      "gym": "大野城市スポーツ協会",
       "stores": [
         {
           "store_id": "main",
@@ -16773,7 +16747,7 @@
     },
     {
       "gym_id": "muni_ssksports_com",
-      "gym": "港スポーツセンター港スポーツセンターのスポーツ教室一覧／OPAS施",
+      "gym": "大阪市港スポーツセンター",
       "stores": [
         {
           "store_id": "main",
@@ -16845,32 +16819,6 @@
       ]
     },
     {
-      "gym_id": "muni_city",
-      "gym": "スポーツプログラム ヨガ教室2ヶ月コース（午前コース",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "スポーツプログラム ヨガ教室2ヶ月コース（午前コース",
-          "region": "中部・北陸",
-          "lesson_count": 2,
-          "path": "by_store/muni_city/スポーツプログラム_ヨガ教室2ヶ月コース（午前コース.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "muni_city_yashio_lg_jp",
-      "gym": "令和8年度春のスポーツ教室「コース教室」",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "令和8年度春のスポーツ教室「コース教室」",
-          "region": "関東",
-          "lesson_count": 2,
-          "path": "by_store/muni_city_yashio_lg_jp/令和8年度春のスポーツ教室「コース教室」.json"
-        }
-      ]
-    },
-    {
       "gym_id": "muni_ounoyama_jp",
       "gym": "沖縄県立武道館",
       "stores": [
@@ -16923,19 +16871,6 @@
       ]
     },
     {
-      "gym_id": "muni_osakacommunity_jp",
-      "gym": "大阪祭典なにわ区民ホール（浪速区民センター）からだをうごかす",
-      "stores": [
-        {
-          "store_id": "main",
-          "store": "大阪祭典なにわ区民ホール（浪速区民センター）からだをうごかす",
-          "region": "近畿",
-          "lesson_count": 1,
-          "path": "by_store/muni_osakacommunity_jp/大阪祭典なにわ区民ホール（浪速区民センター）からだをうごかす.json"
-        }
-      ]
-    },
-    {
       "gym_id": "muni_sc21_harima_or_jp",
       "gym": "播磨町総合体育館",
       "stores": [
@@ -16950,7 +16885,7 @@
     },
     {
       "gym_id": "muni_sports_fukuokacity_or_jp",
-      "gym": "福岡市スポーツ協会 ※スポーツ教室のご案内",
+      "gym": "福岡市民体育館",
       "stores": [
         {
           "store_id": "main",
