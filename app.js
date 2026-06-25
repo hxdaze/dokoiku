@@ -11,20 +11,12 @@ const state = {
   store_id: "", instructor: "", instructor_id: "", iq: "", favview: "list", q: "", limit: "200",
 };
 
-// ジャンル(カテゴリー)アイコン。カテゴリー名(英語)→絵文字。
-const CATEGORY_ICON = {
-  "ZUMBA": "💃", "RITMOS": "💃", "BAILA": "💃", "SALSATION": "💃", "LATIN": "💃",
-  "HULA": "🌺", "BELLY DANCE": "🪭", "HIP HOP": "🧢", "STREET DANCE": "🕺",
-  "BALLET": "🩰", "JAZZ DANCE": "🎶", "STEP": "👟", "BOXING": "🥊",
-  "MARTIAL ARTS": "🥋", "KUNG FU": "🐉",
-  "PILATES": "🤸‍♀️", "HOT YOGA": "♨️", "YOGA": "🧘", "AERIAL YOGA": "🪂",
-  "YOGA & PILATES": "🧘",
-  "AQUA": "🌊", "SWIMMING": "🏊", "CYCLING": "🚴",
-  "RUNNING": "🏃", "STRENGTH & CORE": "💪", "FAT BURN": "🔥",
-  "STRETCH & RELAX": "🌿", "WELLNESS": "🍀", "KIDS": "🧒", "AEROBICS": "🤸",
-  "OTHER": "✨",
-};
-function catIcon(cat) { return CATEGORY_ICON[cat] || "✨"; }
+// ジャンル(カテゴリー)アイコン。カテゴリー名→絵文字は data/domain.json(タクソノミ)
+// から取得する。ドメイン未取得時のみ最小フォールバック。
+function catIcon(cat) {
+  const m = DOMAIN && DOMAIN.category_icons;
+  return (m && m[cat]) || "✨";
+}
 
 // レッスン行の先生名をイントラ検索へのリンクにする(instructor_id があれば)。
 function instructorCell(r) {
