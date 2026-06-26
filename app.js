@@ -889,12 +889,9 @@ function renderAds() {
       const b = banners[Math.floor(Math.random() * banners.length)];
       shown = _renderAdBanner(el, b);
     }
-    // 2) Google AdSense(ユニットID指定)
+    // 2) Google AdSense(広告ユニットIDを ads.json で指定した場合のみ。通常は head の script だけで Auto Ads)
     if (slot.adsense && cfg.client) {
       shown = _renderAdSenseUnit(el, cfg.client, slot.adsense) || shown;
-    } else if (cfg.auto_ads && cfg.client && !shown) {
-      // 3) slot 未設定時: Auto Ads 形式で枠内に表示を試行
-      shown = _renderAdSenseUnit(el, cfg.client, "") || shown;
     }
     el.style.display = shown ? "" : "none";
   }
