@@ -286,7 +286,7 @@
     "studio": "AスタジオBスタジオ/プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",
@@ -303,7 +303,7 @@
     "studio": "AスタジオBスタジオ/プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",
@@ -1612,7 +1612,7 @@
     "studio": "AスタジオBスタジオ/プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",

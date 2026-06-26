@@ -2275,7 +2275,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",
@@ -2292,7 +2292,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",
@@ -2666,7 +2666,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",
@@ -2683,7 +2683,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",

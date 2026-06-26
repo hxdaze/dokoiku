@@ -303,7 +303,7 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",

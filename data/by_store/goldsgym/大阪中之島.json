@@ -949,7 +949,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": "有料"
+    "note": null
   },
   {
     "gym_id": "goldsgym",
