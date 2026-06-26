@@ -193,7 +193,9 @@ function setOptions(sel, items, { value = (x) => x, label = (x) => x, head = '<o
 // ホーム画面追加起動時は location がずれることがあるため、<base> または
 // window.SITE_BASE で必ず正しいパスから data/*.json を fetch する。
 function siteBase() {
-  if (typeof window.SITE_BASE === "string" && window.SITE_BASE) {
+  const host = location.hostname || "";
+  const isLocal = host === "127.0.0.1" || host === "localhost";
+  if (typeof window.SITE_BASE === "string" && window.SITE_BASE && !isLocal) {
     const b = window.SITE_BASE;
     return b.endsWith("/") ? b : b + "/";
   }
@@ -453,9 +455,10 @@ function currentLimit() {
 function renderChooseScope() {
   $("#summary").innerHTML = "";
   $("#main").innerHTML =
-    '<div class="empty">エリア・都道府県・ジムのいずれかを選択してください。' +
-    '<br>ジム名だけ選んでも表示できます（例: イオンスポーツクラブ）。' +
-    '<div style="margin-top:14px;"><button class="btn" id="loadAllBtn">全国をまとめて読み込む</button></div></div>';
+    '<div class="empty">表示する地域を選んでください。'
+    + '<br>都道府県は初期表示で<strong>東京都</strong>のみ読み込んでいます（約5万件）。'
+    + '「すべて」にすると全国データは未読込のため一覧は空になります。'
+    + '<div style="margin-top:14px;"><button class="btn" id="loadAllBtn">全国をまとめて読み込む</button></div></div>';
   const b = document.getElementById("loadAllBtn");
   if (b) b.addEventListener("click", loadAll);
 }
@@ -1015,6 +1018,8 @@ function refreshViewRender() {
   if (state.view === "help") { renderHelp(); return; }
   if (state.view === "business") { renderBusiness(); return; }
   if (state.view === "event") { renderEvents(); return; }
+  // レッスン未ロードのまま副次フィルタだけクリアした場合の空表示を防ぐ。
+  if (!LESSONS.length) { update(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
   sortState.col = null;
@@ -1210,7 +1215,14 @@ const opts_for = (v) => ({
 });
 
 function renderGroups(data) {
-  if (!data.groups.length) { $("#main").innerHTML = '<div class="empty">該当するレッスンがありません。フィルタを調整してください。</div>'; return; }
+  if (!data.groups.length) {
+    if (!LESSONS.length) { renderChooseScope(); return; }
+    $("#main").innerHTML =
+      '<div class="empty">該当するレッスンがありません。フィルタを調整してください。'
+      + '<br><span class="muted">都道府県を「すべて」にしている場合は、'
+      + 'エリアまたは都道府県を選ぶか「全国をまとめて読み込む」を押してください。</span></div>';
+    return;
+  }
   const opts = opts_for(state.view);
   const limit = currentLimit();
   let budget = limit, shown = 0;
@@ -1491,8 +1503,9 @@ function bind() {
     // 地理スコープ(エリア/都道府県)は維持し、副次フィルタのみクリアする。
     Object.assign(state, { gym: "", day: "", category: "", store_id: "", instructor: "", q: "" });
     $("#f-gym").value = ""; $("#f-day").value = ""; $("#f-category").value = "";
-    $("#f-store").value = ""; $("#f-q").value = "";
-    refreshStoreOptions(); refreshInstructorOptions(); refreshViewRender();
+    $("#f-store").value = ""; $("#f-instructor").value = ""; $("#f-q").value = "";
+    saveState();
+    update();
   });
   $("#main").addEventListener("click", (e) => {
     // お気に入り(★)トグル
@@ -1543,7 +1556,7 @@ async function main() {
     return;
   }
   // 初回(スコープ未保存)は東京都を既定にして、空表示や全件ロードを避ける。
-  if (!state.prefecture && !state.region) {
+  if (!state.prefecture && !state.region && !state.gym) {
     state.prefecture = PREF_BY_NAME.has("東京都")
       ? "東京都" : ((PREF_INDEX[0] && PREF_INDEX[0].name) || "");
   }
