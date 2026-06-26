@@ -172,7 +172,8 @@ header {
 }
 /* トップのリード文(SEO・初訪問者向けの説明) */
 .lead {
-  margin: 6px 2px 0;
+  margin: 6px 0 0;
+  padding: 0 16px;
   color: var(--muted);
   font-size: 11.5px;
   line-height: 1.5;
