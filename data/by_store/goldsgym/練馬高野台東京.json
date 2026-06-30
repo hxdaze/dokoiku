@@ -1348,6 +1348,23 @@
     "store": "練馬高野台東京",
     "region": "関東",
     "prefecture": "東京都",
+    "day": "水",
+    "start": "12:50",
+    "end": "13:35",
+    "class_name": "成人初級水泳",
+    "category": "SWIMMING",
+    "instructor": "酒井",
+    "studio": "WED",
+    "reservation_required": false,
+    "genre": null,
+    "note": "有料レッスン"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "20220509",
+    "store": "練馬高野台東京",
+    "region": "関東",
+    "prefecture": "東京都",
     "day": "木",
     "start": "10:20",
     "end": "10:50",
@@ -1460,22 +1477,5 @@
     "reservation_required": false,
     "genre": "ステップ",
     "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "20220509",
-    "store": "練馬高野台東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "水",
-    "start": "12:50",
-    "end": "13:35",
-    "class_name": "成人初級水泳",
-    "category": "SWIMMING",
-    "instructor": "酒井",
-    "studio": "WED",
-    "reservation_required": false,
-    "genre": null,
-    "note": "有料レッスン"
   }
 ]

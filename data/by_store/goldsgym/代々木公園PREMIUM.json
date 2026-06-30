@@ -280,7 +280,7 @@
     "day": "木",
     "start": "10:30",
     "end": "11:30",
-    "class_name": "モーニンブヨガ",
+    "class_name": "モーニングヨガ",
     "category": "YOGA",
     "instructor": "EMIANA",
     "studio": null,
@@ -558,23 +558,6 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨ ガ",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13191",
-    "store": "代々木公園PREMIUM",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "木",
-    "start": "10:30",
-    "end": "11:30",
-    "class_name": "モーニングヨガ",
-    "category": "YOGA",
-    "instructor": "EMIANA",
-    "studio": null,
-    "reservation_required": false,
-    "genre": null,
     "note": null
   }
 ]

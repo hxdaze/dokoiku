@@ -711,7 +711,7 @@
     "studio": "Studio 1",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": "(4歳〜小6)"
+    "note": "(4歳~小6)"
   },
   {
     "gym_id": "goldsgym",
@@ -790,9 +790,9 @@
     "day": "木",
     "start": "11:00",
     "end": "11:50",
-    "class_name": "メガダンス坂上友弥",
-    "category": "JAZZ DANCE",
-    "instructor": "新村卓也バタフライ",
+    "class_name": "バタフライ",
+    "category": "HULA",
+    "instructor": "新村卓也",
     "studio": "プールエリア/Studio 1",
     "reservation_required": false,
     "genre": "エアロビクス",
@@ -1064,11 +1064,11 @@
     "end": "13:20",
     "class_name": "Body make&ストレッチ",
     "category": "STRENGTH & CORE",
-    "instructor": "のん",
-    "studio": "溶岩",
+    "instructor": null,
+    "studio": "溶岩/プールエリア",
     "reservation_required": false,
-    "genre": "コンディショニング・調整",
-    "note": null
+    "genre": null,
+    "note": "有料レッスン1,100円"
   },
   {
     "gym_id": "goldsgym",
@@ -1079,13 +1079,13 @@
     "day": "土",
     "start": "13:00",
     "end": "13:30",
-    "class_name": "ウォーキング&アクアビクス",
+    "class_name": "ウォーキング&のんアクアビクス9月よりBody make",
     "category": "AQUA",
     "instructor": null,
     "studio": "溶岩/プールエリア",
     "reservation_required": false,
     "genre": null,
-    "note": "2.4週開催 / 有料レッスン1,100円 / 有料レッスン1,100円"
+    "note": "2.4週開催 / 有料レッスン1,100円 / &ストレッチ再開"
   },
   {
     "gym_id": "goldsgym",
@@ -1239,39 +1239,5 @@
     "reservation_required": false,
     "genre": "ヨ ガ",
     "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "2222",
-    "store": "笹塚東京 (OPEN 24 HOURS)",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "木",
-    "start": "11:00",
-    "end": "11:50",
-    "class_name": "バタフライ",
-    "category": "HULA",
-    "instructor": "新村卓也",
-    "studio": "プールエリア/Studio 1",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "2222",
-    "store": "笹塚東京 (OPEN 24 HOURS)",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "13:00",
-    "end": "13:30",
-    "class_name": "ウォーキング&のんアクアビクス9月よりBody make",
-    "category": "AQUA",
-    "instructor": null,
-    "studio": "溶岩/プールエリア",
-    "reservation_required": false,
-    "genre": null,
-    "note": "2.4週開催 / 有料レッスン1,100円 / &ストレッチ再開"
   }
 ]

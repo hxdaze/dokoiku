@@ -8,9 +8,9 @@
     "day": "月",
     "start": "12:55",
     "end": "13:40",
-    "class_name": "2.4週目アクアビクス",
+    "class_name": "1.3.5週目ウォーキング&アクアビクス",
     "category": "AQUA",
-    "instructor": "廣田朋子",
+    "instructor": "大谷むつみ",
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
@@ -25,9 +25,9 @@
     "day": "月",
     "start": "12:55",
     "end": "13:40",
-    "class_name": "1.3.5週目ウォーキング&アクアビクス",
+    "class_name": "2.4週目アクアビクス",
     "category": "AQUA",
-    "instructor": "大谷むつみ",
+    "instructor": "廣田朋子",
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
@@ -115,23 +115,6 @@
     "instructor": null,
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "71221",
-    "store": "東陽町スーパーセンター",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "月",
-    "start": "15:30",
-    "end": "16:30",
-    "class_name": "\"スペシャルレッスン\"",
-    "category": "OTHER",
-    "instructor": null,
-    "studio": "STUDIO",
-    "reservation_required": false,
     "genre": "ヨガリラックス系",
     "note": null
   },
@@ -149,7 +132,7 @@
     "instructor": "海東幸二",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -166,7 +149,7 @@
     "instructor": "石田沙瑛子",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -183,7 +166,7 @@
     "instructor": "渡部りか",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -217,7 +200,7 @@
     "instructor": "佐藤里江子",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -246,12 +229,12 @@
     "day": "月",
     "start": "19:15",
     "end": "20:15",
-    "class_name": "ゆったりストレッチ",
-    "category": "STRETCH & RELAX",
+    "class_name": "筋膜リリース&ストレッチ",
+    "category": "STRENGTH & CORE",
     "instructor": "石田沙瑛子",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -268,7 +251,7 @@
     "instructor": "高田早織",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -353,7 +336,7 @@
     "instructor": "AKEMI",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -455,7 +438,7 @@
     "instructor": "畠山和江",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -472,7 +455,7 @@
     "instructor": "加地史佳",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -489,7 +472,7 @@
     "instructor": "加地史佳",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -506,7 +489,7 @@
     "instructor": "歩",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -625,7 +608,7 @@
     "instructor": "YUKIKO",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -642,7 +625,7 @@
     "instructor": "YUKIKO",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -659,7 +642,7 @@
     "instructor": "YUKIKO",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -676,7 +659,7 @@
     "instructor": "鈴木優子",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -727,7 +710,7 @@
     "instructor": "瀬沼",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -761,7 +744,7 @@
     "instructor": "宮嶋文弥子",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -778,7 +761,7 @@
     "instructor": "宮嶋文弥子",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -846,7 +829,7 @@
     "instructor": "江田真代",
     "studio": "STUDIO/Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -880,7 +863,7 @@
     "instructor": "石田雅美",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -897,7 +880,7 @@
     "instructor": "関菜桜",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1016,7 +999,7 @@
     "instructor": "Rie",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1033,7 +1016,7 @@
     "instructor": "NOBU",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1050,24 +1033,7 @@
     "instructor": "Asha",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "71221",
-    "store": "東陽町スーパーセンター",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "金",
-    "start": "11:45",
-    "end": "12:45",
-    "class_name": "筋膜リリース&ピラティス宮野 香織",
-    "category": "PILATES",
-    "instructor": null,
-    "studio": "Yoga STUDIO",
-    "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1084,7 +1050,7 @@
     "instructor": "石田雅美",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1101,7 +1067,7 @@
     "instructor": "mayuco",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1220,7 +1186,7 @@
     "instructor": "太田ゆか",
     "studio": "STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1322,7 +1288,7 @@
     "instructor": "今村彩子",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1373,7 +1339,7 @@
     "instructor": "Asha",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1390,7 +1356,7 @@
     "instructor": "Asha",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1577,7 +1543,7 @@
     "instructor": "宮野香織",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1594,7 +1560,7 @@
     "instructor": "YUKIKO",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1611,7 +1577,7 @@
     "instructor": "谷上和子",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1628,7 +1594,7 @@
     "instructor": "AILI",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1645,7 +1611,7 @@
     "instructor": "小山内映子",
     "studio": "Yoga STUDIO",
     "reservation_required": false,
-    "genre": null,
+    "genre": "ヨガリラックス系",
     "note": null
   },
   {
@@ -1663,23 +1629,6 @@
     "studio": "3Fヨガスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "料金：¥1,100(税込)"
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "71221",
-    "store": "東陽町スーパーセンター",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "月",
-    "start": "19:15",
-    "end": "20:15",
-    "class_name": "筋膜リリース&ストレッチ",
-    "category": "STRENGTH & CORE",
-    "instructor": "石田沙瑛子",
-    "studio": "Yoga STUDIO",
-    "reservation_required": false,
-    "genre": "ヨガリラックス系",
     "note": null
   }
 ]

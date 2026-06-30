@@ -669,6 +669,23 @@
     "region": "関東",
     "prefecture": "埼玉県",
     "day": "金",
+    "start": "18:30",
+    "end": "19:00",
+    "class_name": "GGXコンディショニング",
+    "category": "WELLNESS",
+    "instructor": "山北",
+    "studio": null,
+    "reservation_required": false,
+    "genre": "コンディショニング・調整",
+    "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "11130",
+    "store": "新所沢埼玉",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "day": "金",
     "start": "19:15",
     "end": "20:00",
     "class_name": "HIPHOP基礎入門",
@@ -677,7 +694,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "GGXだれでもバレエ"
+    "note": "GGXバレエ"
   },
   {
     "gym_id": "goldsgym",
@@ -966,23 +983,6 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "11130",
-    "store": "新所沢埼玉",
-    "region": "関東",
-    "prefecture": "埼玉県",
-    "day": "金",
-    "start": "18:30",
-    "end": "19:00",
-    "class_name": "GGXコンディショニング",
-    "category": "WELLNESS",
-    "instructor": "山北",
-    "studio": null,
-    "reservation_required": false,
-    "genre": "コンディショニング・調整",
     "note": null
   }
 ]

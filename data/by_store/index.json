@@ -6253,733 +6253,6 @@
       ]
     },
     {
-      "gym_id": "goldsgym",
-      "gym": "ゴールドジム",
-      "stores": [
-        {
-          "store_id": "10100",
-          "store": "高崎群馬",
-          "region": "関東",
-          "lesson_count": 44,
-          "path": "by_store/goldsgym/高崎群馬.json"
-        },
-        {
-          "store_id": "10210",
-          "store": "南大沢東京",
-          "region": "関東",
-          "lesson_count": 91,
-          "path": "by_store/goldsgym/南大沢東京.json"
-        },
-        {
-          "store_id": "11105",
-          "store": "東浦和さいたま （フランチャイズ店）",
-          "region": "関東",
-          "lesson_count": 70,
-          "path": "by_store/goldsgym/東浦和さいたま_（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "11110",
-          "store": "さいたまスーパーアリーナ",
-          "region": "関東",
-          "lesson_count": 162,
-          "path": "by_store/goldsgym/さいたまスーパーアリーナ.json"
-        },
-        {
-          "store_id": "1112",
-          "store": "大宮さいたま (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 162,
-          "path": "by_store/goldsgym/大宮さいたま_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "11130",
-          "store": "新所沢埼玉",
-          "region": "関東",
-          "lesson_count": 58,
-          "path": "by_store/goldsgym/新所沢埼玉.json"
-        },
-        {
-          "store_id": "12100",
-          "store": "成田千葉",
-          "region": "関東",
-          "lesson_count": 41,
-          "path": "by_store/goldsgym/成田千葉.json"
-        },
-        {
-          "store_id": "12110",
-          "store": "柏千葉 （豊四季）",
-          "region": "関東",
-          "lesson_count": 23,
-          "path": "by_store/goldsgym/柏千葉_（豊四季）.json"
-        },
-        {
-          "store_id": "12120",
-          "store": "幕張千葉WBG",
-          "region": "関東",
-          "lesson_count": 142,
-          "path": "by_store/goldsgym/幕張千葉WBG.json"
-        },
-        {
-          "store_id": "12130",
-          "store": "幕張千葉ANNEX",
-          "region": "関東",
-          "lesson_count": 142,
-          "path": "by_store/goldsgym/幕張千葉ANNEX.json"
-        },
-        {
-          "store_id": "12131",
-          "store": "幕張ベイパークアリーナ",
-          "region": "関東",
-          "lesson_count": 220,
-          "path": "by_store/goldsgym/幕張ベイパークアリーナ.json"
-        },
-        {
-          "store_id": "12135",
-          "store": "南船橋千葉",
-          "region": "関東",
-          "lesson_count": 101,
-          "path": "by_store/goldsgym/南船橋千葉.json"
-        },
-        {
-          "store_id": "12140",
-          "store": "行徳千葉フィットネスセンター (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 83,
-          "path": "by_store/goldsgym/行徳千葉フィットネスセンター_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "12160",
-          "store": "浦安千葉",
-          "region": "関東",
-          "lesson_count": 77,
-          "path": "by_store/goldsgym/浦安千葉.json"
-        },
-        {
-          "store_id": "12170",
-          "store": "津田沼千葉",
-          "region": "関東",
-          "lesson_count": 67,
-          "path": "by_store/goldsgym/津田沼千葉.json"
-        },
-        {
-          "store_id": "12180",
-          "store": "本八幡千葉",
-          "region": "関東",
-          "lesson_count": 70,
-          "path": "by_store/goldsgym/本八幡千葉.json"
-        },
-        {
-          "store_id": "13100",
-          "store": "北千住東京",
-          "region": "関東",
-          "lesson_count": 125,
-          "path": "by_store/goldsgym/北千住東京.json"
-        },
-        {
-          "store_id": "13110",
-          "store": "イースト東京",
-          "region": "関東",
-          "lesson_count": 92,
-          "path": "by_store/goldsgym/イースト東京.json"
-        },
-        {
-          "store_id": "13120",
-          "store": "ノース東京",
-          "region": "関東",
-          "lesson_count": 65,
-          "path": "by_store/goldsgym/ノース東京.json"
-        },
-        {
-          "store_id": "13121",
-          "store": "四ツ谷東京",
-          "region": "関東",
-          "lesson_count": 52,
-          "path": "by_store/goldsgym/四ツ谷東京.json"
-        },
-        {
-          "store_id": "13130",
-          "store": "東中野東京",
-          "region": "関東",
-          "lesson_count": 81,
-          "path": "by_store/goldsgym/東中野東京.json"
-        },
-        {
-          "store_id": "13140",
-          "store": "ウエスト東京",
-          "region": "関東",
-          "lesson_count": 71,
-          "path": "by_store/goldsgym/ウエスト東京.json"
-        },
-        {
-          "store_id": "13150",
-          "store": "原宿東京 (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 80,
-          "path": "by_store/goldsgym/原宿東京_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "13160",
-          "store": "表参道東京",
-          "region": "関東",
-          "lesson_count": 131,
-          "path": "by_store/goldsgym/表参道東京.json"
-        },
-        {
-          "store_id": "13170",
-          "store": "南青山東京",
-          "region": "関東",
-          "lesson_count": 48,
-          "path": "by_store/goldsgym/南青山東京.json"
-        },
-        {
-          "store_id": "13180",
-          "store": "渋谷東京",
-          "region": "関東",
-          "lesson_count": 80,
-          "path": "by_store/goldsgym/渋谷東京.json"
-        },
-        {
-          "store_id": "13190",
-          "store": "代々木上原東京",
-          "region": "関東",
-          "lesson_count": 80,
-          "path": "by_store/goldsgym/代々木上原東京.json"
-        },
-        {
-          "store_id": "13191",
-          "store": "代々木公園PREMIUM",
-          "region": "関東",
-          "lesson_count": 34,
-          "path": "by_store/goldsgym/代々木公園PREMIUM.json"
-        },
-        {
-          "store_id": "13200",
-          "store": "銀座東京 (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 54,
-          "path": "by_store/goldsgym/銀座東京_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "13205",
-          "store": "銀座中央",
-          "region": "関東",
-          "lesson_count": 55,
-          "path": "by_store/goldsgym/銀座中央.json"
-        },
-        {
-          "store_id": "13210",
-          "store": "浜松町東京",
-          "region": "関東",
-          "lesson_count": 49,
-          "path": "by_store/goldsgym/浜松町東京.json"
-        },
-        {
-          "store_id": "13220",
-          "store": "サウス東京ANNEX",
-          "region": "関東",
-          "lesson_count": 124,
-          "path": "by_store/goldsgym/サウス東京ANNEX.json"
-        },
-        {
-          "store_id": "13230",
-          "store": "サウス東京 (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 54,
-          "path": "by_store/goldsgym/サウス東京_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "13240",
-          "store": "府中東京 (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 56,
-          "path": "by_store/goldsgym/府中東京_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "13250",
-          "store": "町田東京",
-          "region": "関東",
-          "lesson_count": 50,
-          "path": "by_store/goldsgym/町田東京.json"
-        },
-        {
-          "store_id": "13260",
-          "store": "八王子東京",
-          "region": "関東",
-          "lesson_count": 72,
-          "path": "by_store/goldsgym/八王子東京.json"
-        },
-        {
-          "store_id": "14110",
-          "store": "溝の口神奈川",
-          "region": "関東",
-          "lesson_count": 88,
-          "path": "by_store/goldsgym/溝の口神奈川.json"
-        },
-        {
-          "store_id": "14130",
-          "store": "戸塚神奈川",
-          "region": "関東",
-          "lesson_count": 152,
-          "path": "by_store/goldsgym/戸塚神奈川.json"
-        },
-        {
-          "store_id": "14140",
-          "store": "横浜上星川 ※フランチャイズ店  (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 51,
-          "path": "by_store/goldsgym/横浜上星川_※フランチャイズ店_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "14150",
-          "store": "横須賀神奈川  (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 47,
-          "path": "by_store/goldsgym/横須賀神奈川_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "14160",
-          "store": "厚木神奈川  (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 67,
-          "path": "by_store/goldsgym/厚木神奈川_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "14170",
-          "store": "湘南神奈川 (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 78,
-          "path": "by_store/goldsgym/湘南神奈川_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "180717",
-          "store": "宝塚兵庫",
-          "region": "近畿",
-          "lesson_count": 56,
-          "path": "by_store/goldsgym/宝塚兵庫.json"
-        },
-        {
-          "store_id": "180824",
-          "store": "前橋インター",
-          "region": "関東",
-          "lesson_count": 49,
-          "path": "by_store/goldsgym/前橋インター.json"
-        },
-        {
-          "store_id": "18083",
-          "store": "浜松静岡 (OPEN 24 HOURS)",
-          "region": "中部・北陸",
-          "lesson_count": 36,
-          "path": "by_store/goldsgym/浜松静岡_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "180914",
-          "store": "西葛西東京 (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 72,
-          "path": "by_store/goldsgym/西葛西東京_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "180925",
-          "store": "シーモール下関（フランチャイズ店）",
-          "region": "中国・四国",
-          "lesson_count": 1,
-          "path": "by_store/goldsgym/シーモール下関（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "180926",
-          "store": "山口宇部（フランチャイズ店）",
-          "region": "中国・四国",
-          "lesson_count": 61,
-          "path": "by_store/goldsgym/山口宇部（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "18095",
-          "store": "千葉ニュータウン",
-          "region": "関東",
-          "lesson_count": 99,
-          "path": "by_store/goldsgym/千葉ニュータウン.json"
-        },
-        {
-          "store_id": "181106",
-          "store": "飯塚福岡店［のがみサテライト、馬場山サテライト］（フランチャイズ店）",
-          "region": "九州・沖縄",
-          "lesson_count": 42,
-          "path": "by_store/goldsgym/飯塚福岡店［のがみサテライト、馬場山サテライト］（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "181128",
-          "store": "熊本East店※フランチャイズ店",
-          "region": "九州・沖縄",
-          "lesson_count": 43,
-          "path": "by_store/goldsgym/熊本East店※フランチャイズ店.json"
-        },
-        {
-          "store_id": "18115",
-          "store": "別府杉乃井ホテル（フランチャイズ店）",
-          "region": "九州・沖縄",
-          "lesson_count": 26,
-          "path": "by_store/goldsgym/別府杉乃井ホテル（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "18116",
-          "store": "曳舟東京 (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 72,
-          "path": "by_store/goldsgym/曳舟東京_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "190913",
-          "store": "函館北海道（フランチャイズ店）",
-          "region": "北海道・東北",
-          "lesson_count": 57,
-          "path": "by_store/goldsgym/函館北海道（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "191002",
-          "store": "聖蹟桜ヶ丘東京",
-          "region": "関東",
-          "lesson_count": 72,
-          "path": "by_store/goldsgym/聖蹟桜ヶ丘東京.json"
-        },
-        {
-          "store_id": "191112",
-          "store": "富山環水公園（フランチャイズ店）",
-          "region": "中部・北陸",
-          "lesson_count": 42,
-          "path": "by_store/goldsgym/富山環水公園（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "191119",
-          "store": "富士静岡（フランチャイズ店　OPEN 24 HOUR）",
-          "region": "中部・北陸",
-          "lesson_count": 41,
-          "path": "by_store/goldsgym/富士静岡（フランチャイズ店_OPEN_24_HOUR）.json"
-        },
-        {
-          "store_id": "200106",
-          "store": "広島パセーラ（フランチャイズ店）",
-          "region": "中国・四国",
-          "lesson_count": 78,
-          "path": "by_store/goldsgym/広島パセーラ（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "20200508",
-          "store": "久喜埼玉",
-          "region": "関東",
-          "lesson_count": 59,
-          "path": "by_store/goldsgym/久喜埼玉.json"
-        },
-        {
-          "store_id": "20201101",
-          "store": "立川東京",
-          "region": "関東",
-          "lesson_count": 41,
-          "path": "by_store/goldsgym/立川東京.json"
-        },
-        {
-          "store_id": "20210224",
-          "store": "イオンモール宮崎",
-          "region": "九州・沖縄",
-          "lesson_count": 74,
-          "path": "by_store/goldsgym/イオンモール宮崎.json"
-        },
-        {
-          "store_id": "20210628",
-          "store": "宇城熊本",
-          "region": "九州・沖縄",
-          "lesson_count": 33,
-          "path": "by_store/goldsgym/宇城熊本.json"
-        },
-        {
-          "store_id": "20210924",
-          "store": "横浜馬車道 （フランチャイズ店） ※OPEN 24 HOURS",
-          "region": "関東",
-          "lesson_count": 56,
-          "path": "by_store/goldsgym/横浜馬車道_（フランチャイズ店）_※OPEN_24_HOURS.json"
-        },
-        {
-          "store_id": "20211014",
-          "store": "名古屋金山",
-          "region": "中部・北陸",
-          "lesson_count": 55,
-          "path": "by_store/goldsgym/名古屋金山.json"
-        },
-        {
-          "store_id": "20211015",
-          "store": "エクスプレス本川越埼玉",
-          "region": "関東",
-          "lesson_count": 53,
-          "path": "by_store/goldsgym/エクスプレス本川越埼玉.json"
-        },
-        {
-          "store_id": "20211125",
-          "store": "佐世保長崎（フランチャイズ店）",
-          "region": "九州・沖縄",
-          "lesson_count": 38,
-          "path": "by_store/goldsgym/佐世保長崎（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "20211208",
-          "store": "神戸灘",
-          "region": "近畿",
-          "lesson_count": 171,
-          "path": "by_store/goldsgym/神戸灘.json"
-        },
-        {
-          "store_id": "20220422",
-          "store": "名古屋栄",
-          "region": "中部・北陸",
-          "lesson_count": 39,
-          "path": "by_store/goldsgym/名古屋栄.json"
-        },
-        {
-          "store_id": "20220506",
-          "store": "草津滋賀",
-          "region": "近畿",
-          "lesson_count": 35,
-          "path": "by_store/goldsgym/草津滋賀.json"
-        },
-        {
-          "store_id": "20220509",
-          "store": "練馬高野台東京",
-          "region": "関東",
-          "lesson_count": 87,
-          "path": "by_store/goldsgym/練馬高野台東京.json"
-        },
-        {
-          "store_id": "20220627",
-          "store": "国立東京",
-          "region": "関東",
-          "lesson_count": 82,
-          "path": "by_store/goldsgym/国立東京.json"
-        },
-        {
-          "store_id": "20240315",
-          "store": "前橋リリカ",
-          "region": "関東",
-          "lesson_count": 132,
-          "path": "by_store/goldsgym/前橋リリカ.json"
-        },
-        {
-          "store_id": "20251027",
-          "store": "ヴィテン福井※フランチャイズ店",
-          "region": "中部・北陸",
-          "lesson_count": 39,
-          "path": "by_store/goldsgym/ヴィテン福井※フランチャイズ店.json"
-        },
-        {
-          "store_id": "20260122",
-          "store": "長崎スタジアムシティ（フランチャイズ店）",
-          "region": "九州・沖縄",
-          "lesson_count": 29,
-          "path": "by_store/goldsgym/長崎スタジアムシティ（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "210305",
-          "store": "合志熊本",
-          "region": "九州・沖縄",
-          "lesson_count": 63,
-          "path": "by_store/goldsgym/合志熊本.json"
-        },
-        {
-          "store_id": "220817",
-          "store": "心斎橋大阪",
-          "region": "近畿",
-          "lesson_count": 68,
-          "path": "by_store/goldsgym/心斎橋大阪.json"
-        },
-        {
-          "store_id": "22100",
-          "store": "御殿場静岡 （フランチャイズ店）",
-          "region": "中部・北陸",
-          "lesson_count": 31,
-          "path": "by_store/goldsgym/御殿場静岡_（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "2222",
-          "store": "笹塚東京 (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 75,
-          "path": "by_store/goldsgym/笹塚東京_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "23100",
-          "store": "安城コロナワールド(OPEN 24 HOURS)",
-          "region": "中部・北陸",
-          "lesson_count": 82,
-          "path": "by_store/goldsgym/安城コロナワールド(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "23120",
-          "store": "イオンモール熱田アネックス  (OPEN 24 HOURS)",
-          "region": "中部・北陸",
-          "lesson_count": 53,
-          "path": "by_store/goldsgym/イオンモール熱田アネックス_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "25100",
-          "store": "栗東滋賀",
-          "region": "近畿",
-          "lesson_count": 70,
-          "path": "by_store/goldsgym/栗東滋賀.json"
-        },
-        {
-          "store_id": "26100",
-          "store": "京都二条 (OPEN 24 HOURS)",
-          "region": "近畿",
-          "lesson_count": 92,
-          "path": "by_store/goldsgym/京都二条_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "26110",
-          "store": "京都烏丸",
-          "region": "近畿",
-          "lesson_count": 55,
-          "path": "by_store/goldsgym/京都烏丸.json"
-        },
-        {
-          "store_id": "27100",
-          "store": "高槻大阪 (OPEN 24 HOURS)",
-          "region": "近畿",
-          "lesson_count": 98,
-          "path": "by_store/goldsgym/高槻大阪_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "27110",
-          "store": "大阪中之島",
-          "region": "近畿",
-          "lesson_count": 80,
-          "path": "by_store/goldsgym/大阪中之島.json"
-        },
-        {
-          "store_id": "27120",
-          "store": "梅田大阪  (OPEN 24 HOURS)",
-          "region": "近畿",
-          "lesson_count": 52,
-          "path": "by_store/goldsgym/梅田大阪_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "27130",
-          "store": "十三 in プラザオーサカ",
-          "region": "近畿",
-          "lesson_count": 71,
-          "path": "by_store/goldsgym/十三_in_プラザオーサカ.json"
-        },
-        {
-          "store_id": "28100",
-          "store": "新神戸兵庫",
-          "region": "近畿",
-          "lesson_count": 76,
-          "path": "by_store/goldsgym/新神戸兵庫.json"
-        },
-        {
-          "store_id": "28110",
-          "store": "神戸元町",
-          "region": "近畿",
-          "lesson_count": 213,
-          "path": "by_store/goldsgym/神戸元町.json"
-        },
-        {
-          "store_id": "28120",
-          "store": "京都今出川",
-          "region": "近畿",
-          "lesson_count": 66,
-          "path": "by_store/goldsgym/京都今出川.json"
-        },
-        {
-          "store_id": "38100",
-          "store": "新居浜愛媛 （フランチャイズ店）",
-          "region": "中国・四国",
-          "lesson_count": 62,
-          "path": "by_store/goldsgym/新居浜愛媛_（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "40100",
-          "store": "博多リバレイン(OPEN 24 HOURS)",
-          "region": "九州・沖縄",
-          "lesson_count": 55,
-          "path": "by_store/goldsgym/博多リバレイン(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "40110",
-          "store": "コマーシャルモール博多 (OPEN 24 HOURS)",
-          "region": "九州・沖縄",
-          "lesson_count": 55,
-          "path": "by_store/goldsgym/コマーシャルモール博多_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "40120",
-          "store": "筑紫野福岡（フランチャイズ店）",
-          "region": "九州・沖縄",
-          "lesson_count": 54,
-          "path": "by_store/goldsgym/筑紫野福岡（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "4100",
-          "store": "仙台宮城 (OPEN 24 HOURS)",
-          "region": "北海道・東北",
-          "lesson_count": 54,
-          "path": "by_store/goldsgym/仙台宮城_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "4110",
-          "store": "仙台サンプラザ",
-          "region": "北海道・東北",
-          "lesson_count": 68,
-          "path": "by_store/goldsgym/仙台サンプラザ.json"
-        },
-        {
-          "store_id": "71221",
-          "store": "東陽町スーパーセンター",
-          "region": "関東",
-          "lesson_count": 99,
-          "path": "by_store/goldsgym/東陽町スーパーセンター.json"
-        },
-        {
-          "store_id": "79",
-          "store": "イオンモール土岐",
-          "region": "中部・北陸",
-          "lesson_count": 37,
-          "path": "by_store/goldsgym/イオンモール土岐.json"
-        },
-        {
-          "store_id": "80209",
-          "store": "牛久茨城（フランチャイズ店）",
-          "region": "関東",
-          "lesson_count": 37,
-          "path": "by_store/goldsgym/牛久茨城（フランチャイズ店）.json"
-        },
-        {
-          "store_id": "80308",
-          "store": "札幌大通※フランチャイズ店 (OPEN 24 HOURS)",
-          "region": "北海道・東北",
-          "lesson_count": 45,
-          "path": "by_store/goldsgym/札幌大通※フランチャイズ店_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "9100",
-          "store": "スパレア宇都宮 ※フランチャイズ店  (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 40,
-          "path": "by_store/goldsgym/スパレア宇都宮_※フランチャイズ店_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "9110",
-          "store": "スパレア足利 ※フランチャイズ店  (OPEN 24 HOURS)",
-          "region": "関東",
-          "lesson_count": 80,
-          "path": "by_store/goldsgym/スパレア足利_※フランチャイズ店_(OPEN_24_HOURS).json"
-        },
-        {
-          "store_id": "9999",
-          "store": "原宿ANNEX",
-          "region": "関東",
-          "lesson_count": 168,
-          "path": "by_store/goldsgym/原宿ANNEX.json"
-        }
-      ]
-    },
-    {
       "gym_id": "tipness",
       "gym": "ティップネス",
       "stores": [
@@ -7346,6 +6619,733 @@
           "region": "関東",
           "lesson_count": 239,
           "path": "by_store/tipness/ティップネス駒沢大学24hours.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "goldsgym",
+      "gym": "ゴールドジム",
+      "stores": [
+        {
+          "store_id": "10100",
+          "store": "高崎群馬",
+          "region": "関東",
+          "lesson_count": 44,
+          "path": "by_store/goldsgym/高崎群馬.json"
+        },
+        {
+          "store_id": "10210",
+          "store": "南大沢東京",
+          "region": "関東",
+          "lesson_count": 88,
+          "path": "by_store/goldsgym/南大沢東京.json"
+        },
+        {
+          "store_id": "11105",
+          "store": "東浦和さいたま （フランチャイズ店）",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/goldsgym/東浦和さいたま_（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "11110",
+          "store": "さいたまスーパーアリーナ",
+          "region": "関東",
+          "lesson_count": 161,
+          "path": "by_store/goldsgym/さいたまスーパーアリーナ.json"
+        },
+        {
+          "store_id": "1112",
+          "store": "大宮さいたま (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 161,
+          "path": "by_store/goldsgym/大宮さいたま_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "11130",
+          "store": "新所沢埼玉",
+          "region": "関東",
+          "lesson_count": 58,
+          "path": "by_store/goldsgym/新所沢埼玉.json"
+        },
+        {
+          "store_id": "12100",
+          "store": "成田千葉",
+          "region": "関東",
+          "lesson_count": 41,
+          "path": "by_store/goldsgym/成田千葉.json"
+        },
+        {
+          "store_id": "12110",
+          "store": "柏千葉 （豊四季）",
+          "region": "関東",
+          "lesson_count": 23,
+          "path": "by_store/goldsgym/柏千葉_（豊四季）.json"
+        },
+        {
+          "store_id": "12120",
+          "store": "幕張千葉WBG",
+          "region": "関東",
+          "lesson_count": 113,
+          "path": "by_store/goldsgym/幕張千葉WBG.json"
+        },
+        {
+          "store_id": "12130",
+          "store": "幕張千葉ANNEX",
+          "region": "関東",
+          "lesson_count": 85,
+          "path": "by_store/goldsgym/幕張千葉ANNEX.json"
+        },
+        {
+          "store_id": "12131",
+          "store": "幕張ベイパークアリーナ",
+          "region": "関東",
+          "lesson_count": 114,
+          "path": "by_store/goldsgym/幕張ベイパークアリーナ.json"
+        },
+        {
+          "store_id": "12135",
+          "store": "南船橋千葉",
+          "region": "関東",
+          "lesson_count": 101,
+          "path": "by_store/goldsgym/南船橋千葉.json"
+        },
+        {
+          "store_id": "12140",
+          "store": "行徳千葉フィットネスセンター (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 76,
+          "path": "by_store/goldsgym/行徳千葉フィットネスセンター_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "12160",
+          "store": "浦安千葉",
+          "region": "関東",
+          "lesson_count": 63,
+          "path": "by_store/goldsgym/浦安千葉.json"
+        },
+        {
+          "store_id": "12170",
+          "store": "津田沼千葉",
+          "region": "関東",
+          "lesson_count": 67,
+          "path": "by_store/goldsgym/津田沼千葉.json"
+        },
+        {
+          "store_id": "12180",
+          "store": "本八幡千葉",
+          "region": "関東",
+          "lesson_count": 67,
+          "path": "by_store/goldsgym/本八幡千葉.json"
+        },
+        {
+          "store_id": "13100",
+          "store": "北千住東京",
+          "region": "関東",
+          "lesson_count": 114,
+          "path": "by_store/goldsgym/北千住東京.json"
+        },
+        {
+          "store_id": "13110",
+          "store": "イースト東京",
+          "region": "関東",
+          "lesson_count": 61,
+          "path": "by_store/goldsgym/イースト東京.json"
+        },
+        {
+          "store_id": "13120",
+          "store": "ノース東京",
+          "region": "関東",
+          "lesson_count": 62,
+          "path": "by_store/goldsgym/ノース東京.json"
+        },
+        {
+          "store_id": "13121",
+          "store": "四ツ谷東京",
+          "region": "関東",
+          "lesson_count": 52,
+          "path": "by_store/goldsgym/四ツ谷東京.json"
+        },
+        {
+          "store_id": "13130",
+          "store": "東中野東京",
+          "region": "関東",
+          "lesson_count": 81,
+          "path": "by_store/goldsgym/東中野東京.json"
+        },
+        {
+          "store_id": "13140",
+          "store": "ウエスト東京",
+          "region": "関東",
+          "lesson_count": 71,
+          "path": "by_store/goldsgym/ウエスト東京.json"
+        },
+        {
+          "store_id": "13150",
+          "store": "原宿東京 (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 80,
+          "path": "by_store/goldsgym/原宿東京_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "13160",
+          "store": "表参道東京",
+          "region": "関東",
+          "lesson_count": 76,
+          "path": "by_store/goldsgym/表参道東京.json"
+        },
+        {
+          "store_id": "13170",
+          "store": "南青山東京",
+          "region": "関東",
+          "lesson_count": 47,
+          "path": "by_store/goldsgym/南青山東京.json"
+        },
+        {
+          "store_id": "13180",
+          "store": "渋谷東京",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/goldsgym/渋谷東京.json"
+        },
+        {
+          "store_id": "13190",
+          "store": "代々木上原東京",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/goldsgym/代々木上原東京.json"
+        },
+        {
+          "store_id": "13191",
+          "store": "代々木公園PREMIUM",
+          "region": "関東",
+          "lesson_count": 33,
+          "path": "by_store/goldsgym/代々木公園PREMIUM.json"
+        },
+        {
+          "store_id": "13200",
+          "store": "銀座東京 (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 54,
+          "path": "by_store/goldsgym/銀座東京_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "13205",
+          "store": "銀座中央",
+          "region": "関東",
+          "lesson_count": 55,
+          "path": "by_store/goldsgym/銀座中央.json"
+        },
+        {
+          "store_id": "13210",
+          "store": "浜松町東京",
+          "region": "関東",
+          "lesson_count": 48,
+          "path": "by_store/goldsgym/浜松町東京.json"
+        },
+        {
+          "store_id": "13220",
+          "store": "サウス東京ANNEX",
+          "region": "関東",
+          "lesson_count": 57,
+          "path": "by_store/goldsgym/サウス東京ANNEX.json"
+        },
+        {
+          "store_id": "13230",
+          "store": "サウス東京 (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 53,
+          "path": "by_store/goldsgym/サウス東京_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "13240",
+          "store": "府中東京 (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 56,
+          "path": "by_store/goldsgym/府中東京_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "13250",
+          "store": "町田東京",
+          "region": "関東",
+          "lesson_count": 50,
+          "path": "by_store/goldsgym/町田東京.json"
+        },
+        {
+          "store_id": "13260",
+          "store": "八王子東京",
+          "region": "関東",
+          "lesson_count": 72,
+          "path": "by_store/goldsgym/八王子東京.json"
+        },
+        {
+          "store_id": "14110",
+          "store": "溝の口神奈川",
+          "region": "関東",
+          "lesson_count": 65,
+          "path": "by_store/goldsgym/溝の口神奈川.json"
+        },
+        {
+          "store_id": "14130",
+          "store": "戸塚神奈川",
+          "region": "関東",
+          "lesson_count": 152,
+          "path": "by_store/goldsgym/戸塚神奈川.json"
+        },
+        {
+          "store_id": "14140",
+          "store": "横浜上星川 ※フランチャイズ店  (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 51,
+          "path": "by_store/goldsgym/横浜上星川_※フランチャイズ店_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "14150",
+          "store": "横須賀神奈川  (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 44,
+          "path": "by_store/goldsgym/横須賀神奈川_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "14160",
+          "store": "厚木神奈川  (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 66,
+          "path": "by_store/goldsgym/厚木神奈川_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "14170",
+          "store": "湘南神奈川 (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 78,
+          "path": "by_store/goldsgym/湘南神奈川_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "180717",
+          "store": "宝塚兵庫",
+          "region": "近畿",
+          "lesson_count": 56,
+          "path": "by_store/goldsgym/宝塚兵庫.json"
+        },
+        {
+          "store_id": "180824",
+          "store": "前橋インター",
+          "region": "関東",
+          "lesson_count": 47,
+          "path": "by_store/goldsgym/前橋インター.json"
+        },
+        {
+          "store_id": "18083",
+          "store": "浜松静岡 (OPEN 24 HOURS)",
+          "region": "中部・北陸",
+          "lesson_count": 36,
+          "path": "by_store/goldsgym/浜松静岡_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "180914",
+          "store": "西葛西東京 (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 67,
+          "path": "by_store/goldsgym/西葛西東京_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "180925",
+          "store": "シーモール下関（フランチャイズ店）",
+          "region": "中国・四国",
+          "lesson_count": 1,
+          "path": "by_store/goldsgym/シーモール下関（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "180926",
+          "store": "山口宇部（フランチャイズ店）",
+          "region": "中国・四国",
+          "lesson_count": 39,
+          "path": "by_store/goldsgym/山口宇部（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "18095",
+          "store": "千葉ニュータウン",
+          "region": "関東",
+          "lesson_count": 73,
+          "path": "by_store/goldsgym/千葉ニュータウン.json"
+        },
+        {
+          "store_id": "181106",
+          "store": "飯塚福岡店［のがみサテライト、馬場山サテライト］（フランチャイズ店）",
+          "region": "九州・沖縄",
+          "lesson_count": 38,
+          "path": "by_store/goldsgym/飯塚福岡店［のがみサテライト、馬場山サテライト］（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "181128",
+          "store": "熊本East店※フランチャイズ店",
+          "region": "九州・沖縄",
+          "lesson_count": 43,
+          "path": "by_store/goldsgym/熊本East店※フランチャイズ店.json"
+        },
+        {
+          "store_id": "18115",
+          "store": "別府杉乃井ホテル（フランチャイズ店）",
+          "region": "九州・沖縄",
+          "lesson_count": 26,
+          "path": "by_store/goldsgym/別府杉乃井ホテル（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "18116",
+          "store": "曳舟東京 (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 72,
+          "path": "by_store/goldsgym/曳舟東京_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "190913",
+          "store": "函館北海道（フランチャイズ店）",
+          "region": "北海道・東北",
+          "lesson_count": 57,
+          "path": "by_store/goldsgym/函館北海道（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "191002",
+          "store": "聖蹟桜ヶ丘東京",
+          "region": "関東",
+          "lesson_count": 72,
+          "path": "by_store/goldsgym/聖蹟桜ヶ丘東京.json"
+        },
+        {
+          "store_id": "191112",
+          "store": "富山環水公園（フランチャイズ店）",
+          "region": "中部・北陸",
+          "lesson_count": 42,
+          "path": "by_store/goldsgym/富山環水公園（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "191119",
+          "store": "富士静岡（フランチャイズ店　OPEN 24 HOUR）",
+          "region": "中部・北陸",
+          "lesson_count": 35,
+          "path": "by_store/goldsgym/富士静岡（フランチャイズ店_OPEN_24_HOUR）.json"
+        },
+        {
+          "store_id": "200106",
+          "store": "広島パセーラ（フランチャイズ店）",
+          "region": "中国・四国",
+          "lesson_count": 40,
+          "path": "by_store/goldsgym/広島パセーラ（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "20200508",
+          "store": "久喜埼玉",
+          "region": "関東",
+          "lesson_count": 56,
+          "path": "by_store/goldsgym/久喜埼玉.json"
+        },
+        {
+          "store_id": "20201101",
+          "store": "立川東京",
+          "region": "関東",
+          "lesson_count": 36,
+          "path": "by_store/goldsgym/立川東京.json"
+        },
+        {
+          "store_id": "20210224",
+          "store": "イオンモール宮崎",
+          "region": "九州・沖縄",
+          "lesson_count": 69,
+          "path": "by_store/goldsgym/イオンモール宮崎.json"
+        },
+        {
+          "store_id": "20210628",
+          "store": "宇城熊本",
+          "region": "九州・沖縄",
+          "lesson_count": 28,
+          "path": "by_store/goldsgym/宇城熊本.json"
+        },
+        {
+          "store_id": "20210924",
+          "store": "横浜馬車道 （フランチャイズ店） ※OPEN 24 HOURS",
+          "region": "関東",
+          "lesson_count": 56,
+          "path": "by_store/goldsgym/横浜馬車道_（フランチャイズ店）_※OPEN_24_HOURS.json"
+        },
+        {
+          "store_id": "20211014",
+          "store": "名古屋金山",
+          "region": "中部・北陸",
+          "lesson_count": 53,
+          "path": "by_store/goldsgym/名古屋金山.json"
+        },
+        {
+          "store_id": "20211015",
+          "store": "エクスプレス本川越埼玉",
+          "region": "関東",
+          "lesson_count": 52,
+          "path": "by_store/goldsgym/エクスプレス本川越埼玉.json"
+        },
+        {
+          "store_id": "20211125",
+          "store": "佐世保長崎（フランチャイズ店）",
+          "region": "九州・沖縄",
+          "lesson_count": 38,
+          "path": "by_store/goldsgym/佐世保長崎（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "20211208",
+          "store": "神戸灘",
+          "region": "近畿",
+          "lesson_count": 98,
+          "path": "by_store/goldsgym/神戸灘.json"
+        },
+        {
+          "store_id": "20220422",
+          "store": "名古屋栄",
+          "region": "中部・北陸",
+          "lesson_count": 39,
+          "path": "by_store/goldsgym/名古屋栄.json"
+        },
+        {
+          "store_id": "20220506",
+          "store": "草津滋賀",
+          "region": "近畿",
+          "lesson_count": 35,
+          "path": "by_store/goldsgym/草津滋賀.json"
+        },
+        {
+          "store_id": "20220509",
+          "store": "練馬高野台東京",
+          "region": "関東",
+          "lesson_count": 87,
+          "path": "by_store/goldsgym/練馬高野台東京.json"
+        },
+        {
+          "store_id": "20220627",
+          "store": "国立東京",
+          "region": "関東",
+          "lesson_count": 74,
+          "path": "by_store/goldsgym/国立東京.json"
+        },
+        {
+          "store_id": "20240315",
+          "store": "前橋リリカ",
+          "region": "関東",
+          "lesson_count": 125,
+          "path": "by_store/goldsgym/前橋リリカ.json"
+        },
+        {
+          "store_id": "20251027",
+          "store": "ヴィテン福井※フランチャイズ店",
+          "region": "中部・北陸",
+          "lesson_count": 39,
+          "path": "by_store/goldsgym/ヴィテン福井※フランチャイズ店.json"
+        },
+        {
+          "store_id": "20260122",
+          "store": "長崎スタジアムシティ（フランチャイズ店）",
+          "region": "九州・沖縄",
+          "lesson_count": 29,
+          "path": "by_store/goldsgym/長崎スタジアムシティ（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "210305",
+          "store": "合志熊本",
+          "region": "九州・沖縄",
+          "lesson_count": 63,
+          "path": "by_store/goldsgym/合志熊本.json"
+        },
+        {
+          "store_id": "220817",
+          "store": "心斎橋大阪",
+          "region": "近畿",
+          "lesson_count": 68,
+          "path": "by_store/goldsgym/心斎橋大阪.json"
+        },
+        {
+          "store_id": "22100",
+          "store": "御殿場静岡 （フランチャイズ店）",
+          "region": "中部・北陸",
+          "lesson_count": 31,
+          "path": "by_store/goldsgym/御殿場静岡_（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "2222",
+          "store": "笹塚東京 (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 73,
+          "path": "by_store/goldsgym/笹塚東京_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "23100",
+          "store": "安城コロナワールド(OPEN 24 HOURS)",
+          "region": "中部・北陸",
+          "lesson_count": 79,
+          "path": "by_store/goldsgym/安城コロナワールド(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "23120",
+          "store": "イオンモール熱田アネックス  (OPEN 24 HOURS)",
+          "region": "中部・北陸",
+          "lesson_count": 53,
+          "path": "by_store/goldsgym/イオンモール熱田アネックス_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "25100",
+          "store": "栗東滋賀",
+          "region": "近畿",
+          "lesson_count": 69,
+          "path": "by_store/goldsgym/栗東滋賀.json"
+        },
+        {
+          "store_id": "26100",
+          "store": "京都二条 (OPEN 24 HOURS)",
+          "region": "近畿",
+          "lesson_count": 45,
+          "path": "by_store/goldsgym/京都二条_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "26110",
+          "store": "京都烏丸",
+          "region": "近畿",
+          "lesson_count": 54,
+          "path": "by_store/goldsgym/京都烏丸.json"
+        },
+        {
+          "store_id": "27100",
+          "store": "高槻大阪 (OPEN 24 HOURS)",
+          "region": "近畿",
+          "lesson_count": 98,
+          "path": "by_store/goldsgym/高槻大阪_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "27110",
+          "store": "大阪中之島",
+          "region": "近畿",
+          "lesson_count": 61,
+          "path": "by_store/goldsgym/大阪中之島.json"
+        },
+        {
+          "store_id": "27120",
+          "store": "梅田大阪  (OPEN 24 HOURS)",
+          "region": "近畿",
+          "lesson_count": 52,
+          "path": "by_store/goldsgym/梅田大阪_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "27130",
+          "store": "十三 in プラザオーサカ",
+          "region": "近畿",
+          "lesson_count": 68,
+          "path": "by_store/goldsgym/十三_in_プラザオーサカ.json"
+        },
+        {
+          "store_id": "28100",
+          "store": "新神戸兵庫",
+          "region": "近畿",
+          "lesson_count": 77,
+          "path": "by_store/goldsgym/新神戸兵庫.json"
+        },
+        {
+          "store_id": "28110",
+          "store": "神戸元町",
+          "region": "近畿",
+          "lesson_count": 55,
+          "path": "by_store/goldsgym/神戸元町.json"
+        },
+        {
+          "store_id": "28120",
+          "store": "京都今出川",
+          "region": "近畿",
+          "lesson_count": 64,
+          "path": "by_store/goldsgym/京都今出川.json"
+        },
+        {
+          "store_id": "38100",
+          "store": "新居浜愛媛 （フランチャイズ店）",
+          "region": "中国・四国",
+          "lesson_count": 62,
+          "path": "by_store/goldsgym/新居浜愛媛_（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "40100",
+          "store": "博多リバレイン(OPEN 24 HOURS)",
+          "region": "九州・沖縄",
+          "lesson_count": 55,
+          "path": "by_store/goldsgym/博多リバレイン(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "40110",
+          "store": "コマーシャルモール博多 (OPEN 24 HOURS)",
+          "region": "九州・沖縄",
+          "lesson_count": 55,
+          "path": "by_store/goldsgym/コマーシャルモール博多_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "40120",
+          "store": "筑紫野福岡（フランチャイズ店）",
+          "region": "九州・沖縄",
+          "lesson_count": 54,
+          "path": "by_store/goldsgym/筑紫野福岡（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "4100",
+          "store": "仙台宮城 (OPEN 24 HOURS)",
+          "region": "北海道・東北",
+          "lesson_count": 54,
+          "path": "by_store/goldsgym/仙台宮城_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "4110",
+          "store": "仙台サンプラザ",
+          "region": "北海道・東北",
+          "lesson_count": 68,
+          "path": "by_store/goldsgym/仙台サンプラザ.json"
+        },
+        {
+          "store_id": "71221",
+          "store": "東陽町スーパーセンター",
+          "region": "関東",
+          "lesson_count": 96,
+          "path": "by_store/goldsgym/東陽町スーパーセンター.json"
+        },
+        {
+          "store_id": "79",
+          "store": "イオンモール土岐",
+          "region": "中部・北陸",
+          "lesson_count": 35,
+          "path": "by_store/goldsgym/イオンモール土岐.json"
+        },
+        {
+          "store_id": "80209",
+          "store": "牛久茨城（フランチャイズ店）",
+          "region": "関東",
+          "lesson_count": 37,
+          "path": "by_store/goldsgym/牛久茨城（フランチャイズ店）.json"
+        },
+        {
+          "store_id": "80308",
+          "store": "札幌大通※フランチャイズ店 (OPEN 24 HOURS)",
+          "region": "北海道・東北",
+          "lesson_count": 45,
+          "path": "by_store/goldsgym/札幌大通※フランチャイズ店_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "9100",
+          "store": "スパレア宇都宮 ※フランチャイズ店  (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 40,
+          "path": "by_store/goldsgym/スパレア宇都宮_※フランチャイズ店_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "9110",
+          "store": "スパレア足利 ※フランチャイズ店  (OPEN 24 HOURS)",
+          "region": "関東",
+          "lesson_count": 80,
+          "path": "by_store/goldsgym/スパレア足利_※フランチャイズ店_(OPEN_24_HOURS).json"
+        },
+        {
+          "store_id": "9999",
+          "store": "原宿ANNEX",
+          "region": "関東",
+          "lesson_count": 163,
+          "path": "by_store/goldsgym/原宿ANNEX.json"
         }
       ]
     },

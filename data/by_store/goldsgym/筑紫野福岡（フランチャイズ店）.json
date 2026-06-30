@@ -107,6 +107,23 @@
     "store": "筑紫野福岡（フランチャイズ店）",
     "region": "九州・沖縄",
     "prefecture": "福岡県",
+    "day": "月",
+    "start": "21:30",
+    "end": "22:00",
+    "class_name": "ボディコンバット30ア",
+    "category": "MARTIAL ARTS",
+    "instructor": null,
+    "studio": null,
+    "reservation_required": false,
+    "genre": null,
+    "note": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "40120",
+    "store": "筑紫野福岡（フランチャイズ店）",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
     "day": "火",
     "start": "10:30",
     "end": "11:15",
@@ -626,7 +643,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": null
   },
   {
     "gym_id": "goldsgym",
@@ -898,23 +915,6 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ファンキーダンス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "40120",
-    "store": "筑紫野福岡（フランチャイズ店）",
-    "region": "九州・沖縄",
-    "prefecture": "福岡県",
-    "day": "月",
-    "start": "21:30",
-    "end": "22:00",
-    "class_name": "ボディコンバット30ア",
-    "category": "MARTIAL ARTS",
-    "instructor": null,
-    "studio": null,
-    "reservation_required": false,
-    "genre": null,
     "note": null
   }
 ]

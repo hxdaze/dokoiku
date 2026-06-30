@@ -216,9 +216,9 @@
     "category": "BALLET",
     "instructor": null,
     "studio": "2nd/5日",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "ダンス系",
-    "note": "WEB/店頭整理券"
+    "note": "WEB/店頭整理券 / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -267,9 +267,9 @@
     "category": "BALLET",
     "instructor": "植山学",
     "studio": "2nd/5日",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "ダンス系",
-    "note": "WEB/店頭整理券"
+    "note": "WEB/店頭整理券 / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -607,9 +607,9 @@
     "category": "MARTIAL ARTS",
     "instructor": "NOBTPD",
     "studio": "1st",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "WEB/店頭整理券"
+    "note": "WEB/店頭整理券 / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -1032,9 +1032,9 @@
     "category": "BALLET",
     "instructor": "堀田彩",
     "studio": "2nd",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "ダンス系",
-    "note": "WEB/店頭整理券"
+    "note": "WEB/店頭整理券 / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -1236,9 +1236,9 @@
     "category": "BALLET",
     "instructor": "武並葉子",
     "studio": "2nd",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "ダンス系",
-    "note": "WEB/店頭整理券"
+    "note": "WEB/店頭整理券 / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -1321,9 +1321,9 @@
     "category": "BALLET",
     "instructor": "尾田楓",
     "studio": "2nd",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "ダンス系",
-    "note": "WEB/店頭整理券"
+    "note": "WEB/店頭整理券 / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -1423,9 +1423,9 @@
     "category": "BALLET",
     "instructor": null,
     "studio": "1st/2nd",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "ダンス系",
-    "note": "WEB/店頭整理券"
+    "note": "WEB/店頭整理券 / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -1559,9 +1559,9 @@
     "category": "OTHER",
     "instructor": null,
     "studio": "1st/2nd",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": null,
-    "note": "WEB/店頭整理券 / 11:30"
+    "note": "WEB/店頭整理券 / 11:30 / 整理券"
   },
   {
     "gym_id": "goldsgym",

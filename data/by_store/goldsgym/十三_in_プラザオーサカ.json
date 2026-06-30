@@ -40,15 +40,32 @@
     "region": "近畿",
     "prefecture": "大阪府",
     "day": "月",
-    "start": "11:15",
-    "end": "12:00",
+    "start": "11:30",
+    "end": "12:15",
     "class_name": "ストレッチバレエ",
     "category": "BALLET",
     "instructor": "川東まりこ",
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約対象"
+    "note": "※時間変更いたしました。"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "27130",
+    "store": "十三 in プラザオーサカ",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "day": "月",
+    "start": "12:30",
+    "end": "13:30",
+    "class_name": "バレエ",
+    "category": "BALLET",
+    "instructor": "川東まりこ",
+    "studio": "スタジオB",
+    "reservation_required": true,
+    "genre": null,
+    "note": "9名までWEB予約です。店頭予約台帳（10：30～）の記入は整列順です。"
   },
   {
     "gym_id": "goldsgym",
@@ -388,7 +405,7 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "HULA DANCE\n(第2、4週目開講)"
+    "note": null
   },
   {
     "gym_id": "goldsgym",
@@ -415,7 +432,7 @@
     "prefecture": "大阪府",
     "day": "水",
     "start": "11:15",
-    "end": "12:10",
+    "end": "12:15",
     "class_name": "ファイティングマーシャルアーツ",
     "category": "MARTIAL ARTS",
     "instructor": "濱田大輔",
@@ -584,15 +601,15 @@
     "region": "近畿",
     "prefecture": "大阪府",
     "day": "水",
-    "start": "21:15",
-    "end": "22:15",
+    "start": "21:00",
+    "end": "22:00",
     "class_name": "キックボクシング",
     "category": "BOXING",
     "instructor": "濱田大輔",
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": "※時間変更した。"
   },
   {
     "gym_id": "goldsgym",
@@ -949,7 +966,7 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": "(第1・第3開講)"
+    "note": "(第1・第4開講)"
   },
   {
     "gym_id": "goldsgym",
@@ -1137,73 +1154,5 @@
     "reservation_required": false,
     "genre": null,
     "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "27130",
-    "store": "十三 in プラザオーサカ",
-    "region": "近畿",
-    "prefecture": "大阪府",
-    "day": "月",
-    "start": "11:30",
-    "end": "12:15",
-    "class_name": "ストレッチバレエ",
-    "category": "BALLET",
-    "instructor": "川東まりこ",
-    "studio": "スタジオB",
-    "reservation_required": true,
-    "genre": null,
-    "note": "※時間変更いたしました。"
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "27130",
-    "store": "十三 in プラザオーサカ",
-    "region": "近畿",
-    "prefecture": "大阪府",
-    "day": "月",
-    "start": "12:30",
-    "end": "13:30",
-    "class_name": "バレエ",
-    "category": "BALLET",
-    "instructor": "川東まりこ",
-    "studio": "スタジオB",
-    "reservation_required": true,
-    "genre": null,
-    "note": "9名までWEB予約です。店頭予約台帳（10：30～）の記入は整列順です。"
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "27130",
-    "store": "十三 in プラザオーサカ",
-    "region": "近畿",
-    "prefecture": "大阪府",
-    "day": "水",
-    "start": "11:15",
-    "end": "12:15",
-    "class_name": "ファイティングマーシャルアーツ",
-    "category": "MARTIAL ARTS",
-    "instructor": "濱田大輔",
-    "studio": "スタジオB",
-    "reservation_required": false,
-    "genre": null,
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "27130",
-    "store": "十三 in プラザオーサカ",
-    "region": "近畿",
-    "prefecture": "大阪府",
-    "day": "水",
-    "start": "21:00",
-    "end": "22:00",
-    "class_name": "キックボクシング",
-    "category": "BOXING",
-    "instructor": "濱田大輔",
-    "studio": "スタジオB",
-    "reservation_required": false,
-    "genre": null,
-    "note": "※時間変更した。"
   }
 ]

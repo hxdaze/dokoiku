@@ -178,7 +178,7 @@
     "day": "火",
     "start": "19:15",
     "end": "20:15",
-    "class_name": "ストレッチヨガ",
+    "class_name": "ヨガ",
     "category": "YOGA",
     "instructor": null,
     "studio": null,
@@ -797,22 +797,5 @@
     "reservation_required": false,
     "genre": null,
     "note": "10:00"
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13170",
-    "store": "南青山東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "火",
-    "start": "19:15",
-    "end": "20:15",
-    "class_name": "ヨガ",
-    "category": "YOGA",
-    "instructor": null,
-    "studio": null,
-    "reservation_required": false,
-    "genre": null,
-    "note": null
   }
 ]

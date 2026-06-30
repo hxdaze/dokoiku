@@ -57,11 +57,11 @@
     "region": "近畿",
     "prefecture": "京都府",
     "day": "月",
-    "start": "14:00",
-    "end": "15:00",
-    "class_name": "リラックスヨガHISAMI",
+    "start": "13:40",
+    "end": "14:40",
+    "class_name": "リラックスヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "HISAMI",
     "studio": null,
     "reservation_required": false,
     "genre": "ハタヨガ",
@@ -726,9 +726,9 @@
     "category": "STEP",
     "instructor": "松本晃",
     "studio": null,
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "ストレングス",
-    "note": "WEB / 店頭整理券 / 有料"
+    "note": "WEB / 店頭整理券 / 有料 / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -915,23 +915,6 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "26110",
-    "store": "京都烏丸",
-    "region": "近畿",
-    "prefecture": "京都府",
-    "day": "月",
-    "start": "13:40",
-    "end": "14:40",
-    "class_name": "リラックスヨガ",
-    "category": "YOGA",
-    "instructor": "HISAMI",
-    "studio": null,
-    "reservation_required": false,
-    "genre": "ハタヨガ",
     "note": null
   }
 ]

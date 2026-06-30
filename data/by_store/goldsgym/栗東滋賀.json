@@ -363,10 +363,10 @@
     "region": "近畿",
     "prefecture": "滋賀県",
     "day": "火",
-    "start": "19:10",
-    "end": "20:10",
-    "class_name": "バレトン",
-    "category": "BALLET",
+    "start": "20:15",
+    "end": "21:15",
+    "class_name": "美ストレッチ",
+    "category": "STRETCH & RELAX",
     "instructor": "吉村眞由美",
     "studio": "Bスタジオ",
     "reservation_required": false,
@@ -1170,23 +1170,6 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "25100",
-    "store": "栗東滋賀",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "day": "火",
-    "start": "20:15",
-    "end": "21:15",
-    "class_name": "美ストレッチ",
-    "category": "STRETCH & RELAX",
-    "instructor": "吉村眞由美",
-    "studio": "Bスタジオ",
-    "reservation_required": false,
-    "genre": "コンディショニング・調整",
     "note": null
   }
 ]
