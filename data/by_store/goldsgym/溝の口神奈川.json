@@ -437,26 +437,9 @@
     "category": "STREET DANCE",
     "instructor": "紘大",
     "studio": "3Fスタジオ",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "ダンス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "14110",
-    "store": "溝の口神奈川",
-    "region": "関東",
-    "prefecture": "神奈川県",
-    "day": "水",
-    "start": "19:00",
-    "end": "20:00",
-    "class_name": "KーPOP",
-    "category": "STREET DANCE",
-    "instructor": "紘大整理券",
-    "studio": "3Fスタジオ",
-    "reservation_required": false,
-    "genre": "ダンス",
-    "note": null
+    "note": "整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -845,26 +828,9 @@
     "category": "MARTIAL ARTS",
     "instructor": "BRAFT鍜治知章",
     "studio": "3Fスタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "14110",
-    "store": "溝の口神奈川",
-    "region": "関東",
-    "prefecture": "神奈川県",
-    "day": "土",
-    "start": "11:35",
-    "end": "12:20",
-    "class_name": "マーシャルワークアウト",
-    "category": "MARTIAL ARTS",
-    "instructor": "BRAFT鍜治知章整理券",
-    "studio": "3Fスタジオ",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -1083,26 +1049,9 @@
     "category": "AEROBICS",
     "instructor": "越智京子",
     "studio": "3Fスタジオ",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "(初中級)"
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "14110",
-    "store": "溝の口神奈川",
-    "region": "関東",
-    "prefecture": "神奈川県",
-    "day": "日",
-    "start": "16:00",
-    "end": "16:50",
-    "class_name": "オリジナルエアロ",
-    "category": "AEROBICS",
-    "instructor": "越智京子整理券",
-    "studio": "3Fスタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": "(初中級)"
+    "note": "(初中級) / 整理券"
   },
   {
     "gym_id": "goldsgym",
@@ -1268,11 +1217,11 @@
     "end": "20:55",
     "class_name": "Dance Fit",
     "category": "JAZZ DANCE",
-    "instructor": "中村準整理券RITMOS",
+    "instructor": "中村準RITMOS",
     "studio": "3Fスタジオ",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "整理券"
   },
   {
     "gym_id": "goldsgym",

@@ -61,11 +61,11 @@
     "end": "15:00",
     "class_name": "ヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "SEIHOWebなし",
     "studio": "スタジオA",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "整理券/45"
   },
   {
     "gym_id": "goldsgym",
@@ -316,11 +316,11 @@
     "end": "12:10",
     "class_name": "ヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "NattyWebなし",
     "studio": "スタジオB",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "整理券/25"
   },
   {
     "gym_id": "goldsgym",
@@ -1166,11 +1166,11 @@
     "end": "11:05",
     "class_name": "エアロ45",
     "category": "AEROBICS",
-    "instructor": null,
+    "instructor": "城谷崇仁Webなし",
     "studio": "スタジオA",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": "整理券/45"
   },
   {
     "gym_id": "goldsgym",
@@ -1217,11 +1217,11 @@
     "end": "12:30",
     "class_name": "ヨガ",
     "category": "YOGA",
-    "instructor": null,
+    "instructor": "SEIHOWebなし",
     "studio": "スタジオB",
-    "reservation_required": false,
+    "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": "整理券/25"
   },
   {
     "gym_id": "goldsgym",

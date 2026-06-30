@@ -161,13 +161,13 @@
     "day": "月",
     "start": "19:40",
     "end": "21:00",
-    "class_name": "avex 20:00 DanceMaster HIP HOPレギュラー 初級",
+    "class_name": "avex DanceMaster HIP HOPレギュラー 初級",
     "category": "HIP HOP",
-    "instructor": null,
+    "instructor": "KENTA",
     "studio": "博多リバレイン/マルチスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "20:30"
+    "note": "20:30 / 20:00"
   },
   {
     "gym_id": "goldsgym",

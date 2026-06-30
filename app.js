@@ -9,6 +9,7 @@ const THEME_CYCLE = ["light", "dark", "pop"];
 const state = {
   view: "day", region: "", prefecture: "", gym: "", day: "", category: "",
   store_id: "", instructor: "", instructor_id: "", iq: "", favview: "list", q: "", limit: "200",
+  lesson_fk: "",
 };
 
 // ジャンル(カテゴリー)アイコン。カテゴリー名→絵文字は data/domain.json(タクソノミ)
@@ -60,15 +61,17 @@ function cycleTheme() {
 }
 
 // ---- URLパラメータ(共有・SEO用ディープリンク) ----
-// ?region= / ?pref= / ?gym= / ?cat= / ?day= / ?q= / ?view= を解釈・反映する。
+// ?region= / ?pref= / ?gym= / ?cat= / ?day= / ?q= / ?view= / ?lesson= / ?store= を解釈・反映する。
 function readUrlParams() {
   const p = new URLSearchParams(location.search);
   const map = { region: "region", pref: "prefecture", gym: "gym",
-    cat: "category", day: "day", q: "q", view: "view" };
+    cat: "category", day: "day", q: "q", view: "view",
+    lesson: "lesson_fk", store: "store_id" };
   for (const [k, sk] of Object.entries(map)) {
     const v = p.get(k);
     if (v != null && v !== "") state[sk] = v;
   }
+  if (state.lesson_fk) state.view = "lesson";
 }
 function syncUrl() {
   const p = new URLSearchParams();
@@ -79,9 +82,112 @@ function syncUrl() {
   if (state.day) p.set("day", state.day);
   if (state.q) p.set("q", state.q);
   if (state.view && state.view !== "day") p.set("view", state.view);
+  if (state.view === "lesson" && state.lesson_fk) p.set("lesson", state.lesson_fk);
+  if (state.view === "store" && state.store_id) p.set("store", state.store_id);
   const qs = p.toString();
   const url = location.pathname + (qs ? "?" + qs : "");
   try { history.replaceState(null, "", url); } catch (_e) {}
+}
+
+function siteOriginUrl() {
+  const origin = location.origin || "";
+  return origin + siteBase();
+}
+function buildShareUrl(params) {
+  const p = new URLSearchParams(params);
+  const qs = p.toString();
+  return siteOriginUrl() + (qs ? "?" + qs : "");
+}
+function lessonShareUrl(r) {
+  const q = { view: "lesson", lesson: favKey(r) };
+  if (r.prefecture) q.pref = r.prefecture;
+  return buildShareUrl(q);
+}
+function storeLessonListUrl(r) {
+  const q = { view: "store" };
+  if (r.prefecture) q.pref = r.prefecture;
+  if (r.gym_id) q.gym = r.gym_id;
+  if (r.store_id != null && r.store_id !== "") q.store = String(r.store_id);
+  return buildShareUrl(q);
+}
+function mapShareUrl(r) {
+  const q = { view: "map" };
+  if (r.prefecture) q.pref = r.prefecture;
+  if (r.gym_id) q.gym = r.gym_id;
+  return buildShareUrl(q);
+}
+function lessonCopyText(r) {
+  const lines = [
+    `${r.class_name || "クラス"} (${GQ.fmtTime(r)})`,
+    `${r.day || ""} ${(r.start || "") + (r.end ? "〜" + r.end : "")}`.trim(),
+    `店舗: ${GQ.storeLabel(r)}`,
+  ];
+  if (r.gym) lines.push(`ジム: ${r.gym}`);
+  if (r.instructor) lines.push(`先生: ${r.instructor}`);
+  if (r.studio) lines.push(`スタジオ: ${r.studio}`);
+  if (r.category) lines.push(`カテゴリー: ${r.category}`);
+  const n = noteText(r);
+  if (n) lines.push(`備考: ${n}`);
+  if (r.address) lines.push(`住所: ${r.address}`);
+  if (r.phone_fmt || r.phone) lines.push(`電話: ${r.phone_fmt || r.phone}`);
+  if (r.url) lines.push(`公式サイト: ${r.url}`);
+  lines.push("");
+  lines.push("【どこジムリンク】");
+  lines.push(`クラス情報: ${lessonShareUrl(r)}`);
+  lines.push(`店舗レッスン一覧: ${storeLessonListUrl(r)}`);
+  lines.push(`地図: ${mapShareUrl(r)}`);
+  const mu = mapsUrl(r);
+  if (mu) lines.push(`Googleマップ: ${mu}`);
+  return lines.join("\n");
+}
+async function copyLessonInfo(fk) {
+  const r = LESSON_BY_FK.get(fk) || LESSONS.find((x) => favKey(x) === fk);
+  if (!r) return false;
+  const text = lessonCopyText(r);
+  try {
+    await navigator.clipboard.writeText(text);
+    return true;
+  } catch (_e) {
+    try {
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      ta.style.position = "fixed";
+      ta.style.left = "-9999px";
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand("copy");
+      document.body.removeChild(ta);
+      return true;
+    } catch (_e2) { return false; }
+  }
+}
+function gotoLesson(fk, r) {
+  state.view = "lesson";
+  state.lesson_fk = fk;
+  if (r) {
+    if (r.prefecture) state.prefecture = r.prefecture;
+    if (r.gym_id) state.gym = r.gym_id;
+    if (r.store_id != null) state.store_id = String(r.store_id);
+  }
+  saveState();
+  update();
+}
+function lessonClassLink(r) {
+  const fk = favKey(r);
+  return `<a href="#" class="lesson-link" data-fk="${escapeAttr(fk)}" `
+    + `title="クラス詳細を見る">${escapeHtml(r.class_name || "")}</a>`;
+}
+function copyLessonBtn(r) {
+  const fk = favKey(r);
+  return `<button type="button" class="copybtn" data-fk="${escapeAttr(fk)}" `
+    + `title="コピー用情報をクリップボードへ" aria-label="情報をコピー">📋</button>`;
+}
+function flashCopyBtn(btn) {
+  if (!btn) return;
+  const orig = btn.textContent;
+  btn.textContent = "✓";
+  btn.classList.add("copied");
+  setTimeout(() => { btn.textContent = orig; btn.classList.remove("copied"); }, 1200);
 }
 
 let META = null;
@@ -442,8 +548,29 @@ function viewLabel(v) {
     category: T("category") + "別",
     instructor: T("staff") + "別", search: T("staff_search"), fav: "お気に入り",
     hashigo: "はしご", gym: T("provider") + "別", substitution: "代行情報",
-    map: "近くで探す", event: "イベント検索",
+    map: "近くで探す", event: "イベント検索", lesson: "クラス詳細",
     about: "紹介", help: "ヘルプ", business: "掲載・広告" }[v] || v;
+}
+
+function resolveStoreFromState() {
+  if (!state.store_id) return null;
+  return STORES.find((s) => String(s.store_id) === String(state.store_id)) || null;
+}
+function applyStoreDeepLink() {
+  if (state.view !== "store" || !state.store_id) return;
+  const st = resolveStoreFromState();
+  if (!st) return;
+  if (!state.gym) state.gym = st.gym_id || "";
+  if (!state.prefecture) state.prefecture = st.prefecture || "";
+}
+function lessonPrefsFromFk(fk) {
+  if (!fk) return null;
+  const parts = fk.split("|");
+  const gymId = parts[0], storeId = parts[1];
+  const st = STORES.find((s) => s.gym_id === gymId && String(s.store_id) === storeId);
+  if (st && st.prefecture) return [st.prefecture];
+  const prefs = prefsForGyms([gymId]);
+  return prefs;
 }
 
 function currentLimit() {
@@ -996,6 +1123,19 @@ async function update() {
   if (state.view === "help") { renderHelp(); return; }
   if (state.view === "business") { renderBusiness(); return; }
   if (state.view === "event") { renderEvents(); return; }
+  if (state.view === "lesson") {
+    const prefs = lessonPrefsFromFk(state.lesson_fk) || scopePrefs();
+    if (prefs) {
+      if (prefs.some((n) => !LOADED.has(n))) {
+        $("#main").innerHTML = '<div class="loading">読み込み中…</div>';
+      }
+      await ensurePrefs(prefs);
+      rebuildLessons();
+    }
+    await renderLessonDetail();
+    return;
+  }
+  applyStoreDeepLink();
   const prefs = scopePrefs();
   if (!prefs) { refreshStoreOptions(); renderChooseScope(); return; }
   if (prefs.some((n) => !LOADED.has(n))) {
@@ -1018,6 +1158,7 @@ function refreshViewRender() {
   if (state.view === "help") { renderHelp(); return; }
   if (state.view === "business") { renderBusiness(); return; }
   if (state.view === "event") { renderEvents(); return; }
+  if (state.view === "lesson") { update(); return; }
   // レッスン未ロードのまま副次フィルタだけクリアした場合の空表示を防ぐ。
   if (!LESSONS.length) { update(); return; }
   const data = GQ.buildView(LESSONS, state.view, params());
@@ -1045,6 +1186,71 @@ function mapsUrl(r) {
       + encodeURIComponent(r.address);
   }
   return null;
+}
+
+async function renderLessonDetail() {
+  const fk = state.lesson_fk;
+  let r = LESSON_BY_FK.get(fk) || LESSONS.find((x) => favKey(x) === fk);
+  if (!r && fk) {
+    const parts = fk.split("|");
+    const gymId = parts[0], storeId = parts[1];
+    const st = STORES.find((s) => s.gym_id === gymId && String(s.store_id) === storeId);
+    if (st && st.prefecture && !LOADED.has(st.prefecture)) {
+      await ensurePrefs([st.prefecture]);
+      rebuildLessons();
+      r = LESSONS.find((x) => favKey(x) === fk);
+    }
+  }
+  if (!r) {
+    $("#summary").innerHTML = `<span class="muted">ビュー: ${viewLabel("lesson")}</span>`;
+    $("#main").innerHTML = '<div class="empty">クラスが見つかりませんでした。URLが古いか、データ未読込の可能性があります。</div>';
+    return;
+  }
+  LESSON_BY_FK.set(fk, r);
+  const tags = [];
+  if (r.genre === "有料") tags.push('<span class="tag-pay">有料</span>');
+  if (r.reservation_required) tags.push('<span class="tag-res">要予約</span>');
+  const mu = mapsUrl(r);
+  const copyText = escapeHtml(lessonCopyText(r));
+  const links = [
+    `<a href="${escapeAttr(lessonShareUrl(r))}">クラス情報（共有URL）</a>`,
+    `<a href="${escapeAttr(storeLessonListUrl(r))}">店舗のレッスン一覧</a>`,
+    `<a href="${escapeAttr(mapShareUrl(r))}">地図で探す</a>`,
+  ];
+  if (mu) links.push(`<a href="${escapeAttr(mu)}" target="_blank" rel="noopener">Googleマップ ↗</a>`);
+  if (r.url) links.push(`<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener">公式サイト ↗</a>`);
+  if (r.reservation_url) {
+    links.push(`<a href="${escapeAttr(r.reservation_url)}" target="_blank" rel="noopener">予約サイト ↗</a>`);
+  }
+  $("#summary").innerHTML =
+    `<span>${escapeHtml(r.class_name || "クラス")}</span>` +
+    `<span class="muted">ビュー: ${viewLabel("lesson")}</span>`;
+  $("#main").innerHTML =
+    `<section class="lesson-detail">` +
+    `<div class="lesson-detail-head">` +
+    `<h2>${catIcon(r.category)} ${escapeHtml(r.class_name || "")} ${tags.join(" ")}</h2>` +
+    `<div class="lesson-detail-meta">` +
+    `<div><b>時間</b> ${escapeHtml(r.day || "")} ${escapeHtml(GQ.fmtTime(r))} ` +
+    `<span class="muted">(${escapeHtml(GQ.fmtDuration(r))})</span></div>` +
+    `<div><b>店舗</b> ${storeLink(r)}</div>` +
+    `<div><b>ジム</b> ${escapeHtml(r.gym || "")}</div>` +
+    (r.instructor ? `<div><b>先生</b> ${instructorCell(r)}</div>` : "") +
+    (r.studio ? `<div><b>スタジオ</b> ${escapeHtml(r.studio)}</div>` : "") +
+    (r.category ? `<div><b>カテゴリー</b> ${escapeHtml(r.category)}</div>` : "") +
+    (noteText(r) ? `<div><b>備考</b> ${escapeHtml(noteText(r))}</div>` : "") +
+    (r.address ? `<div><b>住所</b> ${escapeHtml(r.address)}</div>` : "") +
+    (r.phone ? `<div><b>電話</b> <a href="tel:${escapeAttr(r.phone)}">${escapeHtml(r.phone_fmt || r.phone)}</a></div>` : "") +
+    `</div>` +
+    `<div class="lesson-detail-actions">` +
+    `<button type="button" class="btn copy-detail-btn" data-fk="${escapeAttr(fk)}">📋 コピー用情報をコピー</button> ` +
+    `${favStar(r)} ` +
+    `${gcalIcon(r)}` +
+    `<button type="button" class="btn lesson-back-btn" data-store-fk="${escapeAttr(fk)}">店舗のレッスン一覧へ</button>` +
+    `</div>` +
+    `<div class="lesson-detail-links">${links.join(" · ")}</div>` +
+    `<details class="lesson-copy-box"><summary>コピー用テキスト（プレビュー）</summary>` +
+    `<pre class="lesson-copy-pre">${copyText}</pre></details>` +
+    `</section>`;
 }
 
 // 店舗名の後ろに付く 地図/電話/HP のアイコンリンク。
@@ -1125,7 +1331,7 @@ function gcalUrl(r) {
   const dates = `${_fmtDT(d, sh[0], sh[1])}/${_fmtDT(d, endH, endM)}`;
   const title = [r.class_name, r.studio].filter(Boolean).join(" / ") || "レッスン";
   const detail = [
-    r.store ? `店舗: ${storeLabel(r)}` : "",
+    r.store ? `店舗: ${GQ.storeLabel(r)}` : "",
     r.instructor ? `先生: ${r.instructor}` : "",
     r.studio ? `スタジオ: ${r.studio}` : "",
     noteText(r) ? `備考: ${noteText(r)}` : "",
@@ -1165,10 +1371,11 @@ function lessonRow(r, opts) {
   cells.push(`<td class="time">${gcalIcon(r)}${escapeHtml(GQ.fmtTime(r))}</td>`);
   cells.push(`<td class="dur muted">${escapeHtml(GQ.fmtDuration(r))}</td>`);
   if (opts.showStore) cells.push(`<td>${storeLink(r)}<div class="muted">${escapeHtml(r.region || "")}</div></td>`);
-  cells.push(`<td class="cls">${escapeHtml(r.class_name || "")} ${tags.join(" ")}${studio}</td>`);
+  cells.push(`<td class="cls">${lessonClassLink(r)} ${tags.join(" ")}${studio}</td>`);
   if (opts.showCategory) cells.push(`<td><span class="cat"><span class="cat-ico">${catIcon(r.category)}</span>${escapeHtml(r.category || "")}</span></td>`);
   cells.push(`<td class="instructor">${instructorCell(r)}</td>`);
   cells.push(`<td class="muted">${escapeHtml(noteText(r))}</td>`);
+  cells.push(`<td class="copy">${copyLessonBtn(r)}</td>`);
   cells.push(`<td class="gcal">${gcalCell(r)}</td>`);
   return `<tr>${cells.join("")}</tr>`;
 }
@@ -1184,6 +1391,7 @@ function tableCols(opts) {
   if (opts.showCategory) cols.push(["category", "カテゴリー"]);
   cols.push(["instructor", "先生"]);
   cols.push(["note", "備考"]);
+  cols.push(["copy", "コピー"]);
   cols.push(["gcal", "登録"]);
   return cols;
 }
@@ -1191,7 +1399,7 @@ function tableCols(opts) {
 function tableHeader(opts) {
   return "<tr>" + tableCols(opts).map(([k, label]) => {
     // 「登録」(Googleカレンダー)・「★」(お気に入り)列はソート対象外。
-    if (k === "gcal" || k === "fav") return `<th class="nosort ${k}-col">${label}</th>`;
+    if (k === "gcal" || k === "fav" || k === "copy") return `<th class="nosort ${k}-col">${label}</th>`;
     const mark = sortState.col === k ? `<span class="sort-mark">${sortState.dir === "asc" ? "▲" : "▼"}</span>` : "";
     return `<th class="sortable" data-col="${k}">${label}${mark}</th>`;
   }).join("") + "</tr>";
@@ -1508,12 +1716,46 @@ function bind() {
     update();
   });
   $("#main").addEventListener("click", (e) => {
+    const cb = e.target.closest(".copybtn, .copy-detail-btn");
+    if (cb) {
+      e.preventDefault();
+      copyLessonInfo(cb.dataset.fk).then((ok) => { if (ok) flashCopyBtn(cb); });
+      return;
+    }
+    const ll = e.target.closest("a.lesson-link");
+    if (ll) {
+      e.preventDefault();
+      const r = LESSON_BY_FK.get(ll.dataset.fk);
+      gotoLesson(ll.dataset.fk, r);
+      return;
+    }
+    const back = e.target.closest(".lesson-back-btn");
+    if (back) {
+      e.preventDefault();
+      const r = LESSON_BY_FK.get(back.dataset.storeFk);
+      if (r) {
+        state.view = "store";
+        state.lesson_fk = "";
+        state.prefecture = r.prefecture || state.prefecture;
+        state.gym = r.gym_id || state.gym;
+        state.store_id = String(r.store_id || "");
+        setActiveTab("store");
+        const set = (sel, v) => { const el = $(sel); if (el) el.value = v; };
+        set("#f-prefecture", state.prefecture);
+        set("#f-gym", state.gym);
+        refreshStoreOptions();
+        set("#f-store", state.store_id);
+        update();
+      }
+      return;
+    }
     // お気に入り(★)トグル
     const fb = e.target.closest(".favbtn");
     if (fb) {
       e.preventDefault();
       toggleFav(fb.dataset.fk);
       if (state.view === "fav") { renderFavView(); }
+      else if (state.view === "lesson") { renderLessonDetail(); }
       else {
         const on = FAV.has(fb.dataset.fk);
         fb.classList.toggle("on", on);
@@ -1548,6 +1790,7 @@ async function main() {
   if (state.region && state.prefecture) state.region = "";
   try {
     await loadData();
+    applyStoreDeepLink();
   } catch (e) {
     const msg = escapeHtml(e && e.message ? e.message : String(e));
     $("#main").innerHTML =

@@ -952,3 +952,26 @@ th.fav-col, td.fav { width: 30px; text-align: center; }
   .fav-cal { grid-template-columns: 1fr; }
   .fav-col-h { position: static; }
 }
+
+/* ---- クラスコピー / 詳細 ---- */
+.copybtn {
+  background: none; border: 1px solid var(--border, #ddd); border-radius: 6px;
+  cursor: pointer; font-size: 14px; line-height: 1; padding: 3px 6px;
+}
+.copybtn:hover { border-color: var(--accent); }
+.copybtn.copied { border-color: var(--accent2, #2a7); background: var(--card, #f6fff9); }
+th.copy-col, td.copy { width: 36px; text-align: center; }
+a.lesson-link { font-weight: 600; text-decoration: none; color: var(--accent, #2a7); }
+a.lesson-link:hover { text-decoration: underline; }
+.lesson-detail { max-width: 720px; margin: 0 auto; }
+.lesson-detail-head h2 { margin: 0 0 12px; font-size: 1.35rem; }
+.lesson-detail-meta { display: grid; gap: 8px; margin-bottom: 14px; }
+.lesson-detail-meta b { display: inline-block; min-width: 4.5em; }
+.lesson-detail-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 10px; }
+.lesson-detail-links { font-size: 14px; line-height: 1.8; margin-bottom: 12px; }
+.lesson-copy-box { margin-top: 8px; }
+.lesson-copy-pre {
+  white-space: pre-wrap; word-break: break-word; font-size: 13px;
+  background: var(--card, #f8f8f8); border: 1px solid var(--border, #e3e3e3);
+  border-radius: 8px; padding: 10px 12px; margin-top: 8px;
+}
