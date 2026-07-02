@@ -362,6 +362,11 @@ async function loadData() {
   loadFav();
   GQ.setOrders(meta);
   for (const g of meta.gyms) GYM_LABEL.set(g.id, g.label);
+  const listableGyms = () => META.gyms.filter((g) => g.listable !== false);
+  const isGymListable = (gid) => {
+    const g = META.gyms.find((x) => x.id === gid);
+    return !g || g.listable !== false;
+  };
   for (const s of stores) {
     const key = s.gym_id + "|" + s.store_id;
     STORE_URL.set(key, s.url);
@@ -427,6 +432,7 @@ function gymIdsFromQuery(q) {
   if (!n) return [];
   const out = [];
   for (const [id, label] of GYM_LABEL.entries()) {
+    if (!isGymListable(id)) continue;
     const nl = (label || "").normalize("NFKC").toUpperCase();
     if (nl.includes(n) || n.includes(nl)) out.push(id);
   }
@@ -487,10 +493,10 @@ async function loadAll() {
 
 function fillControls() {
   $("#metaSub").textContent =
-    `${META.gyms.length}ジム ｜ レッスン ${META.lesson_count.toLocaleString()}件・店舗 ${META.store_count}件 ｜ ${META.generated_at?.slice(0, 16).replace("T", " ") || ""}`;
+    `${listableGyms().length}ジム ｜ レッスン ${META.lesson_count.toLocaleString()}件・店舗 ${META.store_count}件 ｜ ${META.generated_at?.slice(0, 16).replace("T", " ") || ""}`;
   setOptions($("#f-region"), META.regions);
   setOptions($("#f-prefecture"), META.prefectures || []);
-  setOptions($("#f-gym"), META.gyms, { value: (g) => g.id, label: (g) => `${g.label} (${g.count.toLocaleString()})` });
+  setOptions($("#f-gym"), listableGyms(), { value: (g) => g.id, label: (g) => `${g.label} (${g.count.toLocaleString()})` });
   setOptions($("#f-day"), META.days);
   setOptions($("#f-category"), META.categories,
     { label: (c) => `${catIcon(c)} ${c}` });
@@ -507,7 +513,7 @@ function fillControls() {
 }
 
 function refreshStoreOptions() {
-  let list = STORES;
+  let list = STORES.filter((s) => isGymListable(s.gym_id));
   if (state.region) list = list.filter((s) => s.region === state.region);
   if (state.prefecture) list = list.filter((s) => s.prefecture === state.prefecture);
   if (state.gym) list = list.filter((s) => s.gym_id === state.gym);
