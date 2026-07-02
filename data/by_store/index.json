@@ -18,8 +18,8 @@
     "note",
     "instructor_id"
   ],
-  "gym_count": 242,
-  "store_count": 2207,
+  "gym_count": 243,
+  "store_count": 2208,
   "gyms": [
     {
       "gym_id": "lava",
@@ -16482,6 +16482,19 @@
           "region": "北海道・東北",
           "lesson_count": 8,
           "path": "by_store/fukushima_ncv/NCVふくしまアリーナ.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "le_club",
+      "gym": "Le CLUB（グランドニッコー東京 台場）",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "Le CLUB（グランドニッコー東京 台場）",
+          "region": "関東",
+          "lesson_count": 8,
+          "path": "by_store/le_club/Le_CLUB（グランドニッコー東京_台場）.json"
         }
       ]
     },
