@@ -72,6 +72,7 @@ function readUrlParams() {
     if (v != null && v !== "") state[sk] = v;
   }
   if (state.lesson_fk) state.view = "lesson";
+  if (state.view === "plan") state.view = "hashigo";
 }
 function syncUrl() {
   const p = new URLSearchParams();
@@ -212,6 +213,17 @@ function T(key) {
   const t = DOMAIN && DOMAIN.terms;
   return (t && t[key]) || _TERM_FALLBACK[key] || key;
 }
+
+// listable=false のジム(非公開確定)を UI から除外。
+function listableGyms() {
+  return (META && META.gyms) ? META.gyms.filter((g) => g.listable !== false) : [];
+}
+function isGymListable(gid) {
+  if (!gid || !META || !META.gyms) return true;
+  const g = META.gyms.find((x) => x.id === gid);
+  return !g || g.listable !== false;
+}
+
 let lastData = null;
 const sortState = { col: null, dir: "asc" };
 
@@ -362,11 +374,6 @@ async function loadData() {
   loadFav();
   GQ.setOrders(meta);
   for (const g of meta.gyms) GYM_LABEL.set(g.id, g.label);
-  const listableGyms = () => META.gyms.filter((g) => g.listable !== false);
-  const isGymListable = (gid) => {
-    const g = META.gyms.find((x) => x.id === gid);
-    return !g || g.listable !== false;
-  };
   for (const s of stores) {
     const key = s.gym_id + "|" + s.store_id;
     STORE_URL.set(key, s.url);
@@ -1486,7 +1493,8 @@ function loadLeaflet() {
 
 // 現在のスコープ(エリア/都道府県/ジム)に合致し、座標を持つ店舗。
 function storesForMap() {
-  let list = STORES.filter((s) => typeof s.lat === "number" && typeof s.lon === "number");
+  let list = STORES.filter((s) => isGymListable(s.gym_id)
+    && typeof s.lat === "number" && typeof s.lon === "number");
   if (state.region) list = list.filter((s) => s.region === state.region);
   if (state.prefecture) list = list.filter((s) => s.prefecture === state.prefecture);
   if (state.gym) list = list.filter((s) => s.gym_id === state.gym);
