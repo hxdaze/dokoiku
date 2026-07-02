@@ -7001,7 +7001,7 @@
           "store_id": "190913",
           "store": "函館北海道（フランチャイズ店）",
           "region": "北海道・東北",
-          "lesson_count": 57,
+          "lesson_count": 54,
           "path": "by_store/goldsgym/函館北海道（フランチャイズ店）.json"
         },
         {
@@ -7316,7 +7316,7 @@
           "store_id": "80209",
           "store": "牛久茨城（フランチャイズ店）",
           "region": "関東",
-          "lesson_count": 37,
+          "lesson_count": 36,
           "path": "by_store/goldsgym/牛久茨城（フランチャイズ店）.json"
         },
         {
@@ -13723,47 +13723,6 @@
       ]
     },
     {
-      "gym_id": "atrio",
-      "gym": "アトリオ",
-      "stores": [
-        {
-          "store_id": "due_aobadai",
-          "store": "アトリオドゥーエNext青葉台",
-          "region": "関東",
-          "lesson_count": 74,
-          "path": "by_store/atrio/アトリオドゥーエNext青葉台.json"
-        },
-        {
-          "store_id": "due_futakotamagawa",
-          "store": "アトリオドゥーエNext二子玉川",
-          "region": "関東",
-          "lesson_count": 107,
-          "path": "by_store/atrio/アトリオドゥーエNext二子玉川.json"
-        },
-        {
-          "store_id": "due_himonya",
-          "store": "アトリオドゥーエNext碑文谷",
-          "region": "関東",
-          "lesson_count": 135,
-          "path": "by_store/atrio/アトリオドゥーエNext碑文谷.json"
-        },
-        {
-          "store_id": "due_musashikoyama",
-          "store": "アトリオドゥーエNext武蔵小山",
-          "region": "関東",
-          "lesson_count": 181,
-          "path": "by_store/atrio/アトリオドゥーエNext武蔵小山.json"
-        },
-        {
-          "store_id": "due_tamaplaza",
-          "store": "アトリオドゥーエNextたまプラーザ",
-          "region": "関東",
-          "lesson_count": 135,
-          "path": "by_store/atrio/アトリオドゥーエNextたまプラーザ.json"
-        }
-      ]
-    },
-    {
       "gym_id": "dospo",
       "gym": "ドゥ・スポーツプラザ",
       "stores": [
@@ -13787,6 +13746,47 @@
           "region": "関東",
           "lesson_count": 261,
           "path": "by_store/dospo/ドゥ・スポーツプラザ_豊洲.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "atrio",
+      "gym": "アトリオ",
+      "stores": [
+        {
+          "store_id": "due_aobadai",
+          "store": "アトリオドゥーエNext青葉台",
+          "region": "関東",
+          "lesson_count": 74,
+          "path": "by_store/atrio/アトリオドゥーエNext青葉台.json"
+        },
+        {
+          "store_id": "due_futakotamagawa",
+          "store": "アトリオドゥーエNext二子玉川",
+          "region": "関東",
+          "lesson_count": 107,
+          "path": "by_store/atrio/アトリオドゥーエNext二子玉川.json"
+        },
+        {
+          "store_id": "due_himonya",
+          "store": "アトリオドゥーエNext碑文谷",
+          "region": "関東",
+          "lesson_count": 116,
+          "path": "by_store/atrio/アトリオドゥーエNext碑文谷.json"
+        },
+        {
+          "store_id": "due_musashikoyama",
+          "store": "アトリオドゥーエNext武蔵小山",
+          "region": "関東",
+          "lesson_count": 114,
+          "path": "by_store/atrio/アトリオドゥーエNext武蔵小山.json"
+        },
+        {
+          "store_id": "due_tamaplaza",
+          "store": "アトリオドゥーエNextたまプラーザ",
+          "region": "関東",
+          "lesson_count": 108,
+          "path": "by_store/atrio/アトリオドゥーエNextたまプラーザ.json"
         }
       ]
     },
