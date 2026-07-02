@@ -19,7 +19,7 @@
     "instructor_id"
   ],
   "gym_count": 266,
-  "store_count": 2231,
+  "store_count": 2246,
   "gyms": [
     {
       "gym_id": "lava",
@@ -6170,7 +6170,7 @@
           "store_id": "musashi",
           "store": "メガロス 武蔵小金井",
           "region": "関東",
-          "lesson_count": 56,
+          "lesson_count": 21,
           "path": "by_store/megalos/メガロス_武蔵小金井.json"
         },
         {
@@ -10743,166 +10743,6 @@
       ]
     },
     {
-      "gym_id": "nas",
-      "gym": "NAS",
-      "stores": [
-        {
-          "store_id": "abeno",
-          "store": "NASあべの",
-          "region": "近畿",
-          "lesson_count": 139,
-          "path": "by_store/nas/NASあべの.json"
-        },
-        {
-          "store_id": "fujisawa",
-          "store": "NAS藤沢",
-          "region": "関東",
-          "lesson_count": 129,
-          "path": "by_store/nas/NAS藤沢.json"
-        },
-        {
-          "store_id": "hikarigaoka",
-          "store": "NAS光が丘",
-          "region": "関東",
-          "lesson_count": 82,
-          "path": "by_store/nas/NAS光が丘.json"
-        },
-        {
-          "store_id": "hirano",
-          "store": "NAS平野",
-          "region": "近畿",
-          "lesson_count": 199,
-          "path": "by_store/nas/NAS平野.json"
-        },
-        {
-          "store_id": "hiratsuka",
-          "store": "NAS平塚",
-          "region": "関東",
-          "lesson_count": 121,
-          "path": "by_store/nas/NAS平塚.json"
-        },
-        {
-          "store_id": "kosaka",
-          "store": "NAS小阪",
-          "region": "近畿",
-          "lesson_count": 162,
-          "path": "by_store/nas/NAS小阪.json"
-        },
-        {
-          "store_id": "machiya",
-          "store": "NAS町屋",
-          "region": "関東",
-          "lesson_count": 80,
-          "path": "by_store/nas/NAS町屋.json"
-        },
-        {
-          "store_id": "mizonokuchi",
-          "store": "NAS溝の口",
-          "region": "関東",
-          "lesson_count": 136,
-          "path": "by_store/nas/NAS溝の口.json"
-        },
-        {
-          "store_id": "nishikasai",
-          "store": "NAS西葛西",
-          "region": "関東",
-          "lesson_count": 110,
-          "path": "by_store/nas/NAS西葛西.json"
-        },
-        {
-          "store_id": "osakadome",
-          "store": "NAS大阪ドームシティ",
-          "region": "近畿",
-          "lesson_count": 97,
-          "path": "by_store/nas/NAS大阪ドームシティ.json"
-        },
-        {
-          "store_id": "osaki",
-          "store": "NAS大崎",
-          "region": "関東",
-          "lesson_count": 171,
-          "path": "by_store/nas/NAS大崎.json"
-        },
-        {
-          "store_id": "oyumino",
-          "store": "NASおゆみ野",
-          "region": "関東",
-          "lesson_count": 69,
-          "path": "by_store/nas/NASおゆみ野.json"
-        },
-        {
-          "store_id": "rivercity21",
-          "store": "フィットネス&スパNAS リバーシティ21",
-          "region": "関東",
-          "lesson_count": 102,
-          "path": "by_store/nas/フィットネス&スパNAS_リバーシティ21.json"
-        },
-        {
-          "store_id": "sapporo",
-          "store": "NAS札幌",
-          "region": "北海道・東北",
-          "lesson_count": 55,
-          "path": "by_store/nas/NAS札幌.json"
-        },
-        {
-          "store_id": "shinkamagaya",
-          "store": "NAS新鎌ヶ谷",
-          "region": "関東",
-          "lesson_count": 126,
-          "path": "by_store/nas/NAS新鎌ヶ谷.json"
-        },
-        {
-          "store_id": "shinozaki",
-          "store": "NAS篠崎",
-          "region": "関東",
-          "lesson_count": 105,
-          "path": "by_store/nas/NAS篠崎.json"
-        },
-        {
-          "store_id": "sunmarche",
-          "store": "NASサンマルシェ",
-          "region": "中部・北陸",
-          "lesson_count": 122,
-          "path": "by_store/nas/NASサンマルシェ.json"
-        },
-        {
-          "store_id": "totsuka",
-          "store": "NAS戸塚",
-          "region": "関東",
-          "lesson_count": 122,
-          "path": "by_store/nas/NAS戸塚.json"
-        },
-        {
-          "store_id": "vitparksapporo",
-          "store": "NAS Vit Park 札幌",
-          "region": "北海道・東北",
-          "lesson_count": 170,
-          "path": "by_store/nas/NAS_Vit_Park_札幌.json"
-        },
-        {
-          "store_id": "wakabadai",
-          "store": "NAS若葉台",
-          "region": "関東",
-          "lesson_count": 81,
-          "path": "by_store/nas/NAS若葉台.json"
-        },
-        {
-          "store_id": "warabi",
-          "store": "NAS蕨",
-          "region": "関東",
-          "lesson_count": 140,
-          "path": "by_store/nas/NAS蕨.json"
-        },
-        {
-          "store_id": "woodytown",
-          "store": "NASウッディタウン",
-          "region": "近畿",
-          "lesson_count": 124,
-          "path": "by_store/nas/NASウッディタウン.json"
-        }
-      ]
-    },
-    {
       "gym_id": "aeon",
       "gym": "イオンスポーツクラブ",
       "stores": [
@@ -10935,6 +10775,20 @@
           "path": "by_store/aeon/イオンウエルネスラウンジ_3FIT_南砂店.json"
         },
         {
+          "store_id": "イオンスポーツクラブ-3fit-マリンピア店",
+          "store": "イオンスポーツクラブ 3FIT マリンピア店",
+          "region": "関東",
+          "lesson_count": 25,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_マリンピア店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-上里店",
+          "store": "イオンスポーツクラブ 3FIT 上里店",
+          "region": "関東",
+          "lesson_count": 15,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_上里店.json"
+        },
+        {
           "store_id": "イオンスポーツクラブ-3fit-仙台泉大沢店",
           "store": "イオンスポーツクラブ 3FIT 仙台泉大沢店",
           "region": "北海道・東北",
@@ -10947,6 +10801,41 @@
           "region": "中部・北陸",
           "lesson_count": 51,
           "path": "by_store/aeon/イオンスポーツクラブ_3FIT_八事店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-名古屋茶屋店",
+          "store": "イオンスポーツクラブ 3FIT 名古屋茶屋店",
+          "region": "中部・北陸",
+          "lesson_count": 7,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_名古屋茶屋店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-大利根店",
+          "store": "イオンスポーツクラブ 3FIT 大利根店",
+          "region": "関東",
+          "lesson_count": 7,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_大利根店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-大和店",
+          "store": "イオンスポーツクラブ 3FIT 大和店",
+          "region": "関東",
+          "lesson_count": 20,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_大和店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-大安店",
+          "store": "イオンスポーツクラブ 3FIT 大安店",
+          "region": "近畿",
+          "lesson_count": 35,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_大安店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-大須賀店",
+          "store": "イオンスポーツクラブ 3FIT 大須賀店",
+          "region": "中部・北陸",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_大須賀店.json"
         },
         {
           "store_id": "イオンスポーツクラブ-3fit-天王町店",
@@ -10963,6 +10852,20 @@
           "path": "by_store/aeon/イオンスポーツクラブ_3FIT_宇多津店.json"
         },
         {
+          "store_id": "イオンスポーツクラブ-3fit-小山店",
+          "store": "イオンスポーツクラブ 3FIT 小山店",
+          "region": "関東",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_小山店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-岐阜店",
+          "store": "イオンスポーツクラブ 3FIT 岐阜店",
+          "region": "中部・北陸",
+          "lesson_count": 21,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_岐阜店.json"
+        },
+        {
           "store_id": "イオンスポーツクラブ-3fit-岡崎店",
           "store": "イオンスポーツクラブ 3FIT 岡崎店",
           "region": "中部・北陸",
@@ -10975,6 +10878,27 @@
           "region": "関東",
           "lesson_count": 123,
           "path": "by_store/aeon/イオンスポーツクラブ_3FIT_成田店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-戸塚",
+          "store": "イオンスポーツクラブ 3FIT 戸塚店",
+          "region": "関東",
+          "lesson_count": 42,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_戸塚店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-新利府店",
+          "store": "イオンスポーツクラブ 3FIT 新利府店",
+          "region": "北海道・東北",
+          "lesson_count": 15,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_新利府店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit-東員店",
+          "store": "イオンスポーツクラブ 3FIT 東員店",
+          "region": "近畿",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_東員店.json"
         },
         {
           "store_id": "イオンスポーツクラブ-3fit-栃木店",
@@ -11012,6 +10936,13 @@
           "path": "by_store/aeon/イオンスポーツクラブ_3FIT_笠間店.json"
         },
         {
+          "store_id": "イオンスポーツクラブ-3fit-葛西店",
+          "store": "イオンスポーツクラブ 3FIT 葛西店",
+          "region": "関東",
+          "lesson_count": 20,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_葛西店.json"
+        },
+        {
           "store_id": "イオンスポーツクラブ-3fit-西台店",
           "store": "イオンスポーツクラブ 3FIT 西台店",
           "region": "関東",
@@ -11038,6 +10969,13 @@
           "region": "中国・四国",
           "lesson_count": 125,
           "path": "by_store/aeon/イオンスポーツクラブ_3FIT_高知店.json"
+        },
+        {
+          "store_id": "イオンスポーツクラブ-3fit中条店",
+          "store": "イオンスポーツクラブ 3FIT 中条店",
+          "region": "中部・北陸",
+          "lesson_count": 14,
+          "path": "by_store/aeon/イオンスポーツクラブ_3FIT_中条店.json"
         },
         {
           "store_id": "イオンスポーツクラブ-おゆみ野店",
@@ -11227,6 +11165,166 @@
           "region": "関東",
           "lesson_count": 14,
           "path": "by_store/aeon/イオンフィットネススタジオ_高根木戸店.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "nas",
+      "gym": "スポーツクラブNAS",
+      "stores": [
+        {
+          "store_id": "abeno",
+          "store": "NASあべの",
+          "region": "近畿",
+          "lesson_count": 139,
+          "path": "by_store/nas/NASあべの.json"
+        },
+        {
+          "store_id": "fujisawa",
+          "store": "NAS藤沢",
+          "region": "関東",
+          "lesson_count": 129,
+          "path": "by_store/nas/NAS藤沢.json"
+        },
+        {
+          "store_id": "hikarigaoka",
+          "store": "NAS光が丘",
+          "region": "関東",
+          "lesson_count": 82,
+          "path": "by_store/nas/NAS光が丘.json"
+        },
+        {
+          "store_id": "hirano",
+          "store": "NAS平野",
+          "region": "近畿",
+          "lesson_count": 199,
+          "path": "by_store/nas/NAS平野.json"
+        },
+        {
+          "store_id": "hiratsuka",
+          "store": "NAS平塚",
+          "region": "関東",
+          "lesson_count": 121,
+          "path": "by_store/nas/NAS平塚.json"
+        },
+        {
+          "store_id": "kosaka",
+          "store": "NAS小阪",
+          "region": "近畿",
+          "lesson_count": 162,
+          "path": "by_store/nas/NAS小阪.json"
+        },
+        {
+          "store_id": "machiya",
+          "store": "NAS町屋",
+          "region": "関東",
+          "lesson_count": 80,
+          "path": "by_store/nas/NAS町屋.json"
+        },
+        {
+          "store_id": "mizonokuchi",
+          "store": "NAS溝の口",
+          "region": "関東",
+          "lesson_count": 136,
+          "path": "by_store/nas/NAS溝の口.json"
+        },
+        {
+          "store_id": "nishikasai",
+          "store": "NAS西葛西",
+          "region": "関東",
+          "lesson_count": 110,
+          "path": "by_store/nas/NAS西葛西.json"
+        },
+        {
+          "store_id": "osakadome",
+          "store": "NAS大阪ドームシティ",
+          "region": "近畿",
+          "lesson_count": 97,
+          "path": "by_store/nas/NAS大阪ドームシティ.json"
+        },
+        {
+          "store_id": "osaki",
+          "store": "NAS大崎",
+          "region": "関東",
+          "lesson_count": 171,
+          "path": "by_store/nas/NAS大崎.json"
+        },
+        {
+          "store_id": "oyumino",
+          "store": "NASおゆみ野",
+          "region": "関東",
+          "lesson_count": 69,
+          "path": "by_store/nas/NASおゆみ野.json"
+        },
+        {
+          "store_id": "rivercity21",
+          "store": "フィットネス&スパNAS リバーシティ21",
+          "region": "関東",
+          "lesson_count": 102,
+          "path": "by_store/nas/フィットネス&スパNAS_リバーシティ21.json"
+        },
+        {
+          "store_id": "sapporo",
+          "store": "NAS札幌",
+          "region": "北海道・東北",
+          "lesson_count": 55,
+          "path": "by_store/nas/NAS札幌.json"
+        },
+        {
+          "store_id": "shinkamagaya",
+          "store": "NAS新鎌ヶ谷",
+          "region": "関東",
+          "lesson_count": 126,
+          "path": "by_store/nas/NAS新鎌ヶ谷.json"
+        },
+        {
+          "store_id": "shinozaki",
+          "store": "NAS篠崎",
+          "region": "関東",
+          "lesson_count": 105,
+          "path": "by_store/nas/NAS篠崎.json"
+        },
+        {
+          "store_id": "sunmarche",
+          "store": "NASサンマルシェ",
+          "region": "中部・北陸",
+          "lesson_count": 122,
+          "path": "by_store/nas/NASサンマルシェ.json"
+        },
+        {
+          "store_id": "totsuka",
+          "store": "NAS戸塚",
+          "region": "関東",
+          "lesson_count": 122,
+          "path": "by_store/nas/NAS戸塚.json"
+        },
+        {
+          "store_id": "vitparksapporo",
+          "store": "NAS Vit Park 札幌",
+          "region": "北海道・東北",
+          "lesson_count": 170,
+          "path": "by_store/nas/NAS_Vit_Park_札幌.json"
+        },
+        {
+          "store_id": "wakabadai",
+          "store": "NAS若葉台",
+          "region": "関東",
+          "lesson_count": 81,
+          "path": "by_store/nas/NAS若葉台.json"
+        },
+        {
+          "store_id": "warabi",
+          "store": "NAS蕨",
+          "region": "関東",
+          "lesson_count": 140,
+          "path": "by_store/nas/NAS蕨.json"
+        },
+        {
+          "store_id": "woodytown",
+          "store": "NASウッディタウン",
+          "region": "近畿",
+          "lesson_count": 124,
+          "path": "by_store/nas/NASウッディタウン.json"
         }
       ]
     },
@@ -12885,6 +12983,103 @@
       ]
     },
     {
+      "gym_id": "itoman_w",
+      "gym": "イトマンスポーツスクエア",
+      "stores": [
+        {
+          "store_id": "fujisawa",
+          "store": "イトマンスポーツスクエア 平塚店",
+          "region": "その他",
+          "lesson_count": 43,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_平塚店.json"
+        },
+        {
+          "store_id": "hiratsuka",
+          "store": "イトマンスポーツスクエア 茅ヶ崎店",
+          "region": "その他",
+          "lesson_count": 92,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_茅ヶ崎店.json"
+        },
+        {
+          "store_id": "kanazawabunko",
+          "store": "イトマンスポーツスクエア 藤沢店",
+          "region": "その他",
+          "lesson_count": 91,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_藤沢店.json"
+        },
+        {
+          "store_id": "kasukabe",
+          "store": "イトマンスポーツスクエア 川口元郷店",
+          "region": "その他",
+          "lesson_count": 153,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_川口元郷店.json"
+        },
+        {
+          "store_id": "kawaguchi",
+          "store": "イトマンスポーツスクエア 日進店",
+          "region": "その他",
+          "lesson_count": 22,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_日進店.json"
+        },
+        {
+          "store_id": "kawaguchimotogou",
+          "store": "イトマンスポーツスクエア 川口店",
+          "region": "その他",
+          "lesson_count": 94,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_川口店.json"
+        },
+        {
+          "store_id": "kozunomori",
+          "store": "イトマンスポーツスクエア 南柏店",
+          "region": "その他",
+          "lesson_count": 39,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_南柏店.json"
+        },
+        {
+          "store_id": "minamifuruya",
+          "store": "イトマンスポーツスクエア 金沢文庫店",
+          "region": "その他",
+          "lesson_count": 49,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_金沢文庫店.json"
+        },
+        {
+          "store_id": "minamikashiwa",
+          "store": "イトマンスポーツスクエア 北松戸店",
+          "region": "その他",
+          "lesson_count": 14,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_北松戸店.json"
+        },
+        {
+          "store_id": "mito",
+          "store": "イトマンスポーツスクエア つくば店",
+          "region": "その他",
+          "lesson_count": 74,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_つくば店.json"
+        },
+        {
+          "store_id": "nagareyama",
+          "store": "イトマンスポーツスクエア 公津の杜店",
+          "region": "その他",
+          "lesson_count": 104,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_公津の杜店.json"
+        },
+        {
+          "store_id": "toyoshiki",
+          "store": "イトマンスポーツスクエア 浦安店",
+          "region": "その他",
+          "lesson_count": 82,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_浦安店.json"
+        },
+        {
+          "store_id": "urayasu",
+          "store": "イトマンスポーツスクエア 流山おおたかの森店",
+          "region": "その他",
+          "lesson_count": 68,
+          "path": "by_store/itoman_w/イトマンスポーツスクエア_流山おおたかの森店.json"
+        }
+      ]
+    },
+    {
       "gym_id": "tobu",
       "gym": "東武スポーツクラブ",
       "stores": [
@@ -13172,96 +13367,6 @@
           "region": "関東",
           "lesson_count": 32,
           "path": "by_store/oasis/ルネサンス松戸24（旧スポーツオアシス）.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "itoman_w",
-      "gym": "イトマンスポーツスクエア",
-      "stores": [
-        {
-          "store_id": "fujisawa",
-          "store": "イトマンスポーツスクエア 平塚店",
-          "region": "その他",
-          "lesson_count": 43,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_平塚店.json"
-        },
-        {
-          "store_id": "hiratsuka",
-          "store": "イトマンスポーツスクエア 茅ヶ崎店",
-          "region": "その他",
-          "lesson_count": 92,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_茅ヶ崎店.json"
-        },
-        {
-          "store_id": "kasukabe",
-          "store": "イトマンスポーツスクエア 川口元郷店",
-          "region": "その他",
-          "lesson_count": 153,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_川口元郷店.json"
-        },
-        {
-          "store_id": "kawaguchi",
-          "store": "イトマンスポーツスクエア 日進店",
-          "region": "その他",
-          "lesson_count": 22,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_日進店.json"
-        },
-        {
-          "store_id": "kawaguchimotogou",
-          "store": "イトマンスポーツスクエア 川口店",
-          "region": "その他",
-          "lesson_count": 94,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_川口店.json"
-        },
-        {
-          "store_id": "kozunomori",
-          "store": "イトマンスポーツスクエア 南柏店",
-          "region": "その他",
-          "lesson_count": 39,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_南柏店.json"
-        },
-        {
-          "store_id": "minamifuruya",
-          "store": "イトマンスポーツスクエア 金沢文庫店",
-          "region": "その他",
-          "lesson_count": 49,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_金沢文庫店.json"
-        },
-        {
-          "store_id": "minamikashiwa",
-          "store": "イトマンスポーツスクエア 北松戸店",
-          "region": "その他",
-          "lesson_count": 14,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_北松戸店.json"
-        },
-        {
-          "store_id": "mito",
-          "store": "イトマンスポーツスクエア つくば店",
-          "region": "その他",
-          "lesson_count": 74,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_つくば店.json"
-        },
-        {
-          "store_id": "nagareyama",
-          "store": "イトマンスポーツスクエア 公津の杜店",
-          "region": "その他",
-          "lesson_count": 104,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_公津の杜店.json"
-        },
-        {
-          "store_id": "toyoshiki",
-          "store": "イトマンスポーツスクエア 浦安店",
-          "region": "その他",
-          "lesson_count": 82,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_浦安店.json"
-        },
-        {
-          "store_id": "urayasu",
-          "store": "イトマンスポーツスクエア 流山おおたかの森店",
-          "region": "その他",
-          "lesson_count": 68,
-          "path": "by_store/itoman_w/イトマンスポーツスクエア_流山おおたかの森店.json"
         }
       ]
     },
@@ -17063,10 +17168,10 @@
       "stores": [
         {
           "store_id": "main",
-          "store": "港スポーツセンター港スポーツセンターのスポーツ教室一覧／OPAS施",
+          "store": "大阪市港スポーツセンター",
           "region": "近畿",
           "lesson_count": 3,
-          "path": "by_store/muni_ssksports_com/港スポーツセンター港スポーツセンターのスポーツ教室一覧／OPAS施.json"
+          "path": "by_store/muni_ssksports_com/大阪市港スポーツセンター.json"
         }
       ]
     },
@@ -17201,10 +17306,10 @@
       "stores": [
         {
           "store_id": "main",
-          "store": "福岡市スポーツ協会 ※スポーツ教室のご案内",
+          "store": "福岡市民体育館",
           "region": "九州・沖縄",
           "lesson_count": 1,
-          "path": "by_store/muni_sports_fukuokacity_or_jp/福岡市スポーツ協会_※スポーツ教室のご案内.json"
+          "path": "by_store/muni_sports_fukuokacity_or_jp/福岡市民体育館.json"
         }
       ]
     },
