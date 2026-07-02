@@ -750,6 +750,7 @@ function renderAbout() {
       <a class="btn" href="https://kyoudoko.blog.jp/" target="_blank" rel="noopener">本家を見る ↗</a>
     </div>
     <p class="muted doc-note">※掲載情報は変更される場合があります。最新・正確な情報は各施設の公式サイトでご確認ください。</p>
+    <p class="muted"><a href="privacy-policy/">プライバシーポリシー</a></p>
   </div>`;
 }
 
@@ -871,6 +872,7 @@ function renderBusiness() {
 
     <p class="muted doc-note">※掲載内容は当サイトの趣旨に沿うものに限らせていただく場合があります。
        公開情報をもとに掲載する際も、誤りのご指摘や掲載停止のご希望に随時対応します。</p>
+    <p class="muted"><a href="privacy-policy/">プライバシーポリシー</a></p>
   </div>`;
 }
 
