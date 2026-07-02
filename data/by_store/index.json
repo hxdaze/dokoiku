@@ -18,8 +18,8 @@
     "note",
     "instructor_id"
   ],
-  "gym_count": 267,
-  "store_count": 2248,
+  "gym_count": 269,
+  "store_count": 2251,
   "gyms": [
     {
       "gym_id": "lava",
@@ -2008,234 +2008,234 @@
         },
         {
           "store_id": "tokyo_akasaka",
-          "store": "LAVA 赤坂店",
+          "store": "赤坂店",
           "region": "関東",
           "lesson_count": 245,
-          "path": "by_store/lava/LAVA_赤坂店.json"
+          "path": "by_store/lava/赤坂店.json"
         },
         {
           "store_id": "tokyo_akihabara",
-          "store": "LAVA 秋葉原店",
+          "store": "秋葉原店",
           "region": "関東",
           "lesson_count": 225,
-          "path": "by_store/lava/LAVA_秋葉原店.json"
+          "path": "by_store/lava/秋葉原店.json"
         },
         {
           "store_id": "tokyo_aomonoyokocho",
-          "store": "LAVA 青物横丁店",
+          "store": "青物横丁店",
           "region": "関東",
           "lesson_count": 268,
-          "path": "by_store/lava/LAVA_青物横丁店.json"
+          "path": "by_store/lava/青物横丁店.json"
         },
         {
           "store_id": "tokyo_asakusa",
-          "store": "LAVA 浅草店",
+          "store": "浅草店",
           "region": "関東",
           "lesson_count": 272,
-          "path": "by_store/lava/LAVA_浅草店.json"
+          "path": "by_store/lava/浅草店.json"
         },
         {
           "store_id": "tokyo_ayase",
-          "store": "LAVA 綾瀬店",
+          "store": "綾瀬店",
           "region": "関東",
           "lesson_count": 289,
-          "path": "by_store/lava/LAVA_綾瀬店.json"
+          "path": "by_store/lava/綾瀬店.json"
         },
         {
           "store_id": "tokyo_chitosekarasuyama",
-          "store": "LAVA 千歳烏山店",
+          "store": "千歳烏山店",
           "region": "関東",
           "lesson_count": 247,
-          "path": "by_store/lava/LAVA_千歳烏山店.json"
+          "path": "by_store/lava/千歳烏山店.json"
         },
         {
           "store_id": "tokyo_fuchu",
-          "store": "LAVA 府中店",
+          "store": "府中店",
           "region": "関東",
           "lesson_count": 298,
-          "path": "by_store/lava/LAVA_府中店.json"
+          "path": "by_store/lava/府中店.json"
         },
         {
           "store_id": "tokyo_ginza",
-          "store": "LAVA 銀座本店",
+          "store": "銀座本店",
           "region": "関東",
           "lesson_count": 267,
-          "path": "by_store/lava/LAVA_銀座本店.json"
+          "path": "by_store/lava/銀座本店.json"
         },
         {
           "store_id": "tokyo_gotanda",
-          "store": "LAVA 五反田店",
+          "store": "五反田店",
           "region": "関東",
           "lesson_count": 277,
-          "path": "by_store/lava/LAVA_五反田店.json"
+          "path": "by_store/lava/五反田店.json"
         },
         {
           "store_id": "tokyo_hachioji",
-          "store": "LAVA 八王子店",
+          "store": "八王子店",
           "region": "関東",
           "lesson_count": 295,
-          "path": "by_store/lava/LAVA_八王子店.json"
+          "path": "by_store/lava/八王子店.json"
         },
         {
           "store_id": "tokyo_haijima",
-          "store": "LAVA 拝島店",
+          "store": "拝島店",
           "region": "関東",
           "lesson_count": 285,
-          "path": "by_store/lava/LAVA_拝島店.json"
+          "path": "by_store/lava/拝島店.json"
         },
         {
           "store_id": "tokyo_hibarigaoka",
-          "store": "LAVA ひばりヶ丘店",
+          "store": "ひばりヶ丘店",
           "region": "関東",
           "lesson_count": 44,
-          "path": "by_store/lava/LAVA_ひばりヶ丘店.json"
+          "path": "by_store/lava/ひばりヶ丘店.json"
         },
         {
           "store_id": "tokyo_higashijujo",
-          "store": "LAVA 東十条店",
+          "store": "東十条店",
           "region": "関東",
           "lesson_count": 263,
-          "path": "by_store/lava/LAVA_東十条店.json"
+          "path": "by_store/lava/東十条店.json"
         },
         {
           "store_id": "tokyo_higashimurayama",
-          "store": "LAVA 東村山店",
+          "store": "東村山店",
           "region": "関東",
           "lesson_count": 287,
-          "path": "by_store/lava/LAVA_東村山店.json"
+          "path": "by_store/lava/東村山店.json"
         },
         {
           "store_id": "tokyo_hikifune",
-          "store": "LAVA 曳舟店",
+          "store": "曳舟店",
           "region": "関東",
           "lesson_count": 111,
-          "path": "by_store/lava/LAVA_曳舟店.json"
+          "path": "by_store/lava/曳舟店.json"
         },
         {
           "store_id": "tokyo_hinode",
-          "store": "LAVA イオンモール日の出店",
+          "store": "イオンモール日の出店",
           "region": "関東",
           "lesson_count": 296,
-          "path": "by_store/lava/LAVA_イオンモール日の出店.json"
+          "path": "by_store/lava/イオンモール日の出店.json"
         },
         {
           "store_id": "tokyo_hongosanchome",
-          "store": "LAVA 本郷三丁目店",
+          "store": "本郷三丁目店",
           "region": "関東",
           "lesson_count": 272,
-          "path": "by_store/lava/LAVA_本郷三丁目店.json"
+          "path": "by_store/lava/本郷三丁目店.json"
         },
         {
           "store_id": "tokyo_ichigaya",
-          "store": "LAVA 市ヶ谷店",
+          "store": "市ヶ谷店",
           "region": "関東",
           "lesson_count": 274,
-          "path": "by_store/lava/LAVA_市ヶ谷店.json"
+          "path": "by_store/lava/市ヶ谷店.json"
         },
         {
           "store_id": "tokyo_itabashi",
-          "store": "LAVA 板橋店",
+          "store": "板橋店",
           "region": "関東",
           "lesson_count": 288,
-          "path": "by_store/lava/LAVA_板橋店.json"
+          "path": "by_store/lava/板橋店.json"
         },
         {
           "store_id": "tokyo_jiyugaoka-gakuen",
-          "store": "LAVA 自由が丘学園通り店",
+          "store": "自由が丘学園通り店",
           "region": "関東",
           "lesson_count": 286,
-          "path": "by_store/lava/LAVA_自由が丘学園通り店.json"
+          "path": "by_store/lava/自由が丘学園通り店.json"
         },
         {
           "store_id": "tokyo_kabe",
-          "store": "LAVA 河辺店",
+          "store": "河辺店",
           "region": "関東",
           "lesson_count": 279,
-          "path": "by_store/lava/LAVA_河辺店.json"
+          "path": "by_store/lava/河辺店.json"
         },
         {
           "store_id": "tokyo_kamata",
-          "store": "LAVA 蒲田西口店",
+          "store": "蒲田西口店",
           "region": "関東",
           "lesson_count": 361,
-          "path": "by_store/lava/LAVA_蒲田西口店.json"
+          "path": "by_store/lava/蒲田西口店.json"
         },
         {
           "store_id": "tokyo_kamatahigashi",
-          "store": "LAVA 蒲田東口店",
+          "store": "蒲田東口店",
           "region": "関東",
           "lesson_count": 265,
-          "path": "by_store/lava/LAVA_蒲田東口店.json"
+          "path": "by_store/lava/蒲田東口店.json"
         },
         {
           "store_id": "tokyo_kameari",
-          "store": "LAVA 亀有店",
+          "store": "亀有店",
           "region": "関東",
           "lesson_count": 255,
-          "path": "by_store/lava/LAVA_亀有店.json"
+          "path": "by_store/lava/亀有店.json"
         },
         {
           "store_id": "tokyo_kamishakujii",
-          "store": "LAVA 上石神井店",
+          "store": "上石神井店",
           "region": "関東",
           "lesson_count": 215,
-          "path": "by_store/lava/LAVA_上石神井店.json"
+          "path": "by_store/lava/上石神井店.json"
         },
         {
           "store_id": "tokyo_kanamachi",
-          "store": "LAVA 金町店",
+          "store": "金町店",
           "region": "関東",
           "lesson_count": 98,
-          "path": "by_store/lava/LAVA_金町店.json"
+          "path": "by_store/lava/金町店.json"
         },
         {
           "store_id": "tokyo_kichijoji",
-          "store": "LAVA 吉祥寺店",
+          "store": "吉祥寺店",
           "region": "関東",
           "lesson_count": 277,
-          "path": "by_store/lava/LAVA_吉祥寺店.json"
+          "path": "by_store/lava/吉祥寺店.json"
         },
         {
           "store_id": "tokyo_kinshicho",
-          "store": "LAVA 錦糸町店",
+          "store": "錦糸町店",
           "region": "関東",
           "lesson_count": 311,
-          "path": "by_store/lava/LAVA_錦糸町店.json"
+          "path": "by_store/lava/錦糸町店.json"
         },
         {
           "store_id": "tokyo_kitasenjyu",
-          "store": "LAVA 北千住店",
+          "store": "北千住店",
           "region": "関東",
           "lesson_count": 428,
-          "path": "by_store/lava/LAVA_北千住店.json"
+          "path": "by_store/lava/北千住店.json"
         },
         {
           "store_id": "tokyo_kokubunji",
-          "store": "LAVA 国分寺店",
+          "store": "国分寺店",
           "region": "関東",
           "lesson_count": 111,
-          "path": "by_store/lava/LAVA_国分寺店.json"
+          "path": "by_store/lava/国分寺店.json"
         },
         {
           "store_id": "tokyo_kunitachi",
-          "store": "LAVA 国立店",
+          "store": "国立店",
           "region": "関東",
           "lesson_count": 291,
-          "path": "by_store/lava/LAVA_国立店.json"
+          "path": "by_store/lava/国立店.json"
         },
         {
           "store_id": "tokyo_kyodo",
-          "store": "LAVA 経堂店",
+          "store": "経堂店",
           "region": "関東",
           "lesson_count": 259,
-          "path": "by_store/lava/LAVA_経堂店.json"
+          "path": "by_store/lava/経堂店.json"
         },
         {
           "store_id": "tokyo_ll-tachikawa",
-          "store": "LAVA ららぽーと立川立飛店",
+          "store": "ららぽーと立川立飛店",
           "region": "関東",
           "lesson_count": 263,
-          "path": "by_store/lava/LAVA_ららぽーと立川立飛店.json"
+          "path": "by_store/lava/ららぽーと立川立飛店.json"
         },
         {
           "store_id": "tokyo_ll-toyosu",
@@ -2246,332 +2246,332 @@
         },
         {
           "store_id": "tokyo_machida",
-          "store": "LAVA 町田店",
+          "store": "町田店",
           "region": "関東",
           "lesson_count": 304,
-          "path": "by_store/lava/LAVA_町田店.json"
+          "path": "by_store/lava/町田店.json"
         },
         {
           "store_id": "tokyo_machidakiso",
-          "store": "LAVA 町田木曽店",
+          "store": "町田木曽店",
           "region": "関東",
           "lesson_count": 309,
-          "path": "by_store/lava/LAVA_町田木曽店.json"
+          "path": "by_store/lava/町田木曽店.json"
         },
         {
           "store_id": "tokyo_machiya",
-          "store": "LAVA 町屋店",
+          "store": "町屋店",
           "region": "関東",
           "lesson_count": 225,
-          "path": "by_store/lava/LAVA_町屋店.json"
+          "path": "by_store/lava/町屋店.json"
         },
         {
           "store_id": "tokyo_meguro",
-          "store": "LAVA 目黒店",
+          "store": "目黒店",
           "region": "関東",
           "lesson_count": 280,
-          "path": "by_store/lava/LAVA_目黒店.json"
+          "path": "by_store/lava/目黒店.json"
         },
         {
           "store_id": "tokyo_minamiosawa",
-          "store": "LAVA 南大沢店",
+          "store": "南大沢店",
           "region": "関東",
           "lesson_count": 274,
-          "path": "by_store/lava/LAVA_南大沢店.json"
+          "path": "by_store/lava/南大沢店.json"
         },
         {
           "store_id": "tokyo_mitaka",
-          "store": "LAVA 三鷹店",
+          "store": "三鷹店",
           "region": "関東",
           "lesson_count": 251,
-          "path": "by_store/lava/LAVA_三鷹店.json"
+          "path": "by_store/lava/三鷹店.json"
         },
         {
           "store_id": "tokyo_mizue",
-          "store": "LAVA 瑞江店",
+          "store": "瑞江店",
           "region": "関東",
           "lesson_count": 256,
-          "path": "by_store/lava/LAVA_瑞江店.json"
+          "path": "by_store/lava/瑞江店.json"
         },
         {
           "store_id": "tokyo_monnaka",
-          "store": "LAVA 門前仲町店",
+          "store": "門前仲町店",
           "region": "関東",
           "lesson_count": 235,
-          "path": "by_store/lava/LAVA_門前仲町店.json"
+          "path": "by_store/lava/門前仲町店.json"
         },
         {
           "store_id": "tokyo_musashikoganei",
-          "store": "LAVA 武蔵小金井店",
+          "store": "武蔵小金井店",
           "region": "関東",
           "lesson_count": 265,
-          "path": "by_store/lava/LAVA_武蔵小金井店.json"
+          "path": "by_store/lava/武蔵小金井店.json"
         },
         {
           "store_id": "tokyo_nagahara",
-          "store": "LAVA 長原店",
+          "store": "長原店",
           "region": "関東",
           "lesson_count": 254,
-          "path": "by_store/lava/LAVA_長原店.json"
+          "path": "by_store/lava/長原店.json"
         },
         {
           "store_id": "tokyo_nakameguro",
-          "store": "LAVA 中目黒店",
+          "store": "中目黒店",
           "region": "関東",
           "lesson_count": 295,
-          "path": "by_store/lava/LAVA_中目黒店.json"
+          "path": "by_store/lava/中目黒店.json"
         },
         {
           "store_id": "tokyo_nakonosakaue",
-          "store": "LAVA 中野坂上店",
+          "store": "中野坂上店",
           "region": "関東",
           "lesson_count": 247,
-          "path": "by_store/lava/LAVA_中野坂上店.json"
+          "path": "by_store/lava/中野坂上店.json"
         },
         {
           "store_id": "tokyo_nerima",
-          "store": "LAVA 練馬店",
+          "store": "練馬店",
           "region": "関東",
           "lesson_count": 430,
-          "path": "by_store/lava/LAVA_練馬店.json"
+          "path": "by_store/lava/練馬店.json"
         },
         {
           "store_id": "tokyo_nikotama",
-          "store": "LAVA 二子玉川店",
+          "store": "二子玉川店",
           "region": "関東",
           "lesson_count": 288,
-          "path": "by_store/lava/LAVA_二子玉川店.json"
+          "path": "by_store/lava/二子玉川店.json"
         },
         {
           "store_id": "tokyo_nishiarai",
-          "store": "LAVA 西新井店",
+          "store": "西新井店",
           "region": "関東",
           "lesson_count": 296,
-          "path": "by_store/lava/LAVA_西新井店.json"
+          "path": "by_store/lava/西新井店.json"
         },
         {
           "store_id": "tokyo_nishikasai",
-          "store": "LAVA 西葛西店",
+          "store": "西葛西店",
           "region": "関東",
           "lesson_count": 266,
-          "path": "by_store/lava/LAVA_西葛西店.json"
+          "path": "by_store/lava/西葛西店.json"
         },
         {
           "store_id": "tokyo_nogata",
-          "store": "LAVA 野方店",
+          "store": "野方店",
           "region": "関東",
           "lesson_count": 266,
-          "path": "by_store/lava/LAVA_野方店.json"
+          "path": "by_store/lava/野方店.json"
         },
         {
           "store_id": "tokyo_ochiaiminaminagasaki",
-          "store": "LAVA 落合南長崎店",
+          "store": "落合南長崎店",
           "region": "関東",
           "lesson_count": 254,
-          "path": "by_store/lava/LAVA_落合南長崎店.json"
+          "path": "by_store/lava/落合南長崎店.json"
         },
         {
           "store_id": "tokyo_ogikubo",
-          "store": "LAVA 荻窪店",
+          "store": "荻窪店",
           "region": "関東",
           "lesson_count": 384,
-          "path": "by_store/lava/LAVA_荻窪店.json"
+          "path": "by_store/lava/荻窪店.json"
         },
         {
           "store_id": "tokyo_ohanajaya",
-          "store": "LAVA お花茶屋店",
+          "store": "お花茶屋店",
           "region": "関東",
           "lesson_count": 253,
-          "path": "by_store/lava/LAVA_お花茶屋店.json"
+          "path": "by_store/lava/お花茶屋店.json"
         },
         {
           "store_id": "tokyo_oimachi",
-          "store": "LAVA 大井町店",
+          "store": "大井町店",
           "region": "関東",
           "lesson_count": 271,
-          "path": "by_store/lava/LAVA_大井町店.json"
+          "path": "by_store/lava/大井町店.json"
         },
         {
           "store_id": "tokyo_oji_annex",
-          "store": "LAVA 王子アネックス店",
+          "store": "王子アネックス店",
           "region": "関東",
           "lesson_count": 288,
-          "path": "by_store/lava/LAVA_王子アネックス店.json"
+          "path": "by_store/lava/王子アネックス店.json"
         },
         {
           "store_id": "tokyo_ontakesan",
-          "store": "LAVA 御嶽山店",
+          "store": "御嶽山店",
           "region": "関東",
           "lesson_count": 101,
-          "path": "by_store/lava/LAVA_御嶽山店.json"
+          "path": "by_store/lava/御嶽山店.json"
         },
         {
           "store_id": "tokyo_ooizumi",
-          "store": "LAVA 大泉学園店",
+          "store": "大泉学園店",
           "region": "関東",
           "lesson_count": 288,
-          "path": "by_store/lava/LAVA_大泉学園店.json"
+          "path": "by_store/lava/大泉学園店.json"
         },
         {
           "store_id": "tokyo_otorii",
-          "store": "LAVA 大鳥居店",
+          "store": "大鳥居店",
           "region": "関東",
           "lesson_count": 235,
-          "path": "by_store/lava/LAVA_大鳥居店.json"
+          "path": "by_store/lava/大鳥居店.json"
         },
         {
           "store_id": "tokyo_otsuka",
-          "store": "LAVA 大塚店",
+          "store": "大塚店",
           "region": "関東",
           "lesson_count": 252,
-          "path": "by_store/lava/LAVA_大塚店.json"
+          "path": "by_store/lava/大塚店.json"
         },
         {
           "store_id": "tokyo_oyama",
-          "store": "LAVA 大山店",
+          "store": "大山店",
           "region": "関東",
           "lesson_count": 330,
-          "path": "by_store/lava/LAVA_大山店.json"
+          "path": "by_store/lava/大山店.json"
         },
         {
           "store_id": "tokyo_sakurashinmachi",
-          "store": "LAVA 桜新町店",
+          "store": "桜新町店",
           "region": "関東",
           "lesson_count": 290,
-          "path": "by_store/lava/LAVA_桜新町店.json"
+          "path": "by_store/lava/桜新町店.json"
         },
         {
           "store_id": "tokyo_sasazuka",
-          "store": "LAVA 笹塚店",
+          "store": "笹塚店",
           "region": "関東",
           "lesson_count": 283,
-          "path": "by_store/lava/LAVA_笹塚店.json"
+          "path": "by_store/lava/笹塚店.json"
         },
         {
           "store_id": "tokyo_seijyogakuen",
-          "store": "LAVA 成城学園前店",
+          "store": "成城学園前店",
           "region": "関東",
           "lesson_count": 442,
-          "path": "by_store/lava/LAVA_成城学園前店.json"
+          "path": "by_store/lava/成城学園前店.json"
         },
         {
           "store_id": "tokyo_seisekisakuragaoka",
-          "store": "LAVA 聖蹟桜ヶ丘店",
+          "store": "聖蹟桜ヶ丘店",
           "region": "関東",
           "lesson_count": 291,
-          "path": "by_store/lava/LAVA_聖蹟桜ヶ丘店.json"
+          "path": "by_store/lava/聖蹟桜ヶ丘店.json"
         },
         {
           "store_id": "tokyo_sengawa",
-          "store": "LAVA 仙川店",
+          "store": "仙川店",
           "region": "関東",
           "lesson_count": 264,
-          "path": "by_store/lava/LAVA_仙川店.json"
+          "path": "by_store/lava/仙川店.json"
         },
         {
           "store_id": "tokyo_shimokitazawa",
-          "store": "LAVA 下北沢店",
+          "store": "下北沢店",
           "region": "関東",
           "lesson_count": 273,
-          "path": "by_store/lava/LAVA_下北沢店.json"
+          "path": "by_store/lava/下北沢店.json"
         },
         {
           "store_id": "tokyo_shimotakaido",
-          "store": "LAVA 下高井戸店",
+          "store": "下高井戸店",
           "region": "関東",
           "lesson_count": 95,
-          "path": "by_store/lava/LAVA_下高井戸店.json"
+          "path": "by_store/lava/下高井戸店.json"
         },
         {
           "store_id": "tokyo_shimurasakaue",
-          "store": "LAVA 志村坂上店",
+          "store": "志村坂上店",
           "region": "関東",
           "lesson_count": 254,
-          "path": "by_store/lava/LAVA_志村坂上店.json"
+          "path": "by_store/lava/志村坂上店.json"
         },
         {
           "store_id": "tokyo_shinkoiwa",
-          "store": "LAVA 新小岩店",
+          "store": "新小岩店",
           "region": "関東",
           "lesson_count": 286,
-          "path": "by_store/lava/LAVA_新小岩店.json"
+          "path": "by_store/lava/新小岩店.json"
         },
         {
           "store_id": "tokyo_sugamo",
-          "store": "LAVA 巣鴨店",
+          "store": "巣鴨店",
           "region": "関東",
           "lesson_count": 267,
-          "path": "by_store/lava/LAVA_巣鴨店.json"
+          "path": "by_store/lava/巣鴨店.json"
         },
         {
           "store_id": "tokyo_sumiyoshi",
-          "store": "LAVA 住吉店",
+          "store": "住吉店",
           "region": "関東",
           "lesson_count": 100,
-          "path": "by_store/lava/LAVA_住吉店.json"
+          "path": "by_store/lava/住吉店.json"
         },
         {
           "store_id": "tokyo_tachikawakita",
-          "store": "LAVA 立川北口店",
+          "store": "立川北口店",
           "region": "関東",
           "lesson_count": 273,
-          "path": "by_store/lava/LAVA_立川北口店.json"
+          "path": "by_store/lava/立川北口店.json"
         },
         {
           "store_id": "tokyo_takadanobaba",
-          "store": "LAVA 高田馬場店",
+          "store": "高田馬場店",
           "region": "関東",
           "lesson_count": 265,
-          "path": "by_store/lava/LAVA_高田馬場店.json"
+          "path": "by_store/lava/高田馬場店.json"
         },
         {
           "store_id": "tokyo_takashimadaira",
-          "store": "LAVA 高島平店",
+          "store": "高島平店",
           "region": "関東",
           "lesson_count": 282,
-          "path": "by_store/lava/LAVA_高島平店.json"
+          "path": "by_store/lava/高島平店.json"
         },
         {
           "store_id": "tokyo_takenotsuka",
-          "store": "LAVA 竹ノ塚店",
+          "store": "竹ノ塚店",
           "region": "関東",
           "lesson_count": 282,
-          "path": "by_store/lava/LAVA_竹ノ塚店.json"
+          "path": "by_store/lava/竹ノ塚店.json"
         },
         {
           "store_id": "tokyo_tamacenter",
-          "store": "LAVA 多摩センター店",
+          "store": "多摩センター店",
           "region": "関東",
           "lesson_count": 323,
-          "path": "by_store/lava/LAVA_多摩センター店.json"
+          "path": "by_store/lava/多摩センター店.json"
         },
         {
           "store_id": "tokyo_tanashi",
-          "store": "LAVA 田無店",
+          "store": "田無店",
           "region": "関東",
           "lesson_count": 268,
-          "path": "by_store/lava/LAVA_田無店.json"
+          "path": "by_store/lava/田無店.json"
         },
         {
           "store_id": "tokyo_togoshi",
-          "store": "LAVA 戸越店",
+          "store": "戸越店",
           "region": "関東",
           "lesson_count": 100,
-          "path": "by_store/lava/LAVA_戸越店.json"
+          "path": "by_store/lava/戸越店.json"
         },
         {
           "store_id": "tokyo_toyocho",
-          "store": "LAVA 東陽町店",
+          "store": "東陽町店",
           "region": "関東",
           "lesson_count": 97,
-          "path": "by_store/lava/LAVA_東陽町店.json"
+          "path": "by_store/lava/東陽町店.json"
         },
         {
           "store_id": "tokyo_tsukishima",
-          "store": "LAVA 月島店",
+          "store": "月島店",
           "region": "関東",
           "lesson_count": 247,
-          "path": "by_store/lava/LAVA_月島店.json"
+          "path": "by_store/lava/月島店.json"
         },
         {
           "store_id": "tottori_aeon_tottorikita",
@@ -2667,42 +2667,42 @@
           "store_id": "akita",
           "store": "セントラルフィットネスクラブ24 秋田広面",
           "region": "北海道・東北",
-          "lesson_count": 88,
+          "lesson_count": 81,
           "path": "by_store/central/セントラルフィットネスクラブ24_秋田広面.json"
         },
         {
           "store_id": "alpark",
           "store": "セントラルフィットネスクラブ アルパーク（広島）",
           "region": "中国・四国",
-          "lesson_count": 130,
+          "lesson_count": 103,
           "path": "by_store/central/セントラルフィットネスクラブ_アルパーク（広島）.json"
         },
         {
           "store_id": "aoto",
           "store": "セントラルフィットネスクラブ 青砥",
           "region": "関東",
-          "lesson_count": 140,
+          "lesson_count": 142,
           "path": "by_store/central/セントラルフィットネスクラブ_青砥.json"
         },
         {
           "store_id": "arc_nishiyamato",
           "store": "ニッセイ・ア−ク西大和",
           "region": "近畿",
-          "lesson_count": 76,
+          "lesson_count": 77,
           "path": "by_store/central/ニッセイ・ア−ク西大和.json"
         },
         {
           "store_id": "ashiya",
           "store": "セントラルウェルネスクラブ 芦屋",
           "region": "近畿",
-          "lesson_count": 152,
+          "lesson_count": 150,
           "path": "by_store/central/セントラルウェルネスクラブ_芦屋.json"
         },
         {
           "store_id": "centerminami",
           "store": "セントラルフィットネスクラブ センター南",
           "region": "関東",
-          "lesson_count": 167,
+          "lesson_count": 166,
           "path": "by_store/central/セントラルフィットネスクラブ_センター南.json"
         },
         {
@@ -2730,28 +2730,28 @@
           "store_id": "cf-kiyosu",
           "store": "セントラルフィットネスクラブ 清洲",
           "region": "中部・北陸",
-          "lesson_count": 131,
+          "lesson_count": 136,
           "path": "by_store/central/セントラルフィットネスクラブ_清洲.json"
         },
         {
           "store_id": "cf-komaki",
           "store": "セントラルフィットネスクラブ 小牧",
           "region": "中部・北陸",
-          "lesson_count": 88,
+          "lesson_count": 90,
           "path": "by_store/central/セントラルフィットネスクラブ_小牧.json"
         },
         {
           "store_id": "cf-kotesashi",
           "store": "セントラルフィットネスクラブ24 小手指",
           "region": "関東",
-          "lesson_count": 122,
+          "lesson_count": 123,
           "path": "by_store/central/セントラルフィットネスクラブ24_小手指.json"
         },
         {
           "store_id": "cf-megumino",
           "store": "セントラルフィットネスクラブ24 恵み野",
           "region": "北海道・東北",
-          "lesson_count": 93,
+          "lesson_count": 92,
           "path": "by_store/central/セントラルフィットネスクラブ24_恵み野.json"
         },
         {
@@ -2765,7 +2765,7 @@
           "store_id": "cf-motoyawata",
           "store": "セントラルフィットネスクラブ24 本八幡",
           "region": "関東",
-          "lesson_count": 95,
+          "lesson_count": 97,
           "path": "by_store/central/セントラルフィットネスクラブ24_本八幡.json"
         },
         {
@@ -2797,10 +2797,17 @@
           "path": "by_store/central/セントラルフィットネスクラブ_千葉.json"
         },
         {
+          "store_id": "chiba_newtown",
+          "store": "セントラルフィットネスクラブ24千葉ニュータウン",
+          "region": "関東",
+          "lesson_count": 82,
+          "path": "by_store/central/セントラルフィットネスクラブ24千葉ニュータウン.json"
+        },
+        {
           "store_id": "csp-delta",
           "store": "ザバススポーツクラブ　デルタ 高槻",
           "region": "近畿",
-          "lesson_count": 199,
+          "lesson_count": 197,
           "path": "by_store/central/ザバススポーツクラブ_デルタ_高槻.json"
         },
         {
@@ -2814,7 +2821,7 @@
           "store_id": "csp-hakkei",
           "store": "ザバススポーツクラブ／金沢八景",
           "region": "関東",
-          "lesson_count": 160,
+          "lesson_count": 159,
           "path": "by_store/central/ザバススポーツクラブ／金沢八景.json"
         },
         {
@@ -2835,14 +2842,14 @@
           "store_id": "csp-wako",
           "store": "ザバススポーツクラブ／和光",
           "region": "関東",
-          "lesson_count": 158,
+          "lesson_count": 159,
           "path": "by_store/central/ザバススポーツクラブ／和光.json"
         },
         {
           "store_id": "cw-hiyoshi",
           "store": "セントラルウェルネスクラブ 慶應日吉",
           "region": "関東",
-          "lesson_count": 164,
+          "lesson_count": 163,
           "path": "by_store/central/セントラルウェルネスクラブ_慶應日吉.json"
         },
         {
@@ -2856,7 +2863,7 @@
           "store_id": "cw-keiseikoiwa",
           "store": "セントラルウェルネスクラブ24 京成小岩",
           "region": "関東",
-          "lesson_count": 115,
+          "lesson_count": 117,
           "path": "by_store/central/セントラルウェルネスクラブ24_京成小岩.json"
         },
         {
@@ -2877,7 +2884,7 @@
           "store_id": "fujigaoka",
           "store": "セントラルフィットネスクラブ24 藤が丘",
           "region": "中部・北陸",
-          "lesson_count": 125,
+          "lesson_count": 123,
           "path": "by_store/central/セントラルフィットネスクラブ24_藤が丘.json"
         },
         {
@@ -2891,7 +2898,7 @@
           "store_id": "fukushima",
           "store": "セントラルウェルネスクラブ24 福島",
           "region": "北海道・東北",
-          "lesson_count": 134,
+          "lesson_count": 129,
           "path": "by_store/central/セントラルウェルネスクラブ24_福島.json"
         },
         {
@@ -2912,14 +2919,14 @@
           "store_id": "futamatagawa",
           "store": "セントラルフィットネスクラブ24 二俣川",
           "region": "関東",
-          "lesson_count": 175,
+          "lesson_count": 177,
           "path": "by_store/central/セントラルフィットネスクラブ24_二俣川.json"
         },
         {
           "store_id": "gamo",
           "store": "セントラルウェルネスクラブ 蒲生",
           "region": "近畿",
-          "lesson_count": 127,
+          "lesson_count": 129,
           "path": "by_store/central/セントラルウェルネスクラブ_蒲生.json"
         },
         {
@@ -2954,28 +2961,28 @@
           "store_id": "gs-motoyama",
           "store": "セントラルスポーツ ジムスタ24 本山",
           "region": "中部・北陸",
-          "lesson_count": 27,
+          "lesson_count": 29,
           "path": "by_store/central/セントラルスポーツ_ジムスタ24_本山.json"
         },
         {
           "store_id": "gs-musashishinjo",
           "store": "セントラルスポーツ ジムスタ24 武蔵新城",
           "region": "関東",
-          "lesson_count": 35,
+          "lesson_count": 19,
           "path": "by_store/central/セントラルスポーツ_ジムスタ24_武蔵新城.json"
         },
         {
           "store_id": "gs-saitamachuo",
           "store": "セントラルスポーツ ジムスタ さいたま中央(大宮）",
           "region": "関東",
-          "lesson_count": 105,
+          "lesson_count": 107,
           "path": "by_store/central/セントラルスポーツ_ジムスタ_さいたま中央(大宮）.json"
         },
         {
           "store_id": "gs-shinurayasu",
           "store": "セントラルスポーツ ジムスタ 新浦安",
           "region": "関東",
-          "lesson_count": 29,
+          "lesson_count": 28,
           "path": "by_store/central/セントラルスポーツ_ジムスタ_新浦安.json"
         },
         {
@@ -2996,7 +3003,7 @@
           "store_id": "hachioji",
           "store": "セントラルフィットネスクラブ 八王子",
           "region": "関東",
-          "lesson_count": 168,
+          "lesson_count": 165,
           "path": "by_store/central/セントラルフィットネスクラブ_八王子.json"
         },
         {
@@ -3017,7 +3024,7 @@
           "store_id": "higashine",
           "store": "セントラルフィットネスクラブ 東根",
           "region": "北海道・東北",
-          "lesson_count": 60,
+          "lesson_count": 61,
           "path": "by_store/central/セントラルフィットネスクラブ_東根.json"
         },
         {
@@ -3038,7 +3045,7 @@
           "store_id": "himeji-csp",
           "store": "セントラルスポーツプラザ24姫路",
           "region": "近畿",
-          "lesson_count": 119,
+          "lesson_count": 120,
           "path": "by_store/central/セントラルスポーツプラザ24姫路.json"
         },
         {
@@ -3059,21 +3066,21 @@
           "store_id": "hirosaki",
           "store": "セントラルフィットネスクラブ 弘前",
           "region": "北海道・東北",
-          "lesson_count": 72,
+          "lesson_count": 74,
           "path": "by_store/central/セントラルフィットネスクラブ_弘前.json"
         },
         {
           "store_id": "hitachi",
           "store": "セントラルフィットネスクラブ 日立",
           "region": "関東",
-          "lesson_count": 75,
+          "lesson_count": 78,
           "path": "by_store/central/セントラルフィットネスクラブ_日立.json"
         },
         {
           "store_id": "hongodai",
           "store": "セントラルスイムクラブ 本郷台",
           "region": "関東",
-          "lesson_count": 41,
+          "lesson_count": 40,
           "path": "by_store/central/セントラルスイムクラブ_本郷台.json"
         },
         {
@@ -3087,21 +3094,21 @@
           "store_id": "ichikawa",
           "store": "セントラルフィットネスクラブ 市川",
           "region": "関東",
-          "lesson_count": 117,
+          "lesson_count": 112,
           "path": "by_store/central/セントラルフィットネスクラブ_市川.json"
         },
         {
           "store_id": "inagekaigan",
           "store": "セントラルフィットネスクラブ 稲毛海岸",
           "region": "関東",
-          "lesson_count": 119,
+          "lesson_count": 118,
           "path": "by_store/central/セントラルフィットネスクラブ_稲毛海岸.json"
         },
         {
           "store_id": "issha",
           "store": "セントラルフィットネスクラブ24 一社",
           "region": "中部・北陸",
-          "lesson_count": 93,
+          "lesson_count": 95,
           "path": "by_store/central/セントラルフィットネスクラブ24_一社.json"
         },
         {
@@ -3122,28 +3129,28 @@
           "store_id": "jiyugaoka",
           "store": "セントラルフィットネスクラブ24自由が丘",
           "region": "関東",
-          "lesson_count": 171,
+          "lesson_count": 169,
           "path": "by_store/central/セントラルフィットネスクラブ24自由が丘.json"
         },
         {
           "store_id": "kameari",
           "store": "セントラルフィットネスクラブ 亀有",
           "region": "関東",
-          "lesson_count": 124,
+          "lesson_count": 125,
           "path": "by_store/central/セントラルフィットネスクラブ_亀有.json"
         },
         {
           "store_id": "kanazawa",
           "store": "セントラルフィットネスクラブ 金沢",
           "region": "中部・北陸",
-          "lesson_count": 118,
+          "lesson_count": 116,
           "path": "by_store/central/セントラルフィットネスクラブ_金沢.json"
         },
         {
           "store_id": "kashiwa",
           "store": "セントラルウェルネスクラブ24 柏",
           "region": "関東",
-          "lesson_count": 257,
+          "lesson_count": 256,
           "path": "by_store/central/セントラルウェルネスクラブ24_柏.json"
         },
         {
@@ -3164,7 +3171,7 @@
           "store_id": "kitamoto",
           "store": "セントラルウェルネスクラブ24 桶川北本",
           "region": "関東",
-          "lesson_count": 169,
+          "lesson_count": 129,
           "path": "by_store/central/セントラルウェルネスクラブ24_桶川北本.json"
         },
         {
@@ -3185,14 +3192,14 @@
           "store_id": "koshigaya_lt",
           "store": "セントラルフィットネスクラブ24 越谷レイクタウン",
           "region": "関東",
-          "lesson_count": 66,
+          "lesson_count": 64,
           "path": "by_store/central/セントラルフィットネスクラブ24_越谷レイクタウン.json"
         },
         {
           "store_id": "kotoni",
           "store": "セントラルウェルネスクラブ 琴似",
           "region": "北海道・東北",
-          "lesson_count": 151,
+          "lesson_count": 150,
           "path": "by_store/central/セントラルウェルネスクラブ_琴似.json"
         },
         {
@@ -3206,7 +3213,7 @@
           "store_id": "lavie-kamata",
           "store": "ラヴィセントラルフィットネスクラブ 蒲田",
           "region": "関東",
-          "lesson_count": 115,
+          "lesson_count": 110,
           "path": "by_store/central/ラヴィセントラルフィットネスクラブ_蒲田.json"
         },
         {
@@ -3220,7 +3227,7 @@
           "store_id": "matsumoto",
           "store": "セントラルフィットネスクラブ24 松本",
           "region": "中部・北陸",
-          "lesson_count": 76,
+          "lesson_count": 74,
           "path": "by_store/central/セントラルフィットネスクラブ24_松本.json"
         },
         {
@@ -3234,77 +3241,77 @@
           "store_id": "minamiaoyama",
           "store": "セントラルフィットネスクラブ24 南青山",
           "region": "関東",
-          "lesson_count": 148,
+          "lesson_count": 147,
           "path": "by_store/central/セントラルフィットネスクラブ24_南青山.json"
         },
         {
           "store_id": "minamikoizumi",
           "store": "セントラルウェルネスクラブ24 仙台南小泉",
           "region": "北海道・東北",
-          "lesson_count": 176,
+          "lesson_count": 177,
           "path": "by_store/central/セントラルウェルネスクラブ24_仙台南小泉.json"
         },
         {
           "store_id": "minamioizumi",
           "store": "セントラルウェルネスクラブ24 保谷",
           "region": "関東",
-          "lesson_count": 110,
+          "lesson_count": 112,
           "path": "by_store/central/セントラルウェルネスクラブ24_保谷.json"
         },
         {
           "store_id": "minamisenjyu",
           "store": "セントラルウェルネスクラブ24 南千住",
           "region": "関東",
-          "lesson_count": 180,
+          "lesson_count": 182,
           "path": "by_store/central/セントラルウェルネスクラブ24_南千住.json"
         },
         {
           "store_id": "minamiutsunomiya",
           "store": "セントラルスポーツクラブ 南宇都宮",
           "region": "関東",
-          "lesson_count": 73,
+          "lesson_count": 71,
           "path": "by_store/central/セントラルスポーツクラブ_南宇都宮.json"
         },
         {
           "store_id": "misato",
           "store": "セントラルフィットネスクラブ 24 新三郷",
           "region": "関東",
-          "lesson_count": 152,
+          "lesson_count": 140,
           "path": "by_store/central/セントラルフィットネスクラブ_24_新三郷.json"
         },
         {
           "store_id": "miyakojima",
           "store": "セントラルウェルネスクラブ 都島",
           "region": "近畿",
-          "lesson_count": 136,
+          "lesson_count": 135,
           "path": "by_store/central/セントラルウェルネスクラブ_都島.json"
         },
         {
           "store_id": "mizonokuchi",
           "store": "セントラルフィットネスクラブ24 溝ノ口",
           "region": "関東",
-          "lesson_count": 197,
+          "lesson_count": 196,
           "path": "by_store/central/セントラルフィットネスクラブ24_溝ノ口.json"
         },
         {
           "store_id": "morioka",
           "store": "セントラルフィットネスクラブ24 盛岡",
           "region": "北海道・東北",
-          "lesson_count": 120,
+          "lesson_count": 118,
           "path": "by_store/central/セントラルフィットネスクラブ24_盛岡.json"
         },
         {
           "store_id": "musashikosugi",
           "store": "セントラルフィットネスクラブ24 武蔵小杉",
           "region": "関東",
-          "lesson_count": 195,
+          "lesson_count": 161,
           "path": "by_store/central/セントラルフィットネスクラブ24_武蔵小杉.json"
         },
         {
           "store_id": "naganuma",
           "store": "セントラルウェルネスクラブ ワンズモール長沼",
           "region": "関東",
-          "lesson_count": 125,
+          "lesson_count": 124,
           "path": "by_store/central/セントラルウェルネスクラブ_ワンズモール長沼.json"
         },
         {
@@ -3318,7 +3325,7 @@
           "store_id": "natoriminamisendai",
           "store": "セントラルフィットネスクラブ24 名取南仙台",
           "region": "北海道・東北",
-          "lesson_count": 78,
+          "lesson_count": 77,
           "path": "by_store/central/セントラルフィットネスクラブ24_名取南仙台.json"
         },
         {
@@ -3360,7 +3367,7 @@
           "store_id": "oita-csp",
           "store": "セントラルスポーツプラザ24大分",
           "region": "九州・沖縄",
-          "lesson_count": 64,
+          "lesson_count": 70,
           "path": "by_store/central/セントラルスポーツプラザ24大分.json"
         },
         {
@@ -3374,28 +3381,28 @@
           "store_id": "ome",
           "store": "セントラルフィットネスクラブ24青梅",
           "region": "関東",
-          "lesson_count": 48,
+          "lesson_count": 52,
           "path": "by_store/central/セントラルフィットネスクラブ24青梅.json"
         },
         {
           "store_id": "omiyamiyahara",
           "store": "セントラルウェルネスクラブ 大宮宮原",
           "region": "関東",
-          "lesson_count": 179,
+          "lesson_count": 177,
           "path": "by_store/central/セントラルウェルネスクラブ_大宮宮原.json"
         },
         {
           "store_id": "omori",
           "store": "セントラルウェルネスクラブ24 大森",
           "region": "関東",
-          "lesson_count": 157,
+          "lesson_count": 160,
           "path": "by_store/central/セントラルウェルネスクラブ24_大森.json"
         },
         {
           "store_id": "ootakanomori",
           "store": "セントラルウェルネスクラブ おおたかの森",
           "region": "関東",
-          "lesson_count": 159,
+          "lesson_count": 163,
           "path": "by_store/central/セントラルウェルネスクラブ_おおたかの森.json"
         },
         {
@@ -3416,28 +3423,28 @@
           "store_id": "rokkomichi",
           "store": "セントラルウェルネスクラブ24 六甲道",
           "region": "近畿",
-          "lesson_count": 104,
+          "lesson_count": 105,
           "path": "by_store/central/セントラルウェルネスクラブ24_六甲道.json"
         },
         {
           "store_id": "ryokuentoshi",
           "store": "セントラルフィットネスクラブ24 緑園都市",
           "region": "関東",
-          "lesson_count": 176,
+          "lesson_count": 177,
           "path": "by_store/central/セントラルフィットネスクラブ24_緑園都市.json"
         },
         {
           "store_id": "sano",
           "store": "セントラルスポーツクラブ 佐野",
           "region": "関東",
-          "lesson_count": 52,
+          "lesson_count": 55,
           "path": "by_store/central/セントラルスポーツクラブ_佐野.json"
         },
         {
           "store_id": "sapporo",
           "store": "セントラルウェルネスクラブ24 札幌",
           "region": "北海道・東北",
-          "lesson_count": 166,
+          "lesson_count": 139,
           "path": "by_store/central/セントラルウェルネスクラブ24_札幌.json"
         },
         {
@@ -3451,28 +3458,28 @@
           "store_id": "sendai",
           "store": "セントラルフィットネスクラブ24 仙台",
           "region": "北海道・東北",
-          "lesson_count": 161,
+          "lesson_count": 160,
           "path": "by_store/central/セントラルフィットネスクラブ24_仙台.json"
         },
         {
           "store_id": "shiki",
           "store": "セントラルウェルネスクラブ 志木",
           "region": "関東",
-          "lesson_count": 130,
+          "lesson_count": 133,
           "path": "by_store/central/セントラルウェルネスクラブ_志木.json"
         },
         {
           "store_id": "shimokitazawa",
           "store": "セントラルフィットネスクラブ24 下北沢",
           "region": "関東",
-          "lesson_count": 122,
+          "lesson_count": 121,
           "path": "by_store/central/セントラルフィットネスクラブ24_下北沢.json"
         },
         {
           "store_id": "shinkawasaki",
           "store": "セントラルフィットネスクラブ 新川崎",
           "region": "関東",
-          "lesson_count": 94,
+          "lesson_count": 93,
           "path": "by_store/central/セントラルフィットネスクラブ_新川崎.json"
         },
         {
@@ -3493,21 +3500,21 @@
           "store_id": "shinurayasu",
           "store": "セントラルウェルネスクラブ 新浦安",
           "region": "関東",
-          "lesson_count": 148,
+          "lesson_count": 149,
           "path": "by_store/central/セントラルウェルネスクラブ_新浦安.json"
         },
         {
           "store_id": "shonanlt",
           "store": "セントラルフィットネスクラブ 湘南ライフタウン",
           "region": "関東",
-          "lesson_count": 105,
+          "lesson_count": 109,
           "path": "by_store/central/セントラルフィットネスクラブ_湘南ライフタウン.json"
         },
         {
           "store_id": "soga",
           "store": "セントラルフィットネスクラブ24 蘇我",
           "region": "関東",
-          "lesson_count": 96,
+          "lesson_count": 95,
           "path": "by_store/central/セントラルフィットネスクラブ24_蘇我.json"
         },
         {
@@ -3528,84 +3535,84 @@
           "store_id": "suminoe",
           "store": "セントラルウェルネスクラブ24 住ノ江",
           "region": "近畿",
-          "lesson_count": 112,
+          "lesson_count": 113,
           "path": "by_store/central/セントラルウェルネスクラブ24_住ノ江.json"
         },
         {
           "store_id": "takamatsu-csp",
           "store": "セントラルスポーツプラザ24高松",
           "region": "中国・四国",
-          "lesson_count": 110,
+          "lesson_count": 109,
           "path": "by_store/central/セントラルスポーツプラザ24高松.json"
         },
         {
           "store_id": "takasaki",
           "store": "セントラルウェルネスクラブ24 高崎",
           "region": "関東",
-          "lesson_count": 154,
+          "lesson_count": 156,
           "path": "by_store/central/セントラルウェルネスクラブ24_高崎.json"
         },
         {
           "store_id": "takenotsuka",
           "store": "セントラルフィットネスクラブ 竹の塚",
           "region": "関東",
-          "lesson_count": 76,
+          "lesson_count": 77,
           "path": "by_store/central/セントラルフィットネスクラブ_竹の塚.json"
         },
         {
           "store_id": "tateyama",
           "store": "セントラルフィットネスクラブ24 館山",
           "region": "関東",
-          "lesson_count": 65,
+          "lesson_count": 67,
           "path": "by_store/central/セントラルフィットネスクラブ24_館山.json"
         },
         {
           "store_id": "tennozu",
           "store": "セントラルフィットネスクラブ 天王洲",
           "region": "関東",
-          "lesson_count": 76,
+          "lesson_count": 74,
           "path": "by_store/central/セントラルフィットネスクラブ_天王洲.json"
         },
         {
           "store_id": "tokiwadai",
           "store": "セントラルウェルネスクラブ24 ときわ台",
           "region": "関東",
-          "lesson_count": 158,
+          "lesson_count": 157,
           "path": "by_store/central/セントラルウェルネスクラブ24_ときわ台.json"
         },
         {
           "store_id": "totsuka",
           "store": "セントラルスポーツクラブ 戸塚",
           "region": "関東",
-          "lesson_count": 73,
+          "lesson_count": 75,
           "path": "by_store/central/セントラルスポーツクラブ_戸塚.json"
         },
         {
           "store_id": "tsuchizaki",
           "store": "セントラルスポーツクラブ24 秋田土崎",
           "region": "北海道・東北",
-          "lesson_count": 72,
+          "lesson_count": 68,
           "path": "by_store/central/セントラルスポーツクラブ24_秋田土崎.json"
         },
         {
           "store_id": "tsukuda",
           "store": "セントラルフィットネスクラブ24月島・佃",
           "region": "関東",
-          "lesson_count": 58,
+          "lesson_count": 61,
           "path": "by_store/central/セントラルフィットネスクラブ24月島・佃.json"
         },
         {
           "store_id": "utsunomiya-f",
           "store": "セントラルフィットネスクラブ 宇都宮",
           "region": "関東",
-          "lesson_count": 185,
+          "lesson_count": 173,
           "path": "by_store/central/セントラルフィットネスクラブ_宇都宮.json"
         },
         {
           "store_id": "uzumasa",
           "store": "セントラルフィットネスクラブ24 太秦",
           "region": "近畿",
-          "lesson_count": 99,
+          "lesson_count": 100,
           "path": "by_store/central/セントラルフィットネスクラブ24_太秦.json"
         },
         {
@@ -3619,21 +3626,21 @@
           "store_id": "w_abiko",
           "store": "セントラルウェルネスクラブ 我孫子",
           "region": "関東",
-          "lesson_count": 184,
+          "lesson_count": 185,
           "path": "by_store/central/セントラルウェルネスクラブ_我孫子.json"
         },
         {
           "store_id": "w_amagasaki",
           "store": "セントラルウェルネスクラブ あまがさき",
           "region": "近畿",
-          "lesson_count": 173,
+          "lesson_count": 171,
           "path": "by_store/central/セントラルウェルネスクラブ_あまがさき.json"
         },
         {
           "store_id": "w_kamiikebukuro",
           "store": "セントラルウェルネスクラブ24 上池袋",
           "region": "関東",
-          "lesson_count": 210,
+          "lesson_count": 207,
           "path": "by_store/central/セントラルウェルネスクラブ24_上池袋.json"
         },
         {
@@ -3654,7 +3661,7 @@
           "store_id": "w_nishiarai",
           "store": "セントラルウェルネスクラブ24 西新井",
           "region": "関東",
-          "lesson_count": 182,
+          "lesson_count": 180,
           "path": "by_store/central/セントラルウェルネスクラブ24_西新井.json"
         },
         {
@@ -3668,28 +3675,28 @@
           "store_id": "w_ookurayama",
           "store": "セントラルウェルネスクラブ トレッサ（大倉山）",
           "region": "関東",
-          "lesson_count": 127,
+          "lesson_count": 125,
           "path": "by_store/central/セントラルウェルネスクラブ_トレッサ（大倉山）.json"
         },
         {
           "store_id": "yachiyodai",
           "store": "セントラルフィットネスクラブ 八千代台",
           "region": "関東",
-          "lesson_count": 104,
+          "lesson_count": 75,
           "path": "by_store/central/セントラルフィットネスクラブ_八千代台.json"
         },
         {
           "store_id": "yamahana",
           "store": "セントラルフィットネスクラブ 山鼻",
           "region": "北海道・東北",
-          "lesson_count": 149,
+          "lesson_count": 151,
           "path": "by_store/central/セントラルフィットネスクラブ_山鼻.json"
         },
         {
           "store_id": "yoga",
           "store": "セントラルフィットネスクラブ24 用賀",
           "region": "関東",
-          "lesson_count": 153,
+          "lesson_count": 154,
           "path": "by_store/central/セントラルフィットネスクラブ24_用賀.json"
         },
         {
@@ -3752,7 +3759,7 @@
           "store_id": "yokote",
           "store": "セントラルスポーツクラブ 横手",
           "region": "北海道・東北",
-          "lesson_count": 76,
+          "lesson_count": 75,
           "path": "by_store/central/セントラルスポーツクラブ_横手.json"
         }
       ]
@@ -15740,6 +15747,19 @@
       ]
     },
     {
+      "gym_id": "muni_worldplus_gym_com",
+      "gym": "秋田県能代市の24時間営業フィットネスジム",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "秋田県能代市の24時間営業フィットネスジム",
+          "region": "北海道・東北",
+          "lesson_count": 43,
+          "path": "by_store/muni_worldplus_gym_com/秋田県能代市の24時間営業フィットネスジム.json"
+        }
+      ]
+    },
+    {
       "gym_id": "terrsa_matsue",
       "gym": "テルサスポーツクラブ",
       "stores": [
@@ -17036,6 +17056,19 @@
           "region": "中部・北陸",
           "lesson_count": 7,
           "path": "by_store/muni_toyokawa_sports_net/豊川市スポーツ施設ガイド.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "muni_wakabayashi_spf_sendai_com",
+      "gym": "仙台市若林体育館",
+      "stores": [
+        {
+          "store_id": "main",
+          "store": "仙台市若林体育館",
+          "region": "北海道・東北",
+          "lesson_count": 7,
+          "path": "by_store/muni_wakabayashi_spf_sendai_com/仙台市若林体育館.json"
         }
       ]
     },

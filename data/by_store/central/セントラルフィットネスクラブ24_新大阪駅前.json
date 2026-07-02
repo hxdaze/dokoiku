@@ -569,13 +569,13 @@
     "day": "土",
     "start": "13:30",
     "end": "14:00",
-    "class_name": "ビューティプロジェクト/アームス&バックライン",
+    "class_name": "Down-Up Core",
     "category": "STRENGTH & CORE",
     "instructor": null,
     "studio": "第一スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "CSLive"
+    "note": null
   },
   {
     "gym_id": "central",
@@ -975,15 +975,15 @@
     "region": "近畿",
     "prefecture": "大阪府",
     "day": "水",
-    "start": "18:30",
-    "end": "19:00",
-    "class_name": "エアロサーキット",
-    "category": "STRENGTH & CORE",
-    "instructor": null,
+    "start": "18:25",
+    "end": "18:55",
+    "class_name": "ストレッチ",
+    "category": "STRETCH & RELAX",
+    "instructor": "間瀬",
     "studio": "第一スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "CSLive"
+    "note": null
   },
   {
     "gym_id": "central",
