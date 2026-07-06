@@ -14373,6 +14373,26 @@
       ]
     },
     {
+      "gym_id": "neighborhood_club",
+      "gym": "NEIGHBORHOOD CLUB",
+      "stores": [
+        {
+          "store_id": "kiyosumi",
+          "store": "NEIGHBORHOOD CLUB 清澄白河",
+          "region": "関東",
+          "lesson_count": 97,
+          "path": "by_store/neighborhood_club/NEIGHBORHOOD_CLUB_清澄白河.json"
+        },
+        {
+          "store_id": "kuramae",
+          "store": "NEIGHBORHOOD CLUB 蔵前",
+          "region": "関東",
+          "lesson_count": 96,
+          "path": "by_store/neighborhood_club/NEIGHBORHOOD_CLUB_蔵前.json"
+        }
+      ]
+    },
+    {
       "gym_id": "bfit_kansai",
       "gym": "B-fit スポーツクラブ",
       "stores": [
@@ -15112,26 +15132,6 @@
           "region": "中部・北陸",
           "lesson_count": 74,
           "path": "by_store/certeza/CERTEZA_Fitness_Gym山梨.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "neighborhood_club",
-      "gym": "NEIGHBORHOOD CLUB",
-      "stores": [
-        {
-          "store_id": "kiyosumi",
-          "store": "NEIGHBORHOOD CLUB 清澄白河",
-          "region": "関東",
-          "lesson_count": 17,
-          "path": "by_store/neighborhood_club/NEIGHBORHOOD_CLUB_清澄白河.json"
-        },
-        {
-          "store_id": "kuramae",
-          "store": "NEIGHBORHOOD CLUB 蔵前",
-          "region": "関東",
-          "lesson_count": 57,
-          "path": "by_store/neighborhood_club/NEIGHBORHOOD_CLUB_蔵前.json"
         }
       ]
     },
