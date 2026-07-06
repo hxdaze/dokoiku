@@ -90,15 +90,18 @@ function syncUrl() {
   try { history.replaceState(null, "", url); } catch (_e) {}
 }
 
-// サイトタイトル(ロゴ)クリック時は保存済みフィルタを消してから ./ へ遷移する。
-// localStorage の状態復元で直前のビュー(レッスン詳細など)に戻るのを防ぎ、
-// 常に初期状態のトップページを表示する。
+// サイトタイトル(ロゴ)クリック時は保存済みフィルタを消し、クエリなしのトップへ遷移する。
+// href="./" だとクエリ(view=lesson 等)が残り readUrlParams() で復元されることがあるため、
+// preventDefault 後に location.replace で必ずクエリを落とす。
+function goHome(e) {
+  e.preventDefault();
+  try { localStorage.removeItem(STATE_KEY); } catch (_e) {}
+  location.replace(location.origin + siteBase());
+}
 function bindBrandReset() {
   const brand = document.querySelector(".brand-mark");
   if (!brand) return;
-  brand.addEventListener("click", () => {
-    try { localStorage.removeItem(STATE_KEY); } catch (_e) {}
-  });
+  brand.addEventListener("click", goHome);
 }
 
 function siteOriginUrl() {
