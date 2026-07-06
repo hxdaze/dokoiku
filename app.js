@@ -90,6 +90,17 @@ function syncUrl() {
   try { history.replaceState(null, "", url); } catch (_e) {}
 }
 
+// サイトタイトル(ロゴ)クリック時は保存済みフィルタを消してから ./ へ遷移する。
+// localStorage の状態復元で直前のビュー(レッスン詳細など)に戻るのを防ぎ、
+// 常に初期状態のトップページを表示する。
+function bindBrandReset() {
+  const brand = document.querySelector(".brand-mark");
+  if (!brand) return;
+  brand.addEventListener("click", () => {
+    try { localStorage.removeItem(STATE_KEY); } catch (_e) {}
+  });
+}
+
 function siteOriginUrl() {
   const origin = location.origin || "";
   return origin + siteBase();
@@ -1800,6 +1811,7 @@ function bind() {
 
 async function main() {
   initTheme();
+  bindBrandReset();
   loadState();
   readUrlParams();   // URLのディープリンクは保存状態より優先
   // エリアと都道府県は排他(両方指定なら都道府県を優先)。
