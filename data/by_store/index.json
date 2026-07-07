@@ -18,8 +18,8 @@
     "note",
     "instructor_id"
   ],
-  "gym_count": 269,
-  "store_count": 2251,
+  "gym_count": 270,
+  "store_count": 2252,
   "gyms": [
     {
       "gym_id": "lava",
@@ -16744,6 +16744,19 @@
           "region": "関東",
           "lesson_count": 12,
           "path": "by_store/arakawa/荒川総合スポーツセンター.json"
+        }
+      ]
+    },
+    {
+      "gym_id": "dancewave_tokyo",
+      "gym": "ダンスウェーブ東京",
+      "stores": [
+        {
+          "store_id": "nishinippori",
+          "store": "ダンスウェーブ東京",
+          "region": "関東",
+          "lesson_count": 12,
+          "path": "by_store/dancewave_tokyo/ダンスウェーブ東京.json"
         }
       ]
     },
