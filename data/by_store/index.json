@@ -16319,6 +16319,19 @@
       ]
     },
     {
+      "gym_id": "dancewave_tokyo",
+      "gym": "ダンスウェーブ東京",
+      "stores": [
+        {
+          "store_id": "nishinippori",
+          "store": "ダンスウェーブ東京",
+          "region": "関東",
+          "lesson_count": 24,
+          "path": "by_store/dancewave_tokyo/ダンスウェーブ東京.json"
+        }
+      ]
+    },
+    {
       "gym_id": "morioka_yupiasu",
       "gym": "盛岡市ゆぴあす",
       "stores": [
@@ -16744,19 +16757,6 @@
           "region": "関東",
           "lesson_count": 12,
           "path": "by_store/arakawa/荒川総合スポーツセンター.json"
-        }
-      ]
-    },
-    {
-      "gym_id": "dancewave_tokyo",
-      "gym": "ダンスウェーブ東京",
-      "stores": [
-        {
-          "store_id": "nishinippori",
-          "store": "ダンスウェーブ東京",
-          "region": "関東",
-          "lesson_count": 12,
-          "path": "by_store/dancewave_tokyo/ダンスウェーブ東京.json"
         }
       ]
     },
