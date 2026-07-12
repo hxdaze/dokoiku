@@ -1190,6 +1190,17 @@ function refreshViewRender() {
   if (state.view === "lesson") { update(); return; }
   // レッスン未ロードのまま副次フィルタだけクリアした場合の空表示を防ぐ。
   if (!LESSONS.length) { update(); return; }
+  if (state.view === "store" && state.store_id) {
+    const st = resolveStoreFromState();
+    const rows = GQ.sortDefault(GQ.filterLessons(LESSONS, storeScheduleParams()));
+    rows.forEach((r) => LESSON_BY_FK.set(favKey(r), r));
+    $("#summary").innerHTML =
+      `<span>店舗レッスン <b>${rows.length.toLocaleString()}</b> 件</span>` +
+      `<span class="muted">全ジャンル・週間スケジュール</span>`;
+    renderStoreSchedulePage(st, rows);
+    renderMatchedEvents();
+    return;
+  }
   const data = GQ.buildView(LESSONS, state.view, params());
   lastData = data;
   sortState.col = null;
@@ -1305,22 +1316,45 @@ function storeIcons(r) {
   return out.length ? ` <span class="store-icos">${out.join("")}</span>` : "";
 }
 
+function storeRecord(st) {
+  if (!st) return null;
+  const key = st.gym_id + "|" + st.store_id;
+  const info = STORE_INFO.get(key) || {};
+  return {
+    ...st,
+    store: st.store,
+    gym_id: st.gym_id,
+    store_id: st.store_id,
+    gym: GYM_LABEL.get(st.gym_id) || st.gym || st.gym_id,
+    region: st.region,
+    prefecture: st.prefecture,
+    url: STORE_URL.get(key) || null,
+    lat: info.lat,
+    lon: info.lon,
+    phone: info.phone,
+    phone_fmt: info.phone_fmt,
+    address: st.address || info.address,
+    reservation_url: info.reservation_url || null,
+  };
+}
+
+function storeScheduleLink(r, extraClass) {
+  const label = GQ.storeLabel(r);
+  const fk = favKey(r);
+  LESSON_BY_FK.set(fk, r);
+  const cls = "store-link store-schedule-link" + (extraClass ? " " + extraClass : "");
+  return `<a href="#" class="${cls}" data-store-fk="${escapeAttr(fk)}" `
+    + `title="この店舗の週間スケジュールを見る">${escapeHtml(label)}</a>`;
+}
+
 function storeLink(r) {
   const store = (r.store || "").trim();
   if (!store) return "";
-  const label = GQ.storeLabel(r);
-  const text = r.url
-    ? `<a href="${escapeAttr(r.url)}" target="_blank" rel="noopener" class="store-link">${escapeHtml(label)}</a>`
-    : escapeHtml(label);
-  return text + storeIcons(r);
+  return storeScheduleLink(r) + storeIcons(r);
 }
 
 function storeGroupHead(r) {
-  const label = GQ.storeLabel(r);
-  const inner = r.url
-    ? `<a class="store-link store-head-link" href="${escapeAttr(r.url)}" target="_blank" rel="noopener">${escapeHtml(label)}</a>`
-    : escapeHtml(label);
-  return inner + storeIcons(r);
+  return storeScheduleLink(r, "store-head-link") + storeIcons(r);
 }
 
 function noteText(r) {
@@ -1451,6 +1485,182 @@ const opts_for = (v) => ({
   showCategory: v !== "category",
 });
 
+// ---- 店舗週間スケジュール(全ジャンル・タイムライン) ----
+const CAL_PX_PER_MIN = 1.4;
+const CAL_DEFAULT_DUR = 45;
+const CAL_LONG_MIN = 5 * 60;
+
+function storeScheduleParams() {
+  return {
+    region: state.region,
+    prefecture: state.prefecture,
+    gym: state.gym,
+    store_id: state.store_id,
+    day: "",
+    category: "",
+    instructor: "",
+    q: state.q || "",
+  };
+}
+
+function calEndMin(r) {
+  const e = GQ.startMin(r.end);
+  const s = GQ.startMin(r.start);
+  if (e < 24 * 60 + 1 && e > s) return e;
+  if (s < 24 * 60 + 1) return s + CAL_DEFAULT_DUR;
+  return 24 * 60 + 1;
+}
+
+function assignCalLanes(items) {
+  items.sort((a, b) => (a._s - b._s) || (a._e - b._e));
+  const laneEnds = [];
+  for (const it of items) {
+    let placed = false;
+    for (let i = 0; i < laneEnds.length; i++) {
+      if (it._s >= laneEnds[i]) { it._lane = i; laneEnds[i] = it._e; placed = true; break; }
+    }
+    if (!placed) { it._lane = laneEnds.length; laneEnds.push(it._e); }
+  }
+  for (const it of items) it._lanes = laneEnds.length || 1;
+}
+
+function storeClassChip(r) {
+  const tags = [];
+  if (r.genre === "有料") tags.push('<span class="tag-pay">有料</span>');
+  if (r.reservation_required) tags.push('<span class="tag-res">要予約</span>');
+  const instr = r.instructor ? `<span class="chip-instr">${escapeHtml(r.instructor)}</span>` : "";
+  const cat = r.category ? `<span class="cat">${escapeHtml(r.category)}</span>` : "";
+  const studio = r.studio ? `<span class="chip-studio">${escapeHtml(r.studio)}</span>` : "";
+  return (
+    `<div class="cell-class">` +
+    `<div class="cell-time">${escapeHtml(GQ.fmtTime(r))}</div>` +
+    `<div class="cell-name">${lessonClassLink(r)} ${tags.join(" ")}</div>` +
+    `<div class="cell-sub">${instr} ${cat} ${studio}</div>` +
+    `</div>`
+  );
+}
+
+function calBlockHtml(r, topPx, hPx) {
+  const tags = [];
+  if (r.genre === "有料") tags.push('<span class="tag-pay">有料</span>');
+  if (r.reservation_required) tags.push('<span class="tag-res">要予約</span>');
+  const w = 100 / (r._lanes || 1);
+  const left = (r._lane || 0) * w;
+  const compact = hPx < 40 ? " compact" : "";
+  const cat = r.category ? `<span class="b-cat">${escapeHtml(r.category)}</span>` : "";
+  return (
+    `<div class="cal-block${compact}" style="top:${topPx}px;height:${Math.max(hPx - 2, 16)}px;left:${left}%;width:calc(${w}% - 3px);">` +
+    `<div class="b-time">${escapeHtml(GQ.fmtTime(r))}` +
+    `${r.studio ? `<span class="b-studio">${escapeHtml(r.studio)}</span>` : ""}</div>` +
+    `<div class="b-name">${lessonClassLink(r)} ${tags.join(" ")}</div>` +
+    `<div class="b-instr">${escapeHtml(r.instructor || "")} ${cat}</div>` +
+    `</div>`
+  );
+}
+
+function renderStoreScheduleCalendar(rows) {
+  const days = GQ.WEEK;
+  rows.forEach((r) => LESSON_BY_FK.set(favKey(r), r));
+  if (!rows.length) {
+    return '<div class="empty">この店舗のレッスンはまだありません。フィルタを調整するか、別の店舗を選んでください。</div>';
+  }
+
+  const timed = [];
+  const undated = [];
+  const longSpan = [];
+  for (const r of rows) {
+    const s = GQ.startMin(r.start);
+    if (s >= 24 * 60 + 1) { undated.push(r); continue; }
+    const e = calEndMin(r);
+    if (e - s >= CAL_LONG_MIN) { longSpan.push(r); continue; }
+    timed.push({ ...r, _s: s, _e: e });
+  }
+
+  let html = "";
+  if (timed.length) {
+    let minS = Math.min(...timed.map((i) => i._s));
+    let maxE = Math.max(...timed.map((i) => i._e));
+    minS = Math.floor(minS / 60) * 60;
+    maxE = Math.ceil(maxE / 60) * 60;
+    const totalH = (maxE - minS) * CAL_PX_PER_MIN;
+    const hourPx = 60 * CAL_PX_PER_MIN;
+    const byDay = {};
+    for (const it of timed) (byDay[it.day || "?"] = byDay[it.day || "?"] || []).push(it);
+    for (const d of Object.keys(byDay)) assignCalLanes(byDay[d]);
+
+    let axis = "";
+    for (let m = minS; m <= maxE; m += 60) {
+      axis += `<div class="cal-hour" style="top:${(m - minS) * CAL_PX_PER_MIN}px;">`
+        + `${String(Math.floor(m / 60)).padStart(2, "0")}:00</div>`;
+    }
+    let cols = "";
+    for (const d of days) {
+      const blocks = (byDay[d] || [])
+        .map((r) => calBlockHtml(r, (r._s - minS) * CAL_PX_PER_MIN, (r._e - r._s) * CAL_PX_PER_MIN))
+        .join("");
+      cols += `<div class="cal-col" style="height:${totalH}px;background-size:100% ${hourPx}px;">${blocks}</div>`;
+    }
+    html +=
+      `<div class="cal-tl" style="grid-template-columns:56px repeat(${days.length},minmax(110px,1fr));">` +
+      `<div class="cal-corner"></div>` +
+      days.map((d) => `<div class="cal-dayhead">${escapeHtml(d)}</div>`).join("") +
+      `<div class="cal-axis" style="height:${totalH}px;">${axis}</div>` +
+      cols +
+      `</div>`;
+  }
+
+  if (undated.length) {
+    html += `<section class="group"><h2>時刻未定 <span class="cnt">${undated.length}件</span></h2>`
+      + `<div class="undated">${undated.map(storeClassChip).join("")}</div></section>`;
+  }
+  if (longSpan.length) {
+    const body = longSpan.map((r) => {
+      const studio = r.studio ? ` <span class="chip-studio">${escapeHtml(r.studio)}</span>` : "";
+      return `<tr><td class="day">${escapeHtml(r.day || "")}</td>`
+        + `<td class="time">${escapeHtml(GQ.fmtTime(r))}</td>`
+        + `<td class="cls">${lessonClassLink(r)}${studio}</td>`
+        + `<td>${escapeHtml(r.instructor || "")}</td>`
+        + `<td>${escapeHtml(noteText(r))}</td></tr>`;
+    }).join("");
+    html += `<section class="group"><h2>長時間枠 <span class="cnt">${longSpan.length}件</span>`
+      + ` <span class="muted" style="font-weight:400;font-size:12px;">（5時間以上はカレンダー外）</span></h2>`
+      + `<table><thead><tr><th>曜日</th><th>時間</th><th>内容</th><th>先生</th><th>備考</th></tr></thead>`
+      + `<tbody>${body}</tbody></table></section>`;
+  }
+  if (!html) {
+    return '<div class="empty">表示できるスケジュールがありません。</div>';
+  }
+  return html;
+}
+
+function renderStoreScheduleHead(st, rows) {
+  if (!st) return "";
+  const r = storeRecord(st);
+  const subBtn = DAIKO.find((d) => d.gym_id === st.gym_id && String(d.store_id) === String(st.store_id));
+  const subUrl = subBtn && subBtn.url;
+  const subLink = subUrl
+    ? `<a class="btn" href="${escapeAttr(subUrl)}" target="_blank" rel="noopener">↗ 代行・休講情報</a>`
+    : "";
+  const addr = r.address ? `<div class="store-addr">${escapeHtml(r.address)}</div>` : "";
+  return (
+    `<div class="store-head-box">` +
+    `<div class="store-head-main">` +
+    `<h2>${escapeHtml(st.store || "")} ${storeIcons(r)}</h2>` +
+    `<div class="muted">${escapeHtml(r.gym || "")}・${escapeHtml(st.region || "")}`
+    + `　レッスン ${rows.length.toLocaleString()}件（全ジャンル）</div>` +
+    addr +
+    `</div>` +
+    `<div class="store-head-actions">${subLink}</div>` +
+    `</div>`
+  );
+}
+
+function renderStoreSchedulePage(st, rows) {
+  $("#main").innerHTML =
+    `<div id="store-mode"><div id="store-head">${renderStoreScheduleHead(st, rows)}</div>`
+    + `<main id="store-main">${renderStoreScheduleCalendar(rows)}</main></div>`;
+}
+
 function renderGroups(data) {
   if (!data.groups.length) {
     if (!LESSONS.length) { renderChooseScope(); return; }
@@ -1475,7 +1685,7 @@ function renderGroups(data) {
       : `<span class="cnt">${g.count.toLocaleString()}件</span>`;
     const gicon = state.view === "category"
       ? `<span class="cat-ico">${catIcon(g.key)}</span> ` : "";
-    // 店舗別表示では見出し(店舗名)をHPリンク化し、地図/電話/HPアイコンを付与。
+    // 店舗別表示では見出し(店舗名)を週間スケジュールへ。公式HPはアイコンのみ。
     const headTitle = (state.view === "store" && g.rows.length)
       ? storeGroupHead(g.rows[0]) : `${escapeHtml(g.key)}`;
     const headIcons = "";
@@ -1526,19 +1736,31 @@ function haversineKm(lat1, lon1, lat2, lon2) {
 }
 
 // マーカーのポップアップから「この店舗のレッスンを見る」操作。
-function gotoStore(s) {
+function gotoStoreSchedule(src) {
+  if (!src) return;
   state.view = "store";
+  state.lesson_fk = "";
   state.region = "";
-  state.prefecture = s.prefecture || "";
-  state.gym = s.gym_id || "";
-  state.store_id = String(s.store_id || "");
+  state.prefecture = src.prefecture || "";
+  state.gym = src.gym_id || "";
+  state.store_id = String(src.store_id ?? "");
+  state.category = "";
+  state.day = "";
+  state.instructor = "";
   setActiveTab("store");
   const set = (sel, v) => { const el = $(sel); if (el) el.value = v; };
-  set("#f-region", ""); set("#f-prefecture", state.prefecture);
+  set("#f-region", "");
+  set("#f-prefecture", state.prefecture);
   set("#f-gym", state.gym);
-  refreshStoreOptions(); set("#f-store", state.store_id);
+  set("#f-category", "");
+  set("#f-day", "");
+  set("#f-instructor", "");
+  refreshStoreOptions();
+  set("#f-store", state.store_id);
+  saveState();
   update();
 }
+function gotoStore(s) { gotoStoreSchedule(s); }
 
 async function renderMap() {
   const list = storesForMap();
@@ -1759,24 +1981,18 @@ function bind() {
       gotoLesson(ll.dataset.fk, r);
       return;
     }
+    const sl = e.target.closest("a.store-schedule-link");
+    if (sl) {
+      e.preventDefault();
+      const r = LESSON_BY_FK.get(sl.dataset.storeFk);
+      if (r) gotoStoreSchedule(r);
+      return;
+    }
     const back = e.target.closest(".lesson-back-btn");
     if (back) {
       e.preventDefault();
       const r = LESSON_BY_FK.get(back.dataset.storeFk);
-      if (r) {
-        state.view = "store";
-        state.lesson_fk = "";
-        state.prefecture = r.prefecture || state.prefecture;
-        state.gym = r.gym_id || state.gym;
-        state.store_id = String(r.store_id || "");
-        setActiveTab("store");
-        const set = (sel, v) => { const el = $(sel); if (el) el.value = v; };
-        set("#f-prefecture", state.prefecture);
-        set("#f-gym", state.gym);
-        refreshStoreOptions();
-        set("#f-store", state.store_id);
-        update();
-      }
+      if (r) gotoStoreSchedule(r);
       return;
     }
     // お気に入り(★)トグル
