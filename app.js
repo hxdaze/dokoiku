@@ -1273,8 +1273,15 @@ async function renderLessonDetail() {
   $("#summary").innerHTML =
     `<span>${escapeHtml(r.class_name || "クラス")}</span>` +
     `<span class="muted">ビュー: ${viewLabel("lesson")}</span>`;
+  const backBtn = (extra) =>
+    `<button type="button" class="btn lesson-back-btn${extra ? " " + extra : ""}" `
+    + `data-gym-id="${escapeAttr(r.gym_id || "")}" `
+    + `data-store-id="${escapeAttr(String(r.store_id ?? ""))}" `
+    + `data-pref="${escapeAttr(r.prefecture || "")}">`
+    + `📅 ${escapeHtml((r.store || "店舗").trim())} の週間スケジュールへ</button>`;
   $("#main").innerHTML =
     `<section class="lesson-detail">` +
+    `<div class="lesson-back-bar">${backBtn("lesson-back-top")}</div>` +
     `<div class="lesson-detail-head">` +
     `<h2>${catIcon(r.category)} ${escapeHtml(r.class_name || "")} ${tags.join(" ")}</h2>` +
     `<div class="lesson-detail-meta">` +
@@ -1293,14 +1300,11 @@ async function renderLessonDetail() {
     `<button type="button" class="btn copy-detail-btn" data-fk="${escapeAttr(fk)}">📋 コピー用情報をコピー</button> ` +
     `${favStar(r)} ` +
     `${gcalIcon(r)}` +
-    `<button type="button" class="btn lesson-back-btn" `
-    + `data-gym-id="${escapeAttr(r.gym_id || "")}" `
-    + `data-store-id="${escapeAttr(String(r.store_id ?? ""))}" `
-    + `data-pref="${escapeAttr(r.prefecture || "")}">店舗の週間スケジュールへ</button>` +
     `</div>` +
     `<div class="lesson-detail-links">${links.join(" · ")}</div>` +
     `<details class="lesson-copy-box"><summary>コピー用テキスト（プレビュー）</summary>` +
     `<pre class="lesson-copy-pre">${copyText}</pre></details>` +
+    `<div class="lesson-back-bar bottom">${backBtn("lesson-back-top")}</div>` +
     `</section>`;
 }
 
