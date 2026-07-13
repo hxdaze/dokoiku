@@ -74,7 +74,7 @@ function filterLessons(lessons, p) {
     if (p.gym && r.gym_id !== p.gym) return false;
     if (p.day && r.day !== p.day) return false;
     if (p.category && !matchCategory(r, p.category)) return false;
-    if (p.store_id && r.store_id !== p.store_id) return false;
+    if (p.store_id && String(r.store_id) !== String(p.store_id)) return false;
     if (p.instructor && (r.instructor || "") !== p.instructor) return false;
     if (q) {
       const hay = norm([
