@@ -124,6 +124,7 @@ function group(rows, keyfn, order, sortfn) {
 }
 
 function storeLabel(r) {
+  if (!r) return "(店舗不明)";
   // 店舗名にジム名が含まれなければ「店舗名（ジム名）」で併記
   const store = (r.store || "").trim() || "(店舗不明)";
   const gym = (r.gym || "").trim();
@@ -172,7 +173,7 @@ function listInstructors(lessons, params) {
     .map(([name, count]) => ({ name, count }));
 }
 
-const GQ_API = { WEEK, setOrders, filterLessons, buildView, listInstructors,
+const GQ_API = { WEEK, setOrders, filterLessons, sortDefault, buildView, listInstructors,
   fmtTime, durationMin, fmtDuration, startMin, dayKey, storeLabel };
 if (typeof window !== "undefined") window.GQ = GQ_API;
 if (typeof module !== "undefined" && module.exports) module.exports = GQ_API;

@@ -1192,8 +1192,15 @@ function refreshViewRender() {
   // レッスン未ロードのまま副次フィルタだけクリアした場合の空表示を防ぐ。
   if (!LESSONS.length) { update(); return; }
   if (state.view === "store" && state.store_id) {
-    const st = resolveStoreFromState();
+    let st = resolveStoreFromState();
     const rows = GQ.sortDefault(GQ.filterLessons(LESSONS, storeScheduleParams()));
+    if (!st && rows.length) {
+      const r0 = rows[0];
+      st = {
+        gym_id: r0.gym_id, store_id: r0.store_id, store: r0.store,
+        region: r0.region, prefecture: r0.prefecture, address: r0.address,
+      };
+    }
     rows.forEach((r) => LESSON_BY_FK.set(favKey(r), r));
     $("#summary").innerHTML =
       `<span>店舗レッスン <b>${rows.length.toLocaleString()}</b> 件</span>` +
@@ -1343,6 +1350,7 @@ function storeRecord(st) {
 }
 
 function storeScheduleLink(r, extraClass) {
+  if (!r) return "";
   const label = GQ.storeLabel(r);
   const cls = "store-link store-schedule-link" + (extraClass ? " " + extraClass : "");
   return `<a href="#" class="${cls}" `
@@ -1684,7 +1692,7 @@ function renderStoreScheduleCalendar(rows) {
 
 function renderStoreScheduleHead(st, rows) {
   if (!st) return "";
-  const r = storeRecord(st);
+  const r = storeRecord(st) || st;
   const subBtn = DAIKO.find((d) => d.gym_id === st.gym_id && String(d.store_id) === String(st.store_id));
   const subUrl = subBtn && subBtn.url;
   const subLink = subUrl
