@@ -1281,7 +1281,6 @@ async function renderLessonDetail() {
     + `📅 ${escapeHtml((r.store || "店舗").trim())} の週間スケジュールへ</button>`;
   $("#main").innerHTML =
     `<section class="lesson-detail">` +
-    `<div class="lesson-back-bar">${backBtn("lesson-back-top")}</div>` +
     `<div class="lesson-detail-head">` +
     `<h2>${catIcon(r.category)} ${escapeHtml(r.class_name || "")} ${tags.join(" ")}</h2>` +
     `<div class="lesson-detail-meta">` +
