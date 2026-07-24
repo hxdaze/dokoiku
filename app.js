@@ -1936,18 +1936,36 @@ function renderSubstitution() {
     const q = state.q.normalize("NFKC").toUpperCase();
     rows = rows.filter((s) => (s.store || "").normalize("NFKC").toUpperCase().includes(q));
   }
-  $("#summary").innerHTML = `<span>代行情報 <b>${rows.length.toLocaleString()}</b> 店舗</span><span class="muted">ビュー: 代行情報</span>`;
-  if (!rows.length) { $("#main").innerHTML = '<div class="empty">該当する代行情報リンクがありません。</div>'; return; }
+  const withBody = rows.filter((s) => (s.records || []).length);
+  $("#summary").innerHTML =
+    `<span>代行情報 <b>${rows.length.toLocaleString()}</b> 店舗</span>` +
+    (withBody.length ? `<span class="muted">（本文掲載 ${withBody.length} 店舗）</span>` : "") +
+    `<span class="muted">ビュー: 代行情報</span>`;
+  if (!rows.length) { $("#main").innerHTML = '<div class="empty">該当する代行情報がありません。</div>'; return; }
   const byRegion = new Map();
   for (const s of rows) { if (!byRegion.has(s.region)) byRegion.set(s.region, []); byRegion.get(s.region).push(s); }
   const order = META.regions;
   const keys = [...byRegion.keys()].sort((a, b) => order.indexOf(a) - order.indexOf(b));
   $("#main").innerHTML =
-    '<div class="note">各店舗の代行・休講・変更のお知らせページへのリンクです。</div>' +
+    '<div class="note">代行・休講・変更のお知らせです。本文が無い店舗は公式ページへのリンクを表示します。</div>' +
     keys.map((k) => {
       const items = byRegion.get(k).sort((a, b) => (a.gym || "").localeCompare(b.gym || "", "ja"))
-        .map((s) => `<tr><td>${escapeHtml(s.store || "")}</td><td class="muted">${escapeHtml(s.gym || "")}</td><td><a href="${escapeAttr(s.url)}" target="_blank" rel="noopener">代行情報ページ ↗</a></td></tr>`).join("");
-      return `<section class="group"><h2>${escapeHtml(k)} <span class="cnt">${byRegion.get(k).length}店舗</span></h2><table><thead><tr><th>店舗</th><th>ジム</th><th>代行情報</th></tr></thead><tbody>${items}</tbody></table></section>`;
+        .map((s) => {
+          const recs = s.records || [];
+          const body = recs.length
+            ? `<ul class="daiko-records">${recs.map((r) =>
+                `<li><span class="daiko-kind">${escapeHtml(r.kind || "案内")}</span> ` +
+                `<span class="daiko-date">${escapeHtml(r.updated_raw || r.updated_date || "")}</span> ` +
+                `${escapeHtml(r.title || "")}</li>`).join("")}</ul>`
+            : "";
+          const link = s.url
+            ? `<a href="${escapeAttr(s.url)}" target="_blank" rel="noopener">公式ページ ↗</a>`
+            : "";
+          return `<tr><td>${escapeHtml(s.store || "")}</td><td class="muted">${escapeHtml(s.gym || "")}</td>` +
+            `<td>${body || link}</td><td>${body ? link : ""}</td></tr>`;
+        }).join("");
+      return `<section class="group"><h2>${escapeHtml(k)} <span class="cnt">${byRegion.get(k).length}店舗</span></h2>` +
+        `<table><thead><tr><th>店舗</th><th>ジム</th><th>代行情報</th><th>リンク</th></tr></thead><tbody>${items}</tbody></table></section>`;
     }).join("");
 }
 
