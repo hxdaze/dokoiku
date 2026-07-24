@@ -14,7 +14,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -31,7 +32,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -48,7 +50,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -65,7 +68,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i17924"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -82,7 +86,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -99,7 +104,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17925"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -116,7 +122,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -133,7 +140,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -150,7 +158,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17927"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -167,7 +176,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -184,7 +194,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -201,7 +212,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17924"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -218,7 +230,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -235,7 +248,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17930"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -252,7 +266,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -269,7 +284,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -286,7 +302,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -303,7 +320,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17931"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -320,7 +338,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -337,7 +356,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -354,7 +374,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -371,7 +392,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17933"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -388,7 +410,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17934"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -405,7 +428,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17934"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -422,7 +446,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17934"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -439,7 +464,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "年少～"
+    "note": "年少～",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -456,7 +482,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "中高生・大学生"
+    "note": "中高生・大学生",
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -473,7 +500,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "高学年"
+    "note": "高学年",
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -490,7 +518,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -507,7 +536,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -524,7 +554,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -541,7 +572,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17936"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -558,7 +590,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17936"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -575,7 +608,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17937"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -592,7 +626,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "※25m泳げる方"
+    "note": "※25m泳げる方",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -609,7 +644,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "中高生・大学生"
+    "note": "中高生・大学生",
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -626,7 +662,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "高学年"
+    "note": "高学年",
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -643,7 +680,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -660,7 +698,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -677,7 +716,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -694,7 +734,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17936"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -711,7 +752,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17936"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -728,7 +770,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17937"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -745,7 +788,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "※25m泳げる方"
+    "note": "※25m泳げる方",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -762,7 +806,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "中高生・大学生"
+    "note": "中高生・大学生",
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -779,7 +824,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "高学年"
+    "note": "高学年",
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -796,7 +842,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -813,7 +860,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -830,7 +878,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -847,7 +896,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17936"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -864,7 +914,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17936"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -881,7 +932,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17937"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -898,7 +950,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "※25m泳げる方"
+    "note": "※25m泳げる方",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -915,7 +968,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "中高生・大学生"
+    "note": "中高生・大学生",
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -932,7 +986,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": "高学年"
+    "note": "高学年",
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -983,7 +1040,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1000,7 +1058,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17936"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1017,7 +1076,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17936"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17937"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1051,7 +1112,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "※25m泳げる方"
+    "note": "※25m泳げる方",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17939"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1187,7 +1256,8 @@
     "studio": "館",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1204,7 +1274,8 @@
     "studio": "館",
     "reservation_required": true,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1238,7 +1310,8 @@
     "studio": "館",
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1255,7 +1328,8 @@
     "studio": "館",
     "reservation_required": true,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1289,7 +1364,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ2",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17940"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1357,7 +1436,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "整理券"
+    "note": "整理券",
+    "instructor_id": "i17941"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1442,7 +1526,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "バレエ",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i17924"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1493,7 +1580,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1595,7 +1688,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1612,7 +1706,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1629,7 +1724,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1646,7 +1742,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17943"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1663,7 +1760,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1680,7 +1778,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17944"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1697,7 +1796,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1714,7 +1814,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1731,7 +1832,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1748,7 +1850,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1765,7 +1868,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17945"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1782,7 +1886,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1799,7 +1904,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "上半身"
+    "note": "上半身",
+    "instructor_id": "i17946"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1816,7 +1922,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17943"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1833,7 +1940,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1850,7 +1958,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17944"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1867,7 +1976,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i17947"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1884,7 +1994,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i17947"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1901,7 +2012,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17944"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1918,7 +2030,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17948"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1935,7 +2048,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17944"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1952,7 +2066,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1969,7 +2084,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -1986,7 +2102,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2003,7 +2120,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2020,7 +2138,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2037,7 +2156,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17945"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2054,7 +2174,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17945"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2071,7 +2192,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17946"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2088,7 +2210,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i17947"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2105,7 +2228,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i17947"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2122,7 +2246,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17944"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2139,7 +2264,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17948"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2156,7 +2282,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17944"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2173,7 +2300,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2190,7 +2318,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2207,7 +2336,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2224,7 +2354,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2241,7 +2372,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2258,7 +2390,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17945"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2275,7 +2408,8 @@
     "studio": "スタジオ2",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "¥330"
+    "note": "¥330",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2292,7 +2426,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2309,7 +2444,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "¥220 / 有料"
+    "note": "¥220 / 有料",
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2326,7 +2462,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2343,7 +2480,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2360,7 +2498,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17943"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2377,7 +2516,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i17947"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2394,7 +2534,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i17947"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2411,7 +2552,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17944"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2428,7 +2570,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17948"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2445,7 +2588,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17944"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2462,7 +2606,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2479,7 +2624,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2496,7 +2642,8 @@
     "studio": "レッスン表（大人）",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2513,7 +2660,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17928"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2530,7 +2678,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2547,7 +2696,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17945"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2564,7 +2714,8 @@
     "studio": "スタジオ2",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "¥330"
+    "note": "¥330",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2581,7 +2732,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i17926"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2598,7 +2750,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "有料レッスン",
-    "note": "（有料）"
+    "note": "（有料）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2615,7 +2768,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "有料レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2632,7 +2786,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "有料レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2649,7 +2804,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17939"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2666,7 +2822,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2683,7 +2840,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2700,7 +2858,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2717,7 +2876,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2734,7 +2894,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2751,7 +2912,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2768,7 +2930,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2785,7 +2948,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2802,7 +2966,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2819,7 +2984,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2836,7 +3002,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2853,7 +3020,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2870,7 +3038,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2887,7 +3056,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2904,7 +3074,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2921,7 +3092,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2938,7 +3110,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2955,7 +3128,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2972,7 +3146,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -2989,7 +3164,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3006,7 +3182,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3023,7 +3200,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3040,7 +3218,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3057,7 +3236,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3074,7 +3254,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3091,7 +3272,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3108,7 +3290,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3125,7 +3308,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3142,7 +3326,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3159,7 +3344,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17940"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3176,7 +3362,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3193,7 +3380,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17951"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3210,7 +3398,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17952"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3227,7 +3416,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3244,7 +3434,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3261,7 +3452,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3278,7 +3470,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3295,7 +3488,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3312,7 +3506,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3329,7 +3524,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3346,7 +3542,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17938"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3363,7 +3560,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3380,7 +3578,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3397,7 +3596,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3414,7 +3614,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3431,7 +3632,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3448,7 +3650,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3465,7 +3668,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17949"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3482,7 +3686,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3499,7 +3704,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17932"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3516,7 +3722,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3533,7 +3740,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17940"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3550,7 +3758,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17935"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3567,7 +3776,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17951"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3584,7 +3794,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17952"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3601,7 +3812,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3618,7 +3830,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3635,7 +3848,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17939"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3652,7 +3866,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3669,7 +3884,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17939"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3686,7 +3902,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3703,7 +3920,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3720,7 +3938,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3737,7 +3956,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3754,7 +3974,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ボディーパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3771,7 +3992,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3788,7 +4010,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17951"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3805,7 +4028,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3822,7 +4046,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ボディーパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3839,7 +4064,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "太"
+    "note": "太",
+    "instructor_id": "i9633"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3856,7 +4082,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3873,7 +4100,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3890,7 +4118,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3907,7 +4136,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17939"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3924,7 +4154,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3941,7 +4172,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3958,7 +4190,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3975,7 +4208,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17953"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -3992,7 +4226,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4009,7 +4244,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4026,7 +4262,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17953"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4043,7 +4280,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17939"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4060,7 +4298,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17929"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4077,7 +4316,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4094,7 +4334,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4111,7 +4352,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4128,7 +4370,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17942"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4145,7 +4388,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4162,7 +4406,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4179,7 +4424,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4196,7 +4442,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4213,7 +4460,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4230,7 +4478,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4247,7 +4496,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4264,7 +4514,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4281,7 +4532,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4298,7 +4550,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4315,7 +4568,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4332,7 +4586,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4349,7 +4604,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4366,7 +4622,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4383,7 +4640,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4400,7 +4658,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4417,7 +4676,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": "スタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4434,7 +4694,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "YFS11:15"
+    "note": "YFS11:15",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4451,7 +4712,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員7名 有料550円"
+    "note": "定員7名 有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4468,7 +4730,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員10名 有料220円"
+    "note": "定員10名 有料220円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4485,7 +4748,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "定員5名 有料(月毎)"
+    "note": "定員5名 有料(月毎)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4502,7 +4766,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料330円"
+    "note": "有料330円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4519,7 +4784,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4536,7 +4802,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員6名 有料(月毎)"
+    "note": "定員6名 有料(月毎)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4553,7 +4820,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料220円"
+    "note": "有料220円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4570,7 +4838,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員7名 有料(月毎)"
+    "note": "定員7名 有料(月毎)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4587,7 +4856,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員22名"
+    "note": "定員22名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4604,7 +4874,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員20名"
+    "note": "定員20名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4621,7 +4892,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "有料330円"
+    "note": "有料330円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4638,7 +4910,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4655,7 +4928,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料220円"
+    "note": "有料220円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4672,7 +4946,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員22名"
+    "note": "定員22名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4689,7 +4964,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員20名"
+    "note": "定員20名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4706,7 +4982,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4723,7 +5000,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4740,7 +5018,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員6名 有料550円"
+    "note": "定員6名 有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4757,7 +5036,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員22名"
+    "note": "定員22名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4774,7 +5054,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員22名"
+    "note": "定員22名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4791,7 +5072,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4808,7 +5090,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4825,7 +5108,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4842,7 +5126,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4859,7 +5144,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4876,7 +5162,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4893,7 +5180,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4910,7 +5198,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4927,7 +5216,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4944,7 +5234,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4961,7 +5252,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4978,7 +5270,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -4995,7 +5288,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5012,7 +5306,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5029,7 +5324,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5046,7 +5342,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "EX",
-    "note": "有料220円"
+    "note": "有料220円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5063,7 +5360,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5080,7 +5378,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "定員12名"
+    "note": "定員12名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5097,7 +5396,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5114,7 +5414,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5131,7 +5432,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5148,7 +5450,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "EX",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5165,7 +5468,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5182,7 +5486,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "定員7名"
+    "note": "定員7名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5199,7 +5504,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "有料(月毎)"
+    "note": "有料(月毎)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5216,7 +5522,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5233,7 +5540,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5250,7 +5558,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5267,7 +5576,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5284,7 +5594,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5301,7 +5612,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5318,7 +5630,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5335,7 +5648,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5352,7 +5666,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5369,7 +5684,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "EX",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5386,7 +5702,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5403,7 +5720,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5420,7 +5738,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5437,7 +5756,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5454,7 +5774,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5471,7 +5792,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5488,7 +5810,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5505,7 +5828,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "4,400円 / 月毎"
+    "note": "4,400円 / 月毎",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5522,7 +5846,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "4,400円 / 月毎"
+    "note": "4,400円 / 月毎",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5539,7 +5864,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "4,400円 / 月毎"
+    "note": "4,400円 / 月毎",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5556,7 +5882,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5573,7 +5900,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5590,7 +5918,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5607,7 +5936,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5624,7 +5954,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": "13:30"
+    "note": "13:30",
+    "instructor_id": "i17954"
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5641,7 +5972,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5658,7 +5990,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5675,7 +6008,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5692,7 +6026,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5709,7 +6044,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5726,7 +6062,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5743,7 +6080,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "EX",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5760,7 +6098,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "定員7名"
+    "note": "定員7名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5777,7 +6116,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "EX",
-    "note": "有料(月毎)"
+    "note": "有料(月毎)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5794,7 +6134,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5811,7 +6152,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5828,7 +6170,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_matsumoto_sc_co_jp",
@@ -5845,6 +6188,7 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "EX",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

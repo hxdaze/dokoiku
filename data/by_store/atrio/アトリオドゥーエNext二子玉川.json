@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i943"
   },
   {
     "gym_id": "atrio",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "定員36名"
+    "note": "定員36名",
+    "instructor_id": "i943"
   },
   {
     "gym_id": "atrio",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i944"
   },
   {
     "gym_id": "atrio",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "定員27名"
+    "note": "定員27名",
+    "instructor_id": "i945"
   },
   {
     "gym_id": "atrio",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i946"
   },
   {
     "gym_id": "atrio",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i947"
   },
   {
     "gym_id": "atrio",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "定員28名"
+    "note": "定員28名",
+    "instructor_id": "i948"
   },
   {
     "gym_id": "atrio",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "定員14名"
+    "note": "定員14名",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "定員16名"
+    "note": "定員16名",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "定員35名"
+    "note": "定員35名",
+    "instructor_id": "i949"
   },
   {
     "gym_id": "atrio",
@@ -184,7 +194,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -201,7 +212,8 @@
     "studio": "アクア",
     "reservation_required": false,
     "genre": null,
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -218,7 +230,8 @@
     "studio": "アクア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -235,7 +248,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i933"
   },
   {
     "gym_id": "atrio",
@@ -252,7 +266,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -269,7 +284,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員36名"
+    "note": "定員36名",
+    "instructor_id": "i950"
   },
   {
     "gym_id": "atrio",
@@ -286,7 +302,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -303,7 +320,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i950"
   },
   {
     "gym_id": "atrio",
@@ -320,7 +338,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i951"
   },
   {
     "gym_id": "atrio",
@@ -337,7 +356,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i952"
   },
   {
     "gym_id": "atrio",
@@ -354,7 +374,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員36名"
+    "note": "定員36名",
+    "instructor_id": "i952"
   },
   {
     "gym_id": "atrio",
@@ -371,7 +392,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i953"
   },
   {
     "gym_id": "atrio",
@@ -388,7 +410,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i953"
   },
   {
     "gym_id": "atrio",
@@ -405,7 +428,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員16名"
+    "note": "定員16名",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -422,7 +446,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i954"
   },
   {
     "gym_id": "atrio",
@@ -439,7 +464,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員35名"
+    "note": "定員35名",
+    "instructor_id": "i949"
   },
   {
     "gym_id": "atrio",
@@ -456,7 +482,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i955"
   },
   {
     "gym_id": "atrio",
@@ -473,7 +500,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員16名"
+    "note": "定員16名",
+    "instructor_id": "i956"
   },
   {
     "gym_id": "atrio",
@@ -490,7 +518,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i957"
   },
   {
     "gym_id": "atrio",
@@ -507,7 +536,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "静"
+    "note": "静",
+    "instructor_id": "i958"
   },
   {
     "gym_id": "atrio",
@@ -524,7 +554,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員27名"
+    "note": "定員27名",
+    "instructor_id": "i959"
   },
   {
     "gym_id": "atrio",
@@ -541,7 +572,8 @@
     "studio": "アクア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i960"
   },
   {
     "gym_id": "atrio",
@@ -558,7 +590,8 @@
     "studio": "アクア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -575,7 +608,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員28名"
+    "note": "定員28名",
+    "instructor_id": "i961"
   },
   {
     "gym_id": "atrio",
@@ -592,7 +626,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員16名"
+    "note": "定員16名",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -609,7 +644,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i962"
   },
   {
     "gym_id": "atrio",
@@ -626,7 +662,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "気"
+    "note": "気",
+    "instructor_id": "i963"
   },
   {
     "gym_id": "atrio",
@@ -643,7 +680,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i953"
   },
   {
     "gym_id": "atrio",
@@ -660,7 +698,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i953"
   },
   {
     "gym_id": "atrio",
@@ -677,7 +716,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員14名"
+    "note": "定員14名",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -694,7 +734,8 @@
     "studio": "アクア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -711,7 +752,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員27名"
+    "note": "定員27名",
+    "instructor_id": "i964"
   },
   {
     "gym_id": "atrio",
@@ -728,7 +770,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i964"
   },
   {
     "gym_id": "atrio",
@@ -745,7 +788,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i965"
   },
   {
     "gym_id": "atrio",
@@ -762,7 +806,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i966"
   },
   {
     "gym_id": "atrio",
@@ -779,7 +824,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -796,7 +842,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員28名"
+    "note": "定員28名",
+    "instructor_id": "i961"
   },
   {
     "gym_id": "atrio",
@@ -813,7 +860,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i962"
   },
   {
     "gym_id": "atrio",
@@ -830,7 +878,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "気"
+    "note": "気",
+    "instructor_id": "i967"
   },
   {
     "gym_id": "atrio",
@@ -847,7 +896,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員27名"
+    "note": "定員27名",
+    "instructor_id": "i968"
   },
   {
     "gym_id": "atrio",
@@ -864,7 +914,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員40名"
+    "note": "定員40名",
+    "instructor_id": "i943"
   },
   {
     "gym_id": "atrio",
@@ -881,7 +932,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -898,7 +950,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i943"
   },
   {
     "gym_id": "atrio",
@@ -915,7 +968,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i969"
   },
   {
     "gym_id": "atrio",
@@ -932,7 +986,8 @@
     "studio": "アクア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i970"
   },
   {
     "gym_id": "atrio",
@@ -949,7 +1004,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i970"
   },
   {
     "gym_id": "atrio",
@@ -966,7 +1022,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "定員16名"
+    "note": "定員16名",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": "i971"
   },
   {
     "gym_id": "atrio",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": "i971"
   },
   {
     "gym_id": "atrio",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "流"
+    "note": "流",
+    "instructor_id": "i972"
   },
   {
     "gym_id": "atrio",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i285"
   },
   {
     "gym_id": "atrio",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i973"
   },
   {
     "gym_id": "atrio",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i942"
   },
   {
     "gym_id": "atrio",
@@ -1136,7 +1202,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1153,7 +1220,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1170,7 +1238,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1187,7 +1256,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i974"
   },
   {
     "gym_id": "atrio",
@@ -1204,7 +1274,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "VR",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1221,7 +1292,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1238,7 +1310,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "VR",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1255,7 +1328,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1272,7 +1346,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": "堀浩子"
+    "note": "堀浩子",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1289,7 +1364,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1323,7 +1400,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1340,7 +1418,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": "秋元美亜"
+    "note": "秋元美亜",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1357,7 +1436,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1374,7 +1454,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i975"
   },
   {
     "gym_id": "atrio",
@@ -1391,7 +1472,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "流"
+    "note": "流",
+    "instructor_id": "i893"
   },
   {
     "gym_id": "atrio",
@@ -1408,7 +1490,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "岸本直哉"
+    "note": "岸本直哉",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1425,7 +1508,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1442,7 +1526,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "熊美英哉"
+    "note": "熊美英哉",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1459,7 +1544,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "佐藤薫"
+    "note": "佐藤薫",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1476,7 +1562,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": "能美美帆"
+    "note": "能美美帆",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1493,7 +1580,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "VR",
-    "note": "[定員10名]"
+    "note": "[定員10名]",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1510,7 +1598,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1527,7 +1616,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1544,7 +1634,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1561,7 +1652,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1578,7 +1670,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": "青月あゆみ"
+    "note": "青月あゆみ",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1595,7 +1688,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": "[定員35名] 平松功也"
+    "note": "[定員35名] 平松功也",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1612,7 +1706,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1629,7 +1724,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "[定員21名] 平松功也"
+    "note": "[定員21名] 平松功也",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1646,7 +1742,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "[定員21名] chihiro"
+    "note": "[定員21名] chihiro",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1663,7 +1760,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "[定員16名] 担当者調整中"
+    "note": "[定員16名] 担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1680,7 +1778,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "[定員16名] kazuyo"
+    "note": "[定員16名] kazuyo",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1697,7 +1796,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "今吉誠一"
+    "note": "今吉誠一",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1714,7 +1814,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "流"
+    "note": "流",
+    "instructor_id": "i927"
   },
   {
     "gym_id": "atrio",
@@ -1731,7 +1832,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "[定員36名] 今吉誠一"
+    "note": "[定員36名] 今吉誠一",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1748,7 +1850,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1765,7 +1868,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1782,7 +1886,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "[定員25名] 派谷要樹"
+    "note": "[定員25名] 派谷要樹",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1799,7 +1904,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "[定員25名] 派谷要樹"
+    "note": "[定員25名] 派谷要樹",
+    "instructor_id": null
   },
   {
     "gym_id": "atrio",
@@ -1816,6 +1922,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "担当者調整中"
+    "note": "担当者調整中",
+    "instructor_id": null
   }
 ]

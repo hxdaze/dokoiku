@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "教室(期制)"
+    "note": "教室(期制)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "教室(期制)"
+    "note": "教室(期制)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "教室(期制)"
+    "note": "教室(期制)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "教室(期制)"
+    "note": "教室(期制)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "教室(期制)"
+    "note": "教室(期制)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "ワンデー(都度参加)"
+    "note": "ワンデー(都度参加)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "ワンデー(都度参加)"
+    "note": "ワンデー(都度参加)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "ワンデー(都度参加)"
+    "note": "ワンデー(都度参加)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "教室(期制)"
+    "note": "教室(期制)",
+    "instructor_id": null
   },
   {
     "gym_id": "yokohama_sc",
@@ -167,6 +176,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "教室(期制)"
+    "note": "教室(期制)",
+    "instructor_id": null
   }
 ]

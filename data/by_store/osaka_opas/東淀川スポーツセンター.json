@@ -14,7 +14,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -31,7 +32,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -48,7 +50,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -65,7 +68,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -82,7 +86,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -99,7 +104,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -116,7 +122,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -133,7 +140,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -150,7 +158,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -167,7 +176,8 @@
     "studio": "第2体育場",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "osaka_opas",
@@ -184,6 +194,7 @@
     "studio": "第2体育場",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:15歳以上"
+    "note": "対象:15歳以上",
+    "instructor_id": null
   }
 ]

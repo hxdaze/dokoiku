@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sennan_sports_jp",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sennan_sports_jp",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sennan_sports_jp",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sennan_sports_jp",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sennan_sports_jp",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sennan_sports_jp",
@@ -116,6 +122,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "満員のため募集なし"
+    "note": "満員のため募集なし",
+    "instructor_id": null
   }
 ]

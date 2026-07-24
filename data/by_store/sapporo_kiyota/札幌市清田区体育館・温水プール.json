@@ -14,7 +14,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21113"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -31,7 +32,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i21114"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -48,7 +50,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21113"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -65,7 +68,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21115"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -82,7 +86,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i13574"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -99,7 +104,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21116"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -116,7 +122,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21117"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -133,7 +140,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "NEW / 初級"
+    "note": "NEW / 初級",
+    "instructor_id": "i21118"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -150,7 +158,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i21118"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -167,7 +176,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21119"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -184,7 +194,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21116"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -201,7 +212,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": "水"
+    "note": "水",
+    "instructor_id": "i21120"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -218,7 +230,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21115"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -235,7 +248,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21121"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -252,7 +266,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21122"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -269,7 +284,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21123"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -286,7 +302,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21123"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -303,7 +320,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21115"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -320,7 +338,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21121"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -337,7 +356,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21116"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -354,7 +374,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21116"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -371,7 +392,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21119"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -388,7 +410,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21116"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -405,7 +428,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21078"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -422,7 +446,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21124"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -439,7 +464,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21125"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -456,7 +482,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21100"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -473,7 +500,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "ウォーキング",
-    "note": null
+    "note": null,
+    "instructor_id": "i13574"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -490,7 +518,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21126"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -507,7 +536,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": "健康体操",
-    "note": "前半"
+    "note": "前半",
+    "instructor_id": "i21127"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -524,7 +554,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": "姿勢改善",
-    "note": null
+    "note": null,
+    "instructor_id": "i21128"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -541,7 +572,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "健康体操",
-    "note": "後半"
+    "note": "後半",
+    "instructor_id": "i21127"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -558,7 +590,8 @@
     "studio": "第2体育室",
     "reservation_required": true,
     "genre": "太極拳",
-    "note": "二十四式"
+    "note": "二十四式",
+    "instructor_id": "i21129"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -575,7 +608,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21130"
   },
   {
     "gym_id": "sapporo_kiyota",
@@ -592,6 +626,7 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21131"
   }
 ]

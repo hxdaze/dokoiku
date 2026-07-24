@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "oasis",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "oasis",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "oasis",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "oasis",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "oasis",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oasis",
@@ -286,6 +302,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   }
 ]

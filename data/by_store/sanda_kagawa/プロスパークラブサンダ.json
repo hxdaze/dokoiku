@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21060"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21061"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21062"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21063"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21064"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": "i21065"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5180"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5188"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21061"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5174"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21062"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21064"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21062"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5176"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21062"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5174"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21066"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21062"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5180"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21061"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21064"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5188"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21061"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21062"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5188"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21063"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21067"
   },
   {
     "gym_id": "sanda_kagawa",
@@ -490,6 +518,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "注：同日にAとBの両方は受講できません。"
+    "note": "注：同日にAとBの両方は受講できません。",
+    "instructor_id": "i5180"
   }
 ]

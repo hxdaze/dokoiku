@@ -14,7 +14,8 @@
     "studio": "時間割表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "blueearth",
@@ -31,7 +32,8 @@
     "studio": "時間割表",
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "3歳〜6歳"
+    "note": "3歳〜6歳",
+    "instructor_id": null
   },
   {
     "gym_id": "blueearth",
@@ -48,6 +50,7 @@
     "studio": "時間割表",
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "7歳〜12歳"
+    "note": "7歳〜12歳",
+    "instructor_id": null
   }
 ]

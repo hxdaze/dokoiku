@@ -14,7 +14,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": null
+    "note": null,
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -31,7 +32,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": null
+    "note": null,
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -48,7 +50,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": null
+    "note": null,
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -65,7 +68,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4171"
   },
   {
     "gym_id": "itabashi_sc",
@@ -82,7 +86,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※スポーツタオルをご持参ください。"
+    "note": "※スポーツタオルをご持参ください。",
+    "instructor_id": "i10487"
   },
   {
     "gym_id": "itabashi_sc",
@@ -99,7 +104,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10487"
   },
   {
     "gym_id": "itabashi_sc",
@@ -116,7 +122,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10488"
   },
   {
     "gym_id": "itabashi_sc",
@@ -133,7 +140,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※スポーツタオルをご持参ください。"
+    "note": "※スポーツタオルをご持参ください。",
+    "instructor_id": "i10489"
   },
   {
     "gym_id": "itabashi_sc",
@@ -150,7 +158,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4991"
   },
   {
     "gym_id": "itabashi_sc",
@@ -167,7 +176,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4991"
   },
   {
     "gym_id": "itabashi_sc",
@@ -184,7 +194,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": "小学1〜2年"
+    "note": "小学1〜2年",
+    "instructor_id": "i2579"
   },
   {
     "gym_id": "itabashi_sc",
@@ -201,7 +212,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": "小学3〜4年"
+    "note": "小学3〜4年",
+    "instructor_id": "i2579"
   },
   {
     "gym_id": "itabashi_sc",
@@ -218,7 +230,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": "小学5〜6年"
+    "note": "小学5〜6年",
+    "instructor_id": "i2579"
   },
   {
     "gym_id": "itabashi_sc",
@@ -235,7 +248,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10490"
   },
   {
     "gym_id": "itabashi_sc",
@@ -252,7 +266,8 @@
     "studio": "プレイリーム/武道場",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "itabashi_sc",
@@ -269,7 +284,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10491"
   },
   {
     "gym_id": "itabashi_sc",
@@ -286,7 +302,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2921"
   },
   {
     "gym_id": "itabashi_sc",
@@ -303,7 +320,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2921"
   },
   {
     "gym_id": "itabashi_sc",
@@ -320,7 +338,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -337,7 +356,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -354,7 +374,8 @@
     "studio": "プレイリーム/武道場",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10492"
   },
   {
     "gym_id": "itabashi_sc",
@@ -371,7 +392,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10492"
   },
   {
     "gym_id": "itabashi_sc",
@@ -388,7 +410,8 @@
     "studio": "プレイリーム/武道場",
     "reservation_required": false,
     "genre": null,
-    "note": "剣"
+    "note": "剣",
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -405,7 +428,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4171"
   },
   {
     "gym_id": "itabashi_sc",
@@ -422,7 +446,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10492"
   },
   {
     "gym_id": "itabashi_sc",
@@ -439,7 +464,8 @@
     "studio": "プレイリーム/武道場",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10493"
   },
   {
     "gym_id": "itabashi_sc",
@@ -456,7 +482,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1647"
   },
   {
     "gym_id": "itabashi_sc",
@@ -473,7 +500,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -490,7 +518,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -507,7 +536,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2317"
   },
   {
     "gym_id": "itabashi_sc",
@@ -524,7 +554,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2317"
   },
   {
     "gym_id": "itabashi_sc",
@@ -541,7 +572,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2317"
   },
   {
     "gym_id": "itabashi_sc",
@@ -558,7 +590,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "32式"
+    "note": "32式",
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -575,7 +608,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2923"
   },
   {
     "gym_id": "itabashi_sc",
@@ -592,7 +626,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10491"
   },
   {
     "gym_id": "itabashi_sc",
@@ -609,7 +644,8 @@
     "studio": "プレイルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10493"
   },
   {
     "gym_id": "itabashi_sc",
@@ -626,7 +662,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10488"
   },
   {
     "gym_id": "itabashi_sc",
@@ -643,7 +680,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10487"
   },
   {
     "gym_id": "itabashi_sc",
@@ -660,7 +698,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4171"
   },
   {
     "gym_id": "itabashi_sc",
@@ -677,7 +716,8 @@
     "studio": "プレイルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10493"
   },
   {
     "gym_id": "itabashi_sc",
@@ -694,7 +734,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1647"
   },
   {
     "gym_id": "itabashi_sc",
@@ -711,7 +752,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "32式"
+    "note": "32式",
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -728,7 +770,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10494"
   },
   {
     "gym_id": "itabashi_sc",
@@ -745,7 +788,8 @@
     "studio": "武道場",
     "reservation_required": true,
     "genre": null,
-    "note": "扇"
+    "note": "扇",
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -762,7 +806,8 @@
     "studio": "武道場",
     "reservation_required": true,
     "genre": null,
-    "note": "楊式"
+    "note": "楊式",
+    "instructor_id": "i3531"
   },
   {
     "gym_id": "itabashi_sc",
@@ -779,7 +824,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3663"
   },
   {
     "gym_id": "itabashi_sc",
@@ -796,7 +842,8 @@
     "studio": "プレイルーム/競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<室内競技場>"
+    "note": "<室内競技場>",
+    "instructor_id": "i1647"
   },
   {
     "gym_id": "itabashi_sc",
@@ -813,7 +860,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "バスツォルを持参ください。"
+    "note": "バスツォルを持参ください。",
+    "instructor_id": "i3663"
   },
   {
     "gym_id": "itabashi_sc",
@@ -830,7 +878,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1647"
   },
   {
     "gym_id": "itabashi_sc",
@@ -847,7 +896,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1647"
   },
   {
     "gym_id": "itabashi_sc",
@@ -864,7 +914,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3874"
   },
   {
     "gym_id": "itabashi_sc",
@@ -881,7 +932,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3663"
   },
   {
     "gym_id": "itabashi_sc",
@@ -898,7 +950,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3663"
   },
   {
     "gym_id": "itabashi_sc",
@@ -915,7 +968,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": null,
-    "note": "中年～小1"
+    "note": "中年～小1",
+    "instructor_id": "i10495"
   },
   {
     "gym_id": "itabashi_sc",
@@ -932,7 +986,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -949,7 +1004,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": null,
-    "note": "小2～小4"
+    "note": "小2～小4",
+    "instructor_id": "i10495"
   },
   {
     "gym_id": "itabashi_sc",
@@ -966,7 +1022,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -983,7 +1040,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※スポーツツボをもご持参ください。"
+    "note": "※スポーツツボをもご持参ください。",
+    "instructor_id": "i4171"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1000,7 +1058,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": null,
-    "note": "小5～中学生"
+    "note": "小5～中学生",
+    "instructor_id": "i10495"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1017,7 +1076,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4171"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1034,7 +1094,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8612"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1051,7 +1112,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1068,7 +1130,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1085,7 +1148,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10496"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1102,7 +1166,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5246"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1119,7 +1184,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5246"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1136,7 +1202,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2319"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1153,7 +1220,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -1170,7 +1238,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8612"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1187,7 +1256,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10497"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1204,7 +1274,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10497"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1221,7 +1292,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10496"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1238,7 +1310,8 @@
     "studio": "ブレイルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3874"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1255,7 +1328,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5246"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1272,7 +1346,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5246"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1289,7 +1364,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -1306,7 +1382,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2319"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1323,7 +1400,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -1340,7 +1418,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3663"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1357,7 +1436,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3663"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1374,7 +1454,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10498"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1391,7 +1472,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10498"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1408,7 +1490,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -1425,7 +1508,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2923"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1442,7 +1526,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2923"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1459,7 +1544,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2923"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1476,7 +1562,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2923"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1493,7 +1580,8 @@
     "studio": "ブレイルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8612"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1510,7 +1598,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": null,
-    "note": "※毎月第二土曜日に開催"
+    "note": "※毎月第二土曜日に開催",
+    "instructor_id": null
   },
   {
     "gym_id": "itabashi_sc",
@@ -1527,7 +1616,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4856"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1544,7 +1634,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4856"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1561,7 +1652,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1578,7 +1670,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "タートルクラス"
+    "note": "タートルクラス",
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1595,7 +1688,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2319"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1612,7 +1706,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2319"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1629,7 +1724,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10499"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1646,7 +1742,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10499"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1663,7 +1760,8 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": null,
-    "note": "小学1~3年"
+    "note": "小学1~3年",
+    "instructor_id": "i2579"
   },
   {
     "gym_id": "itabashi_sc",
@@ -1680,6 +1778,7 @@
     "studio": "プレイルーム",
     "reservation_required": false,
     "genre": null,
-    "note": "小学4~6年"
+    "note": "小学4~6年",
+    "instructor_id": "i2579"
   }
 ]

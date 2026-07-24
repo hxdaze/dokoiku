@@ -14,7 +14,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i6933"
   },
   {
     "gym_id": "dospo",
@@ -31,7 +32,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "女性専用"
+    "note": "女性専用",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -48,7 +50,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -65,7 +68,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "ナニ アロハ"
+    "note": "ナニ アロハ",
+    "instructor_id": "i5745"
   },
   {
     "gym_id": "dospo",
@@ -82,7 +86,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i4390"
   },
   {
     "gym_id": "dospo",
@@ -99,7 +104,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6934"
   },
   {
     "gym_id": "dospo",
@@ -116,7 +122,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i4415"
   },
   {
     "gym_id": "dospo",
@@ -133,7 +140,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "絵図"
+    "note": "絵図",
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -150,7 +158,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "オキシジェノ"
+    "note": "オキシジェノ",
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -167,7 +176,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i6936"
   },
   {
     "gym_id": "dospo",
@@ -184,7 +194,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -201,7 +212,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i6938"
   },
   {
     "gym_id": "dospo",
@@ -218,7 +230,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "WEB予約場所指定 / リトモス"
+    "note": "WEB予約場所指定 / リトモス",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -235,7 +248,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i6939"
   },
   {
     "gym_id": "dospo",
@@ -252,7 +266,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -269,7 +284,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": "LIVE配信"
+    "note": "LIVE配信",
+    "instructor_id": "i6939"
   },
   {
     "gym_id": "dospo",
@@ -286,7 +302,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i6941"
   },
   {
     "gym_id": "dospo",
@@ -303,7 +320,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6942"
   },
   {
     "gym_id": "dospo",
@@ -320,7 +338,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中上級",
-    "note": "入門・初級"
+    "note": "入門・初級",
+    "instructor_id": "i4394"
   },
   {
     "gym_id": "dospo",
@@ -337,7 +356,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -354,7 +374,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -371,7 +392,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "中級",
-    "note": "担当変更 / 中級"
+    "note": "担当変更 / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -388,7 +410,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "中級",
-    "note": "担当変更 / 初級・中級"
+    "note": "担当変更 / 初級・中級",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -405,7 +428,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4417"
   },
   {
     "gym_id": "dospo",
@@ -422,7 +446,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4417"
   },
   {
     "gym_id": "dospo",
@@ -439,7 +464,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4417"
   },
   {
     "gym_id": "dospo",
@@ -456,7 +482,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6943"
   },
   {
     "gym_id": "dospo",
@@ -473,7 +500,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6944"
   },
   {
     "gym_id": "dospo",
@@ -490,7 +518,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6944"
   },
   {
     "gym_id": "dospo",
@@ -507,7 +536,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": true,
     "genre": "中級",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6944"
   },
   {
     "gym_id": "dospo",
@@ -524,7 +554,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -541,7 +572,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4407"
   },
   {
     "gym_id": "dospo",
@@ -558,7 +590,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6938"
   },
   {
     "gym_id": "dospo",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6941"
   },
   {
     "gym_id": "dospo",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6946"
   },
   {
     "gym_id": "dospo",
@@ -626,7 +662,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "入門・初級"
+    "note": "入門・初級",
+    "instructor_id": "i4394"
   },
   {
     "gym_id": "dospo",
@@ -643,7 +680,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i4409"
   },
   {
     "gym_id": "dospo",
@@ -660,7 +698,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4415"
   },
   {
     "gym_id": "dospo",
@@ -677,7 +716,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": "Les Millsプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i6943"
   },
   {
     "gym_id": "dospo",
@@ -694,7 +734,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -711,7 +752,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -728,7 +770,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i6947"
   },
   {
     "gym_id": "dospo",
@@ -745,7 +788,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4407"
   },
   {
     "gym_id": "dospo",
@@ -762,7 +806,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6948"
   },
   {
     "gym_id": "dospo",
@@ -779,7 +824,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": "Les Millsプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i6943"
   },
   {
     "gym_id": "dospo",
@@ -796,7 +842,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -813,7 +860,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -830,7 +878,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -847,7 +896,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6949"
   },
   {
     "gym_id": "dospo",
@@ -864,7 +914,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -881,7 +932,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -898,7 +950,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "担当変更"
+    "note": "担当変更",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -915,7 +968,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6943"
   },
   {
     "gym_id": "dospo",
@@ -932,7 +986,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -949,7 +1004,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -966,7 +1022,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6944"
   },
   {
     "gym_id": "dospo",
@@ -983,7 +1040,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -1000,7 +1058,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6944"
   },
   {
     "gym_id": "dospo",
@@ -1017,7 +1076,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "時間変更"
+    "note": "時間変更",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -1034,7 +1094,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6950"
   },
   {
     "gym_id": "dospo",
@@ -1051,7 +1112,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6951"
   },
   {
     "gym_id": "dospo",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6952"
   },
   {
     "gym_id": "dospo",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6952"
   },
   {
     "gym_id": "dospo",
@@ -1102,7 +1166,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6942"
   },
   {
     "gym_id": "dospo",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "担当変更"
+    "note": "担当変更",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1136,7 +1202,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6953"
   },
   {
     "gym_id": "dospo",
@@ -1153,7 +1220,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -1170,7 +1238,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -1187,7 +1256,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "リトモス"
+    "note": "リトモス",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -1204,7 +1274,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6949"
   },
   {
     "gym_id": "dospo",
@@ -1221,7 +1292,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -1238,7 +1310,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4417"
   },
   {
     "gym_id": "dospo",
@@ -1255,7 +1328,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6954"
   },
   {
     "gym_id": "dospo",
@@ -1272,7 +1346,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6939"
   },
   {
     "gym_id": "dospo",
@@ -1289,7 +1364,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6955"
   },
   {
     "gym_id": "dospo",
@@ -1306,7 +1382,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -1323,7 +1400,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -1340,7 +1418,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6950"
   },
   {
     "gym_id": "dospo",
@@ -1357,7 +1436,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6956"
   },
   {
     "gym_id": "dospo",
@@ -1374,7 +1454,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i6948"
   },
   {
     "gym_id": "dospo",
@@ -1391,7 +1472,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i6953"
   },
   {
     "gym_id": "dospo",
@@ -1408,7 +1490,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6938"
   },
   {
     "gym_id": "dospo",
@@ -1425,7 +1508,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6942"
   },
   {
     "gym_id": "dospo",
@@ -1442,7 +1526,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -1459,7 +1544,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -1476,7 +1562,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初中級"
+    "note": "初中級",
+    "instructor_id": "i6956"
   },
   {
     "gym_id": "dospo",
@@ -1493,7 +1580,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -1510,7 +1598,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -1527,7 +1616,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定 / リトモス"
+    "note": "WEB予約場所指定 / リトモス",
+    "instructor_id": "i6956"
   },
   {
     "gym_id": "dospo",
@@ -1544,7 +1634,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6957"
   },
   {
     "gym_id": "dospo",
@@ -1561,7 +1652,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6958"
   },
   {
     "gym_id": "dospo",
@@ -1578,7 +1670,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -1595,7 +1688,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6949"
   },
   {
     "gym_id": "dospo",
@@ -1612,7 +1706,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6944"
   },
   {
     "gym_id": "dospo",
@@ -1629,7 +1724,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6954"
   },
   {
     "gym_id": "dospo",
@@ -1646,7 +1742,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4390"
   },
   {
     "gym_id": "dospo",
@@ -1663,7 +1760,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6959"
   },
   {
     "gym_id": "dospo",
@@ -1680,7 +1778,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -1697,7 +1796,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -1714,7 +1814,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "定員8名, 的塚(笹塚)"
+    "note": "定員8名, 的塚(笹塚)",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1731,7 +1832,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i6936"
   },
   {
     "gym_id": "dospo",
@@ -1748,7 +1850,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1765,7 +1868,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6960"
   },
   {
     "gym_id": "dospo",
@@ -1782,7 +1886,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -1799,7 +1904,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6956"
   },
   {
     "gym_id": "dospo",
@@ -1816,7 +1922,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "担当変更 / 中上級"
+    "note": "担当変更 / 中上級",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1833,7 +1940,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6961"
   },
   {
     "gym_id": "dospo",
@@ -1850,7 +1958,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4407"
   },
   {
     "gym_id": "dospo",
@@ -1867,7 +1976,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6953"
   },
   {
     "gym_id": "dospo",
@@ -1884,7 +1994,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i6936"
   },
   {
     "gym_id": "dospo",
@@ -1901,7 +2012,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -1918,7 +2030,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -1935,7 +2048,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -1952,7 +2066,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定 / リトモス"
+    "note": "WEB予約場所指定 / リトモス",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -1969,7 +2084,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -1986,7 +2102,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -2003,7 +2120,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定 / 初中級"
+    "note": "WEB予約場所指定 / 初中級",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -2020,7 +2138,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -2037,7 +2156,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i4417"
   },
   {
     "gym_id": "dospo",
@@ -2054,7 +2174,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "有料・予約制"
+    "note": "有料・予約制",
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -2071,7 +2192,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -2088,7 +2210,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "有料・予約制"
+    "note": "有料・予約制",
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -2105,7 +2228,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -2122,7 +2246,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -2139,7 +2264,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "一部のコースをスクールで使用"
+    "note": "一部のコースをスクールで使用",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2156,7 +2282,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定 / リトモス"
+    "note": "WEB予約場所指定 / リトモス",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -2173,7 +2300,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "LIVE配信"
+    "note": "LIVE配信",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -2190,7 +2318,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -2207,7 +2336,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定 / 初中級"
+    "note": "WEB予約場所指定 / 初中級",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -2224,7 +2354,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6955"
   },
   {
     "gym_id": "dospo",
@@ -2241,7 +2372,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "バイラバイラ"
+    "note": "バイラバイラ",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -2258,7 +2390,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5206"
   },
   {
     "gym_id": "dospo",
@@ -2275,7 +2408,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6962"
   },
   {
     "gym_id": "dospo",
@@ -2292,7 +2426,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -2309,7 +2444,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6957"
   },
   {
     "gym_id": "dospo",
@@ -2326,7 +2462,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週替わり担当"
+    "note": "週替わり担当",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2343,7 +2480,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6936"
   },
   {
     "gym_id": "dospo",
@@ -2360,7 +2498,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6936"
   },
   {
     "gym_id": "dospo",
@@ -2377,7 +2516,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5206"
   },
   {
     "gym_id": "dospo",
@@ -2394,7 +2534,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i6963"
   },
   {
     "gym_id": "dospo",
@@ -2411,7 +2552,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6963"
   },
   {
     "gym_id": "dospo",
@@ -2428,7 +2570,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4407"
   },
   {
     "gym_id": "dospo",
@@ -2445,7 +2588,8 @@
     "studio": "やぐらスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4407"
   },
   {
     "gym_id": "dospo",
@@ -2462,7 +2606,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5206"
   },
   {
     "gym_id": "dospo",
@@ -2479,7 +2624,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5206"
   },
   {
     "gym_id": "dospo",
@@ -2496,7 +2642,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "初心者・入門",
-    "note": "対象:ご入会から6ヶ月までの方\n運動が不安な方も安心して参加できるクラスです! / ストレッチ"
+    "note": "対象:ご入会から6ヶ月までの方\n運動が不安な方も安心して参加できるクラスです! / ストレッチ",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2513,7 +2660,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "初心者・入門",
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -2530,7 +2678,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "初心者・入門",
-    "note": "LIVE配信"
+    "note": "LIVE配信",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2547,7 +2696,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "初心者・入門",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -2564,7 +2714,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "初心者・入門",
-    "note": "21:15~天"
+    "note": "21:15~天",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2581,7 +2732,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "初心者・入門",
-    "note": "近"
+    "note": "近",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2598,7 +2750,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "初心者・入門",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i4390"
   },
   {
     "gym_id": "dospo",
@@ -2615,7 +2768,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "初級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6946"
   },
   {
     "gym_id": "dospo",
@@ -2632,7 +2786,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "中級",
-    "note": "時間変更"
+    "note": "時間変更",
+    "instructor_id": "i6964"
   },
   {
     "gym_id": "dospo",
@@ -2649,7 +2804,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "中級",
-    "note": "時間変更"
+    "note": "時間変更",
+    "instructor_id": "i6964"
   },
   {
     "gym_id": "dospo",
@@ -2666,7 +2822,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中上級",
-    "note": "入門・初級"
+    "note": "入門・初級",
+    "instructor_id": "i4394"
   },
   {
     "gym_id": "dospo",
@@ -2683,7 +2840,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": "スタジオ変更"
+    "note": "スタジオ変更",
+    "instructor_id": "i6947"
   },
   {
     "gym_id": "dospo",
@@ -2700,7 +2858,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4407"
   },
   {
     "gym_id": "dospo",
@@ -2717,7 +2876,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -2734,7 +2894,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6943"
   },
   {
     "gym_id": "dospo",
@@ -2751,7 +2912,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -2768,7 +2930,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6944"
   },
   {
     "gym_id": "dospo",
@@ -2785,7 +2948,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": true,
     "genre": "中級",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6944"
   },
   {
     "gym_id": "dospo",
@@ -2802,7 +2966,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "上級",
-    "note": "時間変更"
+    "note": "時間変更",
+    "instructor_id": "i6952"
   },
   {
     "gym_id": "dospo",
@@ -2819,7 +2984,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6935"
   },
   {
     "gym_id": "dospo",
@@ -2836,7 +3002,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": true,
     "genre": "ダンス系",
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -2853,7 +3020,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2870,7 +3038,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i6953"
   },
   {
     "gym_id": "dospo",
@@ -2887,7 +3056,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -2904,7 +3074,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -2921,7 +3092,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定 / リトモス"
+    "note": "WEB予約場所指定 / リトモス",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -2938,7 +3110,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6949"
   },
   {
     "gym_id": "dospo",
@@ -2955,7 +3128,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約"
+    "note": "WEB予約",
+    "instructor_id": "i4408"
   },
   {
     "gym_id": "dospo",
@@ -2972,7 +3146,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "LIVE配信"
+    "note": "LIVE配信",
+    "instructor_id": "i6939"
   },
   {
     "gym_id": "dospo",
@@ -2989,7 +3164,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -3006,7 +3182,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i4407"
   },
   {
     "gym_id": "dospo",
@@ -3023,7 +3200,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -3040,7 +3218,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i6952"
   },
   {
     "gym_id": "dospo",
@@ -3057,7 +3236,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6950"
   },
   {
     "gym_id": "dospo",
@@ -3074,7 +3254,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "平泳ぎ"
+    "note": "平泳ぎ",
+    "instructor_id": "i6953"
   },
   {
     "gym_id": "dospo",
@@ -3091,7 +3272,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6954"
   },
   {
     "gym_id": "dospo",
@@ -3108,7 +3290,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i6965"
   },
   {
     "gym_id": "dospo",
@@ -3125,7 +3308,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "時間変更"
+    "note": "時間変更",
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -3142,7 +3326,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6940"
   },
   {
     "gym_id": "dospo",
@@ -3159,7 +3344,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "LIVE配信\nWEB予約場所指定"
+    "note": "LIVE配信\nWEB予約場所指定",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3176,7 +3362,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -3193,7 +3380,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -3210,7 +3398,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3227,7 +3416,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6955"
   },
   {
     "gym_id": "dospo",
@@ -3244,7 +3434,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "LIVE配信"
+    "note": "LIVE配信",
+    "instructor_id": "i6962"
   },
   {
     "gym_id": "dospo",
@@ -3261,7 +3452,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "LIVE配信 / バイラバイラ"
+    "note": "LIVE配信 / バイラバイラ",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -3278,7 +3470,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "LIVE配信"
+    "note": "LIVE配信",
+    "instructor_id": "i6957"
   },
   {
     "gym_id": "dospo",
@@ -3295,7 +3488,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "LIVE配信"
+    "note": "LIVE配信",
+    "instructor_id": "i6945"
   },
   {
     "gym_id": "dospo",
@@ -3312,7 +3506,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "LIVE配信"
+    "note": "LIVE配信",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3329,7 +3524,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "WEB予約場所指定"
+    "note": "WEB予約場所指定",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3346,7 +3542,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "平尾"
+    "note": "平尾",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3363,7 +3560,8 @@
     "studio": "アロマスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "平尾"
+    "note": "平尾",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3380,7 +3578,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "時間変更 / 中級"
+    "note": "時間変更 / 中級",
+    "instructor_id": "i6963"
   },
   {
     "gym_id": "dospo",
@@ -3397,7 +3596,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "時間変更"
+    "note": "時間変更",
+    "instructor_id": "i6963"
   },
   {
     "gym_id": "dospo",
@@ -3414,7 +3614,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6937"
   },
   {
     "gym_id": "dospo",
@@ -3431,7 +3632,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4390"
   },
   {
     "gym_id": "dospo",
@@ -3448,6 +3650,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6940"
   }
 ]

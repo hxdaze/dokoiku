@@ -14,7 +14,8 @@
     "studio": "水泳プール",
     "reservation_required": true,
     "genre": null,
-    "note": "6/18~9/28(定員に達し次第終了) / 成人"
+    "note": "6/18~9/28(定員に達し次第終了) / 成人",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ounoyama_jp",
@@ -31,6 +32,7 @@
     "studio": "水泳プール",
     "reservation_required": true,
     "genre": null,
-    "note": "6/18~9/28(定員に達し次第終了) / 成人"
+    "note": "6/18~9/28(定員に達し次第終了) / 成人",
+    "instructor_id": null
   }
 ]

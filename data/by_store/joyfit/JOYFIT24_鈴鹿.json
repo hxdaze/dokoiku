@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11971"
   },
   {
     "gym_id": "joyfit",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11971"
   },
   {
     "gym_id": "joyfit",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11972"
   },
   {
     "gym_id": "joyfit",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11689"
   },
   {
     "gym_id": "joyfit",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11973"
   },
   {
     "gym_id": "joyfit",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11973"
   },
   {
     "gym_id": "joyfit",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9626"
   },
   {
     "gym_id": "joyfit",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9626"
   },
   {
     "gym_id": "joyfit",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11528"
   },
   {
     "gym_id": "joyfit",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1816"
   },
   {
     "gym_id": "joyfit",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1816"
   },
   {
     "gym_id": "joyfit",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11971"
   },
   {
     "gym_id": "joyfit",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11971"
   },
   {
     "gym_id": "joyfit",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11974"
   },
   {
     "gym_id": "joyfit",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11975"
   },
   {
     "gym_id": "joyfit",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11976"
   },
   {
     "gym_id": "joyfit",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11976"
   },
   {
     "gym_id": "joyfit",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11977"
   },
   {
     "gym_id": "joyfit",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11977"
   },
   {
     "gym_id": "joyfit",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11528"
   },
   {
     "gym_id": "joyfit",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11972"
   },
   {
     "gym_id": "joyfit",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9591"
   },
   {
     "gym_id": "joyfit",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11689"
   },
   {
     "gym_id": "joyfit",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11978"
   },
   {
     "gym_id": "joyfit",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1816"
   },
   {
     "gym_id": "joyfit",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11972"
   },
   {
     "gym_id": "joyfit",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1816"
   },
   {
     "gym_id": "joyfit",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1816"
   },
   {
     "gym_id": "joyfit",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9591"
   },
   {
     "gym_id": "joyfit",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11978"
   },
   {
     "gym_id": "joyfit",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1816"
   },
   {
     "gym_id": "joyfit",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11972"
   },
   {
     "gym_id": "joyfit",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11979"
   },
   {
     "gym_id": "joyfit",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11980"
   },
   {
     "gym_id": "joyfit",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11977"
   },
   {
     "gym_id": "joyfit",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11981"
   },
   {
     "gym_id": "joyfit",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11981"
   },
   {
     "gym_id": "joyfit",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11977"
   },
   {
     "gym_id": "joyfit",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11977"
   },
   {
     "gym_id": "joyfit",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i69"
   },
   {
     "gym_id": "joyfit",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i69"
   },
   {
     "gym_id": "joyfit",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11977"
   },
   {
     "gym_id": "joyfit",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9591"
   },
   {
     "gym_id": "joyfit",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11979"
   },
   {
     "gym_id": "joyfit",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11980"
   },
   {
     "gym_id": "joyfit",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11977"
   },
   {
     "gym_id": "joyfit",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11982"
   },
   {
     "gym_id": "joyfit",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1816"
   },
   {
     "gym_id": "joyfit",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1816"
   },
   {
     "gym_id": "joyfit",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11983"
   },
   {
     "gym_id": "joyfit",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11973"
   },
   {
     "gym_id": "joyfit",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11976"
   },
   {
     "gym_id": "joyfit",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9591"
   },
   {
     "gym_id": "joyfit",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11980"
   },
   {
     "gym_id": "joyfit",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11975"
   },
   {
     "gym_id": "joyfit",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11528"
   },
   {
     "gym_id": "joyfit",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11689"
   },
   {
     "gym_id": "joyfit",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11689"
   },
   {
     "gym_id": "joyfit",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11972"
   },
   {
     "gym_id": "joyfit",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11984"
   },
   {
     "gym_id": "joyfit",
@@ -1068,6 +1130,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11984"
   }
 ]

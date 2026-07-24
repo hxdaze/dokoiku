@@ -14,7 +14,8 @@
     "studio": "7月ワンデイレッスン日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17912"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -31,7 +32,8 @@
     "studio": "7月ワンデイレッスン日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -48,7 +50,8 @@
     "studio": "7月ワンデイレッスン日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -65,7 +68,8 @@
     "studio": "7月ワンデイレッスン日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -82,7 +86,8 @@
     "studio": "7月ワンデイレッスン日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -99,7 +104,8 @@
     "studio": "7月ワンデイレッスン日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "コア"
+    "note": "コア",
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -116,7 +122,8 @@
     "studio": "7月ワンデイレッスン日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -133,7 +140,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11786"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -150,7 +158,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -167,7 +176,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "コア"
+    "note": "コア",
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -184,7 +194,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17913"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -201,7 +212,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -218,7 +230,8 @@
     "studio": "６月おためしレッスン、おためしワンデイ日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "女性限定"
+    "note": "女性限定",
+    "instructor_id": "i17914"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -235,7 +248,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17914"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -252,7 +266,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17915"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -269,7 +284,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -286,7 +302,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -303,7 +320,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17916"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -320,7 +338,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -337,7 +356,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -354,7 +374,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "午前"
+    "note": "午前",
+    "instructor_id": "i4683"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -371,7 +392,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": "i4683"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -388,7 +410,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17916"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -405,7 +428,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -422,7 +446,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11786"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -439,7 +464,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "コア"
+    "note": "コア",
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -456,7 +482,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i17915"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -473,7 +500,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -490,7 +518,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -507,7 +536,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17916"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -524,7 +554,8 @@
     "studio": "第2期定期教室日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -541,7 +572,8 @@
     "studio": "６月おためしレッスン、おためしワンデイ日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "女性限定"
+    "note": "女性限定",
+    "instructor_id": "i17914"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -558,7 +590,8 @@
     "studio": "６月おためしレッスン、おためしワンデイ日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -575,7 +608,8 @@
     "studio": "６月おためしレッスン、おためしワンデイ日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11791"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -592,7 +626,8 @@
     "studio": "６月おためしレッスン、おためしワンデイ日程表",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11739"
   },
   {
     "gym_id": "muni_ksz_or_jp",
@@ -609,6 +644,7 @@
     "studio": "６月おためしレッスン、おためしワンデイ日程表",
     "reservation_required": false,
     "genre": null,
-    "note": "コア"
+    "note": "コア",
+    "instructor_id": "i11791"
   }
 ]

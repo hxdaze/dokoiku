@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i446"
   },
   {
     "gym_id": "aim",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i402"
   },
   {
     "gym_id": "aim",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i418"
   },
   {
     "gym_id": "aim",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットコンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i418"
   },
   {
     "gym_id": "aim",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i448"
   },
   {
     "gym_id": "aim",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i484"
   },
   {
     "gym_id": "aim",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i485"
   },
   {
     "gym_id": "aim",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットコンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i442"
   },
   {
     "gym_id": "aim",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i486"
   },
   {
     "gym_id": "aim",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i487"
   },
   {
     "gym_id": "aim",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i487"
   },
   {
     "gym_id": "aim",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットコンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i405"
   },
   {
     "gym_id": "aim",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i446"
   },
   {
     "gym_id": "aim",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットコンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i446"
   },
   {
     "gym_id": "aim",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i441"
   },
   {
     "gym_id": "aim",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i487"
   },
   {
     "gym_id": "aim",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i488"
   },
   {
     "gym_id": "aim",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i454"
   },
   {
     "gym_id": "aim",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i486"
   },
   {
     "gym_id": "aim",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※詳細は別紙記載"
+    "note": "※詳細は別紙記載",
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i448"
   },
   {
     "gym_id": "aim",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i487"
   },
   {
     "gym_id": "aim",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i446"
   },
   {
     "gym_id": "aim",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i403"
   },
   {
     "gym_id": "aim",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i489"
   },
   {
     "gym_id": "aim",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i489"
   },
   {
     "gym_id": "aim",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i490"
   },
   {
     "gym_id": "aim",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i469"
   },
   {
     "gym_id": "aim",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i485"
   },
   {
     "gym_id": "aim",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i418"
   },
   {
     "gym_id": "aim",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットコンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i418"
   },
   {
     "gym_id": "aim",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "ホットYOGA ek"
+    "note": "ホットYOGA ek",
+    "instructor_id": "i472"
   },
   {
     "gym_id": "aim",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "ホットピラティス 玉川"
+    "note": "ホットピラティス 玉川",
+    "instructor_id": "i491"
   },
   {
     "gym_id": "aim",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "中野"
+    "note": "中野",
+    "instructor_id": "i491"
   },
   {
     "gym_id": "aim",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": "土田"
+    "note": "土田",
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": "SUPコア"
+    "note": "SUPコア",
+    "instructor_id": "i484"
   },
   {
     "gym_id": "aim",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i403"
   },
   {
     "gym_id": "aim",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i403"
   },
   {
     "gym_id": "aim",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i445"
   },
   {
     "gym_id": "aim",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットコンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i492"
   },
   {
     "gym_id": "aim",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットコンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i448"
   },
   {
     "gym_id": "aim",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i448"
   },
   {
     "gym_id": "aim",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i442"
   },
   {
     "gym_id": "aim",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i493"
   },
   {
     "gym_id": "aim",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i493"
   },
   {
     "gym_id": "aim",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i412"
   },
   {
     "gym_id": "aim",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i412"
   },
   {
     "gym_id": "aim",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i412"
   },
   {
     "gym_id": "aim",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i418"
   },
   {
     "gym_id": "aim",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i432"
   },
   {
     "gym_id": "aim",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": "i432"
   },
   {
     "gym_id": "aim",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットコンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aim",
@@ -1051,6 +1112,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有酸素",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

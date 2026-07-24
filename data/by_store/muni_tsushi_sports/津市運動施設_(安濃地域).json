@@ -14,7 +14,8 @@
     "studio": "夏の健康教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18098"
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -31,7 +32,8 @@
     "studio": "夏の健康教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18098"
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -48,7 +50,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18099"
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -65,7 +68,8 @@
     "studio": "夏の健康教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18100"
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -82,7 +86,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18101"
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -99,7 +104,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18101"
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -116,7 +122,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -133,7 +140,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -150,7 +158,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -167,7 +176,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -184,7 +194,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -201,7 +212,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -218,7 +230,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -235,7 +248,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -252,7 +266,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -269,7 +284,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -286,7 +302,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -303,7 +320,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -320,7 +338,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -337,7 +356,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -354,7 +374,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -371,7 +392,8 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tsushi_sports",
@@ -388,6 +410,7 @@
     "studio": "夏の健康教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

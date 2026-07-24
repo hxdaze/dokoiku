@@ -14,7 +14,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i587"
   },
   {
     "gym_id": "caldo",
@@ -31,7 +32,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i587"
   },
   {
     "gym_id": "caldo",
@@ -48,7 +50,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2333"
   },
   {
     "gym_id": "caldo",
@@ -65,7 +68,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2333"
   },
   {
     "gym_id": "caldo",
@@ -82,7 +86,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2331"
   },
   {
     "gym_id": "caldo",
@@ -99,7 +104,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2331"
   },
   {
     "gym_id": "caldo",
@@ -116,7 +122,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2329"
   },
   {
     "gym_id": "caldo",
@@ -133,7 +140,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2702"
   },
   {
     "gym_id": "caldo",
@@ -150,7 +158,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2702"
   },
   {
     "gym_id": "caldo",
@@ -167,7 +176,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2333"
   },
   {
     "gym_id": "caldo",
@@ -184,7 +194,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2333"
   },
   {
     "gym_id": "caldo",
@@ -201,7 +212,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2331"
   },
   {
     "gym_id": "caldo",
@@ -218,7 +230,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2331"
   },
   {
     "gym_id": "caldo",
@@ -235,7 +248,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i1911"
   },
   {
     "gym_id": "caldo",
@@ -252,7 +266,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i1911"
   },
   {
     "gym_id": "caldo",
@@ -269,7 +284,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i587"
   },
   {
     "gym_id": "caldo",
@@ -286,7 +302,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i587"
   },
   {
     "gym_id": "caldo",
@@ -303,7 +320,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2333"
   },
   {
     "gym_id": "caldo",
@@ -320,7 +338,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2333"
   },
   {
     "gym_id": "caldo",
@@ -337,7 +356,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2333"
   },
   {
     "gym_id": "caldo",
@@ -354,7 +374,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "caldo",
@@ -371,7 +392,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "caldo",
@@ -388,7 +410,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2331"
   },
   {
     "gym_id": "caldo",
@@ -405,7 +428,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2331"
   },
   {
     "gym_id": "caldo",
@@ -422,7 +446,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "土日祝"
+    "note": "土日祝",
+    "instructor_id": "i2703"
   },
   {
     "gym_id": "caldo",
@@ -439,7 +464,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "土日祝"
+    "note": "土日祝",
+    "instructor_id": "i2703"
   },
   {
     "gym_id": "caldo",
@@ -456,7 +482,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "土日祝"
+    "note": "土日祝",
+    "instructor_id": "i2234"
   },
   {
     "gym_id": "caldo",
@@ -473,7 +500,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "土日祝"
+    "note": "土日祝",
+    "instructor_id": "i2234"
   },
   {
     "gym_id": "caldo",
@@ -490,7 +518,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "土日祝"
+    "note": "土日祝",
+    "instructor_id": "i2329"
   },
   {
     "gym_id": "caldo",
@@ -507,7 +536,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "土日祝"
+    "note": "土日祝",
+    "instructor_id": null
   },
   {
     "gym_id": "caldo",
@@ -524,7 +554,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": null
   },
   {
     "gym_id": "caldo",
@@ -541,7 +572,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2333"
   },
   {
     "gym_id": "caldo",
@@ -558,7 +590,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2704"
   },
   {
     "gym_id": "caldo",
@@ -575,7 +608,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2704"
   },
   {
     "gym_id": "caldo",
@@ -592,7 +626,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2590"
   },
   {
     "gym_id": "caldo",
@@ -609,7 +644,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2590"
   },
   {
     "gym_id": "caldo",
@@ -626,7 +662,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2702"
   },
   {
     "gym_id": "caldo",
@@ -643,7 +680,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2702"
   },
   {
     "gym_id": "caldo",
@@ -660,7 +698,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "caldo",
@@ -677,7 +716,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "caldo",
@@ -694,7 +734,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2705"
   },
   {
     "gym_id": "caldo",
@@ -711,7 +752,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i2705"
   },
   {
     "gym_id": "caldo",
@@ -728,7 +770,8 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i1911"
   },
   {
     "gym_id": "caldo",
@@ -745,6 +788,7 @@
     "studio": "定員5人",
     "reservation_required": true,
     "genre": "ホットプログラム",
-    "note": "平日"
+    "note": "平日",
+    "instructor_id": "i1911"
   }
 ]

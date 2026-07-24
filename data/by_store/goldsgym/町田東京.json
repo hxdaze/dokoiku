@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8154"
   },
   {
     "gym_id": "goldsgym",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8155"
   },
   {
     "gym_id": "goldsgym",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i8156"
   },
   {
     "gym_id": "goldsgym",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "有料550円"
+    "note": "有料550円",
+    "instructor_id": "i8156"
   },
   {
     "gym_id": "goldsgym",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i8157"
   },
   {
     "gym_id": "goldsgym",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i8158"
   },
   {
     "gym_id": "goldsgym",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": "初中級"
+    "note": "初中級",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i345"
   },
   {
     "gym_id": "goldsgym",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": "(初中級)"
+    "note": "(初中級)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i345"
   },
   {
     "gym_id": "goldsgym",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i285"
   },
   {
     "gym_id": "goldsgym",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "バレエ"
+    "note": "バレエ",
+    "instructor_id": "i8064"
   },
   {
     "gym_id": "goldsgym",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8159"
   },
   {
     "gym_id": "goldsgym",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8160"
   },
   {
     "gym_id": "goldsgym",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i8161"
   },
   {
     "gym_id": "goldsgym",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8162"
   },
   {
     "gym_id": "goldsgym",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i8162"
   },
   {
     "gym_id": "goldsgym",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i8068"
   },
   {
     "gym_id": "goldsgym",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8163"
   },
   {
     "gym_id": "goldsgym",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8030"
   },
   {
     "gym_id": "goldsgym",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7915"
   },
   {
     "gym_id": "goldsgym",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "【有料】"
+    "note": "【有料】",
+    "instructor_id": "i8164"
   },
   {
     "gym_id": "goldsgym",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i8032"
   },
   {
     "gym_id": "goldsgym",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": "(初中級)"
+    "note": "(初中級)",
+    "instructor_id": "i3474"
   },
   {
     "gym_id": "goldsgym",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "【有料550円】バレエセンター"
+    "note": "【有料550円】バレエセンター",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": "成人18歳以上"
+    "note": "成人18歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i8165"
   },
   {
     "gym_id": "goldsgym",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i8166"
   },
   {
     "gym_id": "goldsgym",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8077"
   },
   {
     "gym_id": "goldsgym",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": "初中級"
+    "note": "初中級",
+    "instructor_id": "i7598"
   },
   {
     "gym_id": "goldsgym",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i8117"
   },
   {
     "gym_id": "goldsgym",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i7977"
   },
   {
     "gym_id": "goldsgym",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "の間で"
+    "note": "の間で",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8023"
   },
   {
     "gym_id": "goldsgym",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i8167"
   },
   {
     "gym_id": "goldsgym",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": "【有料】"
+    "note": "【有料】",
+    "instructor_id": "i8167"
   },
   {
     "gym_id": "goldsgym",
@@ -847,6 +896,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ初中級",
-    "note": "(初中級)"
+    "note": "(初中級)",
+    "instructor_id": null
   }
 ]

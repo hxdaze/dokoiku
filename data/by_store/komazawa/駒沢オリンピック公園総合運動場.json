@@ -14,7 +14,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i4148"
   },
   {
     "gym_id": "komazawa",
@@ -31,7 +32,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健美操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12132"
   },
   {
     "gym_id": "komazawa",
@@ -48,7 +50,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i12133"
   },
   {
     "gym_id": "komazawa",
@@ -65,7 +68,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3658"
   },
   {
     "gym_id": "komazawa",
@@ -82,7 +86,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "Zumba",
-    "note": null
+    "note": null,
+    "instructor_id": "i4150"
   },
   {
     "gym_id": "komazawa",
@@ -99,7 +104,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4366"
   },
   {
     "gym_id": "komazawa",
@@ -116,7 +122,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "リフレクサリー"
+    "note": "リフレクサリー",
+    "instructor_id": "i12134"
   },
   {
     "gym_id": "komazawa",
@@ -133,7 +140,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "ベーシック"
+    "note": "ベーシック",
+    "instructor_id": "i12135"
   },
   {
     "gym_id": "komazawa",
@@ -150,7 +158,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i4460"
   },
   {
     "gym_id": "komazawa",
@@ -167,7 +176,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4366"
   },
   {
     "gym_id": "komazawa",
@@ -184,7 +194,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12136"
   },
   {
     "gym_id": "komazawa",
@@ -201,7 +212,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12134"
   },
   {
     "gym_id": "komazawa",
@@ -218,7 +230,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i2901"
   },
   {
     "gym_id": "komazawa",
@@ -235,7 +248,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "パワーヨガ"
+    "note": "パワーヨガ",
+    "instructor_id": "i12133"
   },
   {
     "gym_id": "komazawa",
@@ -252,7 +266,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "ピギナー"
+    "note": "ピギナー",
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -269,7 +284,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "前畑"
+    "note": "前畑",
+    "instructor_id": "i12135"
   },
   {
     "gym_id": "komazawa",
@@ -286,7 +302,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -303,7 +320,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -320,7 +338,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健美操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12132"
   },
   {
     "gym_id": "komazawa",
@@ -337,7 +356,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7452"
   },
   {
     "gym_id": "komazawa",
@@ -354,7 +374,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i4148"
   },
   {
     "gym_id": "komazawa",
@@ -371,7 +392,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "パワーヨガ"
+    "note": "パワーヨガ",
+    "instructor_id": "i12133"
   },
   {
     "gym_id": "komazawa",
@@ -388,7 +410,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "ピギナー"
+    "note": "ピギナー",
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -405,7 +428,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "前畑"
+    "note": "前畑",
+    "instructor_id": "i12135"
   },
   {
     "gym_id": "komazawa",
@@ -422,7 +446,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -439,7 +464,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -456,7 +482,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健美操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12132"
   },
   {
     "gym_id": "komazawa",
@@ -473,7 +500,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7452"
   },
   {
     "gym_id": "komazawa",
@@ -490,7 +518,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i4148"
   },
   {
     "gym_id": "komazawa",
@@ -507,7 +536,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12135"
   },
   {
     "gym_id": "komazawa",
@@ -524,7 +554,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "前畑"
+    "note": "前畑",
+    "instructor_id": "i12135"
   },
   {
     "gym_id": "komazawa",
@@ -541,7 +572,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -558,7 +590,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -575,7 +608,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "基礎"
+    "note": "基礎",
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -592,7 +626,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3572"
   },
   {
     "gym_id": "komazawa",
@@ -609,7 +644,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -626,7 +662,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3572"
   },
   {
     "gym_id": "komazawa",
@@ -643,7 +680,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4366"
   },
   {
     "gym_id": "komazawa",
@@ -660,7 +698,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12138"
   },
   {
     "gym_id": "komazawa",
@@ -677,7 +716,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12136"
   },
   {
     "gym_id": "komazawa",
@@ -694,7 +734,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4148"
   },
   {
     "gym_id": "komazawa",
@@ -711,7 +752,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "レギュラー"
+    "note": "レギュラー",
+    "instructor_id": "i4148"
   },
   {
     "gym_id": "komazawa",
@@ -728,7 +770,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "前畑"
+    "note": "前畑",
+    "instructor_id": "i12135"
   },
   {
     "gym_id": "komazawa",
@@ -745,7 +788,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -762,7 +806,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -779,7 +824,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "基礎"
+    "note": "基礎",
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -796,7 +842,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12134"
   },
   {
     "gym_id": "komazawa",
@@ -813,7 +860,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3572"
   },
   {
     "gym_id": "komazawa",
@@ -830,7 +878,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -847,7 +896,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "Zumba",
-    "note": "Zumba"
+    "note": "Zumba",
+    "instructor_id": "i2697"
   },
   {
     "gym_id": "komazawa",
@@ -864,7 +914,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -881,7 +932,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "アドバンス"
+    "note": "アドバンス",
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -898,7 +950,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "前畑"
+    "note": "前畑",
+    "instructor_id": "i12135"
   },
   {
     "gym_id": "komazawa",
@@ -915,7 +968,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -932,7 +986,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -949,7 +1004,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12134"
   },
   {
     "gym_id": "komazawa",
@@ -966,7 +1022,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -983,7 +1040,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12139"
   },
   {
     "gym_id": "komazawa",
@@ -1000,7 +1058,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "Zumba",
-    "note": null
+    "note": null,
+    "instructor_id": "i4150"
   },
   {
     "gym_id": "komazawa",
@@ -1017,7 +1076,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -1034,7 +1094,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "Zumba",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -1051,7 +1112,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3658"
   },
   {
     "gym_id": "komazawa",
@@ -1068,7 +1130,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4366"
   },
   {
     "gym_id": "komazawa",
@@ -1085,7 +1148,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": "サルフィット"
+    "note": "サルフィット",
+    "instructor_id": "i12134"
   },
   {
     "gym_id": "komazawa",
@@ -1102,7 +1166,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12136"
   },
   {
     "gym_id": "komazawa",
@@ -1119,7 +1184,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12134"
   },
   {
     "gym_id": "komazawa",
@@ -1136,7 +1202,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7452"
   },
   {
     "gym_id": "komazawa",
@@ -1153,7 +1220,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "パワーヨガ"
+    "note": "パワーヨガ",
+    "instructor_id": "i12133"
   },
   {
     "gym_id": "komazawa",
@@ -1170,7 +1238,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i2901"
   },
   {
     "gym_id": "komazawa",
@@ -1187,7 +1256,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4150"
   },
   {
     "gym_id": "komazawa",
@@ -1204,7 +1274,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "ビギナー"
+    "note": "ビギナー",
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -1221,7 +1292,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -1238,7 +1310,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4366"
   },
   {
     "gym_id": "komazawa",
@@ -1255,7 +1328,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i12133"
   },
   {
     "gym_id": "komazawa",
@@ -1272,7 +1346,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3658"
   },
   {
     "gym_id": "komazawa",
@@ -1289,7 +1364,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "ビギナー"
+    "note": "ビギナー",
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -1306,7 +1382,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -1323,7 +1400,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4366"
   },
   {
     "gym_id": "komazawa",
@@ -1340,7 +1418,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12140"
   },
   {
     "gym_id": "komazawa",
@@ -1357,7 +1436,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i12136"
   },
   {
     "gym_id": "komazawa",
@@ -1374,7 +1454,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "レギュラー"
+    "note": "レギュラー",
+    "instructor_id": "i12140"
   },
   {
     "gym_id": "komazawa",
@@ -1391,7 +1472,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3658"
   },
   {
     "gym_id": "komazawa",
@@ -1408,7 +1490,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12134"
   },
   {
     "gym_id": "komazawa",
@@ -1425,7 +1508,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -1442,7 +1526,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "ビギナー"
+    "note": "ビギナー",
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -1459,7 +1544,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -1476,7 +1562,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -1493,7 +1580,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3572"
   },
   {
     "gym_id": "komazawa",
@@ -1510,7 +1598,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "Zumba"
+    "note": "Zumba",
+    "instructor_id": "i2697"
   },
   {
     "gym_id": "komazawa",
@@ -1527,7 +1616,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12141"
   },
   {
     "gym_id": "komazawa",
@@ -1544,7 +1634,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -1561,7 +1652,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -1578,7 +1670,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3658"
   },
   {
     "gym_id": "komazawa",
@@ -1595,7 +1688,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -1612,7 +1706,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -1629,7 +1724,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -1646,7 +1742,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4150"
   },
   {
     "gym_id": "komazawa",
@@ -1663,7 +1760,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -1680,7 +1778,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i4894"
   },
   {
     "gym_id": "komazawa",
@@ -1697,7 +1796,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロ"
+    "note": "エアロ",
+    "instructor_id": "i3658"
   },
   {
     "gym_id": "komazawa",
@@ -1714,7 +1814,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12137"
   },
   {
     "gym_id": "komazawa",
@@ -1731,7 +1832,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -1748,7 +1850,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -1765,7 +1868,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -1782,7 +1886,8 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "komazawa",
@@ -1799,6 +1904,7 @@
     "studio": "会議室A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4150"
   }
 ]

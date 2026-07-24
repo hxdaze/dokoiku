@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -31,7 +32,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "ストレッチ&ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i614"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i615"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -65,7 +68,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "ウォーキング",
-    "note": null
+    "note": null,
+    "instructor_id": "i616"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i617"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -99,7 +104,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i615"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i616"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i615"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -167,7 +176,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i616"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i617"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i616"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "30"
+    "note": "30",
+    "instructor_id": "i613"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "太極拳",
-    "note": "30"
+    "note": "30",
+    "instructor_id": "i618"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i617"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "30"
+    "note": "30",
+    "instructor_id": "i618"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i620"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "30"
+    "note": "30",
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -354,7 +374,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "40"
+    "note": "40",
+    "instructor_id": "i615"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i618"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -388,7 +410,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "40"
+    "note": "40",
+    "instructor_id": "i621"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i618"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -422,7 +446,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "ストレッチ&ダンス",
-    "note": "40"
+    "note": "40",
+    "instructor_id": "i614"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i613"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i622"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "30"
+    "note": "30",
+    "instructor_id": "i622"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -609,7 +644,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -626,7 +662,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "30"
+    "note": "30",
+    "instructor_id": "i622"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i623"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i624"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -694,7 +734,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i616"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i624"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -728,7 +770,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i617"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "【別紙参照】"
+    "note": "【別紙参照】",
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "奇数週"
+    "note": "奇数週",
+    "instructor_id": "i623"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "アクアエクササイズ",
-    "note": "奇数週"
+    "note": "奇数週",
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "奇数週"
+    "note": "奇数週",
+    "instructor_id": "i623"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "アクアエクササイズ",
-    "note": "奇数週"
+    "note": "奇数週",
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i617"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -864,7 +914,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i616"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -881,7 +932,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i617"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i625"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i625"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -949,7 +1004,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "【別紙参照】"
+    "note": "【別紙参照】",
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i617"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i617"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i625"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i619"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i625"
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "【別紙参照】"
+    "note": "【別紙参照】",
+    "instructor_id": null
   },
   {
     "gym_id": "arrest_yatsushiro",
@@ -1068,6 +1130,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "11月限定"
+    "note": "11月限定",
+    "instructor_id": "i618"
   }
 ]

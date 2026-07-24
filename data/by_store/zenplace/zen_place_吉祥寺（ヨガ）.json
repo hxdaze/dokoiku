@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "代行"
+    "note": "代行",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "代行"
+    "note": "代行",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "代行"
+    "note": "代行",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -303,6 +320,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

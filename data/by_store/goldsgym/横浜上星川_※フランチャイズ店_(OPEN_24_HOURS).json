@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "(STAFF)"
+    "note": "(STAFF)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シンプルステップ",
-    "note": "(梨本み)"
+    "note": "(梨本み)",
+    "instructor_id": "i8270"
   },
   {
     "gym_id": "goldsgym",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ベーシックヨガ",
-    "note": "(松沢)"
+    "note": "(松沢)",
+    "instructor_id": "i8271"
   },
   {
     "gym_id": "goldsgym",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "(鍵)"
+    "note": "(鍵)",
+    "instructor_id": "i8272"
   },
   {
     "gym_id": "goldsgym",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプエアロ",
-    "note": "(志田)"
+    "note": "(志田)",
+    "instructor_id": "i8273"
   },
   {
     "gym_id": "goldsgym",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バランスボールエクササイズ",
-    "note": "(山川)"
+    "note": "(山川)",
+    "instructor_id": "i8177"
   },
   {
     "gym_id": "goldsgym",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプステップ",
-    "note": "(飯尾)"
+    "note": "(飯尾)",
+    "instructor_id": "i5899"
   },
   {
     "gym_id": "goldsgym",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "グループパワー",
-    "note": "(Non)"
+    "note": "(Non)",
+    "instructor_id": "i8274"
   },
   {
     "gym_id": "goldsgym",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "(STAFF)"
+    "note": "(STAFF)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ビラティス",
-    "note": "(アリーナ)"
+    "note": "(アリーナ)",
+    "instructor_id": "i8275"
   },
   {
     "gym_id": "goldsgym",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CFK",
-    "note": "(KEIKO)"
+    "note": "(KEIKO)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(NAOMI)"
+    "note": "(NAOMI)",
+    "instructor_id": "i4140"
   },
   {
     "gym_id": "goldsgym",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "骨盤エクササイズ",
-    "note": "(堀江)"
+    "note": "(堀江)",
+    "instructor_id": "i3353"
   },
   {
     "gym_id": "goldsgym",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "(柏木)"
+    "note": "(柏木)",
+    "instructor_id": "i8276"
   },
   {
     "gym_id": "goldsgym",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "D-KICK",
-    "note": "(パッティ)"
+    "note": "(パッティ)",
+    "instructor_id": "i8277"
   },
   {
     "gym_id": "goldsgym",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプステップ",
-    "note": "(YASUKO)"
+    "note": "(YASUKO)",
+    "instructor_id": "i2571"
   },
   {
     "gym_id": "goldsgym",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "(STAFF)"
+    "note": "(STAFF)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ベーシックヨガ",
-    "note": "(Mako)"
+    "note": "(Mako)",
+    "instructor_id": "i933"
   },
   {
     "gym_id": "goldsgym",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "パレトン",
-    "note": "(西野)"
+    "note": "(西野)",
+    "instructor_id": "i3679"
   },
   {
     "gym_id": "goldsgym",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプエアロ",
-    "note": "(椎谷)"
+    "note": "(椎谷)",
+    "instructor_id": "i8278"
   },
   {
     "gym_id": "goldsgym",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フローヨガ",
-    "note": "(渚)"
+    "note": "(渚)",
+    "instructor_id": "i8279"
   },
   {
     "gym_id": "goldsgym",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプエアロ",
-    "note": "(林)"
+    "note": "(林)",
+    "instructor_id": "i364"
   },
   {
     "gym_id": "goldsgym",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "STRONG NATION",
-    "note": "(古川)"
+    "note": "(古川)",
+    "instructor_id": "i5853"
   },
   {
     "gym_id": "goldsgym",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディメンテナンス",
-    "note": "(KAITO)"
+    "note": "(KAITO)",
+    "instructor_id": "i5858"
   },
   {
     "gym_id": "goldsgym",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "(STAFF)"
+    "note": "(STAFF)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ラテンエアロ",
-    "note": "(甲斐)"
+    "note": "(甲斐)",
+    "instructor_id": "i5863"
   },
   {
     "gym_id": "goldsgym",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MAMBO FIT",
-    "note": "(Gabo)"
+    "note": "(Gabo)",
+    "instructor_id": "i8280"
   },
   {
     "gym_id": "goldsgym",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ツールピラティス",
-    "note": "(石河)"
+    "note": "(石河)",
+    "instructor_id": "i8281"
   },
   {
     "gym_id": "goldsgym",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプエアロ",
-    "note": "(飯尾)"
+    "note": "(飯尾)",
+    "instructor_id": "i5899"
   },
   {
     "gym_id": "goldsgym",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フローヨガ",
-    "note": "(Miya)"
+    "note": "(Miya)",
+    "instructor_id": "i5703"
   },
   {
     "gym_id": "goldsgym",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "HOUSE&SOUL LOCK",
-    "note": "(TAKU)"
+    "note": "(TAKU)",
+    "instructor_id": "i8282"
   },
   {
     "gym_id": "goldsgym",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CFK",
-    "note": "(パッティ)"
+    "note": "(パッティ)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "(STAFF)"
+    "note": "(STAFF)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプエアロ",
-    "note": "(Han)"
+    "note": "(Han)",
+    "instructor_id": "i8283"
   },
   {
     "gym_id": "goldsgym",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ビラティス",
-    "note": "(山本)"
+    "note": "(山本)",
+    "instructor_id": "i65"
   },
   {
     "gym_id": "goldsgym",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フローヨガ",
-    "note": "(Makiko)"
+    "note": "(Makiko)",
+    "instructor_id": "i8284"
   },
   {
     "gym_id": "goldsgym",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ&コンディショニング",
-    "note": "(梨本み)"
+    "note": "(梨本み)",
+    "instructor_id": "i8270"
   },
   {
     "gym_id": "goldsgym",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シンプルエアロ",
-    "note": "(高橋)"
+    "note": "(高橋)",
+    "instructor_id": "i373"
   },
   {
     "gym_id": "goldsgym",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "STRONG NATION",
-    "note": "(アリーナ)"
+    "note": "(アリーナ)",
+    "instructor_id": "i8275"
   },
   {
     "gym_id": "goldsgym",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンビネーションエアロ",
-    "note": "(RYU)"
+    "note": "(RYU)",
+    "instructor_id": "i8285"
   },
   {
     "gym_id": "goldsgym",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプステップ",
-    "note": "(大蔵)"
+    "note": "(大蔵)",
+    "instructor_id": "i8286"
   },
   {
     "gym_id": "goldsgym",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプエアロ",
-    "note": "(口)"
+    "note": "(口)",
+    "instructor_id": "i8287"
   },
   {
     "gym_id": "goldsgym",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バレエストレッチ",
-    "note": "(三好)"
+    "note": "(三好)",
+    "instructor_id": "i3016"
   },
   {
     "gym_id": "goldsgym",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンビネーションエアロ",
-    "note": "(林)"
+    "note": "(林)",
+    "instructor_id": "i364"
   },
   {
     "gym_id": "goldsgym",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "(KURIRIN)"
+    "note": "(KURIRIN)",
+    "instructor_id": "i8288"
   },
   {
     "gym_id": "goldsgym",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バレエ入門",
-    "note": "(三好)"
+    "note": "(三好)",
+    "instructor_id": "i3016"
   },
   {
     "gym_id": "goldsgym",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディメンテナンス",
-    "note": "(高橋)"
+    "note": "(高橋)",
+    "instructor_id": "i373"
   },
   {
     "gym_id": "goldsgym",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "カーディオボクシング",
-    "note": "(梨本み)"
+    "note": "(梨本み)",
+    "instructor_id": "i8270"
   },
   {
     "gym_id": "goldsgym",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シンプルエアロ",
-    "note": "(山川)"
+    "note": "(山川)",
+    "instructor_id": "i8177"
   },
   {
     "gym_id": "goldsgym",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンスエクササイズ",
-    "note": "(小澤)"
+    "note": "(小澤)",
+    "instructor_id": "i8289"
   },
   {
     "gym_id": "goldsgym",
@@ -864,6 +914,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フローヨガ",
-    "note": "(SAYAKA)"
+    "note": "(SAYAKA)",
+    "instructor_id": "i2440"
   }
 ]

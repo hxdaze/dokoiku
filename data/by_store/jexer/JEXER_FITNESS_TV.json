@@ -14,7 +14,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11152"
   },
   {
     "gym_id": "jexer",
@@ -31,7 +32,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -48,7 +50,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "ZOOM配信"
+    "note": "ZOOM配信",
+    "instructor_id": "i11153"
   },
   {
     "gym_id": "jexer",
@@ -65,7 +68,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11068"
   },
   {
     "gym_id": "jexer",
@@ -82,7 +86,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -99,7 +104,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11154"
   },
   {
     "gym_id": "jexer",
@@ -116,7 +122,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -133,7 +140,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11155"
   },
   {
     "gym_id": "jexer",
@@ -150,7 +158,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -167,7 +176,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11156"
   },
   {
     "gym_id": "jexer",
@@ -184,7 +194,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -201,7 +212,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i10921"
   },
   {
     "gym_id": "jexer",
@@ -218,7 +230,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -235,7 +248,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11060"
   },
   {
     "gym_id": "jexer",
@@ -252,7 +266,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11045"
   },
   {
     "gym_id": "jexer",
@@ -269,7 +284,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -286,7 +302,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11065"
   },
   {
     "gym_id": "jexer",
@@ -303,7 +320,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -320,7 +338,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11065"
   },
   {
     "gym_id": "jexer",
@@ -337,7 +356,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -354,7 +374,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11154"
   },
   {
     "gym_id": "jexer",
@@ -371,7 +392,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -388,7 +410,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11157"
   },
   {
     "gym_id": "jexer",
@@ -405,7 +428,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -422,7 +446,8 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": "見逃し配信"
+    "note": "見逃し配信",
+    "instructor_id": "i11158"
   },
   {
     "gym_id": "jexer",
@@ -439,6 +464,7 @@
     "studio": "Online",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

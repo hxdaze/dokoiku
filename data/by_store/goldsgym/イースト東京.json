@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7903"
   },
   {
     "gym_id": "goldsgym",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2635"
   },
   {
     "gym_id": "goldsgym",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7815"
   },
   {
     "gym_id": "goldsgym",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "WEB17名 店頭7名"
+    "note": "WEB17名 店頭7名",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -99,7 +104,26 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "月",
+    "start": "15:30",
+    "end": "16:00",
+    "class_name": "5/4 時間繰り上げ■初中級ステップ",
+    "category": "STEP",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "有料スクール",
+    "note": "月・祝",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -116,7 +140,26 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "月",
+    "start": "16:15",
+    "end": "17:15",
+    "class_name": "■オリジナルエアロ",
+    "category": "AEROBICS",
+    "instructor": "中村優子",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "有料スクール",
+    "note": null,
+    "instructor_id": "i7659"
   },
   {
     "gym_id": "goldsgym",
@@ -133,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7827"
   },
   {
     "gym_id": "goldsgym",
@@ -150,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7659"
   },
   {
     "gym_id": "goldsgym",
@@ -167,7 +212,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -178,13 +224,14 @@
     "day": "月",
     "start": "15:30",
     "end": "16:30",
-    "class_name": "スペシャルレッスン6/9 初中級ステップ",
+    "class_name": "5/12 初中級ステップ",
     "category": "STEP",
     "instructor": null,
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "※6月より"
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -201,7 +248,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料¥1100"
+    "note": "有料¥1100",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -218,7 +266,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -235,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7904"
   },
   {
     "gym_id": "goldsgym",
@@ -252,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7905"
   },
   {
     "gym_id": "goldsgym",
@@ -269,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": "コア"
+    "note": "コア",
+    "instructor_id": "i7905"
   },
   {
     "gym_id": "goldsgym",
@@ -286,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7906"
   },
   {
     "gym_id": "goldsgym",
@@ -303,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": "WEB17名 店頭7名"
+    "note": "WEB17名 店頭7名",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -320,41 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "水",
-    "start": "10:00",
-    "end": "11:00",
-    "class_name": "バレエ",
-    "category": "BALLET",
-    "instructor": "瀬沼",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "リラックスヨガ系",
-    "note": "入門"
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "水",
-    "start": "11:15",
-    "end": "12:15",
-    "class_name": "初中級エアロ",
-    "category": "AEROBICS",
-    "instructor": "小松田美穂",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7854"
   },
   {
     "gym_id": "goldsgym",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7839"
   },
   {
     "gym_id": "goldsgym",
@@ -388,24 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "水",
-    "start": "12:30",
-    "end": "13:30",
-    "class_name": "ボディメイク",
-    "category": "STRENGTH & CORE",
-    "instructor": "YU-KA",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "コンディショニング系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -422,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7839"
   },
   {
     "gym_id": "goldsgym",
@@ -439,24 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "水",
-    "start": "14:15",
-    "end": "15:15",
-    "class_name": "オリジナルダンス",
-    "category": "JAZZ DANCE",
-    "instructor": "中川正博",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7707"
   },
   {
     "gym_id": "goldsgym",
@@ -473,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2218"
   },
   {
     "gym_id": "goldsgym",
@@ -482,15 +474,16 @@
     "region": "関東",
     "prefecture": "東京都",
     "day": "水",
-    "start": "19:10",
-    "end": "20:00",
-    "class_name": "オリジナルエアロ",
-    "category": "AEROBICS",
-    "instructor": "今村彩子",
+    "start": "18:55",
+    "end": "19:55",
+    "class_name": "5/6 時間繰り上げ癒しのヨガ",
+    "category": "YOGA",
+    "instructor": "宮野香織",
     "studio": "スタジオ",
     "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
+    "genre": "リラックスヨガ系",
+    "note": "水・祝",
+    "instructor_id": "i7907"
   },
   {
     "gym_id": "goldsgym",
@@ -507,24 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "水",
-    "start": "20:15",
-    "end": "21:15",
-    "class_name": "オリジナルステップ",
-    "category": "STEP",
-    "instructor": null,
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": "(中級) / WEB17名 店頭7名"
+    "note": null,
+    "instructor_id": "i7905"
   },
   {
     "gym_id": "goldsgym",
@@ -541,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7907"
   },
   {
     "gym_id": "goldsgym",
@@ -549,7 +527,115 @@
     "store": "イースト東京",
     "region": "関東",
     "prefecture": "東京都",
-    "day": "水",
+    "day": "木",
+    "start": "10:00",
+    "end": "11:00",
+    "class_name": "バレエ",
+    "category": "BALLET",
+    "instructor": "瀬沼",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "リラックスヨガ系",
+    "note": "入門",
+    "instructor_id": "i3568"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "木",
+    "start": "11:15",
+    "end": "12:15",
+    "class_name": "初中級エアロ",
+    "category": "AEROBICS",
+    "instructor": "小松田美穂",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": null,
+    "instructor_id": "i7908"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "木",
+    "start": "12:30",
+    "end": "13:30",
+    "class_name": "ボディメイク",
+    "category": "STRENGTH & CORE",
+    "instructor": "YU-KA",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "コンディショニング系",
+    "note": null,
+    "instructor_id": "i2183"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "木",
+    "start": "14:15",
+    "end": "15:15",
+    "class_name": "オリジナルダンス",
+    "category": "JAZZ DANCE",
+    "instructor": "中川正博",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "リラックスヨガ系",
+    "note": null,
+    "instructor_id": "i7909"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "木",
+    "start": "19:10",
+    "end": "20:00",
+    "class_name": "オリジナルエアロ",
+    "category": "AEROBICS",
+    "instructor": "今村彩子",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": null,
+    "instructor_id": "i7833"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "木",
+    "start": "20:15",
+    "end": "21:15",
+    "class_name": "オリジナルステップ",
+    "category": "STEP",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": "(中級) / WEB17名 店頭7名",
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "木",
     "start": "21:30",
     "end": "22:00",
     "class_name": "林塾トレーニング講座",
@@ -558,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7910"
   },
   {
     "gym_id": "goldsgym",
@@ -566,7 +653,7 @@
     "store": "イースト東京",
     "region": "関東",
     "prefecture": "東京都",
-    "day": "水",
+    "day": "木",
     "start": "19:40",
     "end": "20:40",
     "class_name": "☆2階☆Gヨガ",
@@ -575,7 +662,8 @@
     "studio": "マットスタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7911"
   },
   {
     "gym_id": "goldsgym",
@@ -583,7 +671,7 @@
     "store": "イースト東京",
     "region": "関東",
     "prefecture": "東京都",
-    "day": "土",
+    "day": "金",
     "start": "10:20",
     "end": "11:20",
     "class_name": "ストレッチ&コンディショニング",
@@ -592,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7890"
   },
   {
     "gym_id": "goldsgym",
@@ -600,16 +689,161 @@
     "store": "イースト東京",
     "region": "関東",
     "prefecture": "東京都",
-    "day": "土",
-    "start": "10:30",
-    "end": "11:30",
-    "class_name": "ハタヨガ",
-    "category": "YOGA",
-    "instructor": "石田雅美",
+    "day": "金",
+    "start": "11:30",
+    "end": "12:00",
+    "class_name": "ビート&キックス",
+    "category": "BOXING",
+    "instructor": "小山内映子",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": null,
+    "instructor_id": "i7890"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "12:10",
+    "end": "13:00",
+    "class_name": "ナニアロハ",
+    "category": "OTHER",
+    "instructor": "emi",
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i3085"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "13:30",
+    "end": "14:20",
+    "class_name": "オリジナルエアロ",
+    "category": "AEROBICS",
+    "instructor": "今村彩子",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": null,
+    "instructor_id": "i7833"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "14:35",
+    "end": "15:35",
+    "class_name": "オリジナルステップ",
+    "category": "STEP",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": "(中級) / WEB17名 店頭7名",
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "17:00",
+    "end": "18:00",
+    "class_name": "初級クラス",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": "バレエスクール",
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "18:00",
+    "end": "20:00",
+    "class_name": "中級クラス",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": "バレエスクール",
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "20:20",
+    "end": "21:20",
+    "class_name": "初中級ステップ",
+    "category": "STEP",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": "WEB17名 店頭7名",
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "19:15",
+    "end": "20:15",
+    "class_name": "☆2階☆Gピラティス",
+    "category": "PILATES",
+    "instructor": "鈴木優子",
+    "studio": "マットスタジオ",
+    "reservation_required": false,
+    "genre": "コンディショニング系",
+    "note": null,
+    "instructor_id": "i202"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "20:30",
+    "end": "21:30",
+    "class_name": "☆2階☆リラックスヨガ",
+    "category": "YOGA",
+    "instructor": "石田雅美",
+    "studio": "マットスタジオ",
+    "reservation_required": false,
+    "genre": "リラックスヨガ系",
+    "note": null,
+    "instructor_id": "i7912"
   },
   {
     "gym_id": "goldsgym",
@@ -626,92 +860,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "11:30",
-    "end": "12:00",
-    "class_name": "ビート&キックス",
-    "category": "BOXING",
-    "instructor": "小山内映子",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "12:10",
-    "end": "13:00",
-    "class_name": "ナニアロハ",
-    "category": "OTHER",
-    "instructor": "emi",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "リラックスヨガ系",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "13:30",
-    "end": "14:30",
-    "class_name": "4週目 ビート&キックス",
-    "category": "BOXING",
-    "instructor": null,
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "13:30",
-    "end": "14:20",
-    "class_name": "オリジナルエアロ",
-    "category": "AEROBICS",
-    "instructor": "今村彩子",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "14:35",
-    "end": "15:35",
-    "class_name": "オリジナルステップ",
-    "category": "STEP",
-    "instructor": null,
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": "(中級) / WEB17名 店頭7名"
+    "note": null,
+    "instructor_id": "i7635"
   },
   {
     "gym_id": "goldsgym",
@@ -728,41 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "15:15",
-    "end": "15:45",
-    "class_name": "バレエの為のエクササイズ",
-    "category": "BALLET",
-    "instructor": "Chi-tan",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "17:00",
-    "end": "18:00",
-    "class_name": "初級クラス",
-    "category": "OTHER",
-    "instructor": null,
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": "バレエスクール"
+    "note": null,
+    "instructor_id": "i3512"
   },
   {
     "gym_id": "goldsgym",
@@ -779,41 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "17:30",
-    "end": "18:30",
-    "class_name": "ジャズダンス",
-    "category": "JAZZ DANCE",
-    "instructor": "Mayu",
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "リラックスヨガ系",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "18:00",
-    "end": "20:00",
-    "class_name": "中級クラス",
-    "category": "OTHER",
-    "instructor": null,
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": "バレエスクール"
+    "note": null,
+    "instructor_id": "i7869"
   },
   {
     "gym_id": "goldsgym",
@@ -830,24 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "20:20",
-    "end": "21:20",
-    "class_name": "初中級ステップ",
-    "category": "STEP",
-    "instructor": null,
-    "studio": "スタジオ",
-    "reservation_required": false,
-    "genre": "エアロビクス",
-    "note": "WEB17名 店頭7名"
+    "note": null,
+    "instructor_id": "i7913"
   },
   {
     "gym_id": "goldsgym",
@@ -864,7 +932,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "3週目 初級エアロ+"
+    "note": "3週目 初級エアロ+",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -881,7 +950,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -898,7 +968,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -909,13 +980,14 @@
     "day": "土",
     "start": "12:50",
     "end": "13:50",
-    "class_name": "今村 彩子1週目 中級ステップ☝WEB予約6/7 渡邊 睦美3週目 中級エアロ",
+    "class_name": "今村 彩子1週目 中級ステップ☝WEB予約5/3 渡邊 睦美3週目 中級エアロ",
     "category": "STEP",
     "instructor": null,
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "WEB17名 店頭7名"
+    "note": "WEB17名 店頭7名",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -932,7 +1004,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -949,7 +1022,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "WEB19名 店頭9名 / 2週目 クラシックバレエ入門"
+    "note": "WEB19名 店頭9名 / 2週目 クラシックバレエ入門",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -966,7 +1040,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -983,7 +1058,8 @@
     "studio": "スタジオ/スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": "バレエ75"
+    "note": "バレエ75",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -991,33 +1067,17 @@
     "store": "イースト東京",
     "region": "関東",
     "prefecture": "東京都",
-    "day": "土",
-    "start": "19:15",
-    "end": "20:15",
-    "class_name": "☆2階☆Gピラティス",
-    "category": "PILATES",
-    "instructor": "鈴木優子",
-    "studio": "マットスタジオ",
-    "reservation_required": false,
-    "genre": "コンディショニング系",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13110",
-    "store": "イースト東京",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "土",
-    "start": "20:30",
-    "end": "21:30",
-    "class_name": "☆2階☆リラックスヨガ",
+    "day": "日",
+    "start": "10:30",
+    "end": "11:30",
+    "class_name": "ハタヨガ",
     "category": "YOGA",
     "instructor": "石田雅美",
-    "studio": "マットスタジオ",
+    "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックスヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7912"
   },
   {
     "gym_id": "goldsgym",
@@ -1025,7 +1085,61 @@
     "store": "イースト東京",
     "region": "関東",
     "prefecture": "東京都",
-    "day": "土",
+    "day": "日",
+    "start": "13:30",
+    "end": "14:30",
+    "class_name": "4週目 ビート&キックス",
+    "category": "BOXING",
+    "instructor": null,
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": null,
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "日",
+    "start": "15:15",
+    "end": "15:45",
+    "class_name": "バレエの為のエクササイズ",
+    "category": "BALLET",
+    "instructor": "Chi-tan",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "エアロビクス",
+    "note": null,
+    "instructor_id": "i7744"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "日",
+    "start": "17:30",
+    "end": "18:30",
+    "class_name": "ジャズダンス",
+    "category": "JAZZ DANCE",
+    "instructor": "Mayu",
+    "studio": "スタジオ",
+    "reservation_required": false,
+    "genre": "リラックスヨガ系",
+    "note": null,
+    "instructor_id": "i2422"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13110",
+    "store": "イースト東京",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "日",
     "start": "9:00",
     "end": null,
     "class_name": "☆日曜☆",
@@ -1034,6 +1148,7 @@
     "studio": "マットスタジオ",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

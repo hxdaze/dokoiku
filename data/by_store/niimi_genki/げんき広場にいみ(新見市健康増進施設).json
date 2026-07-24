@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "簡単なほぐしとストレッチを行います"
+    "note": "簡単なほぐしとストレッチを行います",
+    "instructor_id": "i18705"
   },
   {
     "gym_id": "niimi_genki",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "ゆっくりとした動きと呼吸で機能改善を目指します"
+    "note": "ゆっくりとした動きと呼吸で機能改善を目指します",
+    "instructor_id": "i18705"
   },
   {
     "gym_id": "niimi_genki",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "水中でいろいろなジャンルの音楽に合わせて全身を動かします"
+    "note": "水中でいろいろなジャンルの音楽に合わせて全身を動かします",
+    "instructor_id": "i18706"
   },
   {
     "gym_id": "niimi_genki",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "身体を整える筋トレとストレッチを行います"
+    "note": "身体を整える筋トレとストレッチを行います",
+    "instructor_id": "i18707"
   },
   {
     "gym_id": "niimi_genki",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "様々なステップを行うエアロビクスです"
+    "note": "様々なステップを行うエアロビクスです",
+    "instructor_id": "i18707"
   },
   {
     "gym_id": "niimi_genki",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "湯田"
+    "note": "湯田",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "作野"
+    "note": "作野",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "流行りの曲やいろいろなジャンルの音楽に合わせて全身を動かします"
+    "note": "流行りの曲やいろいろなジャンルの音楽に合わせて全身を動かします",
+    "instructor_id": "i18706"
   },
   {
     "gym_id": "niimi_genki",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "いろいろなジャンルの音楽に合わせて全身を動かします"
+    "note": "いろいろなジャンルの音楽に合わせて全身を動かします",
+    "instructor_id": "i245"
   },
   {
     "gym_id": "niimi_genki",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "認知症予防運動「コグニサイズ」や脳トレを行います"
+    "note": "認知症予防運動「コグニサイズ」や脳トレを行います",
+    "instructor_id": "i11816"
   },
   {
     "gym_id": "niimi_genki",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[エアロの日]"
+    "note": "[エアロの日]",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[エアロの日]"
+    "note": "[エアロの日]",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[エアロの日]"
+    "note": "[エアロの日]",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[エアロの日]"
+    "note": "[エアロの日]",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[カラダ塾の日]"
+    "note": "[カラダ塾の日]",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[カラダ塾の日]"
+    "note": "[カラダ塾の日]",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "ピラティスの要素を含むリラックスできるヨガです"
+    "note": "ピラティスの要素を含むリラックスできるヨガです",
+    "instructor_id": "i18708"
   },
   {
     "gym_id": "niimi_genki",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "椅子に座り、音と合わせ体を動かします"
+    "note": "椅子に座り、音と合わせ体を動かします",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18709"
   },
   {
     "gym_id": "niimi_genki",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "バレエの要素を含むゆったりとした音と合わせ、姿勢・機械を図ります"
+    "note": "バレエの要素を含むゆったりとした音と合わせ、姿勢・機械を図ります",
+    "instructor_id": "i18710"
   },
   {
     "gym_id": "niimi_genki",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "キックやパンチなど、ポッキングの動きを取り入れた全身運動"
+    "note": "キックやパンチなど、ポッキングの動きを取り入れた全身運動",
+    "instructor_id": "i18711"
   },
   {
     "gym_id": "niimi_genki",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "椅子に座り、音楽に合わせ体を動かします"
+    "note": "椅子に座り、音楽に合わせ体を動かします",
+    "instructor_id": "i18710"
   },
   {
     "gym_id": "niimi_genki",
@@ -456,7 +482,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "植田"
+    "note": "植田",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "バレエの要素を含みゆったりとした音楽に合わせ、姿勢・機能改善を図ります"
+    "note": "バレエの要素を含みゆったりとした音楽に合わせ、姿勢・機能改善を図ります",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "奈須\nキックやパンチなどのボクシングの動きを取り入れた全身運動です"
+    "note": "奈須\nキックやパンチなどのボクシングの動きを取り入れた全身運動です",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "湯田"
+    "note": "湯田",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "湯田"
+    "note": "湯田",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "植田"
+    "note": "植田",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "奈須"
+    "note": "奈須",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "奈須"
+    "note": "奈須",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "藤本"
+    "note": "藤本",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "藤本\n筋トレと有酸素運動を交互に繰り返し減量、引き締めを狙います"
+    "note": "藤本\n筋トレと有酸素運動を交互に繰り返し減量、引き締めを狙います",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "基礎から始めるエアロピクスです"
+    "note": "基礎から始めるエアロピクスです",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "作野"
+    "note": "作野",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "作野\nいろいろなジャンルの音楽に合わせて全身を動かします"
+    "note": "作野\nいろいろなジャンルの音楽に合わせて全身を動かします",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週替わり"
+    "note": "週替わり",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※詳細は掲示物"
+    "note": "※詳細は掲示物",
+    "instructor_id": null
   },
   {
     "gym_id": "niimi_genki",
@@ -711,6 +752,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYPUMP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYBALANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYBALANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYPUMP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYBALANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "GRIT/CARDIO",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYATTACK",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "GRIT/CARDIO",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYBALANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "GRIT/CARDIO",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -320,6 +338,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

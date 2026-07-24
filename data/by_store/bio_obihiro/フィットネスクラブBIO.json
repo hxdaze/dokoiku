@@ -14,7 +14,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "骨格コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2064"
   },
   {
     "gym_id": "bio_obihiro",
@@ -31,7 +32,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -48,7 +50,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -65,7 +68,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i2067"
   },
   {
     "gym_id": "bio_obihiro",
@@ -82,7 +86,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i2068"
   },
   {
     "gym_id": "bio_obihiro",
@@ -99,7 +104,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2069"
   },
   {
     "gym_id": "bio_obihiro",
@@ -116,7 +122,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2070"
   },
   {
     "gym_id": "bio_obihiro",
@@ -133,7 +140,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i2071"
   },
   {
     "gym_id": "bio_obihiro",
@@ -150,7 +158,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2072"
   },
   {
     "gym_id": "bio_obihiro",
@@ -167,7 +176,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -184,7 +194,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -201,7 +212,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i2073"
   },
   {
     "gym_id": "bio_obihiro",
@@ -218,7 +230,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2074"
   },
   {
     "gym_id": "bio_obihiro",
@@ -235,7 +248,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -252,7 +266,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -269,7 +284,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i2075"
   },
   {
     "gym_id": "bio_obihiro",
@@ -286,7 +302,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2074"
   },
   {
     "gym_id": "bio_obihiro",
@@ -303,7 +320,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "骨格コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2074"
   },
   {
     "gym_id": "bio_obihiro",
@@ -320,7 +338,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i2067"
   },
   {
     "gym_id": "bio_obihiro",
@@ -337,7 +356,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2067"
   },
   {
     "gym_id": "bio_obihiro",
@@ -354,7 +374,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -371,7 +392,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2076"
   },
   {
     "gym_id": "bio_obihiro",
@@ -388,7 +410,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": "i2077"
   },
   {
     "gym_id": "bio_obihiro",
@@ -405,7 +428,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2070"
   },
   {
     "gym_id": "bio_obihiro",
@@ -422,7 +446,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2076"
   },
   {
     "gym_id": "bio_obihiro",
@@ -439,7 +464,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "自由練習",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -456,7 +482,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "自由練習",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -473,7 +500,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "自由練習",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -490,7 +518,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -507,7 +536,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2078"
   },
   {
     "gym_id": "bio_obihiro",
@@ -524,7 +554,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -541,7 +572,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "かんたんクロール"
+    "note": "かんたんクロール",
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -558,7 +590,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2068"
   },
   {
     "gym_id": "bio_obihiro",
@@ -575,7 +608,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i2071"
   },
   {
     "gym_id": "bio_obihiro",
@@ -592,7 +626,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "背骨コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2071"
   },
   {
     "gym_id": "bio_obihiro",
@@ -609,7 +644,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2074"
   },
   {
     "gym_id": "bio_obihiro",
@@ -626,7 +662,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -643,7 +680,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -660,7 +698,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -677,7 +716,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2076"
   },
   {
     "gym_id": "bio_obihiro",
@@ -694,7 +734,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -711,7 +752,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2074"
   },
   {
     "gym_id": "bio_obihiro",
@@ -728,7 +770,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "背骨コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2079"
   },
   {
     "gym_id": "bio_obihiro",
@@ -745,7 +788,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2080"
   },
   {
     "gym_id": "bio_obihiro",
@@ -762,7 +806,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2080"
   },
   {
     "gym_id": "bio_obihiro",
@@ -779,7 +824,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2067"
   },
   {
     "gym_id": "bio_obihiro",
@@ -796,7 +842,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -813,7 +860,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -830,7 +878,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -847,7 +896,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -864,7 +914,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -881,7 +932,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2074"
   },
   {
     "gym_id": "bio_obihiro",
@@ -898,7 +950,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2081"
   },
   {
     "gym_id": "bio_obihiro",
@@ -915,7 +968,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2082"
   },
   {
     "gym_id": "bio_obihiro",
@@ -932,7 +986,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i2071"
   },
   {
     "gym_id": "bio_obihiro",
@@ -949,7 +1004,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2080"
   },
   {
     "gym_id": "bio_obihiro",
@@ -966,7 +1022,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "背骨コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2064"
   },
   {
     "gym_id": "bio_obihiro",
@@ -983,7 +1040,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2073"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2068"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1017,7 +1076,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -1034,7 +1094,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1051,7 +1112,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1068,7 +1130,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i2083"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "背骨コンディショニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2071"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i2071"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2084"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2085"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2068"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1170,7 +1238,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -1187,7 +1256,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -1204,7 +1274,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2086"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1221,7 +1292,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -1238,7 +1310,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1255,7 +1328,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1272,7 +1346,8 @@
     "studio": "HIBIKI",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2066"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1289,7 +1364,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2080"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1306,7 +1382,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2080"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1323,7 +1400,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i2080"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2071"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1357,7 +1436,8 @@
     "studio": "ZERO Studhio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2087"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1374,7 +1454,8 @@
     "studio": "ZERO Studhio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2087"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1391,7 +1472,8 @@
     "studio": "ZERO Studhio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2087"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1408,7 +1490,8 @@
     "studio": "HOT Studhio",
     "reservation_required": true,
     "genre": null,
-    "note": "[定員6名]"
+    "note": "[定員6名]",
+    "instructor_id": "i2065"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1425,7 +1508,8 @@
     "studio": "HOT Studhio",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i2088"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1442,7 +1526,8 @@
     "studio": "HOT Studhio",
     "reservation_required": false,
     "genre": null,
-    "note": "CHANGE"
+    "note": "CHANGE",
+    "instructor_id": "i2076"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1459,7 +1544,8 @@
     "studio": "HOT Studhio",
     "reservation_required": false,
     "genre": null,
-    "note": "CHANGE"
+    "note": "CHANGE",
+    "instructor_id": "i2076"
   },
   {
     "gym_id": "bio_obihiro",
@@ -1476,7 +1562,8 @@
     "studio": "HOT Studhio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bio_obihiro",
@@ -1493,6 +1580,7 @@
     "studio": "HOT Studhio",
     "reservation_required": false,
     "genre": null,
-    "note": "※30分クラス"
+    "note": "※30分クラス",
+    "instructor_id": null
   }
 ]

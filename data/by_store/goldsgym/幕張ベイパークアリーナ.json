@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7752"
   },
   {
     "gym_id": "goldsgym",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7753"
   },
   {
     "gym_id": "goldsgym",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7707"
   },
   {
     "gym_id": "goldsgym",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": "代行)藤沼 美和"
+    "note": "代行)藤沼 美和",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7706"
   },
   {
     "gym_id": "goldsgym",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "ヨガ"
+    "note": "ヨガ",
+    "instructor_id": "i2623"
   },
   {
     "gym_id": "goldsgym",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7770"
   },
   {
     "gym_id": "goldsgym",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7706"
   },
   {
     "gym_id": "goldsgym",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7726"
   },
   {
     "gym_id": "goldsgym",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7754"
   },
   {
     "gym_id": "goldsgym",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7755"
   },
   {
     "gym_id": "goldsgym",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i587"
   },
   {
     "gym_id": "goldsgym",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7756"
   },
   {
     "gym_id": "goldsgym",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7757"
   },
   {
     "gym_id": "goldsgym",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(初級)"
+    "note": "(初級)",
+    "instructor_id": "i7718"
   },
   {
     "gym_id": "goldsgym",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7758"
   },
   {
     "gym_id": "goldsgym",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7770"
   },
   {
     "gym_id": "goldsgym",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7771"
   },
   {
     "gym_id": "goldsgym",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7772"
   },
   {
     "gym_id": "goldsgym",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(筋コン)"
+    "note": "(筋コン)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "※1階スペースにて実施"
+    "note": "※1階スペースにて実施",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7773"
   },
   {
     "gym_id": "goldsgym",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7759"
   },
   {
     "gym_id": "goldsgym",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7727"
   },
   {
     "gym_id": "goldsgym",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(3歳~中学生)"
+    "note": "(3歳~中学生)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i345"
   },
   {
     "gym_id": "goldsgym",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7726"
   },
   {
     "gym_id": "goldsgym",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7708"
   },
   {
     "gym_id": "goldsgym",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7760"
   },
   {
     "gym_id": "goldsgym",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7722"
   },
   {
     "gym_id": "goldsgym",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i345"
   },
   {
     "gym_id": "goldsgym",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7774"
   },
   {
     "gym_id": "goldsgym",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7758"
   },
   {
     "gym_id": "goldsgym",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7775"
   },
   {
     "gym_id": "goldsgym",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(足指から整える / コアコンディショニング)"
+    "note": "(足指から整える / コアコンディショニング)",
+    "instructor_id": "i4062"
   },
   {
     "gym_id": "goldsgym",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "入門"
+    "note": "入門",
+    "instructor_id": "i7776"
   },
   {
     "gym_id": "goldsgym",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7761"
   },
   {
     "gym_id": "goldsgym",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7761"
   },
   {
     "gym_id": "goldsgym",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7731"
   },
   {
     "gym_id": "goldsgym",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7731"
   },
   {
     "gym_id": "goldsgym",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7758"
   },
   {
     "gym_id": "goldsgym",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7762"
   },
   {
     "gym_id": "goldsgym",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7717"
   },
   {
     "gym_id": "goldsgym",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ初中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i7777"
   },
   {
     "gym_id": "goldsgym",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "入門"
+    "note": "入門",
+    "instructor_id": "i7778"
   },
   {
     "gym_id": "goldsgym",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2623"
   },
   {
     "gym_id": "goldsgym",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7725"
   },
   {
     "gym_id": "goldsgym",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7742"
   },
   {
     "gym_id": "goldsgym",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7745"
   },
   {
     "gym_id": "goldsgym",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i587"
   },
   {
     "gym_id": "goldsgym",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7763"
   },
   {
     "gym_id": "goldsgym",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7764"
   },
   {
     "gym_id": "goldsgym",
@@ -1136,7 +1202,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7566"
   },
   {
     "gym_id": "goldsgym",
@@ -1153,7 +1220,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "(筋コン+有酸素)"
+    "note": "(筋コン+有酸素)",
+    "instructor_id": "i7779"
   },
   {
     "gym_id": "goldsgym",
@@ -1170,7 +1238,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i1911"
   },
   {
     "gym_id": "goldsgym",
@@ -1187,7 +1256,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1204,7 +1274,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "初中級 / フリースタイルダンス"
+    "note": "初中級 / フリースタイルダンス",
+    "instructor_id": "i7744"
   },
   {
     "gym_id": "goldsgym",
@@ -1221,7 +1292,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1238,7 +1310,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1255,7 +1328,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "(中級)"
+    "note": "(中級)",
+    "instructor_id": "i7765"
   },
   {
     "gym_id": "goldsgym",
@@ -1272,7 +1346,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1289,7 +1364,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1914"
   },
   {
     "gym_id": "goldsgym",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "(入門) / 初級"
+    "note": "(入門) / 初級",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1323,7 +1400,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1340,7 +1418,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1357,7 +1436,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1374,7 +1454,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1391,7 +1472,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1408,7 +1490,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7780"
   },
   {
     "gym_id": "goldsgym",
@@ -1425,7 +1508,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7781"
   },
   {
     "gym_id": "goldsgym",
@@ -1442,7 +1526,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7773"
   },
   {
     "gym_id": "goldsgym",
@@ -1459,7 +1544,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1476,7 +1562,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7748"
   },
   {
     "gym_id": "goldsgym",
@@ -1493,7 +1580,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7748"
   },
   {
     "gym_id": "goldsgym",
@@ -1510,7 +1598,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(協栄ジム)"
+    "note": "(協栄ジム)",
+    "instructor_id": "i7766"
   },
   {
     "gym_id": "goldsgym",
@@ -1527,7 +1616,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1544,7 +1634,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7757"
   },
   {
     "gym_id": "goldsgym",
@@ -1561,7 +1652,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "(応用)"
+    "note": "(応用)",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1578,7 +1670,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7767"
   },
   {
     "gym_id": "goldsgym",
@@ -1595,7 +1688,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7757"
   },
   {
     "gym_id": "goldsgym",
@@ -1612,7 +1706,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "毎週実施"
+    "note": "毎週実施",
+    "instructor_id": "i1517"
   },
   {
     "gym_id": "goldsgym",
@@ -1629,7 +1724,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7782"
   },
   {
     "gym_id": "goldsgym",
@@ -1646,7 +1742,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(中学生~大学生)"
+    "note": "(中学生~大学生)",
+    "instructor_id": "i7783"
   },
   {
     "gym_id": "goldsgym",
@@ -1663,7 +1760,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1680,7 +1778,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7718"
   },
   {
     "gym_id": "goldsgym",
@@ -1697,7 +1796,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "(第2・4週) / 【有料レッスン】 / 初級"
+    "note": "(第2・4週) / 【有料レッスン】 / 初級",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1714,7 +1814,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1731,7 +1832,8 @@
     "studio": "マット",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7768"
   },
   {
     "gym_id": "goldsgym",
@@ -1748,7 +1850,8 @@
     "studio": "マット",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7725"
   },
   {
     "gym_id": "goldsgym",
@@ -1765,7 +1868,8 @@
     "studio": "マット",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(腰痛・膝痛改善)"
+    "note": "(腰痛・膝痛改善)",
+    "instructor_id": "i7725"
   },
   {
     "gym_id": "goldsgym",
@@ -1782,7 +1886,8 @@
     "studio": "マット/リング",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "コンディショニング"
+    "note": "コンディショニング",
+    "instructor_id": "i7769"
   },
   {
     "gym_id": "goldsgym",
@@ -1799,7 +1904,8 @@
     "studio": "リング",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7735"
   },
   {
     "gym_id": "goldsgym",
@@ -1816,7 +1922,8 @@
     "studio": "リング",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7735"
   },
   {
     "gym_id": "goldsgym",
@@ -1833,7 +1940,8 @@
     "studio": "マット",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7742"
   },
   {
     "gym_id": "goldsgym",
@@ -1850,7 +1958,8 @@
     "studio": "マット",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1914"
   },
   {
     "gym_id": "goldsgym",
@@ -1867,7 +1976,8 @@
     "studio": "マット",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1884,7 +1994,8 @@
     "studio": "マット",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1901,7 +2012,8 @@
     "studio": "リング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7742"
   },
   {
     "gym_id": "goldsgym",
@@ -1918,7 +2030,8 @@
     "studio": "リング",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7735"
   },
   {
     "gym_id": "goldsgym",
@@ -1935,6 +2048,7 @@
     "studio": "リング",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7735"
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": "ワークアウト",
-    "note": "1・3・5週目\nふくらむマーシャル\n2・4週目"
+    "note": "1・3・5週目\nふくらむマーシャル\n2・4週目",
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -31,7 +32,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": "J-POPで踊ろう",
-    "note": "1・3・5週目\n2・4週目\nオリジナルステップ30"
+    "note": "1・3・5週目\n2・4週目\nオリジナルステップ30",
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -48,7 +50,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": "マットエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -65,7 +68,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": "ラテンで踊ろう",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -82,7 +86,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": "1・3・5週目\n斎藤\n2・4週目\n仁美"
+    "note": "1・3・5週目\n斎藤\n2・4週目\n仁美",
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -99,7 +104,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": "別紙参照",
-    "note": "1・3・5週目\n斎藤\n2・4週目\n仁美"
+    "note": "1・3・5週目\n斎藤\n2・4週目\n仁美",
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -116,7 +122,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": "楽しいマーシャルワークアウト",
-    "note": "1・3・5週目\n2・4週目"
+    "note": "1・3・5週目\n2・4週目",
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -133,7 +140,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": "JAZZ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -150,7 +158,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": "リフレッシュ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -167,7 +176,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": "1・3・5週目\n2・4週目"
+    "note": "1・3・5週目\n2・4週目",
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -184,7 +194,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23422"
   },
   {
     "gym_id": "wing",
@@ -201,7 +212,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23423"
   },
   {
     "gym_id": "wing",
@@ -218,7 +230,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11330"
   },
   {
     "gym_id": "wing",
@@ -235,7 +248,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": "2・4週目 ピラティス"
+    "note": "2・4週目 ピラティス",
+    "instructor_id": "i23422"
   },
   {
     "gym_id": "wing",
@@ -252,7 +266,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23387"
   },
   {
     "gym_id": "wing",
@@ -269,7 +284,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23387"
   },
   {
     "gym_id": "wing",
@@ -286,7 +302,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23422"
   },
   {
     "gym_id": "wing",
@@ -303,7 +320,8 @@
     "studio": "Studio/Gym",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23422"
   },
   {
     "gym_id": "wing",
@@ -320,7 +338,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": "(別紙参照)"
+    "note": "(別紙参照)",
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -337,7 +356,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": "(別紙参照)"
+    "note": "(別紙参照)",
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -354,7 +374,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23422"
   },
   {
     "gym_id": "wing",
@@ -371,7 +392,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11329"
   },
   {
     "gym_id": "wing",
@@ -388,7 +410,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23424"
   },
   {
     "gym_id": "wing",
@@ -405,7 +428,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11329"
   },
   {
     "gym_id": "wing",
@@ -422,7 +446,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11329"
   },
   {
     "gym_id": "wing",
@@ -439,7 +464,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11329"
   },
   {
     "gym_id": "wing",
@@ -456,7 +482,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23394"
   },
   {
     "gym_id": "wing",
@@ -473,7 +500,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11329"
   },
   {
     "gym_id": "wing",
@@ -490,7 +518,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23425"
   },
   {
     "gym_id": "wing",
@@ -507,7 +536,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23425"
   },
   {
     "gym_id": "wing",
@@ -524,7 +554,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23426"
   },
   {
     "gym_id": "wing",
@@ -541,7 +572,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11329"
   },
   {
     "gym_id": "wing",
@@ -558,7 +590,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23426"
   },
   {
     "gym_id": "wing",
@@ -575,7 +608,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11329"
   },
   {
     "gym_id": "wing",
@@ -592,7 +626,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23427"
   },
   {
     "gym_id": "wing",
@@ -609,7 +644,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23394"
   },
   {
     "gym_id": "wing",
@@ -626,7 +662,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23428"
   },
   {
     "gym_id": "wing",
@@ -643,7 +680,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23394"
   },
   {
     "gym_id": "wing",
@@ -660,6 +698,7 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": "(別紙参照)"
+    "note": "(別紙参照)",
+    "instructor_id": null
   }
 ]

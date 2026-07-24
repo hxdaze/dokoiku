@@ -6177,7 +6177,7 @@
           "store_id": "musashi",
           "store": "メガロス 武蔵小金井",
           "region": "関東",
-          "lesson_count": 21,
+          "lesson_count": 35,
           "path": "by_store/megalos/メガロス_武蔵小金井.json"
         },
         {
@@ -6756,7 +6756,7 @@
           "store_id": "13110",
           "store": "イースト東京",
           "region": "関東",
-          "lesson_count": 61,
+          "lesson_count": 64,
           "path": "by_store/goldsgym/イースト東京.json"
         },
         {
@@ -6854,7 +6854,7 @@
           "store_id": "13220",
           "store": "サウス東京ANNEX",
           "region": "関東",
-          "lesson_count": 90,
+          "lesson_count": 91,
           "path": "by_store/goldsgym/サウス東京ANNEX.json"
         },
         {

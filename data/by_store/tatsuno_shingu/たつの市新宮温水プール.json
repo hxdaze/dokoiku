@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(※)"
+    "note": "(※)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "自立整体",
-    "note": "(松本)"
+    "note": "(松本)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(※)"
+    "note": "(※)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "自立整体",
-    "note": "(松本)"
+    "note": "(松本)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(小西)"
+    "note": "(小西)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(小西)"
+    "note": "(小西)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(松尾)"
+    "note": "(松尾)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(山下)"
+    "note": "(山下)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(山下)"
+    "note": "(山下)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(竹本)"
+    "note": "(竹本)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(小原)"
+    "note": "(小原)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(松尾)"
+    "note": "(松尾)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(パル)"
+    "note": "(パル)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(パル)"
+    "note": "(パル)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(三木)"
+    "note": "(三木)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(三木)"
+    "note": "(三木)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(松尾)"
+    "note": "(松尾)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(松尾)"
+    "note": "(松尾)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(藤縄)"
+    "note": "(藤縄)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(藤縄)"
+    "note": "(藤縄)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(松尾)"
+    "note": "(松尾)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(福島)"
+    "note": "(福島)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(岡澤)"
+    "note": "(岡澤)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(松尾)"
+    "note": "(松尾)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(植田)"
+    "note": "(植田)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(田中)"
+    "note": "(田中)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(藤縄)"
+    "note": "(藤縄)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(RiE)"
+    "note": "(RiE)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(田中)"
+    "note": "(田中)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(二級)"
+    "note": "(二級)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(松尾)"
+    "note": "(松尾)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(松尾)"
+    "note": "(松尾)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(岡澤)"
+    "note": "(岡澤)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(三木)"
+    "note": "(三木)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(竹本)"
+    "note": "(竹本)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(三木)"
+    "note": "(三木)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(小原)"
+    "note": "(小原)",
+    "instructor_id": null
   },
   {
     "gym_id": "tatsuno_shingu",
@@ -643,6 +680,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "(三木)"
+    "note": "(三木)",
+    "instructor_id": null
   }
 ]

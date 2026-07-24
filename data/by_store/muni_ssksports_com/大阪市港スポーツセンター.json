@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": "整理券配布及び受付 9:00 / 8コート"
+    "note": "整理券配布及び受付 9:00 / 8コート",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssksports_com",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": "整理券配布及び受付 11:00 / 8コート"
+    "note": "整理券配布及び受付 11:00 / 8コート",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssksports_com",
@@ -48,6 +50,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": "全てのゴールが大人の高さになります。"
+    "note": "全てのゴールが大人の高さになります。",
+    "instructor_id": null
   }
 ]

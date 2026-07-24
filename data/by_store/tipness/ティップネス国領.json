@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21865"
   },
   {
     "gym_id": "tipness",
@@ -31,7 +32,8 @@
     "studio": "Cスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21866"
   },
   {
     "gym_id": "tipness",
@@ -48,7 +50,8 @@
     "studio": "Cスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21867"
   },
   {
     "gym_id": "tipness",
@@ -65,7 +68,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21868"
   },
   {
     "gym_id": "tipness",
@@ -82,7 +86,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1064"
   },
   {
     "gym_id": "tipness",
@@ -99,7 +104,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21867"
   },
   {
     "gym_id": "tipness",
@@ -116,7 +122,8 @@
     "studio": "Cスタジオ",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i1064"
   },
   {
     "gym_id": "tipness",
@@ -133,7 +140,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -150,7 +158,8 @@
     "studio": "Cスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "下部: 無料"
+    "note": "下部: 無料",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -167,7 +176,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -184,7 +194,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5587"
   },
   {
     "gym_id": "tipness",
@@ -201,7 +212,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -218,7 +230,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -235,7 +248,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -286,7 +302,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21869"
   },
   {
     "gym_id": "tipness",
@@ -303,7 +320,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i21870"
   },
   {
     "gym_id": "tipness",
@@ -320,7 +338,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i21871"
   },
   {
     "gym_id": "tipness",
@@ -337,7 +356,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i21872"
   },
   {
     "gym_id": "tipness",
@@ -354,7 +374,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "音楽: サンセット"
+    "note": "音楽: サンセット",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5587"
   },
   {
     "gym_id": "tipness",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "おまけの体操: 20分"
+    "note": "おまけの体操: 20分",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "おまけの体操: 20分"
+    "note": "おまけの体操: 20分",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "下部: 無料"
+    "note": "下部: 無料",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "下部: 無料"
+    "note": "下部: 無料",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "小林 公明"
+    "note": "小林 公明",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "おまけの体操: 20分"
+    "note": "おまけの体操: 20分",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "振付: まゆみ / 有料"
+    "note": "振付: まゆみ / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "tipness",
@@ -507,6 +536,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "振付: まゆみ / 有料"
+    "note": "振付: まゆみ / 有料",
+    "instructor_id": null
   }
 ]

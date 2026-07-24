@@ -14,7 +14,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i4848"
   },
   {
     "gym_id": "nerima_sc",
@@ -31,7 +32,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i4848"
   },
   {
     "gym_id": "nerima_sc",
@@ -48,7 +50,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i4367"
   },
   {
     "gym_id": "nerima_sc",
@@ -65,7 +68,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i4367"
   },
   {
     "gym_id": "nerima_sc",
@@ -82,7 +86,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i2307"
   },
   {
     "gym_id": "nerima_sc",
@@ -99,7 +104,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i2307"
   },
   {
     "gym_id": "nerima_sc",
@@ -116,7 +122,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i18703"
   },
   {
     "gym_id": "nerima_sc",
@@ -133,7 +140,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i18703"
   },
   {
     "gym_id": "nerima_sc",
@@ -150,7 +158,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i18704"
   },
   {
     "gym_id": "nerima_sc",
@@ -167,7 +176,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i18704"
   },
   {
     "gym_id": "nerima_sc",
@@ -184,7 +194,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i2307"
   },
   {
     "gym_id": "nerima_sc",
@@ -201,7 +212,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i2307"
   },
   {
     "gym_id": "nerima_sc",
@@ -218,7 +230,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i2316"
   },
   {
     "gym_id": "nerima_sc",
@@ -235,7 +248,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "会議室",
-    "note": null
+    "note": null,
+    "instructor_id": "i2316"
   },
   {
     "gym_id": "nerima_sc",
@@ -252,7 +266,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i4367"
   },
   {
     "gym_id": "nerima_sc",
@@ -269,7 +284,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i4171"
   },
   {
     "gym_id": "nerima_sc",
@@ -286,7 +302,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i4171"
   },
   {
     "gym_id": "nerima_sc",
@@ -303,7 +320,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i2320"
   },
   {
     "gym_id": "nerima_sc",
@@ -320,7 +338,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i4367"
   },
   {
     "gym_id": "nerima_sc",
@@ -337,7 +356,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i7774"
   },
   {
     "gym_id": "nerima_sc",
@@ -354,7 +374,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i7774"
   },
   {
     "gym_id": "nerima_sc",
@@ -371,7 +392,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i4367"
   },
   {
     "gym_id": "nerima_sc",
@@ -388,7 +410,8 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i10496"
   },
   {
     "gym_id": "nerima_sc",
@@ -405,6 +428,7 @@
     "studio": "スタジオプログラム・プログラム詳細",
     "reservation_required": true,
     "genre": "武道場",
-    "note": null
+    "note": null,
+    "instructor_id": "i2320"
   }
 ]

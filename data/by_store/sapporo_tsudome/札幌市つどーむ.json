@@ -14,7 +14,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20696"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -31,7 +32,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21156"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -48,7 +50,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21157"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -65,7 +68,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21106"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -82,7 +86,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21158"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -99,7 +104,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21159"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -116,7 +122,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21160"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -133,7 +140,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21087"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -150,7 +158,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i21161"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -167,7 +176,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": "エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21162"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -184,7 +194,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21163"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -201,7 +212,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21087"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -218,7 +230,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": "エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21164"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -235,7 +248,8 @@
     "studio": "ミーティングルーム",
     "reservation_required": true,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21158"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i21087"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21159"
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsudome",
@@ -626,6 +662,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "alpen",
@@ -31,7 +32,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i552"
   },
   {
     "gym_id": "alpen",
@@ -48,7 +50,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i553"
   },
   {
     "gym_id": "alpen",
@@ -65,7 +68,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i554"
   },
   {
     "gym_id": "alpen",
@@ -82,7 +86,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i555"
   },
   {
     "gym_id": "alpen",
@@ -99,7 +104,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i556"
   },
   {
     "gym_id": "alpen",
@@ -116,7 +122,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i556"
   },
   {
     "gym_id": "alpen",
@@ -133,7 +140,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i556"
   },
   {
     "gym_id": "alpen",
@@ -150,7 +158,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i557"
   },
   {
     "gym_id": "alpen",
@@ -167,7 +176,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i558"
   },
   {
     "gym_id": "alpen",
@@ -184,7 +194,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i559"
   },
   {
     "gym_id": "alpen",
@@ -201,7 +212,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i560"
   },
   {
     "gym_id": "alpen",
@@ -218,7 +230,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": "周年祭"
+    "note": "周年祭",
+    "instructor_id": "i561"
   },
   {
     "gym_id": "alpen",
@@ -235,7 +248,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i562"
   },
   {
     "gym_id": "alpen",
@@ -252,7 +266,8 @@
     "studio": "A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i557"
   },
   {
     "gym_id": "alpen",
@@ -269,7 +284,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -286,7 +302,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -303,7 +320,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -320,7 +338,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -337,7 +356,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -354,7 +374,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -371,7 +392,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i555"
   },
   {
     "gym_id": "alpen",
@@ -388,7 +410,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i564"
   },
   {
     "gym_id": "alpen",
@@ -405,7 +428,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -422,7 +446,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i565"
   },
   {
     "gym_id": "alpen",
@@ -439,7 +464,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i552"
   },
   {
     "gym_id": "alpen",
@@ -456,7 +482,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i554"
   },
   {
     "gym_id": "alpen",
@@ -473,7 +500,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i558"
   },
   {
     "gym_id": "alpen",
@@ -490,7 +518,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i555"
   },
   {
     "gym_id": "alpen",
@@ -507,7 +536,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i564"
   },
   {
     "gym_id": "alpen",
@@ -524,7 +554,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -541,7 +572,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i557"
   },
   {
     "gym_id": "alpen",
@@ -558,7 +590,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i552"
   },
   {
     "gym_id": "alpen",
@@ -575,7 +608,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i554"
   },
   {
     "gym_id": "alpen",
@@ -592,7 +626,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i558"
   },
   {
     "gym_id": "alpen",
@@ -609,7 +644,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "alpen",
@@ -626,7 +662,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i566"
   },
   {
     "gym_id": "alpen",
@@ -643,7 +680,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i566"
   },
   {
     "gym_id": "alpen",
@@ -660,7 +698,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i556"
   },
   {
     "gym_id": "alpen",
@@ -677,7 +716,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i555"
   },
   {
     "gym_id": "alpen",
@@ -694,7 +734,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i567"
   },
   {
     "gym_id": "alpen",
@@ -711,7 +752,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i557"
   },
   {
     "gym_id": "alpen",
@@ -728,7 +770,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i557"
   },
   {
     "gym_id": "alpen",
@@ -745,7 +788,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "alpen",
@@ -762,7 +806,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i556"
   },
   {
     "gym_id": "alpen",
@@ -779,7 +824,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i561"
   },
   {
     "gym_id": "alpen",
@@ -796,7 +842,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i568"
   },
   {
     "gym_id": "alpen",
@@ -813,7 +860,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i562"
   },
   {
     "gym_id": "alpen",
@@ -830,7 +878,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": "その他",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "alpen",
@@ -847,7 +896,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -864,7 +914,8 @@
     "studio": "AQUA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "alpen",
@@ -881,7 +932,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i568"
   },
   {
     "gym_id": "alpen",
@@ -898,7 +950,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i567"
   },
   {
     "gym_id": "alpen",
@@ -915,7 +968,8 @@
     "studio": "studio A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i553"
   },
   {
     "gym_id": "alpen",
@@ -932,7 +986,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i559"
   },
   {
     "gym_id": "alpen",
@@ -949,7 +1004,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i561"
   },
   {
     "gym_id": "alpen",
@@ -966,7 +1022,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "alpen",
@@ -983,7 +1040,8 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "alpen",
@@ -1000,6 +1058,7 @@
     "studio": "studio A",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i569"
   }
 ]

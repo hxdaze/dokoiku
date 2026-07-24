@@ -14,7 +14,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21141"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -31,7 +32,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21142"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -48,7 +50,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -65,7 +68,8 @@
     "studio": "2階多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "北海道全員健康(株)"
+    "note": "北海道全員健康(株)",
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -82,7 +86,8 @@
     "studio": "2階多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "(おとなの月曜日)"
+    "note": "(おとなの月曜日)",
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -99,7 +104,8 @@
     "studio": "2階多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": "(おとなの火曜日)"
+    "note": "(おとなの火曜日)",
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -116,7 +122,8 @@
     "studio": "2階多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21143"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -133,7 +140,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21143"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -150,7 +158,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21086"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -167,7 +176,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -184,7 +194,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21144"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -201,7 +212,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21145"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -218,7 +230,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21145"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -235,7 +248,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21143"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -252,7 +266,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21146"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -269,7 +284,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21095"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -286,7 +302,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21095"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -303,7 +320,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21070"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -320,7 +338,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21070"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -337,7 +356,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -354,7 +374,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21147"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -371,7 +392,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "北海道全員健康(株)"
+    "note": "北海道全員健康(株)",
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -388,7 +410,8 @@
     "studio": "2階多目的の室",
     "reservation_required": true,
     "genre": null,
-    "note": "Hizz Performance Style"
+    "note": "Hizz Performance Style",
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -405,7 +428,8 @@
     "studio": "2階多目的の室",
     "reservation_required": true,
     "genre": null,
-    "note": "Hizz Performance Style"
+    "note": "Hizz Performance Style",
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -422,7 +446,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "いだみつこSST講師"
+    "note": "いだみつこSST講師",
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -439,7 +464,8 @@
     "studio": "2階多目的の室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21087"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -456,7 +482,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21142"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -473,7 +500,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21142"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -490,7 +518,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": "前田 淑絵"
+    "note": "前田 淑絵",
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -507,7 +536,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21148"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -524,7 +554,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21147"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21149"
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -779,7 +824,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "有酸素運動と筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -796,7 +842,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "有酸素運動と筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_nishi_gym",
@@ -915,6 +968,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23222"
   },
   {
     "gym_id": "toritaiku",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i993"
   },
   {
     "gym_id": "toritaiku",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23223"
   },
   {
     "gym_id": "toritaiku",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23224"
   },
   {
     "gym_id": "toritaiku",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23224"
   },
   {
     "gym_id": "toritaiku",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23225"
   },
   {
     "gym_id": "toritaiku",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i21714"
   },
   {
     "gym_id": "toritaiku",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i21714"
   },
   {
     "gym_id": "toritaiku",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23222"
   },
   {
     "gym_id": "toritaiku",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i22187"
   },
   {
     "gym_id": "toritaiku",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i22187"
   },
   {
     "gym_id": "toritaiku",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i2440"
   },
   {
     "gym_id": "toritaiku",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23226"
   },
   {
     "gym_id": "toritaiku",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i2294"
   },
   {
     "gym_id": "toritaiku",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23223"
   },
   {
     "gym_id": "toritaiku",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23223"
   },
   {
     "gym_id": "toritaiku",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23223"
   },
   {
     "gym_id": "toritaiku",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料] / 丹澤 正"
+    "note": "[有料] / 丹澤 正",
+    "instructor_id": "i23227"
   },
   {
     "gym_id": "toritaiku",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料] / MOVE BODY"
+    "note": "[有料] / MOVE BODY",
+    "instructor_id": "i23228"
   },
   {
     "gym_id": "toritaiku",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i21588"
   },
   {
     "gym_id": "toritaiku",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23229"
   },
   {
     "gym_id": "toritaiku",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23230"
   },
   {
     "gym_id": "toritaiku",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23223"
   },
   {
     "gym_id": "toritaiku",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23231"
   },
   {
     "gym_id": "toritaiku",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23231"
   },
   {
     "gym_id": "toritaiku",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23223"
   },
   {
     "gym_id": "toritaiku",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i7640"
   },
   {
     "gym_id": "toritaiku",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[登録制] / 登録制"
+    "note": "[登録制] / 登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "toritaiku",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23232"
   },
   {
     "gym_id": "toritaiku",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23233"
   },
   {
     "gym_id": "toritaiku",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]"
+    "note": "[有料]",
+    "instructor_id": "i23232"
   },
   {
     "gym_id": "toritaiku",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23234"
   },
   {
     "gym_id": "toritaiku",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "toritaiku",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21347"
   },
   {
     "gym_id": "toritaiku",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23235"
   },
   {
     "gym_id": "toritaiku",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23235"
   },
   {
     "gym_id": "toritaiku",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23236"
   },
   {
     "gym_id": "toritaiku",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23237"
   },
   {
     "gym_id": "toritaiku",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2279"
   },
   {
     "gym_id": "toritaiku",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21674"
   },
   {
     "gym_id": "toritaiku",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23238"
   },
   {
     "gym_id": "toritaiku",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10797"
   },
   {
     "gym_id": "toritaiku",
@@ -728,7 +770,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23238"
   },
   {
     "gym_id": "toritaiku",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10797"
   },
   {
     "gym_id": "toritaiku",
@@ -762,7 +806,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5613"
   },
   {
     "gym_id": "toritaiku",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11037"
   },
   {
     "gym_id": "toritaiku",
@@ -796,7 +842,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "toritaiku",
@@ -813,7 +860,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23239"
   },
   {
     "gym_id": "toritaiku",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23239"
   },
   {
     "gym_id": "toritaiku",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i23240"
   },
   {
     "gym_id": "toritaiku",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i23240"
   },
   {
     "gym_id": "toritaiku",
@@ -881,7 +932,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23241"
   },
   {
     "gym_id": "toritaiku",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "toritaiku",
@@ -915,7 +968,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "布施谷 唯"
+    "note": "布施谷 唯",
+    "instructor_id": null
   },
   {
     "gym_id": "toritaiku",
@@ -932,7 +986,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23242"
   },
   {
     "gym_id": "toritaiku",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i23240"
   },
   {
     "gym_id": "toritaiku",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21347"
   },
   {
     "gym_id": "toritaiku",
@@ -983,6 +1040,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

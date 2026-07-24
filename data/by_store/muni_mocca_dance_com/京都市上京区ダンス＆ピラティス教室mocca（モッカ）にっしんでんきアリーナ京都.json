@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17978"
   },
   {
     "gym_id": "muni_mocca_dance_com",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17978"
   },
   {
     "gym_id": "muni_mocca_dance_com",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17978"
   },
   {
     "gym_id": "muni_mocca_dance_com",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17978"
   },
   {
     "gym_id": "muni_mocca_dance_com",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17978"
   },
   {
     "gym_id": "muni_mocca_dance_com",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17978"
   },
   {
     "gym_id": "muni_mocca_dance_com",
@@ -116,6 +122,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17978"
   }
 ]

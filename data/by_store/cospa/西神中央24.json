@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "リトモス",
-    "note": "10:30~11:15 [増田 依子]"
+    "note": "10:30~11:15 [増田 依子]",
+    "instructor_id": "i6190"
   },
   {
     "gym_id": "cospa",
@@ -31,7 +32,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "[上之原 莫美子]"
+    "note": "[上之原 莫美子]",
+    "instructor_id": "i6763"
   },
   {
     "gym_id": "cospa",
@@ -48,7 +50,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": "[MIKA]"
+    "note": "[MIKA]",
+    "instructor_id": "i285"
   },
   {
     "gym_id": "cospa",
@@ -65,7 +68,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "有料スクール",
-    "note": "[大川 広己]"
+    "note": "[大川 広己]",
+    "instructor_id": "i6203"
   },
   {
     "gym_id": "cospa",
@@ -82,7 +86,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": "[大川 広己]"
+    "note": "[大川 広己]",
+    "instructor_id": "i6203"
   },
   {
     "gym_id": "cospa",
@@ -99,7 +104,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": "[MIKA]"
+    "note": "[MIKA]",
+    "instructor_id": "i285"
   },
   {
     "gym_id": "cospa",
@@ -116,7 +122,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "[江川 すみれ]"
+    "note": "[江川 すみれ]",
+    "instructor_id": "i6190"
   },
   {
     "gym_id": "cospa",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ウォーキング",
-    "note": "[休館 日]"
+    "note": "[休館 日]",
+    "instructor_id": "i6764"
   },
   {
     "gym_id": "cospa",
@@ -150,7 +158,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": "[畑 ゆかり]"
+    "note": "[畑 ゆかり]",
+    "instructor_id": "i1147"
   },
   {
     "gym_id": "cospa",
@@ -167,7 +176,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "[山内 一郎]"
+    "note": "[山内 一郎]",
+    "instructor_id": "i1729"
   },
   {
     "gym_id": "cospa",
@@ -184,7 +194,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "[まゆみ]"
+    "note": "[まゆみ]",
+    "instructor_id": "i6765"
   },
   {
     "gym_id": "cospa",
@@ -201,7 +212,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": "[まゆみ]"
+    "note": "[まゆみ]",
+    "instructor_id": "i6765"
   },
   {
     "gym_id": "cospa",
@@ -218,7 +230,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": "[まゆみ]"
+    "note": "[まゆみ]",
+    "instructor_id": "i6765"
   },
   {
     "gym_id": "cospa",
@@ -235,7 +248,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "リトモス",
-    "note": "[江川 すみれ]"
+    "note": "[江川 すみれ]",
+    "instructor_id": "i6190"
   },
   {
     "gym_id": "cospa",
@@ -252,7 +266,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "リトモス",
-    "note": "[江川 すみれ]"
+    "note": "[江川 すみれ]",
+    "instructor_id": "i6190"
   },
   {
     "gym_id": "cospa",
@@ -269,7 +284,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "[阿南 七重]"
+    "note": "[阿南 七重]",
+    "instructor_id": "i6766"
   },
   {
     "gym_id": "cospa",
@@ -286,7 +302,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "[江川 すみれ]"
+    "note": "[江川 すみれ]",
+    "instructor_id": "i6190"
   },
   {
     "gym_id": "cospa",
@@ -303,7 +320,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "[阿南 七重]"
+    "note": "[阿南 七重]",
+    "instructor_id": "i6766"
   },
   {
     "gym_id": "cospa",
@@ -320,7 +338,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "Dance Fit",
-    "note": "[江川 すみれ]"
+    "note": "[江川 すみれ]",
+    "instructor_id": "i6190"
   },
   {
     "gym_id": "cospa",
@@ -337,7 +356,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ルーシーダットン",
-    "note": "[西田 京樹]"
+    "note": "[西田 京樹]",
+    "instructor_id": "i6767"
   },
   {
     "gym_id": "cospa",
@@ -354,7 +374,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "[竹内 美]"
+    "note": "[竹内 美]",
+    "instructor_id": "i6768"
   },
   {
     "gym_id": "cospa",
@@ -371,7 +392,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "TAIKAN",
-    "note": "[片岡 裕子]"
+    "note": "[片岡 裕子]",
+    "instructor_id": "i6769"
   },
   {
     "gym_id": "cospa",
@@ -388,7 +410,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ステップ",
-    "note": "[竹内 美]"
+    "note": "[竹内 美]",
+    "instructor_id": "i6768"
   },
   {
     "gym_id": "cospa",
@@ -405,7 +428,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ラテンフュージョン",
-    "note": "[Tomo]"
+    "note": "[Tomo]",
+    "instructor_id": "i667"
   },
   {
     "gym_id": "cospa",
@@ -422,7 +446,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ヨーガ",
-    "note": "[畑 ゆかり]"
+    "note": "[畑 ゆかり]",
+    "instructor_id": "i1147"
   },
   {
     "gym_id": "cospa",
@@ -439,7 +464,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "[片岡 裕子]"
+    "note": "[片岡 裕子]",
+    "instructor_id": "i6769"
   },
   {
     "gym_id": "cospa",
@@ -456,7 +482,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": "[片岡 裕子]"
+    "note": "[片岡 裕子]",
+    "instructor_id": "i6769"
   },
   {
     "gym_id": "cospa",
@@ -473,7 +500,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "TAIKAN",
-    "note": "[片岡 裕子]"
+    "note": "[片岡 裕子]",
+    "instructor_id": "i6769"
   },
   {
     "gym_id": "cospa",
@@ -490,7 +518,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "バーチャルプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -507,7 +536,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "バーチャルプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -524,7 +554,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "バーチャルプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -541,7 +572,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "バーチャルプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -558,7 +590,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": "[吉田 京樹]"
+    "note": "[吉田 京樹]",
+    "instructor_id": "i6770"
   },
   {
     "gym_id": "cospa",
@@ -575,7 +608,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6771"
   },
   {
     "gym_id": "cospa",
@@ -592,7 +626,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6771"
   },
   {
     "gym_id": "cospa",
@@ -609,7 +644,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "入門"
+    "note": "入門",
+    "instructor_id": "i6772"
   },
   {
     "gym_id": "cospa",
@@ -626,7 +662,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6773"
   },
   {
     "gym_id": "cospa",
@@ -643,7 +680,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6773"
   },
   {
     "gym_id": "cospa",
@@ -660,7 +698,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i667"
   },
   {
     "gym_id": "cospa",
@@ -677,7 +716,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6771"
   },
   {
     "gym_id": "cospa",
@@ -694,7 +734,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6771"
   },
   {
     "gym_id": "cospa",
@@ -711,7 +752,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6774"
   },
   {
     "gym_id": "cospa",
@@ -728,7 +770,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6775"
   },
   {
     "gym_id": "cospa",
@@ -745,7 +788,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6776"
   },
   {
     "gym_id": "cospa",
@@ -762,7 +806,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6777"
   },
   {
     "gym_id": "cospa",
@@ -779,7 +824,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6777"
   },
   {
     "gym_id": "cospa",
@@ -796,7 +842,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -813,7 +860,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6772"
   },
   {
     "gym_id": "cospa",
@@ -830,7 +878,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6653"
   },
   {
     "gym_id": "cospa",
@@ -847,7 +896,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6772"
   },
   {
     "gym_id": "cospa",
@@ -864,7 +914,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i285"
   },
   {
     "gym_id": "cospa",
@@ -881,7 +932,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6772"
   },
   {
     "gym_id": "cospa",
@@ -898,7 +950,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6778"
   },
   {
     "gym_id": "cospa",
@@ -915,7 +968,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -932,7 +986,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "4泳法"
+    "note": "4泳法",
+    "instructor_id": "i6779"
   },
   {
     "gym_id": "cospa",
@@ -949,7 +1004,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "入門"
+    "note": "入門",
+    "instructor_id": "i6772"
   },
   {
     "gym_id": "cospa",
@@ -966,7 +1022,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中・高年生"
+    "note": "中・高年生",
+    "instructor_id": "i6780"
   },
   {
     "gym_id": "cospa",
@@ -983,7 +1040,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初心"
+    "note": "初心",
+    "instructor_id": "i6780"
   },
   {
     "gym_id": "cospa",
@@ -1000,7 +1058,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中・高年生"
+    "note": "中・高年生",
+    "instructor_id": "i6780"
   },
   {
     "gym_id": "cospa",
@@ -1017,7 +1076,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1034,7 +1094,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1051,7 +1112,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2654"
   },
   {
     "gym_id": "cospa",
@@ -1068,7 +1130,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2654"
   },
   {
     "gym_id": "cospa",
@@ -1085,7 +1148,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6781"
   },
   {
     "gym_id": "cospa",
@@ -1102,7 +1166,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1119,7 +1184,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6782"
   },
   {
     "gym_id": "cospa",
@@ -1136,7 +1202,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6783"
   },
   {
     "gym_id": "cospa",
@@ -1153,7 +1220,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6784"
   },
   {
     "gym_id": "cospa",
@@ -1170,7 +1238,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6785"
   },
   {
     "gym_id": "cospa",
@@ -1187,7 +1256,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i667"
   },
   {
     "gym_id": "cospa",
@@ -1204,7 +1274,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1221,7 +1292,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "入門"
+    "note": "入門",
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1238,7 +1310,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1255,7 +1328,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中・高年生"
+    "note": "中・高年生",
+    "instructor_id": "i6780"
   },
   {
     "gym_id": "cospa",
@@ -1272,7 +1346,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2654"
   },
   {
     "gym_id": "cospa",
@@ -1289,7 +1364,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6786"
   },
   {
     "gym_id": "cospa",
@@ -1306,7 +1382,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6787"
   },
   {
     "gym_id": "cospa",
@@ -1323,7 +1400,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6781"
   },
   {
     "gym_id": "cospa",
@@ -1340,7 +1418,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2654"
   },
   {
     "gym_id": "cospa",
@@ -1357,7 +1436,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "Tomo / 10:15~11:15"
+    "note": "Tomo / 10:15~11:15",
+    "instructor_id": "i667"
   },
   {
     "gym_id": "cospa",
@@ -1374,7 +1454,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "Tomo / 11:00~11:30"
+    "note": "Tomo / 11:00~11:30",
+    "instructor_id": "i667"
   },
   {
     "gym_id": "cospa",
@@ -1391,7 +1472,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "12:00~13:00"
+    "note": "12:00~13:00",
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1408,7 +1490,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "12:40~13:15"
+    "note": "12:40~13:15",
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1425,7 +1508,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "赤瀬 茉子 / 13:15~14:00"
+    "note": "赤瀬 茉子 / 13:15~14:00",
+    "instructor_id": "i6788"
   },
   {
     "gym_id": "cospa",
@@ -1442,7 +1526,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6789"
   },
   {
     "gym_id": "cospa",
@@ -1459,7 +1544,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "Kei / 14:00~15:00"
+    "note": "Kei / 14:00~15:00",
+    "instructor_id": "i6790"
   },
   {
     "gym_id": "cospa",
@@ -1476,7 +1562,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "大川 志己 / 15:30~16:00"
+    "note": "大川 志己 / 15:30~16:00",
+    "instructor_id": "i6779"
   },
   {
     "gym_id": "cospa",
@@ -1493,7 +1580,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i667"
   },
   {
     "gym_id": "cospa",
@@ -1510,7 +1598,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6200"
   },
   {
     "gym_id": "cospa",
@@ -1527,7 +1616,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i667"
   },
   {
     "gym_id": "cospa",
@@ -1544,7 +1634,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6791"
   },
   {
     "gym_id": "cospa",
@@ -1561,7 +1652,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1578,7 +1670,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1595,7 +1688,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6792"
   },
   {
     "gym_id": "cospa",
@@ -1612,7 +1706,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6790"
   },
   {
     "gym_id": "cospa",
@@ -1629,7 +1724,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "プレミアム"
+    "note": "プレミアム",
+    "instructor_id": "i6793"
   },
   {
     "gym_id": "cospa",
@@ -1646,7 +1742,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1663,7 +1760,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6203"
   },
   {
     "gym_id": "cospa",
@@ -1680,7 +1778,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1697,7 +1796,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6794"
   },
   {
     "gym_id": "cospa",
@@ -1714,7 +1814,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6794"
   },
   {
     "gym_id": "cospa",
@@ -1731,7 +1832,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "入門"
+    "note": "入門",
+    "instructor_id": "i6795"
   },
   {
     "gym_id": "cospa",
@@ -1748,7 +1850,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6795"
   },
   {
     "gym_id": "cospa",
@@ -1765,7 +1868,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1782,7 +1886,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1799,7 +1904,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1816,7 +1922,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1833,7 +1940,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6794"
   },
   {
     "gym_id": "cospa",
@@ -1850,7 +1958,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6203"
   },
   {
     "gym_id": "cospa",
@@ -1867,7 +1976,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1884,7 +1994,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1901,7 +2012,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1918,7 +2030,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステッププログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1935,7 +2048,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステッププログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1952,7 +2066,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1969,7 +2084,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -1986,7 +2102,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2003,7 +2120,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2020,7 +2138,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "格闘技系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2037,7 +2156,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "格闘技系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2054,7 +2174,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2071,7 +2192,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2088,7 +2210,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2105,7 +2228,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2122,7 +2246,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2139,7 +2264,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2156,7 +2282,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2173,7 +2300,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2190,7 +2318,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "調整系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2207,7 +2336,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "カルチャー系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2224,7 +2354,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "カルチャー系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2241,7 +2372,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2258,7 +2390,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2275,7 +2408,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2292,7 +2426,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステッププログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2309,7 +2444,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステッププログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2326,7 +2462,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2343,7 +2480,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2360,7 +2498,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2377,7 +2516,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2394,7 +2534,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "格闘技系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2411,7 +2552,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "格闘技系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2428,7 +2570,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2445,7 +2588,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2462,7 +2606,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2479,7 +2624,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2496,7 +2642,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2513,7 +2660,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2530,7 +2678,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2547,7 +2696,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2564,7 +2714,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "調整系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2581,7 +2732,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "カルチャー系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2598,7 +2750,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "カルチャー系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2615,7 +2768,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2632,7 +2786,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2649,7 +2804,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクスプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2666,7 +2822,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステッププログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2683,7 +2840,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステッププログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2700,7 +2858,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2717,7 +2876,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2734,7 +2894,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2751,7 +2912,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2768,7 +2930,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "格闘技系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2785,7 +2948,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "格闘技系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2802,7 +2966,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2819,7 +2984,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2836,7 +3002,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2853,7 +3020,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力アップ・シェイプアップ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2870,7 +3038,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2887,7 +3056,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2904,7 +3074,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2921,7 +3092,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ系プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2938,7 +3110,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "アクアプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2955,7 +3128,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2972,7 +3146,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -2989,7 +3164,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "アクアプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3006,7 +3182,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3023,7 +3200,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3040,7 +3218,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "アクアプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3057,7 +3236,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3074,7 +3254,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3091,7 +3272,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "アクアプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3108,7 +3290,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3125,7 +3308,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3142,7 +3326,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "アクアプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3159,7 +3344,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3176,7 +3362,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3193,7 +3380,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "アクアプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3210,7 +3398,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3227,7 +3416,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3244,7 +3434,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "アクアプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3261,7 +3452,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "cospa",
@@ -3278,6 +3470,7 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "スイミングプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

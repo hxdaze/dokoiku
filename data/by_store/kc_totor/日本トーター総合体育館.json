@@ -14,7 +14,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -31,7 +32,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -48,7 +50,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -65,7 +68,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -82,7 +86,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -99,7 +104,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -116,7 +122,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -133,7 +140,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -150,7 +158,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -167,7 +176,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -184,7 +194,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -201,7 +212,8 @@
     "studio": "水中エアロビクス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -218,7 +230,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -235,7 +248,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -252,7 +266,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -269,7 +284,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -286,7 +302,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -303,7 +320,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<龍馬看護ふくし専門学校>"
+    "note": "<龍馬看護ふくし専門学校>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -320,7 +338,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -337,7 +356,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -354,7 +374,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<高知県フォークダンス連盟>"
+    "note": "<高知県フォークダンス連盟>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -371,7 +392,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -388,7 +410,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -405,7 +428,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -422,7 +446,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -439,7 +464,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -456,7 +482,8 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_totor",
@@ -473,6 +500,7 @@
     "studio": "主競技場",
     "reservation_required": false,
     "genre": null,
-    "note": "<事業団>"
+    "note": "<事業団>",
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "第一体育場",
     "reservation_required": false,
     "genre": "健康づくり熟年体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -31,7 +32,8 @@
     "studio": "第一体育場",
     "reservation_required": false,
     "genre": "健康づくり熟年体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -48,7 +50,8 @@
     "studio": "第一体育場",
     "reservation_required": false,
     "genre": "健康づくり熟年体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -65,7 +68,8 @@
     "studio": "第一体育場",
     "reservation_required": false,
     "genre": "健康づくり熟年体操",
-    "note": "(実質70分)"
+    "note": "(実質70分)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -82,7 +86,8 @@
     "studio": "第二体育場",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "初心者24式"
+    "note": "初心者24式",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -99,7 +104,8 @@
     "studio": "第二体育場",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "24式+総合"
+    "note": "24式+総合",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -116,7 +122,8 @@
     "studio": "第二体育場",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "48式"
+    "note": "48式",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -133,7 +140,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "機能改善/バランスのとれたボディに"
+    "note": "機能改善/バランスのとれたボディに",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -150,7 +158,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "音楽にあわせてバレエとピラティスを楽しんで行います"
+    "note": "音楽にあわせてバレエとピラティスを楽しんで行います",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -167,7 +176,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "A"
+    "note": "A",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -184,7 +194,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "B"
+    "note": "B",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -201,7 +212,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "金"
+    "note": "金",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -218,7 +230,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "ゆったりとした動きの癒しのヨガ"
+    "note": "ゆったりとした動きの癒しのヨガ",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -235,7 +248,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "音楽に合わせ身体全体をほぐし、ダンスステップを無理なく"
+    "note": "音楽に合わせ身体全体をほぐし、ダンスステップを無理なく",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -252,7 +266,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "楽しみます"
+    "note": "楽しみます",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -269,7 +284,8 @@
     "studio": "第一体育場",
     "reservation_required": false,
     "genre": "新体操",
-    "note": "B 経験者 (n)"
+    "note": "B 経験者 (n)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -286,7 +302,8 @@
     "studio": "第一体育場",
     "reservation_required": false,
     "genre": "新体操",
-    "note": "C 上級者 (n)"
+    "note": "C 上級者 (n)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "元気体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エヴェッサバスケット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_miyakojimasc",
@@ -354,6 +374,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エヴェッサバスケット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

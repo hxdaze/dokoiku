@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "テクニック+45"
+    "note": "テクニック+45",
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7131"
   },
   {
     "gym_id": "fiteasy",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7113"
   },
   {
     "gym_id": "fiteasy",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1155"
   },
   {
     "gym_id": "fiteasy",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7113"
   },
   {
     "gym_id": "fiteasy",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7132"
   },
   {
     "gym_id": "fiteasy",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7132"
   },
   {
     "gym_id": "fiteasy",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "テクニック+45"
+    "note": "テクニック+45",
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i630"
   },
   {
     "gym_id": "fiteasy",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i630"
   },
   {
     "gym_id": "fiteasy",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1155"
   },
   {
     "gym_id": "fiteasy",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2689"
   },
   {
     "gym_id": "fiteasy",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2689"
   },
   {
     "gym_id": "fiteasy",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i505"
   },
   {
     "gym_id": "fiteasy",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1208"
   },
   {
     "gym_id": "fiteasy",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "6/20から！"
+    "note": "6/20から！",
+    "instructor_id": "i1155"
   },
   {
     "gym_id": "fiteasy",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "6/20から！"
+    "note": "6/20から！",
+    "instructor_id": "i1155"
   },
   {
     "gym_id": "fiteasy",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "BASIC"
+    "note": "BASIC",
+    "instructor_id": "i630"
   },
   {
     "gym_id": "fiteasy",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i630"
   },
   {
     "gym_id": "fiteasy",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7133"
   },
   {
     "gym_id": "fiteasy",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i505"
   },
   {
     "gym_id": "fiteasy",
@@ -490,6 +518,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i505"
   }
 ]

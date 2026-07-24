@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "担当・時間変更"
+    "note": "担当・時間変更",
+    "instructor_id": "i12098"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "時間変更"
+    "note": "時間変更",
+    "instructor_id": "i12099"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "安藤"
+    "note": "安藤",
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12100"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12101"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5992"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12102"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12103"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6213"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5992"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12102"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6213"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1267"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12099"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "担当・時間変更"
+    "note": "担当・時間変更",
+    "instructor_id": "i1113"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12102"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12104"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12104"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6213"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12101"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12105"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1113"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6148"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5989"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6148"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5989"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6213"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6213"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "筋トレメイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i6148"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "筋トレメイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i12106"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5989"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i5992"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i6213"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -660,7 +698,8 @@
     "studio": "ドルフィンプール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1113"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1113"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5990"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -728,7 +770,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12102"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i12102"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -762,7 +806,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -796,7 +842,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -813,7 +860,8 @@
     "studio": "ドルフィンプール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": "(or 13:30)"
+    "note": "(or 13:30)",
+    "instructor_id": null
   },
   {
     "gym_id": "jsquare_gifu",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i12103"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1264"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -881,7 +932,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12103"
   },
   {
     "gym_id": "jsquare_gifu",
@@ -898,6 +950,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5990"
   }
 ]

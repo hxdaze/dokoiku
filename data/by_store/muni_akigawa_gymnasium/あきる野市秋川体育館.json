@@ -14,7 +14,8 @@
     "studio": "第1トレーニング室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17828"
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -31,7 +32,8 @@
     "studio": "第1トレーニング室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17828"
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -48,7 +50,8 @@
     "studio": "第1トレーニング室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17828"
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -65,7 +68,8 @@
     "studio": "剣道場",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -82,7 +86,8 @@
     "studio": "柔道場",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -99,7 +104,8 @@
     "studio": "第1トレーニング室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -116,7 +122,8 @@
     "studio": "第1トレーニング室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -133,7 +140,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -150,7 +158,8 @@
     "studio": "大体育室B面",
     "reservation_required": true,
     "genre": null,
-    "note": "2~4年生"
+    "note": "2~4年生",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_akigawa_gymnasium",
@@ -167,6 +176,7 @@
     "studio": "大体育室B面",
     "reservation_required": true,
     "genre": null,
-    "note": "4~6年生"
+    "note": "4~6年生",
+    "instructor_id": null
   }
 ]

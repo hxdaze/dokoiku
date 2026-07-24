@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i22647"
   },
   {
     "gym_id": "tipness",
@@ -31,7 +32,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i22648"
   },
   {
     "gym_id": "tipness",
@@ -48,7 +50,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i22649"
   },
   {
     "gym_id": "tipness",
@@ -65,7 +68,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i22649"
   },
   {
     "gym_id": "tipness",
@@ -82,7 +86,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i22649"
   },
   {
     "gym_id": "tipness",
@@ -99,7 +104,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i22649"
   },
   {
     "gym_id": "tipness",
@@ -116,7 +122,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MOVE BODY"
+    "note": "MOVE BODY",
+    "instructor_id": "i22649"
   },
   {
     "gym_id": "tipness",
@@ -133,7 +140,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "予約"
+    "note": "予約",
+    "instructor_id": "i22647"
   },
   {
     "gym_id": "tipness",
@@ -150,7 +158,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "予約 / MOVE BODY"
+    "note": "予約 / MOVE BODY",
+    "instructor_id": "i22650"
   },
   {
     "gym_id": "tipness",
@@ -167,7 +176,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i22651"
   },
   {
     "gym_id": "tipness",
@@ -184,7 +194,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i22652"
   },
   {
     "gym_id": "tipness",
@@ -201,7 +212,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i22651"
   },
   {
     "gym_id": "tipness",
@@ -218,7 +230,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "バレエ",
-    "note": null
+    "note": null,
+    "instructor_id": "i22653"
   },
   {
     "gym_id": "tipness",
@@ -235,7 +248,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": null
+    "note": null,
+    "instructor_id": "i22654"
   },
   {
     "gym_id": "tipness",
@@ -252,7 +266,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i22655"
   },
   {
     "gym_id": "tipness",
@@ -269,7 +284,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i22653"
   },
   {
     "gym_id": "tipness",
@@ -286,7 +302,8 @@
     "studio": "プールA",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": "i22654"
   },
   {
     "gym_id": "tipness",
@@ -303,7 +320,8 @@
     "studio": "プールA",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": "i22654"
   },
   {
     "gym_id": "tipness",
@@ -320,7 +338,8 @@
     "studio": "プールA",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": "i22654"
   },
   {
     "gym_id": "tipness",
@@ -337,7 +356,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "DANCE",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i22590"
   },
   {
     "gym_id": "tipness",
@@ -354,7 +374,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "AQUA",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i22654"
   },
   {
     "gym_id": "tipness",
@@ -371,7 +392,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "POWER",
-    "note": "MOVE BODY!"
+    "note": "MOVE BODY!",
+    "instructor_id": "i22656"
   },
   {
     "gym_id": "tipness",
@@ -388,6 +410,7 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "DANCE",
-    "note": "MOVE BODY!"
+    "note": "MOVE BODY!",
+    "instructor_id": "i22655"
   }
 ]

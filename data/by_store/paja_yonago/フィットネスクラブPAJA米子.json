@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "paja_yonago",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "paja_yonago",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "paja_yonago",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "paja_yonago",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "paja_yonago",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "paja_yonago",
@@ -303,6 +320,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21068"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -31,7 +32,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": "月"
+    "note": "月",
+    "instructor_id": "i21069"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -48,7 +50,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21070"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -65,7 +68,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21070"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -82,7 +86,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21071"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -99,7 +104,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "月"
+    "note": "月",
+    "instructor_id": "i21072"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -116,7 +122,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "月"
+    "note": "月",
+    "instructor_id": "i21073"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -133,7 +140,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21074"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -150,7 +158,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": "火"
+    "note": "火",
+    "instructor_id": "i21069"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -167,7 +176,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21075"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -184,7 +194,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21076"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -201,7 +212,8 @@
     "studio": "多目的の室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21077"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -218,7 +230,8 @@
     "studio": "多目的の室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21075"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -235,7 +248,8 @@
     "studio": "多目的の室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21078"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -252,7 +266,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21079"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -269,7 +284,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21080"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -286,7 +302,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21081"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -303,7 +320,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21080"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -320,7 +338,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21082"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -337,7 +356,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21083"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -354,7 +374,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21084"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -371,7 +392,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21084"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -388,7 +410,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i21085"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -405,7 +428,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21086"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -422,7 +446,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21086"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -439,7 +464,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21087"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -456,7 +482,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": "月"
+    "note": "月",
+    "instructor_id": "i21088"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -473,7 +500,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21089"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -490,7 +518,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21078"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -507,7 +536,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i8348"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -524,7 +554,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21090"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -541,7 +572,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21090"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -558,7 +590,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21090"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -575,7 +608,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "やさしい健康運動体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i21087"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -592,7 +626,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21078"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -609,7 +644,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21076"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -626,7 +662,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "ボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i21075"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -643,7 +680,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21090"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -660,7 +698,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21076"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -677,7 +716,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21078"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -694,7 +734,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21078"
   },
   {
     "gym_id": "sapporo_atsubetsu_gym",
@@ -711,6 +752,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i11435"
   }
 ]

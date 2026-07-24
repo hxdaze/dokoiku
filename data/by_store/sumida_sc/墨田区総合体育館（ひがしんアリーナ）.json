@@ -14,7 +14,8 @@
     "studio": "武道場",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2900"
   },
   {
     "gym_id": "sumida_sc",
@@ -31,7 +32,8 @@
     "studio": "武道場",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2900"
   },
   {
     "gym_id": "sumida_sc",
@@ -48,7 +50,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i3865"
   },
   {
     "gym_id": "sumida_sc",
@@ -65,7 +68,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i3865"
   },
   {
     "gym_id": "sumida_sc",
@@ -82,7 +86,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i3575"
   },
   {
     "gym_id": "sumida_sc",
@@ -99,7 +104,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i3865"
   },
   {
     "gym_id": "sumida_sc",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -133,7 +140,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i4130"
   },
   {
     "gym_id": "sumida_sc",
@@ -150,7 +158,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -167,7 +176,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i4856"
   },
   {
     "gym_id": "sumida_sc",
@@ -184,7 +194,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -201,7 +212,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i4856"
   },
   {
     "gym_id": "sumida_sc",
@@ -218,7 +230,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3534"
   },
   {
     "gym_id": "sumida_sc",
@@ -235,7 +248,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "ボディメイク",
-    "note": null
+    "note": null,
+    "instructor_id": "i21416"
   },
   {
     "gym_id": "sumida_sc",
@@ -252,7 +266,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21417"
   },
   {
     "gym_id": "sumida_sc",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": "1週間月～3週間来場"
+    "note": "1週間月～3週間来場",
+    "instructor_id": "i21418"
   },
   {
     "gym_id": "sumida_sc",
@@ -286,7 +302,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -303,7 +320,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -320,7 +338,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "※日程は上部"
+    "note": "※日程は上部",
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -337,7 +356,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "※日程は上部"
+    "note": "※日程は上部",
+    "instructor_id": "i2376"
   },
   {
     "gym_id": "sumida_sc",
@@ -354,7 +374,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "見習"
+    "note": "見習",
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -371,7 +392,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "生徒6～7歳未満まで"
+    "note": "生徒6～7歳未満まで",
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -388,7 +410,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "※日程は上部"
+    "note": "※日程は上部",
+    "instructor_id": "i4137"
   },
   {
     "gym_id": "sumida_sc",
@@ -405,7 +428,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "1歳7ヶ月～3歳未満まで"
+    "note": "1歳7ヶ月～3歳未満まで",
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -422,7 +446,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "※日程は上部"
+    "note": "※日程は上部",
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -439,7 +464,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "※日程は上部"
+    "note": "※日程は上部",
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -456,7 +482,8 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "※日程は上部"
+    "note": "※日程は上部",
+    "instructor_id": null
   },
   {
     "gym_id": "sumida_sc",
@@ -473,6 +500,7 @@
     "studio": "スタジオ2",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "※日程は上部"
+    "note": "※日程は上部",
+    "instructor_id": null
   }
 ]

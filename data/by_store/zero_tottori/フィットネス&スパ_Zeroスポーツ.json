@@ -14,7 +14,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zero_tottori",
@@ -31,7 +32,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zero_tottori",
@@ -48,7 +50,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zero_tottori",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "zero_tottori",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "zero_tottori",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "zero_tottori",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "zero_tottori",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "zero_tottori",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "zero_tottori",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "zero_tottori",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "zero_tottori",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "zero_tottori",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "zero_tottori",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "zero_tottori",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   },
   {
     "gym_id": "zero_tottori",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18812"
   },
   {
     "gym_id": "zero_tottori",
@@ -286,6 +302,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18811"
   }
 ]

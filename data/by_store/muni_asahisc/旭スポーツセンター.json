@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": "初心者"
+    "note": "初心者",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": "（初心者～中級）"
+    "note": "（初心者～中級）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": "（中・上級者）"
+    "note": "（中・上級者）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "その他",
-    "note": "大人（中学生以上）"
+    "note": "大人（中学生以上）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": "新規開講"
+    "note": "新規開講",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "4歳～9歳"
+    "note": "4歳～9歳",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "Teen 10歳～18歳"
+    "note": "Teen 10歳～18歳",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": "中・高校生 / 大阪Jr.ユース"
+    "note": "中・高校生 / 大阪Jr.ユース",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahisc",
@@ -286,6 +302,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バレエ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

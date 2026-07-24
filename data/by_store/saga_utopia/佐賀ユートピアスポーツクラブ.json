@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21045"
   },
   {
     "gym_id": "saga_utopia",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21045"
   },
   {
     "gym_id": "saga_utopia",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21046"
   },
   {
     "gym_id": "saga_utopia",
@@ -65,7 +68,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "saga_utopia",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21047"
   },
   {
     "gym_id": "saga_utopia",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21047"
   },
   {
     "gym_id": "saga_utopia",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i9649"
   },
   {
     "gym_id": "saga_utopia",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21048"
   },
   {
     "gym_id": "saga_utopia",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21049"
   },
   {
     "gym_id": "saga_utopia",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21049"
   },
   {
     "gym_id": "saga_utopia",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i9649"
   },
   {
     "gym_id": "saga_utopia",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21050"
   },
   {
     "gym_id": "saga_utopia",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "有酸素・脂肪燃焼系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "saga_utopia",
@@ -235,7 +248,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "有酸素・脂肪燃焼系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21051"
   },
   {
     "gym_id": "saga_utopia",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "有酸素・脂肪燃焼系",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "saga_utopia",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "有酸素・脂肪燃焼系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21052"
   },
   {
     "gym_id": "saga_utopia",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "有酸素・脂肪燃焼系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21048"
   },
   {
     "gym_id": "saga_utopia",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "有酸素・脂肪燃焼系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21049"
   },
   {
     "gym_id": "saga_utopia",
@@ -320,7 +338,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "有酸素・脂肪燃焼系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21053"
   },
   {
     "gym_id": "saga_utopia",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "有酸素・脂肪燃焼系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21054"
   },
   {
     "gym_id": "saga_utopia",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21048"
   },
   {
     "gym_id": "saga_utopia",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i9649"
   },
   {
     "gym_id": "saga_utopia",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21050"
   },
   {
     "gym_id": "saga_utopia",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21048"
   },
   {
     "gym_id": "saga_utopia",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21048"
   },
   {
     "gym_id": "saga_utopia",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "saga_utopia",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "saga_utopia",
@@ -473,7 +500,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21052"
   },
   {
     "gym_id": "saga_utopia",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21048"
   },
   {
     "gym_id": "saga_utopia",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21055"
   },
   {
     "gym_id": "saga_utopia",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21056"
   },
   {
     "gym_id": "saga_utopia",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21057"
   },
   {
     "gym_id": "saga_utopia",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21058"
   },
   {
     "gym_id": "saga_utopia",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21048"
   },
   {
     "gym_id": "saga_utopia",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21059"
   },
   {
     "gym_id": "saga_utopia",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21059"
   },
   {
     "gym_id": "saga_utopia",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21054"
   },
   {
     "gym_id": "saga_utopia",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21047"
   },
   {
     "gym_id": "saga_utopia",
@@ -660,6 +698,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21047"
   }
 ]

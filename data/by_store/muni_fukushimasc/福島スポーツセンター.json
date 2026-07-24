@@ -14,7 +14,8 @@
     "studio": "2024.05.04 2025年度 スポーツ教室のお知らせ",
     "reservation_required": true,
     "genre": "健康",
-    "note": "3ヶ月1回 5,500円"
+    "note": "3ヶ月1回 5,500円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fukushimasc",
@@ -31,7 +32,8 @@
     "studio": "2024.05.04 2025年度 スポーツ教室のお知らせ",
     "reservation_required": true,
     "genre": "健康",
-    "note": "3ヶ月1回 5,500円"
+    "note": "3ヶ月1回 5,500円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fukushimasc",
@@ -48,7 +50,8 @@
     "studio": "2024.05.04 2025年度 スポーツ教室のお知らせ",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "3ヶ月1回 8,250円"
+    "note": "3ヶ月1回 8,250円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fukushimasc",
@@ -65,7 +68,8 @@
     "studio": "2024.05.04 2025年度 スポーツ教室のお知らせ",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "3ヶ月1回 8,250円"
+    "note": "3ヶ月1回 8,250円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fukushimasc",
@@ -82,7 +86,8 @@
     "studio": "2024.05.04 2025年度 スポーツ教室のお知らせ",
     "reservation_required": true,
     "genre": "健康",
-    "note": "2ヶ月8回 7,600円"
+    "note": "2ヶ月8回 7,600円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fukushimasc",
@@ -99,7 +104,8 @@
     "studio": "2024.05.04 2025年度 スポーツ教室のお知らせ",
     "reservation_required": true,
     "genre": "健康",
-    "note": "2ヶ月8回 7,600円"
+    "note": "2ヶ月8回 7,600円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fukushimasc",
@@ -116,7 +122,8 @@
     "studio": "2024.05.04 2025年度 スポーツ教室のお知らせ",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "2ヶ月8回 7,600円"
+    "note": "2ヶ月8回 7,600円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fukushimasc",
@@ -133,6 +140,7 @@
     "studio": "2024.05.04 2025年度 スポーツ教室のお知らせ",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "2ヶ月8回 7,600円"
+    "note": "2ヶ月8回 7,600円",
+    "instructor_id": null
   }
 ]

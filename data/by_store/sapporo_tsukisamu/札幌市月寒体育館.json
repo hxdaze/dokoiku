@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21165"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21114"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "火"
+    "note": "火",
+    "instructor_id": "i21137"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21166"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21114"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21167"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21168"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "水"
+    "note": "水",
+    "instructor_id": "i21137"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21114"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -184,7 +194,8 @@
     "studio": "目的室1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21169"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -201,7 +212,8 @@
     "studio": "目的室1",
     "reservation_required": false,
     "genre": null,
-    "note": "金"
+    "note": "金",
+    "instructor_id": "i21120"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -218,7 +230,8 @@
     "studio": "目的室1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21137"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -235,7 +248,8 @@
     "studio": "多目的室1",
     "reservation_required": false,
     "genre": null,
-    "note": "金"
+    "note": "金",
+    "instructor_id": "i21120"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -252,7 +266,8 @@
     "studio": "多目的室1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21137"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -269,7 +284,8 @@
     "studio": "多目的室1",
     "reservation_required": false,
     "genre": null,
-    "note": "金"
+    "note": "金",
+    "instructor_id": "i21169"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -286,7 +302,8 @@
     "studio": "多目的室1",
     "reservation_required": false,
     "genre": null,
-    "note": "金"
+    "note": "金",
+    "instructor_id": "i21169"
   },
   {
     "gym_id": "sapporo_tsukisamu",
@@ -303,6 +320,7 @@
     "studio": "多目的室1",
     "reservation_required": false,
     "genre": null,
-    "note": "金"
+    "note": "金",
+    "instructor_id": "i21169"
   }
 ]

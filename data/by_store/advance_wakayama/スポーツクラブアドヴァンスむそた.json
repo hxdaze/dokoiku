@@ -14,7 +14,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10"
   },
   {
     "gym_id": "advance_wakayama",
@@ -31,7 +32,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20"
   },
   {
     "gym_id": "advance_wakayama",
@@ -48,7 +50,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20"
   },
   {
     "gym_id": "advance_wakayama",
@@ -65,7 +68,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初心級"
+    "note": "初心級",
+    "instructor_id": "i21"
   },
   {
     "gym_id": "advance_wakayama",
@@ -82,7 +86,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i21"
   },
   {
     "gym_id": "advance_wakayama",
@@ -99,7 +104,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4"
   },
   {
     "gym_id": "advance_wakayama",
@@ -116,7 +122,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i4"
   },
   {
     "gym_id": "advance_wakayama",
@@ -133,7 +140,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i0"
   },
   {
     "gym_id": "advance_wakayama",
@@ -150,7 +158,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i0"
   },
   {
     "gym_id": "advance_wakayama",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "advance_wakayama",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8"
   },
   {
     "gym_id": "advance_wakayama",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8"
   },
   {
     "gym_id": "advance_wakayama",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7"
   },
   {
     "gym_id": "advance_wakayama",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i16"
   },
   {
     "gym_id": "advance_wakayama",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "火曜日"
+    "note": "火曜日",
+    "instructor_id": null
   },
   {
     "gym_id": "advance_wakayama",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "火曜日"
+    "note": "火曜日",
+    "instructor_id": null
   },
   {
     "gym_id": "advance_wakayama",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "水曜日"
+    "note": "水曜日",
+    "instructor_id": null
   },
   {
     "gym_id": "advance_wakayama",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "火曜日"
+    "note": "火曜日",
+    "instructor_id": null
   },
   {
     "gym_id": "advance_wakayama",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "水曜日"
+    "note": "水曜日",
+    "instructor_id": null
   },
   {
     "gym_id": "advance_wakayama",
@@ -337,7 +356,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "advance_wakayama",
@@ -354,7 +374,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i22"
   },
   {
     "gym_id": "advance_wakayama",
@@ -371,7 +392,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i22"
   },
   {
     "gym_id": "advance_wakayama",
@@ -388,7 +410,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i21"
   },
   {
     "gym_id": "advance_wakayama",
@@ -405,7 +428,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "advance_wakayama",
@@ -422,7 +446,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23"
   },
   {
     "gym_id": "advance_wakayama",
@@ -439,7 +464,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23"
   },
   {
     "gym_id": "advance_wakayama",
@@ -456,7 +482,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i0"
   },
   {
     "gym_id": "advance_wakayama",
@@ -473,7 +500,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7"
   },
   {
     "gym_id": "advance_wakayama",
@@ -490,7 +518,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8"
   },
   {
     "gym_id": "advance_wakayama",
@@ -507,7 +536,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20"
   },
   {
     "gym_id": "advance_wakayama",
@@ -524,7 +554,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23"
   },
   {
     "gym_id": "advance_wakayama",
@@ -541,7 +572,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i24"
   },
   {
     "gym_id": "advance_wakayama",
@@ -558,7 +590,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i24"
   },
   {
     "gym_id": "advance_wakayama",
@@ -575,7 +608,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18"
   },
   {
     "gym_id": "advance_wakayama",
@@ -592,7 +626,8 @@
     "studio": "メインスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20"
   },
   {
     "gym_id": "advance_wakayama",
@@ -609,7 +644,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20"
   },
   {
     "gym_id": "advance_wakayama",
@@ -626,7 +662,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20"
   },
   {
     "gym_id": "advance_wakayama",
@@ -643,7 +680,8 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20"
   },
   {
     "gym_id": "advance_wakayama",
@@ -660,6 +698,7 @@
     "studio": "メインスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20"
   }
 ]

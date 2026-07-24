@@ -14,7 +14,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i570"
   },
   {
     "gym_id": "apstudio_akita",
@@ -31,7 +32,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i571"
   },
   {
     "gym_id": "apstudio_akita",
@@ -48,7 +50,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i572"
   },
   {
     "gym_id": "apstudio_akita",
@@ -65,7 +68,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i573"
   },
   {
     "gym_id": "apstudio_akita",
@@ -82,7 +86,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i570"
   },
   {
     "gym_id": "apstudio_akita",
@@ -99,7 +104,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "apstudio_akita",
@@ -116,7 +122,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i574"
   },
   {
     "gym_id": "apstudio_akita",
@@ -133,7 +140,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i575"
   },
   {
     "gym_id": "apstudio_akita",
@@ -150,7 +158,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i576"
   },
   {
     "gym_id": "apstudio_akita",
@@ -167,7 +176,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i577"
   },
   {
     "gym_id": "apstudio_akita",
@@ -184,7 +194,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i578"
   },
   {
     "gym_id": "apstudio_akita",
@@ -201,7 +212,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i579"
   },
   {
     "gym_id": "apstudio_akita",
@@ -218,7 +230,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": "4才～12才"
+    "note": "4才～12才",
+    "instructor_id": null
   },
   {
     "gym_id": "apstudio_akita",
@@ -235,7 +248,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i577"
   },
   {
     "gym_id": "apstudio_akita",
@@ -252,7 +266,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i580"
   },
   {
     "gym_id": "apstudio_akita",
@@ -269,7 +284,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i581"
   },
   {
     "gym_id": "apstudio_akita",
@@ -286,7 +302,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i582"
   },
   {
     "gym_id": "apstudio_akita",
@@ -303,7 +320,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i583"
   },
   {
     "gym_id": "apstudio_akita",
@@ -320,7 +338,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i574"
   },
   {
     "gym_id": "apstudio_akita",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i575"
   },
   {
     "gym_id": "apstudio_akita",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i579"
   },
   {
     "gym_id": "apstudio_akita",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i584"
   },
   {
     "gym_id": "apstudio_akita",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バレエ",
-    "note": null
+    "note": null,
+    "instructor_id": "i585"
   },
   {
     "gym_id": "apstudio_akita",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "大人"
+    "note": "大人",
+    "instructor_id": "i585"
   },
   {
     "gym_id": "apstudio_akita",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "4才~8才"
+    "note": "4才~8才",
+    "instructor_id": "i585"
   },
   {
     "gym_id": "apstudio_akita",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i586"
   },
   {
     "gym_id": "apstudio_akita",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "HIP HOP",
-    "note": "4才~8才"
+    "note": "4才~8才",
+    "instructor_id": "i587"
   },
   {
     "gym_id": "apstudio_akita",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "HIP HOP",
-    "note": null
+    "note": null,
+    "instructor_id": "i582"
   },
   {
     "gym_id": "apstudio_akita",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i588"
   },
   {
     "gym_id": "apstudio_akita",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "HIP HOP",
-    "note": null
+    "note": null,
+    "instructor_id": "i580"
   },
   {
     "gym_id": "apstudio_akita",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i578"
   },
   {
     "gym_id": "apstudio_akita",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i574"
   },
   {
     "gym_id": "apstudio_akita",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "大人"
+    "note": "大人",
+    "instructor_id": "i585"
   },
   {
     "gym_id": "apstudio_akita",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "HIP HOP",
-    "note": null
+    "note": null,
+    "instructor_id": "i582"
   },
   {
     "gym_id": "apstudio_akita",
@@ -592,6 +626,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i578"
   }
 ]

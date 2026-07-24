@@ -14,7 +14,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "meguro_sc",
@@ -31,7 +32,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "meguro_sc",
@@ -48,7 +50,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "meguro_sc",
@@ -65,7 +68,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17782"
   },
   {
     "gym_id": "meguro_sc",
@@ -82,7 +86,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17782"
   },
   {
     "gym_id": "meguro_sc",
@@ -99,7 +104,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i4510"
   },
   {
     "gym_id": "meguro_sc",
@@ -116,7 +122,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i3079"
   },
   {
     "gym_id": "meguro_sc",
@@ -133,7 +140,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "meguro_sc",
@@ -150,7 +158,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i2448"
   },
   {
     "gym_id": "meguro_sc",
@@ -167,7 +176,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17783"
   },
   {
     "gym_id": "meguro_sc",
@@ -184,7 +194,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17152"
   },
   {
     "gym_id": "meguro_sc",
@@ -201,7 +212,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i5381"
   },
   {
     "gym_id": "meguro_sc",
@@ -218,7 +230,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17784"
   },
   {
     "gym_id": "meguro_sc",
@@ -235,7 +248,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i4170"
   },
   {
     "gym_id": "meguro_sc",
@@ -252,7 +266,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i4170"
   },
   {
     "gym_id": "meguro_sc",
@@ -269,7 +284,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "meguro_sc",
@@ -286,7 +302,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17785"
   },
   {
     "gym_id": "meguro_sc",
@@ -303,7 +320,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17786"
   },
   {
     "gym_id": "meguro_sc",
@@ -320,7 +338,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17787"
   },
   {
     "gym_id": "meguro_sc",
@@ -337,7 +356,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "meguro_sc",
@@ -354,7 +374,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17788"
   },
   {
     "gym_id": "meguro_sc",
@@ -371,7 +392,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17789"
   },
   {
     "gym_id": "meguro_sc",
@@ -388,7 +410,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17790"
   },
   {
     "gym_id": "meguro_sc",
@@ -405,7 +428,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17791"
   },
   {
     "gym_id": "meguro_sc",
@@ -422,7 +446,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i2901"
   },
   {
     "gym_id": "meguro_sc",
@@ -439,7 +464,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17792"
   },
   {
     "gym_id": "meguro_sc",
@@ -456,7 +482,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i3563"
   },
   {
     "gym_id": "meguro_sc",
@@ -473,7 +500,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17793"
   },
   {
     "gym_id": "meguro_sc",
@@ -490,7 +518,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "meguro_sc",
@@ -507,7 +536,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i3582"
   },
   {
     "gym_id": "meguro_sc",
@@ -524,7 +554,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i159"
   },
   {
     "gym_id": "meguro_sc",
@@ -541,7 +572,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17794"
   },
   {
     "gym_id": "meguro_sc",
@@ -558,7 +590,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17795"
   },
   {
     "gym_id": "meguro_sc",
@@ -575,7 +608,8 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i17795"
   },
   {
     "gym_id": "meguro_sc",
@@ -592,6 +626,7 @@
     "studio": "【2026.6月～】スタジオプログラム☔",
     "reservation_required": false,
     "genre": "HP",
-    "note": null
+    "note": null,
+    "instructor_id": "i2542"
   }
 ]

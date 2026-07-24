@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3058"
   },
   {
     "gym_id": "central",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4241"
   },
   {
     "gym_id": "central",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3058"
   },
   {
     "gym_id": "central",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3058"
   },
   {
     "gym_id": "central",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3452"
   },
   {
     "gym_id": "central",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4242"
   },
   {
     "gym_id": "central",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4242"
   },
   {
     "gym_id": "central",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3550"
   },
   {
     "gym_id": "central",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4243"
   },
   {
     "gym_id": "central",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4242"
   },
   {
     "gym_id": "central",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4108"
   },
   {
     "gym_id": "central",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4242"
   },
   {
     "gym_id": "central",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i4242"
   },
   {
     "gym_id": "central",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i4242"
   },
   {
     "gym_id": "central",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4242"
   },
   {
     "gym_id": "central",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4108"
   },
   {
     "gym_id": "central",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3053"
   },
   {
     "gym_id": "central",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i4241"
   },
   {
     "gym_id": "central",
@@ -320,6 +338,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3058"
   }
 ]

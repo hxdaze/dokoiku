@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "スタッフ"
+    "note": "スタッフ",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "銀"
+    "note": "銀",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "柴田"
+    "note": "柴田",
+    "instructor_id": "i3474"
   },
   {
     "gym_id": "goldsgym",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "柴本"
+    "note": "柴本",
+    "instructor_id": "i8533"
   },
   {
     "gym_id": "goldsgym",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "MASASHI"
+    "note": "MASASHI",
+    "instructor_id": "i8534"
   },
   {
     "gym_id": "goldsgym",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "スタッフ"
+    "note": "スタッフ",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "Non"
+    "note": "Non",
+    "instructor_id": "i8274"
   },
   {
     "gym_id": "goldsgym",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "日置"
+    "note": "日置",
+    "instructor_id": "i8535"
   },
   {
     "gym_id": "goldsgym",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "FUJI"
+    "note": "FUJI",
+    "instructor_id": "i8030"
   },
   {
     "gym_id": "goldsgym",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "KEIKO"
+    "note": "KEIKO",
+    "instructor_id": "i2689"
   },
   {
     "gym_id": "goldsgym",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "スタッフ"
+    "note": "スタッフ",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "FUJI"
+    "note": "FUJI",
+    "instructor_id": "i8030"
   },
   {
     "gym_id": "goldsgym",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "沈屋"
+    "note": "沈屋",
+    "instructor_id": "i8536"
   },
   {
     "gym_id": "goldsgym",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "横田"
+    "note": "横田",
+    "instructor_id": "i3319"
   },
   {
     "gym_id": "goldsgym",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "アリーナ"
+    "note": "アリーナ",
+    "instructor_id": "i8275"
   },
   {
     "gym_id": "goldsgym",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "Non"
+    "note": "Non",
+    "instructor_id": "i8274"
   },
   {
     "gym_id": "goldsgym",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "スタッフ"
+    "note": "スタッフ",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": "Cardio Fitness Kickboxing / YASUKO"
+    "note": "Cardio Fitness Kickboxing / YASUKO",
+    "instructor_id": "i2571"
   },
   {
     "gym_id": "goldsgym",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "飯尾"
+    "note": "飯尾",
+    "instructor_id": "i5899"
   },
   {
     "gym_id": "goldsgym",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "Makiko"
+    "note": "Makiko",
+    "instructor_id": "i8284"
   },
   {
     "gym_id": "goldsgym",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "アリーナ"
+    "note": "アリーナ",
+    "instructor_id": "i8275"
   },
   {
     "gym_id": "goldsgym",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "スタッフ"
+    "note": "スタッフ",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "YASUKO"
+    "note": "YASUKO",
+    "instructor_id": "i2571"
   },
   {
     "gym_id": "goldsgym",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "Kimie"
+    "note": "Kimie",
+    "instructor_id": "i8537"
   },
   {
     "gym_id": "goldsgym",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "NAoMY"
+    "note": "NAoMY",
+    "instructor_id": "i8538"
   },
   {
     "gym_id": "goldsgym",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "西田"
+    "note": "西田",
+    "instructor_id": "i8539"
   },
   {
     "gym_id": "goldsgym",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "スタッフ"
+    "note": "スタッフ",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "佐藤"
+    "note": "佐藤",
+    "instructor_id": "i66"
   },
   {
     "gym_id": "goldsgym",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "高橋"
+    "note": "高橋",
+    "instructor_id": "i373"
   },
   {
     "gym_id": "goldsgym",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "高橋ゆう"
+    "note": "高橋ゆう",
+    "instructor_id": "i8540"
   },
   {
     "gym_id": "goldsgym",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "山口"
+    "note": "山口",
+    "instructor_id": "i3608"
   },
   {
     "gym_id": "goldsgym",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "NORIE"
+    "note": "NORIE",
+    "instructor_id": "i8541"
   },
   {
     "gym_id": "goldsgym",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "高橋"
+    "note": "高橋",
+    "instructor_id": "i373"
   },
   {
     "gym_id": "goldsgym",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "Non"
+    "note": "Non",
+    "instructor_id": "i8274"
   },
   {
     "gym_id": "goldsgym",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "Mako"
+    "note": "Mako",
+    "instructor_id": "i933"
   },
   {
     "gym_id": "goldsgym",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "三好"
+    "note": "三好",
+    "instructor_id": "i3016"
   },
   {
     "gym_id": "goldsgym",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "SAYAKA"
+    "note": "SAYAKA",
+    "instructor_id": "i2440"
   },
   {
     "gym_id": "goldsgym",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "横田"
+    "note": "横田",
+    "instructor_id": "i3319"
   },
   {
     "gym_id": "goldsgym",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "笠井"
+    "note": "笠井",
+    "instructor_id": "i8542"
   },
   {
     "gym_id": "goldsgym",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": "Cardio Fitness Kickboxing / 沙弥子"
+    "note": "Cardio Fitness Kickboxing / 沙弥子",
+    "instructor_id": "i8543"
   },
   {
     "gym_id": "goldsgym",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "三好"
+    "note": "三好",
+    "instructor_id": "i3016"
   },
   {
     "gym_id": "goldsgym",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "芹田"
+    "note": "芹田",
+    "instructor_id": "i8544"
   },
   {
     "gym_id": "goldsgym",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "奈良"
+    "note": "奈良",
+    "instructor_id": "i3488"
   },
   {
     "gym_id": "goldsgym",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "小澤"
+    "note": "小澤",
+    "instructor_id": "i8289"
   },
   {
     "gym_id": "goldsgym",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "飯尾"
+    "note": "飯尾",
+    "instructor_id": "i5899"
   },
   {
     "gym_id": "goldsgym",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": "森村"
+    "note": "森村",
+    "instructor_id": "i8545"
   },
   {
     "gym_id": "goldsgym",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "MASASHI"
+    "note": "MASASHI",
+    "instructor_id": "i8534"
   },
   {
     "gym_id": "goldsgym",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "AYLA"
+    "note": "AYLA",
+    "instructor_id": "i8546"
   },
   {
     "gym_id": "goldsgym",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "飯尾"
+    "note": "飯尾",
+    "instructor_id": "i5899"
   },
   {
     "gym_id": "goldsgym",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "飯尾"
+    "note": "飯尾",
+    "instructor_id": "i5899"
   },
   {
     "gym_id": "goldsgym",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "石河"
+    "note": "石河",
+    "instructor_id": "i8281"
   },
   {
     "gym_id": "goldsgym",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "石田"
+    "note": "石田",
+    "instructor_id": "i3404"
   },
   {
     "gym_id": "goldsgym",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "石川"
+    "note": "石川",
+    "instructor_id": "i4042"
   },
   {
     "gym_id": "goldsgym",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "Non"
+    "note": "Non",
+    "instructor_id": "i8274"
   },
   {
     "gym_id": "goldsgym",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "KURIHIN"
+    "note": "KURIHIN",
+    "instructor_id": "i8547"
   },
   {
     "gym_id": "goldsgym",
@@ -949,6 +1004,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "高橋"
+    "note": "高橋",
+    "instructor_id": "i373"
   }
 ]

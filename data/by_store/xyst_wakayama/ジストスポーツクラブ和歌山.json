@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ホットヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "xyst_wakayama",
@@ -354,6 +374,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★2"
+    "note": "★2",
+    "instructor_id": "i9473"
   },
   {
     "gym_id": "happy_tokushima",
@@ -31,7 +32,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★3～4"
+    "note": "★3～4",
+    "instructor_id": "i9474"
   },
   {
     "gym_id": "happy_tokushima",
@@ -48,7 +50,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★1"
+    "note": "★1",
+    "instructor_id": "i9474"
   },
   {
     "gym_id": "happy_tokushima",
@@ -65,7 +68,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★1"
+    "note": "★1",
+    "instructor_id": "i9475"
   },
   {
     "gym_id": "happy_tokushima",
@@ -82,7 +86,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★3"
+    "note": "★3",
+    "instructor_id": "i9476"
   },
   {
     "gym_id": "happy_tokushima",
@@ -99,7 +104,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9476"
   },
   {
     "gym_id": "happy_tokushima",
@@ -116,7 +122,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★2"
+    "note": "★2",
+    "instructor_id": "i9477"
   },
   {
     "gym_id": "happy_tokushima",
@@ -133,7 +140,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★2"
+    "note": "★2",
+    "instructor_id": "i9474"
   },
   {
     "gym_id": "happy_tokushima",
@@ -150,7 +158,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★3"
+    "note": "★3",
+    "instructor_id": "i9474"
   },
   {
     "gym_id": "happy_tokushima",
@@ -167,7 +176,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★1"
+    "note": "★1",
+    "instructor_id": "i9478"
   },
   {
     "gym_id": "happy_tokushima",
@@ -184,7 +194,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★2"
+    "note": "★2",
+    "instructor_id": "i9479"
   },
   {
     "gym_id": "happy_tokushima",
@@ -201,7 +212,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★2"
+    "note": "★2",
+    "instructor_id": null
   },
   {
     "gym_id": "happy_tokushima",
@@ -218,7 +230,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★1"
+    "note": "★1",
+    "instructor_id": "i9480"
   },
   {
     "gym_id": "happy_tokushima",
@@ -235,7 +248,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★1"
+    "note": "★1",
+    "instructor_id": "i9481"
   },
   {
     "gym_id": "happy_tokushima",
@@ -252,7 +266,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★3"
+    "note": "★3",
+    "instructor_id": "i9476"
   },
   {
     "gym_id": "happy_tokushima",
@@ -269,7 +284,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★3 / 初級"
+    "note": "★3 / 初級",
+    "instructor_id": "i9482"
   },
   {
     "gym_id": "happy_tokushima",
@@ -286,7 +302,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "★3"
+    "note": "★3",
+    "instructor_id": "i9483"
   },
   {
     "gym_id": "happy_tokushima",
@@ -303,7 +320,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★4"
+    "note": "★4",
+    "instructor_id": "i9481"
   },
   {
     "gym_id": "happy_tokushima",
@@ -320,7 +338,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★4"
+    "note": "★4",
+    "instructor_id": "i9481"
   },
   {
     "gym_id": "happy_tokushima",
@@ -337,7 +356,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★3"
+    "note": "★3",
+    "instructor_id": "i9484"
   },
   {
     "gym_id": "happy_tokushima",
@@ -354,7 +374,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★3"
+    "note": "★3",
+    "instructor_id": "i9484"
   },
   {
     "gym_id": "happy_tokushima",
@@ -371,7 +392,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": "★5"
+    "note": "★5",
+    "instructor_id": "i9474"
   },
   {
     "gym_id": "happy_tokushima",
@@ -388,7 +410,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": "時間変更"
+    "note": "時間変更",
+    "instructor_id": "i9485"
   },
   {
     "gym_id": "happy_tokushima",
@@ -405,7 +428,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9477"
   },
   {
     "gym_id": "happy_tokushima",
@@ -422,7 +446,8 @@
     "studio": "スタジオ②",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9480"
   },
   {
     "gym_id": "happy_tokushima",
@@ -439,7 +464,8 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9477"
   },
   {
     "gym_id": "happy_tokushima",
@@ -456,6 +482,7 @@
     "studio": "スタジオ①",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9483"
   }
 ]

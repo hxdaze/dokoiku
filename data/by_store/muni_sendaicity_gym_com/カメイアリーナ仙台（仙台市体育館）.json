@@ -14,7 +14,8 @@
     "studio": "シニア健康教室①・②",
     "reservation_required": true,
     "genre": "機能低下予防",
-    "note": null
+    "note": null,
+    "instructor_id": "i18004"
   },
   {
     "gym_id": "muni_sendaicity_gym_com",
@@ -31,7 +32,8 @@
     "studio": "シニア健康教室①・②",
     "reservation_required": true,
     "genre": "基礎体力向上",
-    "note": null
+    "note": null,
+    "instructor_id": "i18004"
   },
   {
     "gym_id": "muni_sendaicity_gym_com",
@@ -48,7 +50,8 @@
     "studio": "シニア健康教室①・②",
     "reservation_required": true,
     "genre": "機能低下予防",
-    "note": null
+    "note": null,
+    "instructor_id": "i18004"
   },
   {
     "gym_id": "muni_sendaicity_gym_com",
@@ -65,7 +68,8 @@
     "studio": "シニア健康教室①・②",
     "reservation_required": true,
     "genre": "基礎体力向上",
-    "note": null
+    "note": null,
+    "instructor_id": "i18004"
   },
   {
     "gym_id": "muni_sendaicity_gym_com",
@@ -82,7 +86,8 @@
     "studio": "シニア健康教室①・②",
     "reservation_required": true,
     "genre": "機能低下予防",
-    "note": null
+    "note": null,
+    "instructor_id": "i18004"
   },
   {
     "gym_id": "muni_sendaicity_gym_com",
@@ -99,6 +104,7 @@
     "studio": "シニア健康教室①・②",
     "reservation_required": true,
     "genre": "基礎体力向上",
-    "note": null
+    "note": null,
+    "instructor_id": "i18004"
   }
 ]

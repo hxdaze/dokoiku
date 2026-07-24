@@ -14,7 +14,8 @@
     "studio": "多目的スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "購入者限定"
+    "note": "購入者限定",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -31,7 +32,8 @@
     "studio": "多目的スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "購入者限定"
+    "note": "購入者限定",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -48,7 +50,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "桜庭"
+    "note": "桜庭",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -65,7 +68,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "桜庭"
+    "note": "桜庭",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -82,7 +86,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "桜庭"
+    "note": "桜庭",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -99,7 +104,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "川口"
+    "note": "川口",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -116,7 +122,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "二瓶"
+    "note": "二瓶",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -133,7 +140,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "パル"
+    "note": "パル",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -150,7 +158,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "パル"
+    "note": "パル",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -167,7 +176,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "パル"
+    "note": "パル",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -184,7 +194,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "萩原"
+    "note": "萩原",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -201,7 +212,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "萩原"
+    "note": "萩原",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -218,7 +230,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "アクアベビーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17833"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -235,7 +248,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロポード初級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17834"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "パレット",
-    "note": null
+    "note": null,
+    "instructor_id": "i280"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -269,7 +284,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "リッチュヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i284"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -286,7 +302,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スタイリッシュヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i280"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -303,7 +320,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "トレーニングスクール",
-    "note": null
+    "note": null,
+    "instructor_id": "i17833"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -320,7 +338,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヘルシーヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17835"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -337,7 +356,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロポード初級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17836"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -354,7 +374,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "パレット",
-    "note": null
+    "note": null,
+    "instructor_id": "i17836"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -371,7 +392,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヘルシーヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17837"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -388,7 +410,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i3951"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -405,7 +428,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "トレーニングスクール",
-    "note": null
+    "note": null,
+    "instructor_id": "i278"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -422,7 +446,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "アクアスクール",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": "i1216"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -439,7 +464,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "アクアスクール",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": "i1216"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -456,7 +482,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "アクアスクール",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": "i9329"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -473,7 +500,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スタイリッシュヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17838"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -490,7 +518,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "トレーニングスクール",
-    "note": null
+    "note": null,
+    "instructor_id": "i17833"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -507,7 +536,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "フラダンススクール",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": "i17839"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -524,7 +554,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "アクアスクール",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": "i17840"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -541,7 +572,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ヘルシーヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i9329"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -558,7 +590,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i3951"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -575,7 +608,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "フラダンススクール",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": "i17841"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -592,7 +626,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "アクアスクール",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": "i17834"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -609,7 +644,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "アクアスクール",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": "i17834"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -626,7 +662,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17833"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -643,7 +680,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17833"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -660,7 +698,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スタイリッシュヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i284"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -677,7 +716,8 @@
     "studio": "屋上多目的コート",
     "reservation_required": false,
     "genre": "フットサル",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -694,7 +734,8 @@
     "studio": "屋上多目的コート",
     "reservation_required": false,
     "genre": "フリーフィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -711,7 +752,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "スタイリッシュヨガ",
-    "note": "(最大5コース)"
+    "note": "(最大5コース)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -728,7 +770,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "アクアスケール",
-    "note": "(最大4コース)"
+    "note": "(最大4コース)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -745,7 +788,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -762,7 +806,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "(荻原)"
+    "note": "(荻原)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -779,7 +824,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "(荻原)"
+    "note": "(荻原)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -796,7 +842,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "スタイリッシュヨガ",
-    "note": "(岡澤)"
+    "note": "(岡澤)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -813,7 +860,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "(時間変更)"
+    "note": "(時間変更)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -830,7 +878,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "スタイリッシュヨガ",
-    "note": "(山崎(恵))"
+    "note": "(山崎(恵))",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -847,7 +896,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "(時間変更)"
+    "note": "(時間変更)",
+    "instructor_id": "i3947"
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -864,7 +914,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": "(工藤)"
+    "note": "(工藤)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_asahi_sportsclub",
@@ -881,6 +932,7 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "トレーニング",
-    "note": "(時間変更)"
+    "note": "(時間変更)",
+    "instructor_id": null
   }
 ]

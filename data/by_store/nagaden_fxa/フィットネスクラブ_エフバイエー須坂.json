@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "太極舞",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "太極舞",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "太極舞",
-    "note": null
+    "note": null,
+    "instructor_id": "i18160"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18161"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18161"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18162"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "その他",
-    "note": "担当:羽流"
+    "note": "担当:羽流",
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18163"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18164"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18162"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18165"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18161"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18166"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18167"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18154"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18168"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9858"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18146"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18146"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18151"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18169"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18170"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "2・4週目 ベンチ"
+    "note": "2・4週目 ベンチ",
+    "instructor_id": "i9860"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18171"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18172"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "担当: miwa"
+    "note": "担当: miwa",
+    "instructor_id": "i18160"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18161"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18168"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18165"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18167"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18166"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18160"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18173"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18165"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18165"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9858"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9858"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": "コースを使用します。日は館内掲示にて確認ください。"
+    "note": "コースを使用します。日は館内掲示にて確認ください。",
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18162"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18162"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "その他",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18163"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18164"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18165"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18161"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18166"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18167"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18154"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18168"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18168"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "2・4週目 ベンチ"
+    "note": "2・4週目 ベンチ",
+    "instructor_id": "i9860"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9858"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18146"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18151"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18169"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18170"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i17950"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "担当:羽流"
+    "note": "担当:羽流",
+    "instructor_id": "i18160"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18161"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18167"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1136,7 +1202,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18166"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1153,7 +1220,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1170,7 +1238,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1187,7 +1256,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18159"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1204,7 +1274,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1221,7 +1292,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1238,7 +1310,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18159"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1255,7 +1328,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1272,7 +1346,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1289,7 +1364,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18159"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1323,7 +1400,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1340,7 +1418,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1357,7 +1436,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1374,7 +1454,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18159"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1391,7 +1472,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18159"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1408,7 +1490,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1425,7 +1508,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1442,7 +1526,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18159"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1459,7 +1544,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18159"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1476,7 +1562,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   },
   {
     "gym_id": "nagaden_fxa",
@@ -1493,6 +1580,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18158"
   }
 ]

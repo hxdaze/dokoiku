@@ -14,7 +14,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -31,7 +32,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -48,7 +50,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -65,7 +68,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -82,7 +86,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -99,7 +104,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -116,7 +122,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -133,7 +140,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -150,7 +158,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -167,7 +176,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -184,7 +194,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -201,7 +212,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -218,7 +230,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -235,7 +248,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -252,7 +266,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -269,7 +284,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -286,7 +302,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -303,7 +320,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -320,7 +338,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -337,7 +356,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -354,7 +374,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -371,7 +392,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -388,7 +410,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -405,7 +428,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -422,7 +446,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -439,7 +464,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -456,7 +482,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -473,7 +500,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -490,7 +518,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -507,7 +536,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -524,7 +554,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -541,7 +572,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -558,7 +590,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -575,7 +608,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -592,7 +626,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -609,7 +644,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -626,7 +662,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -643,7 +680,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -660,7 +698,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -677,7 +716,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -694,7 +734,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -711,7 +752,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -728,7 +770,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -745,7 +788,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -762,7 +806,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -779,7 +824,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -796,7 +842,8 @@
     "studio": "通年フロア教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -813,7 +860,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -830,7 +878,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -847,7 +896,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -864,7 +914,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -881,7 +932,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -898,7 +950,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -915,7 +968,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -932,7 +986,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -949,7 +1004,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -966,7 +1022,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -983,7 +1040,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "shinjuku_sc",
@@ -1000,6 +1058,7 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

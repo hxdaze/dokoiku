@@ -14,7 +14,8 @@
     "studio": "MON",
     "reservation_required": true,
     "genre": null,
-    "note": "※(伊藤"
+    "note": "※(伊藤",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -31,7 +32,8 @@
     "studio": "MON",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "久保"
+    "note": "久保",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -48,7 +50,8 @@
     "studio": "MON",
     "reservation_required": false,
     "genre": null,
-    "note": "ASAKO"
+    "note": "ASAKO",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -65,7 +68,8 @@
     "studio": "MON",
     "reservation_required": false,
     "genre": null,
-    "note": "MICHIE"
+    "note": "MICHIE",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -82,7 +86,8 @@
     "studio": "MON",
     "reservation_required": false,
     "genre": null,
-    "note": "AYUMI"
+    "note": "AYUMI",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -99,7 +104,8 @@
     "studio": "TUE",
     "reservation_required": false,
     "genre": null,
-    "note": "AKEMI"
+    "note": "AKEMI",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -116,7 +122,8 @@
     "studio": "TUE",
     "reservation_required": false,
     "genre": null,
-    "note": "MIDORI"
+    "note": "MIDORI",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -133,7 +140,8 @@
     "studio": "TUE",
     "reservation_required": false,
     "genre": null,
-    "note": "YUUKA"
+    "note": "YUUKA",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -150,7 +158,8 @@
     "studio": "TUE",
     "reservation_required": false,
     "genre": null,
-    "note": "ARIKO"
+    "note": "ARIKO",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -167,7 +176,8 @@
     "studio": "TUE",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "久保"
+    "note": "久保",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -184,7 +194,8 @@
     "studio": "TUE",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "篠崎"
+    "note": "篠崎",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -201,7 +212,8 @@
     "studio": "WED",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "塩谷"
+    "note": "塩谷",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -218,7 +230,8 @@
     "studio": "WED",
     "reservation_required": false,
     "genre": null,
-    "note": "YUKARI"
+    "note": "YUKARI",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -235,7 +248,8 @@
     "studio": "WED",
     "reservation_required": false,
     "genre": null,
-    "note": "吉岡"
+    "note": "吉岡",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -252,7 +266,8 @@
     "studio": "WED",
     "reservation_required": false,
     "genre": null,
-    "note": "高橋"
+    "note": "高橋",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -269,7 +284,8 @@
     "studio": "WED",
     "reservation_required": false,
     "genre": null,
-    "note": "オルランド"
+    "note": "オルランド",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -286,7 +302,8 @@
     "studio": "WED",
     "reservation_required": false,
     "genre": null,
-    "note": "あみ"
+    "note": "あみ",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -303,7 +320,8 @@
     "studio": "WED",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "MAYUKO"
+    "note": "MAYUKO",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -320,7 +338,8 @@
     "studio": "THU",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "横田"
+    "note": "横田",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -337,7 +356,8 @@
     "studio": "THU",
     "reservation_required": false,
     "genre": null,
-    "note": "オルランド"
+    "note": "オルランド",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -354,7 +374,8 @@
     "studio": "THU",
     "reservation_required": false,
     "genre": null,
-    "note": "大橋"
+    "note": "大橋",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -371,7 +392,8 @@
     "studio": "THU",
     "reservation_required": false,
     "genre": null,
-    "note": "上野谷"
+    "note": "上野谷",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -388,7 +410,8 @@
     "studio": "THU",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "久保"
+    "note": "久保",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -405,7 +428,8 @@
     "studio": "THU",
     "reservation_required": false,
     "genre": null,
-    "note": "和氣"
+    "note": "和氣",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -422,7 +446,8 @@
     "studio": "THU",
     "reservation_required": false,
     "genre": null,
-    "note": "MIDORI"
+    "note": "MIDORI",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -439,7 +464,8 @@
     "studio": "THU",
     "reservation_required": false,
     "genre": null,
-    "note": "YUU"
+    "note": "YUU",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -456,7 +482,8 @@
     "studio": "FRI",
     "reservation_required": false,
     "genre": null,
-    "note": "甲高"
+    "note": "甲高",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -473,7 +500,8 @@
     "studio": "FRI",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "久保"
+    "note": "久保",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -490,7 +518,8 @@
     "studio": "FRI",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "塚原"
+    "note": "塚原",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -507,7 +536,8 @@
     "studio": "FRI",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -524,7 +554,8 @@
     "studio": "FRI",
     "reservation_required": false,
     "genre": null,
-    "note": "代田"
+    "note": "代田",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -541,7 +572,8 @@
     "studio": "FRI",
     "reservation_required": false,
     "genre": null,
-    "note": "ARIKO"
+    "note": "ARIKO",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -558,7 +590,8 @@
     "studio": "FRI",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "YUKARI"
+    "note": "YUKARI",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -575,7 +608,8 @@
     "studio": "SAT",
     "reservation_required": false,
     "genre": null,
-    "note": "Yachi"
+    "note": "Yachi",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -592,7 +626,8 @@
     "studio": "SAT",
     "reservation_required": false,
     "genre": null,
-    "note": "YUU"
+    "note": "YUU",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -609,7 +644,8 @@
     "studio": "SAT",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -626,7 +662,8 @@
     "studio": "SUN",
     "reservation_required": false,
     "genre": null,
-    "note": "Ki-Ma"
+    "note": "Ki-Ma",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -643,7 +680,8 @@
     "studio": "SUN",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "YUKARI"
+    "note": "YUKARI",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -660,7 +698,8 @@
     "studio": "SUN",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "YUKARI"
+    "note": "YUKARI",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -677,6 +716,7 @@
     "studio": "SUN",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "久保"
+    "note": "久保",
+    "instructor_id": null
   }
 ]

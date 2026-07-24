@@ -14,7 +14,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "楽しむフラダンス",
-    "note": "7/8、9/16休講（全8回開催）"
+    "note": "7/8、9/16休講（全8回開催）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -31,7 +32,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "健康麻雀",
-    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催"
+    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -48,7 +50,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "モーニングヨガ",
-    "note": "8/21休講 → 9/25開催"
+    "note": "8/21休講 → 9/25開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -65,7 +68,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "楽しむフラダンス",
-    "note": "7/8、9/16休講（全8回開催）"
+    "note": "7/8、9/16休講（全8回開催）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -82,7 +86,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "健康麻雀",
-    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催"
+    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -99,7 +104,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "モーニングヨガ",
-    "note": "8/21休講 → 9/25開催"
+    "note": "8/21休講 → 9/25開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -116,7 +122,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "楽しむフラダンス",
-    "note": "7/8、9/16休講（全8回開催）"
+    "note": "7/8、9/16休講（全8回開催）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -133,7 +140,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "健康麻雀",
-    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催"
+    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -150,7 +158,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "モーニングヨガ",
-    "note": "8/21休講 → 9/25開催"
+    "note": "8/21休講 → 9/25開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -167,7 +176,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "楽しむフラダンス",
-    "note": "7/8、9/16休講（全8回開催）"
+    "note": "7/8、9/16休講（全8回開催）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -184,7 +194,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "健康麻雀",
-    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催"
+    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -201,7 +212,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "モーニングヨガ",
-    "note": "8/21休講 → 9/25開催"
+    "note": "8/21休講 → 9/25開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -218,7 +230,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "楽しむフラダンス",
-    "note": "7/8、9/16休講（全8回開催）"
+    "note": "7/8、9/16休講（全8回開催）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -235,7 +248,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "健康麻雀",
-    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催"
+    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -252,7 +266,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "モーニングヨガ",
-    "note": "8/21休講 → 9/25開催"
+    "note": "8/21休講 → 9/25開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -269,7 +284,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "楽しむフラダンス",
-    "note": "7/8、9/16休講（全8回開催）"
+    "note": "7/8、9/16休講（全8回開催）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -286,7 +302,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "健康麻雀",
-    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催"
+    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -303,7 +320,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "モーニングヨガ",
-    "note": "8/21休講 → 9/25開催"
+    "note": "8/21休講 → 9/25開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -320,7 +338,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "楽しむフラダンス",
-    "note": "7/8、9/16休講（全8回開催）"
+    "note": "7/8、9/16休講（全8回開催）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -337,7 +356,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "健康麻雀",
-    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催"
+    "note": "7/9、7/16、7/30休講 → 7/2、8/13、9/24開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -354,7 +374,8 @@
     "studio": "【5月9日受付開始",
     "reservation_required": false,
     "genre": "モーニングヨガ",
-    "note": "8/21休講 → 9/25開催"
+    "note": "8/21休講 → 9/25開催",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -371,7 +392,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -388,7 +410,8 @@
     "studio": "研修室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -405,7 +428,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -422,7 +446,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18065"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -439,7 +464,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -456,7 +482,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18066"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -473,7 +500,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18067"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -490,7 +518,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18067"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -507,7 +536,8 @@
     "studio": "第1武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18068"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -524,7 +554,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18069"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -541,7 +572,8 @@
     "studio": "アーチェリー場",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -558,7 +590,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -575,7 +608,8 @@
     "studio": "研修室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -592,7 +626,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -609,7 +644,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18065"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -626,7 +662,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -643,7 +680,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18066"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -660,7 +698,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18067"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -677,7 +716,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18067"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -694,7 +734,8 @@
     "studio": "第1武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18068"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -711,7 +752,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18069"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -728,7 +770,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -745,7 +788,8 @@
     "studio": "研修室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -762,7 +806,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -779,7 +824,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18065"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -796,7 +842,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -813,7 +860,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18066"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -830,7 +878,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18067"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -847,7 +896,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18067"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -864,7 +914,8 @@
     "studio": "第1武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18068"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -881,7 +932,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18069"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -898,7 +950,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -915,7 +968,8 @@
     "studio": "研修室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -932,7 +986,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -949,7 +1004,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18065"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -966,7 +1022,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -983,7 +1040,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18066"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1000,7 +1058,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18067"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1017,7 +1076,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18067"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1034,7 +1094,8 @@
     "studio": "第1武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18068"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1051,7 +1112,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18069"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1068,7 +1130,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1085,7 +1148,8 @@
     "studio": "研修室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1102,7 +1166,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18063"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1119,7 +1184,8 @@
     "studio": "第2武道室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18065"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1136,7 +1202,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18064"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1153,7 +1220,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18066"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1170,7 +1238,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18070"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1187,7 +1256,8 @@
     "studio": "研修室",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i12998"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1204,7 +1274,8 @@
     "studio": "第1武道室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18071"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1221,7 +1292,8 @@
     "studio": "研修室",
     "reservation_required": true,
     "genre": null,
-    "note": "※必要な方は上着き"
+    "note": "※必要な方は上着き",
+    "instructor_id": "i18072"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1238,7 +1310,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18073"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1255,7 +1328,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★素足（靴下可）・マット\n心身をリフレッシュして、若々しさを保ちましょう！"
+    "note": "★素足（靴下可）・マット\n心身をリフレッシュして、若々しさを保ちましょう！",
+    "instructor_id": "i18069"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1272,7 +1346,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★ラケット・体育館シューズ\nラケットの握り方からゲームを楽しむ方法まで。初めての方・基礎を学びたい方"
+    "note": "★ラケット・体育館シューズ\nラケットの握り方からゲームを楽しむ方法まで。初めての方・基礎を学びたい方",
+    "instructor_id": "i18074"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1289,7 +1364,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★ラケット・体育館シューズ\n基礎打ちが可能な対象者。ゲームを楽しむ方法など毎回楽しみなプログラム。"
+    "note": "★ラケット・体育館シューズ\n基礎打ちが可能な対象者。ゲームを楽しむ方法など毎回楽しみなプログラム。",
+    "instructor_id": "i18074"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1306,7 +1382,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★室内シューズ・マット・スポーツタオル\nエアロビクスの基本STEPとバリアージョンを楽しみながら体力向上を目指します。 / 初級"
+    "note": "★室内シューズ・マット・スポーツタオル\nエアロビクスの基本STEPとバリアージョンを楽しみながら体力向上を目指します。 / 初級",
+    "instructor_id": "i18073"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1323,7 +1400,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★素足（必要な方は室内シューズ）"
+    "note": "★素足（必要な方は室内シューズ）",
+    "instructor_id": "i18075"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1340,7 +1418,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★素足（必要な方は室内シューズ）"
+    "note": "★素足（必要な方は室内シューズ）",
+    "instructor_id": "i18075"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1357,7 +1436,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★体育館シューズ\n※レンタルバドミントあり　2,500円/10回"
+    "note": "★体育館シューズ\n※レンタルバドミントあり　2,500円/10回",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1374,7 +1454,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★体育館シューズ\n※レンタルバドミントあり　2,500円/10回"
+    "note": "★体育館シューズ\n※レンタルバドミントあり　2,500円/10回",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1391,7 +1472,8 @@
     "studio": "第2武道室",
     "reservation_required": false,
     "genre": null,
-    "note": "★素足・肘と膝が擦れる長袖長ズボン\n初心者や初期対象で基礎から学びます。"
+    "note": "★素足・肘と膝が擦れる長袖長ズボン\n初心者や初期対象で基礎から学びます。",
+    "instructor_id": "i18076"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1408,7 +1490,8 @@
     "studio": "アーチェリー場",
     "reservation_required": false,
     "genre": null,
-    "note": "★厚手の靴下・前ボタンのない服\n入門教室を受講された方（1回以上）、または過去に弓道の経験のある方対象。\n※用具代も含まれています / 初級"
+    "note": "★厚手の靴下・前ボタンのない服\n入門教室を受講された方（1回以上）、または過去に弓道の経験のある方対象。\n※用具代も含まれています / 初級",
+    "instructor_id": "i18077"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1425,7 +1508,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★ヨガマット・素足(靴下可)\n身体を正しく使い、心も一緒にスッキリさせていきましょう。"
+    "note": "★ヨガマット・素足(靴下可)\n身体を正しく使い、心も一緒にスッキリさせていきましょう。",
+    "instructor_id": "i18078"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1442,7 +1526,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★室内シューズ\n音楽に合わせてキックボクシングを中心とした格闘技の動きで全身動かします。"
+    "note": "★室内シューズ\n音楽に合わせてキックボクシングを中心とした格闘技の動きで全身動かします。",
+    "instructor_id": "i18079"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1459,7 +1544,8 @@
     "studio": "アーチェリー場",
     "reservation_required": false,
     "genre": null,
-    "note": "★厚手の靴下・前ボタンのない服\n有段者（初段以上）の方対象です。\n※用具代も含まれています / 中級"
+    "note": "★厚手の靴下・前ボタンのない服\n有段者（初段以上）の方対象です。\n※用具代も含まれています / 中級",
+    "instructor_id": "i18077"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1476,7 +1562,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": null,
-    "note": "★素足（靴下可）・マット\n一週間の疲れをほぐします。男女問わず、ずっと一緒に続けられる健康法です。"
+    "note": "★素足（靴下可）・マット\n一週間の疲れをほぐします。男女問わず、ずっと一緒に続けられる健康法です。",
+    "instructor_id": "i18080"
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1493,7 +1580,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": null,
-    "note": "*概ね60歳以上対象"
+    "note": "*概ね60歳以上対象",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1510,7 +1598,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": null,
-    "note": "4泳法25m泳げる方を対象としたクラスです。キレて無理のない泳ぎを身につけ、より楽に長い距離を泳げるよう、泳ぎの改善を行います。回数を重ねながらフォームを整え、安定した泳ぎを目指します。"
+    "note": "4泳法25m泳げる方を対象としたクラスです。キレて無理のない泳ぎを身につけ、より楽に長い距離を泳げるよう、泳ぎの改善を行います。回数を重ねながらフォームを整え、安定した泳ぎを目指します。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1527,7 +1616,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": null,
-    "note": "水慣れ（水中歩行・水中運動）からクロール・背泳ぎ・平泳ぎ・バタフライの指導を行います。"
+    "note": "水慣れ（水中歩行・水中運動）からクロール・背泳ぎ・平泳ぎ・バタフライの指導を行います。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1544,7 +1634,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": null,
-    "note": "水中歩行など緩やかな動きから、バランス能力の向上を目指します。関節疾患や水が苦手な方も大歓迎です♪"
+    "note": "水中歩行など緩やかな動きから、バランス能力の向上を目指します。関節疾患や水が苦手な方も大歓迎です♪",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1561,7 +1652,8 @@
     "studio": "プール教室",
     "reservation_required": false,
     "genre": null,
-    "note": "水の抵抗・浮力を利用し、脂肪燃焼・筋力アップを目指します。音楽にあわせて楽しむ動きましょう♪"
+    "note": "水の抵抗・浮力を利用し、脂肪燃焼・筋力アップを目指します。音楽にあわせて楽しむ動きましょう♪",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1578,7 +1670,8 @@
     "studio": "夜の水泳教室",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1595,7 +1688,8 @@
     "studio": "夜の水泳教室",
     "reservation_required": false,
     "genre": null,
-    "note": "初心者～中上級"
+    "note": "初心者～中上級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1612,7 +1706,8 @@
     "studio": "夜の水泳教室",
     "reservation_required": false,
     "genre": null,
-    "note": "中上級"
+    "note": "中上級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tama_sports_net",
@@ -1629,6 +1724,7 @@
     "studio": "夜の水泳教室",
     "reservation_required": false,
     "genre": null,
-    "note": "中上級"
+    "note": "中上級",
+    "instructor_id": null
   }
 ]

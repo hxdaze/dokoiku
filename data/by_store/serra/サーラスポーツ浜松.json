@@ -14,7 +14,8 @@
     "studio": "A STUDIO",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21302"
   },
   {
     "gym_id": "serra",
@@ -31,7 +32,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21303"
   },
   {
     "gym_id": "serra",
@@ -48,7 +50,8 @@
     "studio": "A STUDIO",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -65,7 +68,8 @@
     "studio": "A STUDIO",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i21304"
   },
   {
     "gym_id": "serra",
@@ -82,7 +86,8 @@
     "studio": "A STUDIO",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -99,7 +104,8 @@
     "studio": "A STUDIO",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i21304"
   },
   {
     "gym_id": "serra",
@@ -116,7 +122,8 @@
     "studio": "A STUDIO",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21302"
   },
   {
     "gym_id": "serra",
@@ -133,7 +140,8 @@
     "studio": "A STUDIO",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -150,7 +158,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -167,7 +176,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -184,7 +194,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -201,7 +212,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -218,7 +230,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -235,7 +248,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -252,7 +266,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -269,7 +284,8 @@
     "studio": "A STUDIO",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i21305"
   },
   {
     "gym_id": "serra",
@@ -286,7 +302,8 @@
     "studio": "A STUDIO",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i21305"
   },
   {
     "gym_id": "serra",
@@ -303,7 +320,8 @@
     "studio": "B STUDIO",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21306"
   },
   {
     "gym_id": "serra",
@@ -320,7 +338,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -337,7 +356,8 @@
     "studio": "B STUDIO",
     "reservation_required": true,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -354,7 +374,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "2コース使用"
+    "note": "2コース使用",
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -371,7 +392,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i21304"
   },
   {
     "gym_id": "serra",
@@ -388,7 +410,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "2コース使用"
+    "note": "2コース使用",
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -405,7 +428,8 @@
     "studio": "A STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21303"
   },
   {
     "gym_id": "serra",
@@ -422,7 +446,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i21307"
   },
   {
     "gym_id": "serra",
@@ -439,7 +464,8 @@
     "studio": "B STUDIO",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i21308"
   },
   {
     "gym_id": "serra",
@@ -456,7 +482,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i1308"
   },
   {
     "gym_id": "serra",
@@ -473,7 +500,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21309"
   },
   {
     "gym_id": "serra",
@@ -490,7 +518,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "2コース使用"
+    "note": "2コース使用",
+    "instructor_id": "i9611"
   },
   {
     "gym_id": "serra",
@@ -507,7 +536,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "14:00~ 16:00迄"
+    "note": "14:00~ 16:00迄",
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -524,7 +554,8 @@
     "studio": "POOL",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21310"
   },
   {
     "gym_id": "serra",
@@ -541,7 +572,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21311"
   },
   {
     "gym_id": "serra",
@@ -558,7 +590,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21311"
   },
   {
     "gym_id": "serra",
@@ -575,7 +608,8 @@
     "studio": "A STUDIO",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i10359"
   },
   {
     "gym_id": "serra",
@@ -592,7 +626,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i6051"
   },
   {
     "gym_id": "serra",
@@ -609,7 +644,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21311"
   },
   {
     "gym_id": "serra",
@@ -626,7 +662,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21311"
   },
   {
     "gym_id": "serra",
@@ -643,7 +680,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "90 / 13:30"
+    "note": "90 / 13:30",
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -660,7 +698,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21312"
   },
   {
     "gym_id": "serra",
@@ -677,7 +716,8 @@
     "studio": "B STUDIO",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21312"
   },
   {
     "gym_id": "serra",
@@ -694,7 +734,8 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "90 / 15:15"
+    "note": "90 / 15:15",
+    "instructor_id": null
   },
   {
     "gym_id": "serra",
@@ -711,6 +752,7 @@
     "studio": "POOL",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

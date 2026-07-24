@@ -14,7 +14,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i12119"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12120"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12121"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12122"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -82,7 +86,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i12119"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12123"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初心者A/育成"
+    "note": "初心者A/育成",
+    "instructor_id": null
   },
   {
     "gym_id": "kihoku_kenko",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初心者C/育成"
+    "note": "初心者C/育成",
+    "instructor_id": null
   },
   {
     "gym_id": "kihoku_kenko",
@@ -150,7 +158,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初心者A/育成"
+    "note": "初心者A/育成",
+    "instructor_id": null
   },
   {
     "gym_id": "kihoku_kenko",
@@ -167,7 +176,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初心者B/育成"
+    "note": "初心者B/育成",
+    "instructor_id": null
   },
   {
     "gym_id": "kihoku_kenko",
@@ -184,7 +194,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初心者D/育成"
+    "note": "初心者D/育成",
+    "instructor_id": null
   },
   {
     "gym_id": "kihoku_kenko",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "選手コース"
+    "note": "選手コース",
+    "instructor_id": null
   },
   {
     "gym_id": "kihoku_kenko",
@@ -218,7 +230,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初心者B/育成"
+    "note": "初心者B/育成",
+    "instructor_id": null
   },
   {
     "gym_id": "kihoku_kenko",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12121"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12124"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i12125"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12121"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -303,7 +320,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": "i12126"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12127"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -337,7 +356,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i12125"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12122"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12128"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -388,7 +410,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": "i12129"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12123"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12130"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12120"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12127"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -473,7 +500,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i12125"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12123"
   },
   {
     "gym_id": "kihoku_kenko",
@@ -507,6 +536,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12131"
   }
 ]

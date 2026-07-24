@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "第4週"
+    "note": "第4週",
+    "instructor_id": "i8538"
   },
   {
     "gym_id": "kouza_pool",
@@ -31,7 +32,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "スタジオ等",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -65,7 +68,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "スタジオ等",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -218,7 +230,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "スタジオ等",
-    "note": "第4週"
+    "note": "第4週",
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": "流水"
+    "note": "流水",
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -269,7 +284,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "スタジオ等",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -286,7 +302,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "スタジオ等",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -303,7 +320,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "スタジオ等",
-    "note": "第3週"
+    "note": "第3週",
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -371,7 +392,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "スタジオ等",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -388,7 +410,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -422,7 +446,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -439,7 +464,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -456,7 +482,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -473,7 +500,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -541,7 +572,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -558,7 +590,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -592,7 +626,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -609,7 +644,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -626,7 +662,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": "第2週"
+    "note": "第2週",
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -643,7 +680,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -660,7 +698,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -677,7 +716,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -694,7 +734,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -711,7 +752,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -728,7 +770,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -745,7 +788,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -762,7 +806,8 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "子ども向け",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kouza_pool",
@@ -779,6 +824,7 @@
     "studio": "スタジオ等",
     "reservation_required": false,
     "genre": "成人向け",
-    "note": "流水"
+    "note": "流水",
+    "instructor_id": null
   }
 ]

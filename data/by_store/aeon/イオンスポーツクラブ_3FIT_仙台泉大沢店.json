@@ -14,7 +14,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -31,7 +32,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -48,7 +50,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -65,7 +68,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -82,7 +86,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -99,7 +104,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -116,7 +122,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -133,7 +140,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -150,7 +158,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -167,7 +176,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -184,7 +194,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -201,7 +212,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -218,7 +230,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -235,7 +248,8 @@
     "studio": "イオンスポーツクラブ 3FIT 仙台泉大沢店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i32"
   },
   {
     "gym_id": "aeon",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i32"
   },
   {
     "gym_id": "aeon",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i33"
   },
   {
     "gym_id": "aeon",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i33"
   },
   {
     "gym_id": "aeon",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": null
+    "note": null,
+    "instructor_id": "i34"
   },
   {
     "gym_id": "aeon",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i35"
   },
   {
     "gym_id": "aeon",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i36"
   },
   {
     "gym_id": "aeon",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i35"
   },
   {
     "gym_id": "aeon",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i37"
   },
   {
     "gym_id": "aeon",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i35"
   },
   {
     "gym_id": "aeon",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i38"
   },
   {
     "gym_id": "aeon",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i39"
   },
   {
     "gym_id": "aeon",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i40"
   },
   {
     "gym_id": "aeon",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i40"
   },
   {
     "gym_id": "aeon",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": null
+    "note": null,
+    "instructor_id": "i41"
   },
   {
     "gym_id": "aeon",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": null
+    "note": null,
+    "instructor_id": "i42"
   },
   {
     "gym_id": "aeon",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i32"
   },
   {
     "gym_id": "aeon",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i35"
   },
   {
     "gym_id": "aeon",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i43"
   },
   {
     "gym_id": "aeon",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i35"
   },
   {
     "gym_id": "aeon",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": "24名限定"
+    "note": "24名限定",
+    "instructor_id": "i42"
   },
   {
     "gym_id": "aeon",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i44"
   },
   {
     "gym_id": "aeon",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": "24名限定"
+    "note": "24名限定",
+    "instructor_id": "i42"
   },
   {
     "gym_id": "aeon",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i45"
   },
   {
     "gym_id": "aeon",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": null
+    "note": null,
+    "instructor_id": "i42"
   },
   {
     "gym_id": "aeon",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i38"
   },
   {
     "gym_id": "aeon",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i35"
   },
   {
     "gym_id": "aeon",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": null
+    "note": null,
+    "instructor_id": "i41"
   },
   {
     "gym_id": "aeon",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": null
+    "note": null,
+    "instructor_id": "i41"
   },
   {
     "gym_id": "aeon",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i45"
   },
   {
     "gym_id": "aeon",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i35"
   },
   {
     "gym_id": "aeon",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロ45",
-    "note": null
+    "note": null,
+    "instructor_id": "i35"
   },
   {
     "gym_id": "aeon",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": null
+    "note": null,
+    "instructor_id": "i41"
   },
   {
     "gym_id": "aeon",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": null
+    "note": null,
+    "instructor_id": "i42"
   },
   {
     "gym_id": "aeon",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "期間限定"
+    "note": "期間限定",
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "期間限定"
+    "note": "期間限定",
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FIGHT DO",
-    "note": "新歓発表 14:30~15:30"
+    "note": "新歓発表 14:30~15:30",
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i33"
   },
   {
     "gym_id": "aeon",
@@ -898,6 +950,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i44"
   }
 ]

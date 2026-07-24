@@ -14,7 +14,8 @@
     "studio": "オープンスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muchcolor",
@@ -31,7 +32,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muchcolor",
@@ -48,6 +50,7 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17816"
   }
 ]

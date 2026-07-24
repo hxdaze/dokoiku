@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -31,7 +32,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7452"
   },
   {
     "gym_id": "jexer",
@@ -48,7 +50,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i7996"
   },
   {
     "gym_id": "jexer",
@@ -65,7 +68,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け・備品制限あり"
+    "note": "初心者向け・備品制限あり",
+    "instructor_id": "i10974"
   },
   {
     "gym_id": "jexer",
@@ -82,7 +86,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11078"
   },
   {
     "gym_id": "jexer",
@@ -99,7 +104,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i11106"
   },
   {
     "gym_id": "jexer",
@@ -116,7 +122,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i7652"
   },
   {
     "gym_id": "jexer",
@@ -133,7 +140,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i11013"
   },
   {
     "gym_id": "jexer",
@@ -150,7 +158,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i10848"
   },
   {
     "gym_id": "jexer",
@@ -167,7 +176,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i10868"
   },
   {
     "gym_id": "jexer",
@@ -184,7 +194,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i2358"
   },
   {
     "gym_id": "jexer",
@@ -201,7 +212,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2623"
   },
   {
     "gym_id": "jexer",
@@ -218,7 +230,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i1670"
   },
   {
     "gym_id": "jexer",
@@ -235,7 +248,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -252,7 +266,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -269,7 +284,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -286,7 +302,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -303,7 +320,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -320,7 +338,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -337,7 +356,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -354,7 +374,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -371,7 +392,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -388,7 +410,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -405,7 +428,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -422,7 +446,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -439,7 +464,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -456,7 +482,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i2360"
   },
   {
     "gym_id": "jexer",
@@ -473,7 +500,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け・備品制限あり"
+    "note": "初心者向け・備品制限あり",
+    "instructor_id": "i5646"
   },
   {
     "gym_id": "jexer",
@@ -490,7 +518,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i11107"
   },
   {
     "gym_id": "jexer",
@@ -507,7 +536,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け・備品制限あり"
+    "note": "初心者向け・備品制限あり",
+    "instructor_id": "i11107"
   },
   {
     "gym_id": "jexer",
@@ -524,7 +554,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10834"
   },
   {
     "gym_id": "jexer",
@@ -541,7 +572,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10828"
   },
   {
     "gym_id": "jexer",
@@ -558,7 +590,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11072"
   },
   {
     "gym_id": "jexer",
@@ -575,7 +608,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i4985"
   },
   {
     "gym_id": "jexer",
@@ -592,7 +626,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11108"
   },
   {
     "gym_id": "jexer",
@@ -609,7 +644,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i11079"
   },
   {
     "gym_id": "jexer",
@@ -626,7 +662,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2183"
   },
   {
     "gym_id": "jexer",
@@ -643,7 +680,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10991"
   },
   {
     "gym_id": "jexer",
@@ -660,7 +698,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4487"
   },
   {
     "gym_id": "jexer",
@@ -677,7 +716,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11072"
   },
   {
     "gym_id": "jexer",
@@ -694,7 +734,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i11045"
   },
   {
     "gym_id": "jexer",
@@ -711,7 +752,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -728,7 +770,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -745,7 +788,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -762,7 +806,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -779,7 +824,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -796,7 +842,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -813,7 +860,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -830,7 +878,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -847,7 +896,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -864,7 +914,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -881,7 +932,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -898,7 +950,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -915,7 +968,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -932,7 +986,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8118"
   },
   {
     "gym_id": "jexer",
@@ -949,7 +1004,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11109"
   },
   {
     "gym_id": "jexer",
@@ -966,7 +1022,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け・備品制限あり"
+    "note": "初心者向け・備品制限あり",
+    "instructor_id": "i11110"
   },
   {
     "gym_id": "jexer",
@@ -983,7 +1040,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11110"
   },
   {
     "gym_id": "jexer",
@@ -1000,7 +1058,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け・備品制限あり"
+    "note": "初心者向け・備品制限あり",
+    "instructor_id": "i9025"
   },
   {
     "gym_id": "jexer",
@@ -1017,7 +1076,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i7652"
   },
   {
     "gym_id": "jexer",
@@ -1034,7 +1094,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i11107"
   },
   {
     "gym_id": "jexer",
@@ -1051,7 +1112,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i11111"
   },
   {
     "gym_id": "jexer",
@@ -1068,7 +1130,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i10879"
   },
   {
     "gym_id": "jexer",
@@ -1085,7 +1148,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i10879"
   },
   {
     "gym_id": "jexer",
@@ -1102,7 +1166,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i4985"
   },
   {
     "gym_id": "jexer",
@@ -1119,7 +1184,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1136,7 +1202,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i10848"
   },
   {
     "gym_id": "jexer",
@@ -1153,7 +1220,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i2418"
   },
   {
     "gym_id": "jexer",
@@ -1170,7 +1238,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1187,7 +1256,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1204,7 +1274,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1221,7 +1292,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1238,7 +1310,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1255,7 +1328,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1272,7 +1346,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1289,7 +1364,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1306,7 +1382,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1323,7 +1400,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1340,7 +1418,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1357,7 +1436,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1374,7 +1454,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1391,7 +1472,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i10809"
   },
   {
     "gym_id": "jexer",
@@ -1408,7 +1490,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i1013"
   },
   {
     "gym_id": "jexer",
@@ -1425,7 +1508,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11054"
   },
   {
     "gym_id": "jexer",
@@ -1442,7 +1526,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11054"
   },
   {
     "gym_id": "jexer",
@@ -1459,7 +1544,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10887"
   },
   {
     "gym_id": "jexer",
@@ -1476,7 +1562,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11075"
   },
   {
     "gym_id": "jexer",
@@ -1493,7 +1580,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i11112"
   },
   {
     "gym_id": "jexer",
@@ -1510,7 +1598,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11113"
   },
   {
     "gym_id": "jexer",
@@ -1527,7 +1616,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8673"
   },
   {
     "gym_id": "jexer",
@@ -1544,7 +1634,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10848"
   },
   {
     "gym_id": "jexer",
@@ -1561,7 +1652,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i10849"
   },
   {
     "gym_id": "jexer",
@@ -1578,7 +1670,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2629"
   },
   {
     "gym_id": "jexer",
@@ -1595,7 +1688,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10908"
   },
   {
     "gym_id": "jexer",
@@ -1612,7 +1706,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11049"
   },
   {
     "gym_id": "jexer",
@@ -1629,7 +1724,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10908"
   },
   {
     "gym_id": "jexer",
@@ -1646,7 +1742,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i5622"
   },
   {
     "gym_id": "jexer",
@@ -1663,7 +1760,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1680,7 +1778,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1697,7 +1796,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1714,7 +1814,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1731,7 +1832,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1748,7 +1850,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1765,7 +1868,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1782,7 +1886,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1799,7 +1904,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1816,7 +1922,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1833,7 +1940,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1850,7 +1958,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1867,7 +1976,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -1884,7 +1994,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10828"
   },
   {
     "gym_id": "jexer",
@@ -1901,7 +2012,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i5646"
   },
   {
     "gym_id": "jexer",
@@ -1918,7 +2030,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i6979"
   },
   {
     "gym_id": "jexer",
@@ -1935,7 +2048,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i11109"
   },
   {
     "gym_id": "jexer",
@@ -1952,7 +2066,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11109"
   },
   {
     "gym_id": "jexer",
@@ -1969,7 +2084,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i10958"
   },
   {
     "gym_id": "jexer",
@@ -1986,7 +2102,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11107"
   },
   {
     "gym_id": "jexer",
@@ -2003,7 +2120,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i10891"
   },
   {
     "gym_id": "jexer",
@@ -2020,7 +2138,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i10891"
   },
   {
     "gym_id": "jexer",
@@ -2037,7 +2156,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i10848"
   },
   {
     "gym_id": "jexer",
@@ -2054,7 +2174,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2071,7 +2192,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2088,7 +2210,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2105,7 +2228,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2122,7 +2246,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2139,7 +2264,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2156,7 +2282,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10809"
   },
   {
     "gym_id": "jexer",
@@ -2173,7 +2300,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "備品制限あり"
+    "note": "備品制限あり",
+    "instructor_id": "i10809"
   },
   {
     "gym_id": "jexer",
@@ -2190,7 +2318,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i2623"
   },
   {
     "gym_id": "jexer",
@@ -2207,7 +2336,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10916"
   },
   {
     "gym_id": "jexer",
@@ -2224,7 +2354,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11110"
   },
   {
     "gym_id": "jexer",
@@ -2241,7 +2372,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i5739"
   },
   {
     "gym_id": "jexer",
@@ -2258,7 +2390,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i5739"
   },
   {
     "gym_id": "jexer",
@@ -2275,7 +2408,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i11114"
   },
   {
     "gym_id": "jexer",
@@ -2292,7 +2426,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11013"
   },
   {
     "gym_id": "jexer",
@@ -2309,7 +2444,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2623"
   },
   {
     "gym_id": "jexer",
@@ -2326,7 +2462,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初心者向け"
+    "note": "初心者向け",
+    "instructor_id": "i10929"
   },
   {
     "gym_id": "jexer",
@@ -2343,7 +2480,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2360,7 +2498,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2377,7 +2516,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2394,7 +2534,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2411,7 +2552,8 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "jexer",
@@ -2428,6 +2570,7 @@
     "studio": "ジムエリア",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

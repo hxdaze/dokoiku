@@ -14,7 +14,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "火"
+    "note": "火",
+    "instructor_id": "i21107"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -31,7 +32,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "火"
+    "note": "火",
+    "instructor_id": "i21107"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -48,7 +50,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21132"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -65,7 +68,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21133"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -82,7 +86,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i20696"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -99,7 +104,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21134"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -116,7 +122,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": "火"
+    "note": "火",
+    "instructor_id": "i21135"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -133,7 +140,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21133"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -150,7 +158,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": "水"
+    "note": "水",
+    "instructor_id": "i21103"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -167,7 +176,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21136"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -184,7 +194,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21137"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -201,7 +212,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21133"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -218,7 +230,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21136"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -235,7 +248,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21085"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -252,7 +266,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21085"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -269,7 +284,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": "木"
+    "note": "木",
+    "instructor_id": "i21135"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -286,7 +302,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21138"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -303,7 +320,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21138"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -320,7 +338,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21137"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -337,7 +356,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21139"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -354,7 +374,8 @@
     "studio": "格技室",
     "reservation_required": true,
     "genre": null,
-    "note": "金"
+    "note": "金",
+    "instructor_id": "i21095"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -371,7 +392,8 @@
     "studio": "小体育室",
     "reservation_required": true,
     "genre": "ウォーキング",
-    "note": null
+    "note": null,
+    "instructor_id": "i21140"
   },
   {
     "gym_id": "sapporo_minami_gym",
@@ -388,6 +410,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": "バレエ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21136"
   }
 ]

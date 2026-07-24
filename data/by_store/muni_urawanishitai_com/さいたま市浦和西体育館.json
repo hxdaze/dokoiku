@@ -14,6 +14,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "5歳～小学4年生まで対象！"
+    "note": "5歳～小学4年生まで対象！",
+    "instructor_id": null
   }
 ]

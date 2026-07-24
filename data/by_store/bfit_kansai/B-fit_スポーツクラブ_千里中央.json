@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1999"
   },
   {
     "gym_id": "bfit_kansai",
@@ -31,7 +32,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2012"
   },
   {
     "gym_id": "bfit_kansai",
@@ -48,7 +50,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1999"
   },
   {
     "gym_id": "bfit_kansai",
@@ -65,7 +68,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2013"
   },
   {
     "gym_id": "bfit_kansai",
@@ -82,7 +86,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2014"
   },
   {
     "gym_id": "bfit_kansai",
@@ -99,7 +104,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2013"
   },
   {
     "gym_id": "bfit_kansai",
@@ -116,7 +122,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2015"
   },
   {
     "gym_id": "bfit_kansai",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2016"
   },
   {
     "gym_id": "bfit_kansai",
@@ -150,7 +158,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "bfit_kansai",
@@ -167,7 +176,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2017"
   },
   {
     "gym_id": "bfit_kansai",
@@ -184,7 +194,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2017"
   },
   {
     "gym_id": "bfit_kansai",
@@ -201,7 +212,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -218,7 +230,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2018"
   },
   {
     "gym_id": "bfit_kansai",
@@ -235,7 +248,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2019"
   },
   {
     "gym_id": "bfit_kansai",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -269,7 +284,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2020"
   },
   {
     "gym_id": "bfit_kansai",
@@ -286,7 +302,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2019"
   },
   {
     "gym_id": "bfit_kansai",
@@ -303,7 +320,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2019"
   },
   {
     "gym_id": "bfit_kansai",
@@ -320,7 +338,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2021"
   },
   {
     "gym_id": "bfit_kansai",
@@ -337,7 +356,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2022"
   },
   {
     "gym_id": "bfit_kansai",
@@ -354,7 +374,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2023"
   },
   {
     "gym_id": "bfit_kansai",
@@ -371,7 +392,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2023"
   },
   {
     "gym_id": "bfit_kansai",
@@ -388,7 +410,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2024"
   },
   {
     "gym_id": "bfit_kansai",
@@ -405,7 +428,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2025"
   },
   {
     "gym_id": "bfit_kansai",
@@ -422,7 +446,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1994"
   },
   {
     "gym_id": "bfit_kansai",
@@ -439,7 +464,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2014"
   },
   {
     "gym_id": "bfit_kansai",
@@ -456,7 +482,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1994"
   },
   {
     "gym_id": "bfit_kansai",
@@ -473,7 +500,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2025"
   },
   {
     "gym_id": "bfit_kansai",
@@ -490,7 +518,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2026"
   },
   {
     "gym_id": "bfit_kansai",
@@ -507,7 +536,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2027"
   },
   {
     "gym_id": "bfit_kansai",
@@ -524,7 +554,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2028"
   },
   {
     "gym_id": "bfit_kansai",
@@ -541,7 +572,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2026"
   },
   {
     "gym_id": "bfit_kansai",
@@ -558,7 +590,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2013"
   },
   {
     "gym_id": "bfit_kansai",
@@ -575,7 +608,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2029"
   },
   {
     "gym_id": "bfit_kansai",
@@ -592,7 +626,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2030"
   },
   {
     "gym_id": "bfit_kansai",
@@ -609,7 +644,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2023"
   },
   {
     "gym_id": "bfit_kansai",
@@ -626,7 +662,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2031"
   },
   {
     "gym_id": "bfit_kansai",
@@ -643,7 +680,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2032"
   },
   {
     "gym_id": "bfit_kansai",
@@ -660,7 +698,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2033"
   },
   {
     "gym_id": "bfit_kansai",
@@ -677,7 +716,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2034"
   },
   {
     "gym_id": "bfit_kansai",
@@ -694,7 +734,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -711,7 +752,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2035"
   },
   {
     "gym_id": "bfit_kansai",
@@ -728,7 +770,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2036"
   },
   {
     "gym_id": "bfit_kansai",
@@ -745,7 +788,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -762,7 +806,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -779,7 +824,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -796,7 +842,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2036"
   },
   {
     "gym_id": "bfit_kansai",
@@ -813,7 +860,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -830,7 +878,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "哲"
+    "note": "哲",
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -847,7 +896,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -864,7 +914,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "7月・・・平泳ぎ\n8月・・・バタフライ\n9月・・・背泳ぎ"
+    "note": "7月・・・平泳ぎ\n8月・・・バタフライ\n9月・・・背泳ぎ",
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -881,7 +932,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -898,7 +950,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit_kansai",
@@ -915,7 +968,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2022"
   },
   {
     "gym_id": "bfit_kansai",
@@ -932,7 +986,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2022"
   },
   {
     "gym_id": "bfit_kansai",
@@ -949,7 +1004,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2037"
   },
   {
     "gym_id": "bfit_kansai",
@@ -966,7 +1022,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2025"
   },
   {
     "gym_id": "bfit_kansai",
@@ -983,7 +1040,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2038"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1000,7 +1058,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1687"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1017,7 +1076,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2025"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1034,7 +1094,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2039"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1051,7 +1112,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2040"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1068,7 +1130,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2039"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1085,7 +1148,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2041"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1102,7 +1166,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ・リラックス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2042"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1119,7 +1184,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2043"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1136,7 +1202,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディションング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2028"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1153,7 +1220,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2018"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1170,7 +1238,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2028"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1187,7 +1256,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "筋力強化系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2012"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1204,7 +1274,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2044"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1221,7 +1292,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ・リラックス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2045"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1238,7 +1310,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス・カルチャー系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2045"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1255,7 +1328,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ・リラックス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i618"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1272,7 +1346,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2046"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1289,7 +1364,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス・カルチャー系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2047"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1306,7 +1382,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ダンス・カルチャー系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2048"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1323,7 +1400,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2040"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1340,7 +1418,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2040"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1357,7 +1436,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2036"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1374,7 +1454,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2039"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1391,7 +1472,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディションング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2028"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1408,7 +1490,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "コンディションング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2018"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1425,7 +1508,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2044"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1442,7 +1526,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ヨガ・リラックス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2005"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1459,7 +1544,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2036"
   },
   {
     "gym_id": "bfit_kansai",
@@ -1476,6 +1562,7 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス・ステップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2036"
   }
 ]

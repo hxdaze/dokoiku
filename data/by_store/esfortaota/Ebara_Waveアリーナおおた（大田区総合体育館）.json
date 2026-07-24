@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "esfortaota",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "esfortaota",
@@ -48,7 +50,8 @@
     "studio": "体育室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7075"
   },
   {
     "gym_id": "esfortaota",
@@ -65,7 +68,8 @@
     "studio": "体育室1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "esfortaota",
@@ -82,7 +86,8 @@
     "studio": "体育室1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "esfortaota",
@@ -99,7 +104,8 @@
     "studio": "体育室1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "esfortaota",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "esfortaota",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "esfortaota",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "esfortaota",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "esfortaota",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "esfortaota",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "esfortaota",
@@ -218,6 +230,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   }
 ]

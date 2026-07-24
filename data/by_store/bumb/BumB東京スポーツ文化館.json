@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2295"
   },
   {
     "gym_id": "bumb",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2295"
   },
   {
     "gym_id": "bumb",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2296"
   },
   {
     "gym_id": "bumb",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": "i2297"
   },
   {
     "gym_id": "bumb",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": "i2297"
   },
   {
     "gym_id": "bumb",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2298"
   },
   {
     "gym_id": "bumb",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2295"
   },
   {
     "gym_id": "bumb",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2295"
   },
   {
     "gym_id": "bumb",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2298"
   },
   {
     "gym_id": "bumb",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2299"
   },
   {
     "gym_id": "bumb",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2300"
   },
   {
     "gym_id": "bumb",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオプログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2301"
   },
   {
     "gym_id": "bumb",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2297"
   },
   {
     "gym_id": "bumb",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2297"
   },
   {
     "gym_id": "bumb",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2302"
   },
   {
     "gym_id": "bumb",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2303"
   },
   {
     "gym_id": "bumb",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2303"
   },
   {
     "gym_id": "bumb",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2298"
   },
   {
     "gym_id": "bumb",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2298"
   },
   {
     "gym_id": "bumb",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2304"
   },
   {
     "gym_id": "bumb",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2295"
   },
   {
     "gym_id": "bumb",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2295"
   },
   {
     "gym_id": "bumb",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2298"
   },
   {
     "gym_id": "bumb",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2295"
   },
   {
     "gym_id": "bumb",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2298"
   },
   {
     "gym_id": "bumb",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "シェイプス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bumb",
@@ -813,6 +860,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バランス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

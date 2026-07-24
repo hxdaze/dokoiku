@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -31,7 +32,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "⑥〜⑦コース / エンジョイ"
+    "note": "⑥〜⑦コース / エンジョイ",
+    "instructor_id": "i17895"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17895"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -82,7 +86,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料"
+    "note": "※有料",
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -116,7 +122,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11629"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -133,7 +140,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11629"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17896"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -167,7 +176,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": "心"
+    "note": "心",
+    "instructor_id": "i11629"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17897"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -201,7 +212,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17898"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17897"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -235,7 +248,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17899"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -252,7 +266,8 @@
     "studio": "ジュニアスイミングスクール④～⑦コース",
     "reservation_required": false,
     "genre": null,
-    "note": "16級"
+    "note": "16級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17895"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -286,7 +302,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5179"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "逢坂"
+    "note": "逢坂",
+    "instructor_id": "i17900"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -320,7 +338,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17895"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "逢坂 / 心"
+    "note": "逢坂 / 心",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -354,7 +374,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17901"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -371,7 +392,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17901"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11629"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17902"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "竹内"
+    "note": "竹内",
+    "instructor_id": "i17903"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17904"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17904"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -541,7 +572,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "[定員20名]"
+    "note": "[定員20名]",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -575,7 +608,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -592,7 +626,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17905"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料"
+    "note": "※有料",
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -626,7 +662,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17906"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -643,7 +680,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17906"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17907"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -677,7 +716,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17896"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17908"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -728,7 +770,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -745,7 +788,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17905"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -762,7 +806,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "④～⑦コース / 登録制"
+    "note": "④～⑦コース / 登録制",
+    "instructor_id": "i17905"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -796,7 +842,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": "調整 / 再生"
+    "note": "調整 / 再生",
+    "instructor_id": "i5935"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -813,7 +860,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5935"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17907"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17909"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -881,7 +932,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "※ご利用状況によってコースは変更となります"
+    "note": "※ご利用状況によってコースは変更となります",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i17896"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -915,7 +968,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5935"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -932,7 +986,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "エンジョイ"
+    "note": "エンジョイ",
+    "instructor_id": "i17895"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -949,7 +1004,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17895"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -983,7 +1040,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1000,7 +1058,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "※フィンの貸出はございません"
+    "note": "※フィンの貸出はございません",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17897"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1034,7 +1094,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": "からだコンディショニング"
+    "note": "からだコンディショニング",
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17902"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1085,7 +1148,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "※ご利用状況によってコースは変更となります"
+    "note": "※ご利用状況によってコースは変更となります",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1119,7 +1184,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17904"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "ケア"
+    "note": "ケア",
+    "instructor_id": "i17897"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17897"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1170,7 +1238,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17904"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1187,7 +1256,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "エンジョイ"
+    "note": "エンジョイ",
+    "instructor_id": "i17895"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "10:50-11:30"
+    "note": "10:50-11:30",
+    "instructor_id": "i5179"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1221,7 +1292,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "10:30-11:30"
+    "note": "10:30-11:30",
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1238,7 +1310,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "11:45-12:30 / からだコンディショニング"
+    "note": "11:45-12:30 / からだコンディショニング",
+    "instructor_id": "i11626"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1255,7 +1328,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "11:45-12:30"
+    "note": "11:45-12:30",
+    "instructor_id": "i17910"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "12:45-13:30"
+    "note": "12:45-13:30",
+    "instructor_id": "i17911"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": "13:05-13:35"
+    "note": "13:05-13:35",
+    "instructor_id": "i17897"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1306,7 +1382,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "上級クラス",
-    "note": "15:15~"
+    "note": "15:15~",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "レズミルズシェイプス",
-    "note": "13:50-14:50"
+    "note": "13:50-14:50",
+    "instructor_id": "i17907"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": "14:00-14:45"
+    "note": "14:00-14:45",
+    "instructor_id": "i17897"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1357,7 +1436,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "上級クラス",
-    "note": "16:30~"
+    "note": "16:30~",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "15:00-15:45"
+    "note": "15:00-15:45",
+    "instructor_id": "i11629"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1391,7 +1472,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "上級クラス",
-    "note": "9級~"
+    "note": "9級~",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ボディジャム",
-    "note": "16:00-17:00"
+    "note": "16:00-17:00",
+    "instructor_id": "i17899"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1425,7 +1508,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "上級クラス",
-    "note": "4級~"
+    "note": "4級~",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ボディコンパクト",
-    "note": "17:15-18:00"
+    "note": "17:15-18:00",
+    "instructor_id": "i17906"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1459,7 +1544,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "上級クラス",
-    "note": "ベスト級"
+    "note": "ベスト級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1476,7 +1562,8 @@
     "studio": "サブアリーナ",
     "reservation_required": true,
     "genre": null,
-    "note": "[登録制]"
+    "note": "[登録制]",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1493,7 +1580,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1510,7 +1598,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": "[定員20名] / Withボール"
+    "note": "[定員20名] / Withボール",
+    "instructor_id": "i17910"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1527,7 +1616,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17910"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1544,7 +1634,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1561,7 +1652,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17904"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1578,7 +1670,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17904"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1595,7 +1688,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1612,7 +1706,8 @@
     "studio": "サブアリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11995"
   },
   {
     "gym_id": "muni_kotohira_ikoinosato",
@@ -1629,6 +1724,7 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "※ご利用状況によってコースは変更となります"
+    "note": "※ご利用状況によってコースは変更となります",
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -728,7 +770,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -762,7 +806,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -796,7 +842,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -813,7 +860,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -881,7 +932,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -915,7 +968,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -932,7 +986,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -983,7 +1040,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -1102,7 +1166,8 @@
     "studio": "体育館 (2F)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -1119,7 +1184,8 @@
     "studio": "体育館 (2F)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -1136,7 +1202,8 @@
     "studio": "体育館 (2F)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9520"
   },
   {
     "gym_id": "harmony_k",
@@ -1153,7 +1220,8 @@
     "studio": "体育館 (2F)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -1170,7 +1238,8 @@
     "studio": "体育館 (2F)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9520"
   },
   {
     "gym_id": "harmony_k",
@@ -1187,7 +1256,8 @@
     "studio": "体育館 (2F)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -1204,7 +1274,8 @@
     "studio": "体育館 (2F)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -1221,7 +1292,8 @@
     "studio": "体育館 (2F)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9521"
   },
   {
     "gym_id": "harmony_k",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -1357,7 +1436,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9522"
   },
   {
     "gym_id": "harmony_k",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4796"
   },
   {
     "gym_id": "harmony_k",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9522"
   },
   {
     "gym_id": "harmony_k",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9518"
   },
   {
     "gym_id": "harmony_k",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9523"
   },
   {
     "gym_id": "harmony_k",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9521"
   },
   {
     "gym_id": "harmony_k",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "燃やす/ダイエット",
-    "note": null
+    "note": null,
+    "instructor_id": "i9520"
   },
   {
     "gym_id": "harmony_k",
@@ -1595,7 +1688,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "燃やす/ダイエット",
-    "note": null
+    "note": null,
+    "instructor_id": "i9524"
   },
   {
     "gym_id": "harmony_k",
@@ -1612,7 +1706,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "動画プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1629,7 +1724,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックス/緩める",
-    "note": null
+    "note": null,
+    "instructor_id": "i9520"
   },
   {
     "gym_id": "harmony_k",
@@ -1646,7 +1742,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "燃やす/ダイエット",
-    "note": null
+    "note": null,
+    "instructor_id": "i9517"
   },
   {
     "gym_id": "harmony_k",
@@ -1663,7 +1760,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ほぐす/整える",
-    "note": null
+    "note": null,
+    "instructor_id": "i9516"
   },
   {
     "gym_id": "harmony_k",
@@ -1680,7 +1778,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレス解消/体力アップ",
-    "note": null
+    "note": null,
+    "instructor_id": "i9525"
   },
   {
     "gym_id": "harmony_k",
@@ -1697,7 +1796,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "燃やす/ダイエット",
-    "note": null
+    "note": null,
+    "instructor_id": "i9524"
   },
   {
     "gym_id": "harmony_k",
@@ -1714,7 +1814,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "動画プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1731,7 +1832,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ひきしめる/鍛える",
-    "note": null
+    "note": null,
+    "instructor_id": "i9522"
   },
   {
     "gym_id": "harmony_k",
@@ -1748,7 +1850,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレス解消/体力アップ",
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i9519"
   },
   {
     "gym_id": "harmony_k",
@@ -1765,7 +1868,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ほぐす/整える",
-    "note": "週目"
+    "note": "週目",
+    "instructor_id": "i9522"
   },
   {
     "gym_id": "harmony_k",
@@ -1782,7 +1886,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "動画プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1799,7 +1904,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレス解消/体力アップ",
-    "note": null
+    "note": null,
+    "instructor_id": "i9525"
   },
   {
     "gym_id": "harmony_k",
@@ -1816,7 +1922,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "リラックス/緩める",
-    "note": null
+    "note": null,
+    "instructor_id": "i9526"
   },
   {
     "gym_id": "harmony_k",
@@ -1833,7 +1940,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "動画プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1850,7 +1958,8 @@
     "studio": "スタジオ / 体育館",
     "reservation_required": false,
     "genre": "ほぐす/整える",
-    "note": null
+    "note": null,
+    "instructor_id": "i9522"
   },
   {
     "gym_id": "harmony_k",
@@ -1867,7 +1976,8 @@
     "studio": "スタジオ / 体育館",
     "reservation_required": false,
     "genre": "ひきしめる/鍛える",
-    "note": "(1) (2) (4)"
+    "note": "(1) (2) (4)",
+    "instructor_id": "i9527"
   },
   {
     "gym_id": "harmony_k",
@@ -1884,7 +1994,8 @@
     "studio": "スタジオ / 体育館",
     "reservation_required": false,
     "genre": "リラックス/緩める",
-    "note": null
+    "note": null,
+    "instructor_id": "i9523"
   },
   {
     "gym_id": "harmony_k",
@@ -1901,7 +2012,8 @@
     "studio": "スタジオ / 体育館",
     "reservation_required": false,
     "genre": "動画プログラム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "harmony_k",
@@ -1918,7 +2030,8 @@
     "studio": "スタジオ / 体育館",
     "reservation_required": false,
     "genre": "燃やす/ダイエット",
-    "note": null
+    "note": null,
+    "instructor_id": "i9522"
   },
   {
     "gym_id": "harmony_k",
@@ -1935,6 +2048,7 @@
     "studio": "スタジオ / 体育館",
     "reservation_required": false,
     "genre": "ほぐす/整える",
-    "note": "(1) (2) (4)"
+    "note": "(1) (2) (4)",
+    "instructor_id": "i9528"
   }
 ]

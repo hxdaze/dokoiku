@@ -14,7 +14,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -31,7 +32,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -48,7 +50,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -65,7 +68,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -82,7 +86,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -99,7 +104,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i16857"
   },
   {
     "gym_id": "loive",
@@ -116,7 +122,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -133,7 +140,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -150,7 +158,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -167,7 +176,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -184,7 +194,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -201,7 +212,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -218,7 +230,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i16857"
   },
   {
     "gym_id": "loive",
@@ -235,7 +248,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -252,7 +266,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -269,7 +284,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -286,7 +302,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -303,7 +320,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -320,7 +338,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -337,7 +356,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i16857"
   },
   {
     "gym_id": "loive",
@@ -354,7 +374,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -371,7 +392,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -388,7 +410,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -405,7 +428,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -422,7 +446,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -439,7 +464,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -456,7 +482,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i16857"
   },
   {
     "gym_id": "loive",
@@ -473,7 +500,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -490,7 +518,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -507,7 +536,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -524,7 +554,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -541,7 +572,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -558,7 +590,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -575,7 +608,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i16857"
   },
   {
     "gym_id": "loive",
@@ -592,7 +626,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -609,7 +644,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -626,7 +662,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -643,7 +680,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -660,7 +698,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -677,7 +716,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -694,7 +734,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -711,7 +752,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i16857"
   },
   {
     "gym_id": "loive",
@@ -728,7 +770,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -745,7 +788,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -762,7 +806,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -779,7 +824,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -796,7 +842,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -813,7 +860,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -830,7 +878,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -847,7 +896,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i16857"
   },
   {
     "gym_id": "loive",
@@ -864,7 +914,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -881,7 +932,8 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   },
   {
     "gym_id": "loive",
@@ -898,6 +950,7 @@
     "studio": "2026年6月(6/6 最新版)",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i16856"
   }
 ]

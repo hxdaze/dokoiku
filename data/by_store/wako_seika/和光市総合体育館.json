@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※中高年の方"
+    "note": "※中高年の方",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上 小倉 / 要予約"
+    "note": "※16歳以上 小倉 / 要予約",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※年少～年長 / 朋"
+    "note": "※年少～年長 / 朋",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※小学5年～大人 女性限定"
+    "note": "※小学5年～大人 女性限定",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※16歳以上 / 初級編 / 百"
+    "note": "※16歳以上 / 初級編 / 百",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※小学4年～小学6年生"
+    "note": "※小学4年～小学6年生",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※1～中学生"
+    "note": "※1～中学生",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※小学5～一般"
+    "note": "※小学5～一般",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "サブアリーナ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※中高年の方"
+    "note": "※中高年の方",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※年少～小2"
+    "note": "※年少～小2",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "サブアリーナ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "サブアリーナ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※中高生"
+    "note": "※中高生",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -609,7 +644,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -643,7 +680,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -660,7 +698,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -677,7 +716,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -694,7 +734,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "バランス",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23359"
   },
   {
     "gym_id": "wako_seika",
@@ -711,7 +752,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -728,7 +770,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -745,7 +788,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -762,7 +806,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23360"
   },
   {
     "gym_id": "wako_seika",
@@ -779,7 +824,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23359"
   },
   {
     "gym_id": "wako_seika",
@@ -796,7 +842,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "※中学生以上"
+    "note": "※中学生以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -813,7 +860,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※中学生以上"
+    "note": "※中学生以上",
+    "instructor_id": "i11960"
   },
   {
     "gym_id": "wako_seika",
@@ -830,7 +878,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※中学生以上"
+    "note": "※中学生以上",
+    "instructor_id": "i11960"
   },
   {
     "gym_id": "wako_seika",
@@ -847,7 +896,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23361"
   },
   {
     "gym_id": "wako_seika",
@@ -864,7 +914,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23362"
   },
   {
     "gym_id": "wako_seika",
@@ -881,7 +932,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※生後2ヶ月～3歳頃のお子さまとママ"
+    "note": "※生後2ヶ月～3歳頃のお子さまとママ",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -898,7 +950,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -915,7 +968,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23363"
   },
   {
     "gym_id": "wako_seika",
@@ -932,7 +986,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※中高年の方"
+    "note": "※中高年の方",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -949,7 +1004,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "※中高年の方 / 初級編"
+    "note": "※中高年の方 / 初級編",
+    "instructor_id": "i23363"
   },
   {
     "gym_id": "wako_seika",
@@ -966,7 +1022,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23363"
   },
   {
     "gym_id": "wako_seika",
@@ -983,7 +1040,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※中学生以上 / かこい"
+    "note": "※中学生以上 / かこい",
+    "instructor_id": "i23364"
   },
   {
     "gym_id": "wako_seika",
@@ -1000,7 +1058,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※中学生以上 / かこい"
+    "note": "※中学生以上 / かこい",
+    "instructor_id": "i23364"
   },
   {
     "gym_id": "wako_seika",
@@ -1017,7 +1076,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "※高校生以下"
+    "note": "※高校生以下",
+    "instructor_id": "i23365"
   },
   {
     "gym_id": "wako_seika",
@@ -1034,7 +1094,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "※高校生以下"
+    "note": "※高校生以下",
+    "instructor_id": "i23366"
   },
   {
     "gym_id": "wako_seika",
@@ -1051,7 +1112,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1068,7 +1130,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23367"
   },
   {
     "gym_id": "wako_seika",
@@ -1085,7 +1148,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1102,7 +1166,8 @@
     "studio": "柔道場",
     "reservation_required": false,
     "genre": "空手",
-    "note": "※小学5年生～"
+    "note": "※小学5年生～",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1119,7 +1184,8 @@
     "studio": "剣道場",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1136,7 +1202,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23363"
   },
   {
     "gym_id": "wako_seika",
@@ -1153,7 +1220,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "※16歳以上 / 中級"
+    "note": "※16歳以上 / 中級",
+    "instructor_id": "i23363"
   },
   {
     "gym_id": "wako_seika",
@@ -1170,7 +1238,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i23363"
   },
   {
     "gym_id": "wako_seika",
@@ -1187,7 +1256,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i11373"
   },
   {
     "gym_id": "wako_seika",
@@ -1204,7 +1274,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i11373"
   },
   {
     "gym_id": "wako_seika",
@@ -1221,7 +1292,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i10026"
   },
   {
     "gym_id": "wako_seika",
@@ -1238,7 +1310,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i11373"
   },
   {
     "gym_id": "wako_seika",
@@ -1255,7 +1328,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1272,7 +1346,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "コンディショニング",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": "i11373"
   },
   {
     "gym_id": "wako_seika",
@@ -1289,7 +1364,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": true,
     "genre": "コンディショニング",
-    "note": "※16歳以上 / 要予約"
+    "note": "※16歳以上 / 要予約",
+    "instructor_id": "i23368"
   },
   {
     "gym_id": "wako_seika",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "研修会議室",
-    "note": "※中高年の方"
+    "note": "※中高年の方",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1323,7 +1400,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "研修会議室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1340,7 +1418,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "研修会議室",
-    "note": "※16歳以上 / 要予約"
+    "note": "※16歳以上 / 要予約",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1357,7 +1436,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※年少～年長"
+    "note": "※年少～年長",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1374,7 +1454,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※16歳以上 / かかい"
+    "note": "※16歳以上 / かかい",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1391,7 +1472,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※16歳以上 / かかい"
+    "note": "※16歳以上 / かかい",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1408,7 +1490,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "メインアリーナ",
-    "note": "※16歳以上 / 初級 / 百"
+    "note": "※16歳以上 / 初級 / 百",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1425,7 +1508,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "サブアリーナ",
-    "note": "※小学4年生～中学3年生"
+    "note": "※小学4年生～中学3年生",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1442,7 +1526,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "サブアリーナ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1459,7 +1544,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1476,7 +1562,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1493,7 +1580,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "研修会議室",
-    "note": "※中高年の方"
+    "note": "※中高年の方",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1510,7 +1598,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "サブアリーナ",
-    "note": "※16歳以上 / 中級"
+    "note": "※16歳以上 / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1527,7 +1616,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "サブアリーナ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1544,7 +1634,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1561,7 +1652,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1578,7 +1670,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1595,7 +1688,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1612,7 +1706,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1629,7 +1724,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "軽スポーツ室",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1646,7 +1742,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1663,7 +1760,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1680,7 +1778,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ボディケア",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1697,7 +1796,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1714,7 +1814,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "※中高年の方"
+    "note": "※中高年の方",
+    "instructor_id": "i23360"
   },
   {
     "gym_id": "wako_seika",
@@ -1731,7 +1832,8 @@
     "studio": "研修会議室",
     "reservation_required": false,
     "genre": "ベビマ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1748,7 +1850,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ボディケア",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1765,7 +1868,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1782,7 +1886,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "※中高年の方 / 初中級"
+    "note": "※中高年の方 / 初中級",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1799,7 +1904,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1816,7 +1922,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1833,7 +1940,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "体操",
-    "note": "※小学5年生～"
+    "note": "※小学5年生～",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1850,7 +1958,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "体操",
-    "note": "※年少～年長"
+    "note": "※年少～年長",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1867,7 +1976,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1884,7 +1994,8 @@
     "studio": "柔道場",
     "reservation_required": false,
     "genre": "骨盤",
-    "note": "※16歳以上"
+    "note": "※16歳以上",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1901,7 +2012,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1918,7 +2030,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1935,7 +2048,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1952,7 +2066,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1969,7 +2084,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -1986,7 +2102,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "体操",
-    "note": "月に1度、最終週のみ"
+    "note": "月に1度、最終週のみ",
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -2003,7 +2120,8 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wako_seika",
@@ -2020,6 +2138,7 @@
     "studio": "軽スポーツ室",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "※中1～一覧"
+    "note": "※中1～一覧",
+    "instructor_id": null
   }
 ]

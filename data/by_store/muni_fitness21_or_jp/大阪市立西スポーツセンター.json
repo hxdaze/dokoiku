@@ -14,6 +14,7 @@
     "studio": "第2体育場 (7階)",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "全8回"
+    "note": "全8回",
+    "instructor_id": null
   }
 ]

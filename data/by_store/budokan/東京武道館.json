@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2279"
   },
   {
     "gym_id": "budokan",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2280"
   },
   {
     "gym_id": "budokan",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2281"
   },
   {
     "gym_id": "budokan",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "別途"
+    "note": "別途",
+    "instructor_id": "i2280"
   },
   {
     "gym_id": "budokan",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥900/回"
+    "note": "¥900/回",
+    "instructor_id": "i2282"
   },
   {
     "gym_id": "budokan",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": null
   },
   {
     "gym_id": "budokan",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2279"
   },
   {
     "gym_id": "budokan",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2283"
   },
   {
     "gym_id": "budokan",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥3,600"
+    "note": "¥3,600",
+    "instructor_id": "i2283"
   },
   {
     "gym_id": "budokan",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,200 / 中級"
+    "note": "¥4,200 / 中級",
+    "instructor_id": "i2284"
   },
   {
     "gym_id": "budokan",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥3,600"
+    "note": "¥3,600",
+    "instructor_id": "i2285"
   },
   {
     "gym_id": "budokan",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥3,600 / 振り付けクラス"
+    "note": "¥3,600 / 振り付けクラス",
+    "instructor_id": "i2285"
   },
   {
     "gym_id": "budokan",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥600/回"
+    "note": "¥600/回",
+    "instructor_id": "i2286"
   },
   {
     "gym_id": "budokan",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,800"
+    "note": "¥4,800",
+    "instructor_id": "i2287"
   },
   {
     "gym_id": "budokan",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥5,600"
+    "note": "¥5,600",
+    "instructor_id": "i2279"
   },
   {
     "gym_id": "budokan",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,800"
+    "note": "¥4,800",
+    "instructor_id": "i2288"
   },
   {
     "gym_id": "budokan",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥5,600"
+    "note": "¥5,600",
+    "instructor_id": "i2288"
   },
   {
     "gym_id": "budokan",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥1800/回"
+    "note": "¥1800/回",
+    "instructor_id": "i2288"
   },
   {
     "gym_id": "budokan",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,900"
+    "note": "¥4,900",
+    "instructor_id": "i2281"
   },
   {
     "gym_id": "budokan",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "別途"
+    "note": "別途",
+    "instructor_id": "i2280"
   },
   {
     "gym_id": "budokan",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2280"
   },
   {
     "gym_id": "budokan",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,800"
+    "note": "¥4,800",
+    "instructor_id": "i2289"
   },
   {
     "gym_id": "budokan",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,800"
+    "note": "¥4,800",
+    "instructor_id": "i2289"
   },
   {
     "gym_id": "budokan",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥5,600"
+    "note": "¥5,600",
+    "instructor_id": "i2280"
   },
   {
     "gym_id": "budokan",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥6,000"
+    "note": "¥6,000",
+    "instructor_id": "i2279"
   },
   {
     "gym_id": "budokan",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥3,000 / ズンバ"
+    "note": "¥3,000 / ズンバ",
+    "instructor_id": "i2282"
   },
   {
     "gym_id": "budokan",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,200"
+    "note": "¥4,200",
+    "instructor_id": "i2287"
   },
   {
     "gym_id": "budokan",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,200"
+    "note": "¥4,200",
+    "instructor_id": "i2287"
   },
   {
     "gym_id": "budokan",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,200"
+    "note": "¥4,200",
+    "instructor_id": "i2287"
   },
   {
     "gym_id": "budokan",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥3,000 / ズンバ"
+    "note": "¥3,000 / ズンバ",
+    "instructor_id": "i2282"
   },
   {
     "gym_id": "budokan",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥5,600"
+    "note": "¥5,600",
+    "instructor_id": "i2290"
   },
   {
     "gym_id": "budokan",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥6,400"
+    "note": "¥6,400",
+    "instructor_id": "i2291"
   },
   {
     "gym_id": "budokan",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥5,600 / 初級"
+    "note": "¥5,600 / 初級",
+    "instructor_id": "i2292"
   },
   {
     "gym_id": "budokan",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥3,500"
+    "note": "¥3,500",
+    "instructor_id": "i2293"
   },
   {
     "gym_id": "budokan",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,200"
+    "note": "¥4,200",
+    "instructor_id": "i2293"
   },
   {
     "gym_id": "budokan",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥4,200 / ズンバ"
+    "note": "¥4,200 / ズンバ",
+    "instructor_id": "i2294"
   },
   {
     "gym_id": "budokan",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "¥600/回"
+    "note": "¥600/回",
+    "instructor_id": "i2286"
   },
   {
     "gym_id": "budokan",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2287"
   },
   {
     "gym_id": "budokan",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "budokan",
@@ -677,6 +716,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

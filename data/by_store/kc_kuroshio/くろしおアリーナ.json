@@ -14,7 +14,8 @@
     "studio": "25mプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -31,7 +32,8 @@
     "studio": "25mプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -48,7 +50,8 @@
     "studio": "25mプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -65,7 +68,8 @@
     "studio": "25mプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -82,7 +86,8 @@
     "studio": "25mプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -99,7 +104,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "日浦"
+    "note": "日浦",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -150,7 +158,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "日浦"
+    "note": "日浦",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -167,7 +176,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "日浦"
+    "note": "日浦",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -184,7 +194,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "日浦"
+    "note": "日浦",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -218,7 +230,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -235,7 +248,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "福井"
+    "note": "福井",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -286,7 +302,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "福井"
+    "note": "福井",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -303,7 +320,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "渡邊"
+    "note": "渡邊",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -320,7 +338,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "渡邊"
+    "note": "渡邊",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -337,7 +356,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "山田"
+    "note": "山田",
+    "instructor_id": null
   },
   {
     "gym_id": "kc_kuroshio",
@@ -354,7 +374,8 @@
     "studio": "プール教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12118"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -371,7 +392,8 @@
     "studio": "プール教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12118"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -388,7 +410,8 @@
     "studio": "プール教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -405,7 +428,8 @@
     "studio": "プール教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   },
   {
     "gym_id": "kc_kuroshio",
@@ -422,6 +446,7 @@
     "studio": "プール教室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12117"
   }
 ]

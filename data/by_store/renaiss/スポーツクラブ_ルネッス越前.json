@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1099"
   },
   {
     "gym_id": "renaiss",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19433"
   },
   {
     "gym_id": "renaiss",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19434"
   },
   {
     "gym_id": "renaiss",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19435"
   },
   {
     "gym_id": "renaiss",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19435"
   },
   {
     "gym_id": "renaiss",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19434"
   },
   {
     "gym_id": "renaiss",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19434"
   },
   {
     "gym_id": "renaiss",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19436"
   },
   {
     "gym_id": "renaiss",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19436"
   },
   {
     "gym_id": "renaiss",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19437"
   },
   {
     "gym_id": "renaiss",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19437"
   },
   {
     "gym_id": "renaiss",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19437"
   },
   {
     "gym_id": "renaiss",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19438"
   },
   {
     "gym_id": "renaiss",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19439"
   },
   {
     "gym_id": "renaiss",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5982"
   },
   {
     "gym_id": "renaiss",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5982"
   },
   {
     "gym_id": "renaiss",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19440"
   },
   {
     "gym_id": "renaiss",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19440"
   },
   {
     "gym_id": "renaiss",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19434"
   },
   {
     "gym_id": "renaiss",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -354,7 +374,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19441"
   },
   {
     "gym_id": "renaiss",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -388,7 +410,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5976"
   },
   {
     "gym_id": "renaiss",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -422,7 +446,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5982"
   },
   {
     "gym_id": "renaiss",
@@ -439,7 +464,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6012"
   },
   {
     "gym_id": "renaiss",
@@ -456,7 +482,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19436"
   },
   {
     "gym_id": "renaiss",
@@ -473,7 +500,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19442"
   },
   {
     "gym_id": "renaiss",
@@ -490,7 +518,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19443"
   },
   {
     "gym_id": "renaiss",
@@ -507,7 +536,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※週替わりプログラム表をご参照ください"
+    "note": "※週替わりプログラム表をご参照ください",
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -524,7 +554,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "筋トレ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -541,7 +572,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ・トランポリン・ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -558,7 +590,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ・ピラティス・ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "オンライン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "オンライン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "オンライン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7174"
   },
   {
     "gym_id": "renaiss",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18718"
   },
   {
     "gym_id": "renaiss",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19444"
   },
   {
     "gym_id": "renaiss",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19433"
   },
   {
     "gym_id": "renaiss",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19444"
   },
   {
     "gym_id": "renaiss",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7174"
   },
   {
     "gym_id": "renaiss",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※9日のみ"
+    "note": "※9日のみ",
+    "instructor_id": "i19436"
   },
   {
     "gym_id": "renaiss",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19445"
   },
   {
     "gym_id": "renaiss",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "※有料"
+    "note": "※有料",
+    "instructor_id": "i19446"
   },
   {
     "gym_id": "renaiss",
@@ -966,7 +1022,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "renaiss",
@@ -983,7 +1040,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19447"
   },
   {
     "gym_id": "renaiss",
@@ -1000,6 +1058,7 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

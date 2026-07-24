@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23173"
   },
   {
     "gym_id": "tobu",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23173"
   },
   {
     "gym_id": "tobu",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23174"
   },
   {
     "gym_id": "tobu",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23175"
   },
   {
     "gym_id": "tobu",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23176"
   },
   {
     "gym_id": "tobu",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i5610"
   },
   {
     "gym_id": "tobu",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23177"
   },
   {
     "gym_id": "tobu",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23177"
   },
   {
     "gym_id": "tobu",
@@ -201,7 +212,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -218,7 +230,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -235,7 +248,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23178"
   },
   {
     "gym_id": "tobu",
@@ -252,7 +266,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23179"
   },
   {
     "gym_id": "tobu",
@@ -269,7 +284,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23180"
   },
   {
     "gym_id": "tobu",
@@ -286,7 +302,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23181"
   },
   {
     "gym_id": "tobu",
@@ -303,7 +320,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23168"
   },
   {
     "gym_id": "tobu",
@@ -320,7 +338,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23182"
   },
   {
     "gym_id": "tobu",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23183"
   },
   {
     "gym_id": "tobu",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23184"
   },
   {
     "gym_id": "tobu",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23184"
   },
   {
     "gym_id": "tobu",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23184"
   },
   {
     "gym_id": "tobu",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23184"
   },
   {
     "gym_id": "tobu",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23184"
   },
   {
     "gym_id": "tobu",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23184"
   },
   {
     "gym_id": "tobu",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23184"
   },
   {
     "gym_id": "tobu",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -609,7 +644,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -626,7 +662,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -643,7 +680,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Fitness 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -660,7 +698,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -677,7 +716,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -694,7 +734,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -711,7 +752,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -728,7 +770,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23185"
   },
   {
     "gym_id": "tobu",
@@ -745,7 +788,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23186"
   },
   {
     "gym_id": "tobu",
@@ -762,7 +806,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23187"
   },
   {
     "gym_id": "tobu",
@@ -779,7 +824,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23106"
   },
   {
     "gym_id": "tobu",
@@ -796,7 +842,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": null
+    "note": null,
+    "instructor_id": "i23188"
   },
   {
     "gym_id": "tobu",
@@ -813,7 +860,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Home Floor 24",
-    "note": "16名 / 14:45~15:45"
+    "note": "16名 / 14:45~15:45",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3065"
   },
   {
     "gym_id": "tobu",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23189"
   },
   {
     "gym_id": "tobu",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3065"
   },
   {
     "gym_id": "tobu",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23189"
   },
   {
     "gym_id": "tobu",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3065"
   },
   {
     "gym_id": "tobu",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23189"
   },
   {
     "gym_id": "tobu",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3065"
   },
   {
     "gym_id": "tobu",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23189"
   },
   {
     "gym_id": "tobu",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3065"
   },
   {
     "gym_id": "tobu",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23189"
   },
   {
     "gym_id": "tobu",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3065"
   },
   {
     "gym_id": "tobu",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3065"
   },
   {
     "gym_id": "tobu",
@@ -1136,6 +1202,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

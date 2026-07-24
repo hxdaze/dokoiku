@@ -14,7 +14,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1096"
   },
   {
     "gym_id": "axtos",
@@ -31,7 +32,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1097"
   },
   {
     "gym_id": "axtos",
@@ -48,7 +50,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i587"
   },
   {
     "gym_id": "axtos",
@@ -65,7 +68,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i1098"
   },
   {
     "gym_id": "axtos",
@@ -82,7 +86,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i587"
   },
   {
     "gym_id": "axtos",
@@ -99,7 +104,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1096"
   },
   {
     "gym_id": "axtos",
@@ -116,7 +122,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1099"
   },
   {
     "gym_id": "axtos",
@@ -133,7 +140,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1099"
   },
   {
     "gym_id": "axtos",
@@ -150,7 +158,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1096"
   },
   {
     "gym_id": "axtos",
@@ -167,7 +176,8 @@
     "studio": "6月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW"
+    "note": "NEW",
+    "instructor_id": "i1100"
   },
   {
     "gym_id": "axtos",
@@ -184,6 +194,7 @@
     "studio": "7月タイムテーブル",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1096"
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -31,7 +32,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -48,7 +50,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -65,7 +68,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18702"
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -82,7 +86,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -99,7 +104,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -116,7 +122,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -133,7 +140,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -150,7 +158,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -167,7 +176,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "20:05-20:30"
+    "note": "20:05-20:30",
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -184,7 +194,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -201,7 +212,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -218,7 +230,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "20:05-20:30"
+    "note": "20:05-20:30",
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -235,7 +248,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "21:00-21:15"
+    "note": "21:00-21:15",
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -252,7 +266,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "21:00-21:15"
+    "note": "21:00-21:15",
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -269,7 +284,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -286,7 +302,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -303,7 +320,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -320,7 +338,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -337,7 +356,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -354,7 +374,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "20:05-20:30"
+    "note": "20:05-20:30",
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -371,7 +392,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -388,7 +410,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -405,7 +428,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "20:05-20:30"
+    "note": "20:05-20:30",
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -422,7 +446,8 @@
     "studio": "1F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "21:00-21:15"
+    "note": "21:00-21:15",
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -439,7 +464,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "21:00-21:15"
+    "note": "21:00-21:15",
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -456,7 +482,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "neighborhood_kiyosumi",
@@ -473,6 +500,7 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2248"
   },
   {
     "gym_id": "blueearth",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2249"
   },
   {
     "gym_id": "blueearth",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2250"
   },
   {
     "gym_id": "blueearth",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2251"
   },
   {
     "gym_id": "blueearth",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2252"
   },
   {
     "gym_id": "blueearth",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2250"
   },
   {
     "gym_id": "blueearth",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2244"
   },
   {
     "gym_id": "blueearth",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2253"
   },
   {
     "gym_id": "blueearth",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2254"
   },
   {
     "gym_id": "blueearth",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2255"
   },
   {
     "gym_id": "blueearth",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2244"
   },
   {
     "gym_id": "blueearth",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2252"
   },
   {
     "gym_id": "blueearth",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2252"
   },
   {
     "gym_id": "blueearth",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2252"
   },
   {
     "gym_id": "blueearth",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2256"
   },
   {
     "gym_id": "blueearth",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2250"
   },
   {
     "gym_id": "blueearth",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2253"
   },
   {
     "gym_id": "blueearth",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2257"
   },
   {
     "gym_id": "blueearth",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2258"
   },
   {
     "gym_id": "blueearth",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2252"
   },
   {
     "gym_id": "blueearth",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2259"
   },
   {
     "gym_id": "blueearth",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "blueearth",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2259"
   },
   {
     "gym_id": "blueearth",
@@ -541,7 +572,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "blueearth",
@@ -558,7 +590,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "blueearth",
@@ -575,7 +608,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "blueearth",
@@ -592,7 +626,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "blueearth",
@@ -609,7 +644,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "blueearth",
@@ -626,7 +662,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "blueearth",
@@ -643,6 +680,7 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

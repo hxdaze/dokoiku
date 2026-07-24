@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8957"
   },
   {
     "gym_id": "muko_kenko",
@@ -31,7 +32,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8957"
   },
   {
     "gym_id": "muko_kenko",
@@ -48,7 +50,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17817"
   },
   {
     "gym_id": "muko_kenko",
@@ -65,7 +68,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17818"
   },
   {
     "gym_id": "muko_kenko",
@@ -82,7 +86,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17819"
   },
   {
     "gym_id": "muko_kenko",
@@ -99,7 +104,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17818"
   },
   {
     "gym_id": "muko_kenko",
@@ -116,7 +122,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2000"
   },
   {
     "gym_id": "muko_kenko",
@@ -133,7 +140,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17820"
   },
   {
     "gym_id": "muko_kenko",
@@ -150,7 +158,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2000"
   },
   {
     "gym_id": "muko_kenko",
@@ -167,7 +176,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17821"
   },
   {
     "gym_id": "muko_kenko",
@@ -184,7 +194,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17821"
   },
   {
     "gym_id": "muko_kenko",
@@ -201,7 +212,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17822"
   },
   {
     "gym_id": "muko_kenko",
@@ -218,7 +230,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i13659"
   },
   {
     "gym_id": "muko_kenko",
@@ -235,7 +248,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i13659"
   },
   {
     "gym_id": "muko_kenko",
@@ -252,7 +266,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17823"
   },
   {
     "gym_id": "muko_kenko",
@@ -269,7 +284,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17824"
   },
   {
     "gym_id": "muko_kenko",
@@ -286,7 +302,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17825"
   },
   {
     "gym_id": "muko_kenko",
@@ -303,7 +320,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17823"
   },
   {
     "gym_id": "muko_kenko",
@@ -320,7 +338,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6643"
   },
   {
     "gym_id": "muko_kenko",
@@ -337,7 +356,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6643"
   },
   {
     "gym_id": "muko_kenko",
@@ -354,7 +374,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17826"
   },
   {
     "gym_id": "muko_kenko",
@@ -371,7 +392,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17827"
   },
   {
     "gym_id": "muko_kenko",
@@ -388,6 +410,7 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6665"
   }
 ]

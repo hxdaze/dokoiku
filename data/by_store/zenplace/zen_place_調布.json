@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "オーバーボール"
+    "note": "オーバーボール",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -65,6 +68,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "マジックサークル"
+    "note": "マジックサークル",
+    "instructor_id": null
   }
 ]

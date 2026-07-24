@@ -14,7 +14,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": "タオル要"
+    "note": "タオル要",
+    "instructor_id": "i630"
   },
   {
     "gym_id": "vivo",
@@ -31,7 +32,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23317"
   },
   {
     "gym_id": "vivo",
@@ -48,7 +50,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23317"
   },
   {
     "gym_id": "vivo",
@@ -65,7 +68,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i2339"
   },
   {
     "gym_id": "vivo",
@@ -82,7 +86,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3292"
   },
   {
     "gym_id": "vivo",
@@ -99,7 +104,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -116,7 +122,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -133,7 +140,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -150,7 +158,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23318"
   },
   {
     "gym_id": "vivo",
@@ -167,7 +176,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -184,7 +194,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3972"
   },
   {
     "gym_id": "vivo",
@@ -201,7 +212,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23319"
   },
   {
     "gym_id": "vivo",
@@ -218,7 +230,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23320"
   },
   {
     "gym_id": "vivo",
@@ -235,7 +248,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23321"
   },
   {
     "gym_id": "vivo",
@@ -252,7 +266,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6244"
   },
   {
     "gym_id": "vivo",
@@ -269,7 +284,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6244"
   },
   {
     "gym_id": "vivo",
@@ -286,7 +302,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5786"
   },
   {
     "gym_id": "vivo",
@@ -303,7 +320,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3972"
   },
   {
     "gym_id": "vivo",
@@ -320,7 +338,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23322"
   },
   {
     "gym_id": "vivo",
@@ -337,7 +356,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23323"
   },
   {
     "gym_id": "vivo",
@@ -354,7 +374,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -371,7 +392,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23325"
   },
   {
     "gym_id": "vivo",
@@ -388,7 +410,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23326"
   },
   {
     "gym_id": "vivo",
@@ -405,7 +428,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i630"
   },
   {
     "gym_id": "vivo",
@@ -422,7 +446,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23317"
   },
   {
     "gym_id": "vivo",
@@ -439,7 +464,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3973"
   },
   {
     "gym_id": "vivo",
@@ -456,7 +482,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -473,7 +500,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": "ホットスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3972"
   },
   {
     "gym_id": "vivo",
@@ -490,7 +518,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23325"
   },
   {
     "gym_id": "vivo",
@@ -507,7 +536,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23319"
   },
   {
     "gym_id": "vivo",
@@ -524,7 +554,8 @@
     "studio": "バイクエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3972"
   },
   {
     "gym_id": "vivo",
@@ -541,7 +572,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23327"
   },
   {
     "gym_id": "vivo",
@@ -558,7 +590,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23319"
   },
   {
     "gym_id": "vivo",
@@ -575,7 +608,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3972"
   },
   {
     "gym_id": "vivo",
@@ -592,7 +626,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23327"
   },
   {
     "gym_id": "vivo",
@@ -609,7 +644,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -626,7 +662,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3972"
   },
   {
     "gym_id": "vivo",
@@ -643,7 +680,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -660,7 +698,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6245"
   },
   {
     "gym_id": "vivo",
@@ -677,7 +716,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6245"
   },
   {
     "gym_id": "vivo",
@@ -694,7 +734,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23320"
   },
   {
     "gym_id": "vivo",
@@ -711,7 +752,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23320"
   },
   {
     "gym_id": "vivo",
@@ -728,7 +770,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -745,7 +788,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23328"
   },
   {
     "gym_id": "vivo",
@@ -762,7 +806,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23326"
   },
   {
     "gym_id": "vivo",
@@ -779,7 +824,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9191"
   },
   {
     "gym_id": "vivo",
@@ -796,7 +842,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23322"
   },
   {
     "gym_id": "vivo",
@@ -813,7 +860,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3738"
   },
   {
     "gym_id": "vivo",
@@ -830,7 +878,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9191"
   },
   {
     "gym_id": "vivo",
@@ -847,7 +896,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -864,7 +914,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23322"
   },
   {
     "gym_id": "vivo",
@@ -881,7 +932,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23329"
   },
   {
     "gym_id": "vivo",
@@ -898,7 +950,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18194"
   },
   {
     "gym_id": "vivo",
@@ -915,7 +968,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18194"
   },
   {
     "gym_id": "vivo",
@@ -932,7 +986,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18194"
   },
   {
     "gym_id": "vivo",
@@ -949,7 +1004,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23330"
   },
   {
     "gym_id": "vivo",
@@ -966,7 +1022,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23331"
   },
   {
     "gym_id": "vivo",
@@ -983,7 +1040,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23328"
   },
   {
     "gym_id": "vivo",
@@ -1000,7 +1058,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9191"
   },
   {
     "gym_id": "vivo",
@@ -1017,7 +1076,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23322"
   },
   {
     "gym_id": "vivo",
@@ -1034,7 +1094,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3738"
   },
   {
     "gym_id": "vivo",
@@ -1051,7 +1112,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9191"
   },
   {
     "gym_id": "vivo",
@@ -1068,7 +1130,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23332"
   },
   {
     "gym_id": "vivo",
@@ -1085,7 +1148,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -1102,7 +1166,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23322"
   },
   {
     "gym_id": "vivo",
@@ -1119,7 +1184,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23329"
   },
   {
     "gym_id": "vivo",
@@ -1136,7 +1202,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18194"
   },
   {
     "gym_id": "vivo",
@@ -1153,7 +1220,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18194"
   },
   {
     "gym_id": "vivo",
@@ -1170,7 +1238,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18194"
   },
   {
     "gym_id": "vivo",
@@ -1187,7 +1256,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23330"
   },
   {
     "gym_id": "vivo",
@@ -1204,7 +1274,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23331"
   },
   {
     "gym_id": "vivo",
@@ -1221,7 +1292,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23328"
   },
   {
     "gym_id": "vivo",
@@ -1238,7 +1310,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23329"
   },
   {
     "gym_id": "vivo",
@@ -1255,7 +1328,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18194"
   },
   {
     "gym_id": "vivo",
@@ -1272,7 +1346,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3292"
   },
   {
     "gym_id": "vivo",
@@ -1289,7 +1364,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3292"
   },
   {
     "gym_id": "vivo",
@@ -1306,7 +1382,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23322"
   },
   {
     "gym_id": "vivo",
@@ -1323,7 +1400,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23318"
   },
   {
     "gym_id": "vivo",
@@ -1340,7 +1418,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23333"
   },
   {
     "gym_id": "vivo",
@@ -1357,7 +1436,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23333"
   },
   {
     "gym_id": "vivo",
@@ -1374,7 +1454,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2183"
   },
   {
     "gym_id": "vivo",
@@ -1391,7 +1472,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12812"
   },
   {
     "gym_id": "vivo",
@@ -1408,7 +1490,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23334"
   },
   {
     "gym_id": "vivo",
@@ -1425,7 +1508,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23335"
   },
   {
     "gym_id": "vivo",
@@ -1442,7 +1526,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23335"
   },
   {
     "gym_id": "vivo",
@@ -1459,7 +1544,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5154"
   },
   {
     "gym_id": "vivo",
@@ -1476,7 +1562,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3973"
   },
   {
     "gym_id": "vivo",
@@ -1493,7 +1580,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23336"
   },
   {
     "gym_id": "vivo",
@@ -1510,7 +1598,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18194"
   },
   {
     "gym_id": "vivo",
@@ -1527,7 +1616,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": "スタジオ入口、予約表をご記入の上ご利用ください。 / 上級"
+    "note": "スタジオ入口、予約表をご記入の上ご利用ください。 / 上級",
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -1544,7 +1634,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23334"
   },
   {
     "gym_id": "vivo",
@@ -1561,7 +1652,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i12812"
   },
   {
     "gym_id": "vivo",
@@ -1578,7 +1670,8 @@
     "studio": "ジムエリア",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -1595,7 +1688,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3708"
   },
   {
     "gym_id": "vivo",
@@ -1612,7 +1706,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -1629,7 +1724,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -1646,7 +1742,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5154"
   },
   {
     "gym_id": "vivo",
@@ -1663,7 +1760,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23329"
   },
   {
     "gym_id": "vivo",
@@ -1680,7 +1778,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23318"
   },
   {
     "gym_id": "vivo",
@@ -1697,7 +1796,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2183"
   },
   {
     "gym_id": "vivo",
@@ -1714,7 +1814,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23318"
   },
   {
     "gym_id": "vivo",
@@ -1731,7 +1832,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23329"
   },
   {
     "gym_id": "vivo",
@@ -1748,7 +1850,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -1765,7 +1868,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23324"
   },
   {
     "gym_id": "vivo",
@@ -1782,7 +1886,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23318"
   },
   {
     "gym_id": "vivo",
@@ -1799,7 +1904,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23329"
   },
   {
     "gym_id": "vivo",
@@ -1816,7 +1922,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2183"
   },
   {
     "gym_id": "vivo",
@@ -1833,7 +1940,8 @@
     "studio": "アリーナスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -1850,7 +1958,8 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "vivo",
@@ -1867,6 +1976,7 @@
     "studio": "ホットスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

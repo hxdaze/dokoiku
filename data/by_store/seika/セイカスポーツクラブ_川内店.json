@@ -14,7 +14,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21277"
   },
   {
     "gym_id": "seika",
@@ -31,7 +32,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21278"
   },
   {
     "gym_id": "seika",
@@ -48,7 +50,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21279"
   },
   {
     "gym_id": "seika",
@@ -65,7 +68,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7040"
   },
   {
     "gym_id": "seika",
@@ -82,7 +86,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21280"
   },
   {
     "gym_id": "seika",
@@ -99,7 +104,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "seika",
@@ -116,7 +122,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "seika",
@@ -133,7 +140,8 @@
     "studio": "35名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21277"
   },
   {
     "gym_id": "seika",
@@ -150,7 +158,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21277"
   },
   {
     "gym_id": "seika",
@@ -167,7 +176,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7040"
   },
   {
     "gym_id": "seika",
@@ -184,7 +194,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21281"
   },
   {
     "gym_id": "seika",
@@ -201,7 +212,8 @@
     "studio": "15名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21279"
   },
   {
     "gym_id": "seika",
@@ -218,7 +230,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21274"
   },
   {
     "gym_id": "seika",
@@ -235,7 +248,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21274"
   },
   {
     "gym_id": "seika",
@@ -252,7 +266,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21275"
   },
   {
     "gym_id": "seika",
@@ -269,7 +284,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11645"
   },
   {
     "gym_id": "seika",
@@ -286,7 +302,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11645"
   },
   {
     "gym_id": "seika",
@@ -303,7 +320,8 @@
     "studio": "35名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21272"
   },
   {
     "gym_id": "seika",
@@ -320,7 +338,8 @@
     "studio": "25名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21272"
   },
   {
     "gym_id": "seika",
@@ -337,7 +356,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21270"
   },
   {
     "gym_id": "seika",
@@ -354,7 +374,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21269"
   },
   {
     "gym_id": "seika",
@@ -371,7 +392,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21269"
   },
   {
     "gym_id": "seika",
@@ -388,7 +410,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21282"
   },
   {
     "gym_id": "seika",
@@ -405,7 +428,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21274"
   },
   {
     "gym_id": "seika",
@@ -422,7 +446,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21274"
   },
   {
     "gym_id": "seika",
@@ -439,7 +464,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21277"
   },
   {
     "gym_id": "seika",
@@ -456,7 +482,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21270"
   },
   {
     "gym_id": "seika",
@@ -473,7 +500,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21269"
   },
   {
     "gym_id": "seika",
@@ -490,7 +518,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21272"
   },
   {
     "gym_id": "seika",
@@ -507,7 +536,8 @@
     "studio": "15名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21272"
   },
   {
     "gym_id": "seika",
@@ -524,7 +554,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21269"
   },
   {
     "gym_id": "seika",
@@ -541,7 +572,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "seika",
@@ -558,7 +590,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21281"
   },
   {
     "gym_id": "seika",
@@ -575,7 +608,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21280"
   },
   {
     "gym_id": "seika",
@@ -592,7 +626,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21280"
   },
   {
     "gym_id": "seika",
@@ -609,7 +644,8 @@
     "studio": "35名",
     "reservation_required": true,
     "genre": null,
-    "note": "FRP"
+    "note": "FRP",
+    "instructor_id": "i21280"
   },
   {
     "gym_id": "seika",
@@ -626,7 +662,8 @@
     "studio": "25名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21261"
   },
   {
     "gym_id": "seika",
@@ -643,7 +680,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21261"
   },
   {
     "gym_id": "seika",
@@ -660,7 +698,8 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21274"
   },
   {
     "gym_id": "seika",
@@ -677,7 +716,8 @@
     "studio": "32名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21274"
   },
   {
     "gym_id": "seika",
@@ -694,6 +734,7 @@
     "studio": "45名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21280"
   }
 ]

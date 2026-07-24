@@ -14,7 +14,8 @@
     "studio": "イオンフィットネススタジオ 与野店お知らせバナー1",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -31,7 +32,8 @@
     "studio": "イオンフィットネススタジオ 与野店お知らせバナー1",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -48,7 +50,8 @@
     "studio": "イオンフィットネススタジオ 与野店お知らせバナー1",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -65,7 +68,8 @@
     "studio": "イオンフィットネススタジオ 与野店お知らせバナー1",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -82,7 +86,8 @@
     "studio": "イオンフィットネススタジオ 与野店お知らせバナー1",
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -99,7 +104,8 @@
     "studio": "イオンフィットネススタジオ 与野店お知らせバナー1",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -116,6 +122,7 @@
     "studio": "イオンフィットネススタジオ 与野店お知らせバナー1",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

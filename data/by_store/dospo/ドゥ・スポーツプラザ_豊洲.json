@@ -14,7 +14,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3518"
   },
   {
     "gym_id": "dospo",
@@ -31,7 +32,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "塩内"
+    "note": "塩内",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -48,7 +50,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": "遠藤(富)"
+    "note": "遠藤(富)",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -65,7 +68,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5382"
   },
   {
     "gym_id": "dospo",
@@ -82,7 +86,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4435"
   },
   {
     "gym_id": "dospo",
@@ -99,7 +104,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3518"
   },
   {
     "gym_id": "dospo",
@@ -116,7 +122,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6966"
   },
   {
     "gym_id": "dospo",
@@ -133,7 +140,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6967"
   },
   {
     "gym_id": "dospo",
@@ -150,7 +158,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6967"
   },
   {
     "gym_id": "dospo",
@@ -167,7 +176,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3844"
   },
   {
     "gym_id": "dospo",
@@ -184,7 +194,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3844"
   },
   {
     "gym_id": "dospo",
@@ -201,7 +212,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "strength"
+    "note": "strength",
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -218,7 +230,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -235,7 +248,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3873"
   },
   {
     "gym_id": "dospo",
@@ -252,7 +266,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6969"
   },
   {
     "gym_id": "dospo",
@@ -269,7 +284,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -286,7 +302,8 @@
     "studio": "スタジオC",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6969"
   },
   {
     "gym_id": "dospo",
@@ -303,7 +320,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6971"
   },
   {
     "gym_id": "dospo",
@@ -320,7 +338,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4171"
   },
   {
     "gym_id": "dospo",
@@ -337,7 +356,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4155"
   },
   {
     "gym_id": "dospo",
@@ -354,7 +374,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4155"
   },
   {
     "gym_id": "dospo",
@@ -371,7 +392,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -388,7 +410,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -405,7 +428,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -422,7 +446,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6972"
   },
   {
     "gym_id": "dospo",
@@ -439,7 +464,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2906"
   },
   {
     "gym_id": "dospo",
@@ -456,7 +482,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4462"
   },
   {
     "gym_id": "dospo",
@@ -473,7 +500,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4462"
   },
   {
     "gym_id": "dospo",
@@ -490,7 +518,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6973"
   },
   {
     "gym_id": "dospo",
@@ -507,7 +536,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6973"
   },
   {
     "gym_id": "dospo",
@@ -524,7 +554,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4462"
   },
   {
     "gym_id": "dospo",
@@ -541,7 +572,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3518"
   },
   {
     "gym_id": "dospo",
@@ -558,7 +590,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3853"
   },
   {
     "gym_id": "dospo",
@@ -575,7 +608,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3518"
   },
   {
     "gym_id": "dospo",
@@ -592,7 +626,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3575"
   },
   {
     "gym_id": "dospo",
@@ -609,7 +644,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2181"
   },
   {
     "gym_id": "dospo",
@@ -626,7 +662,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6966"
   },
   {
     "gym_id": "dospo",
@@ -643,7 +680,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6974"
   },
   {
     "gym_id": "dospo",
@@ -660,7 +698,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -677,7 +716,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3844"
   },
   {
     "gym_id": "dospo",
@@ -694,7 +734,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6975"
   },
   {
     "gym_id": "dospo",
@@ -711,7 +752,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3575"
   },
   {
     "gym_id": "dospo",
@@ -728,7 +770,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "有料クラス"
+    "note": "有料クラス",
+    "instructor_id": "i4435"
   },
   {
     "gym_id": "dospo",
@@ -745,7 +788,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3853"
   },
   {
     "gym_id": "dospo",
@@ -762,7 +806,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3518"
   },
   {
     "gym_id": "dospo",
@@ -779,7 +824,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6966"
   },
   {
     "gym_id": "dospo",
@@ -796,7 +842,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3844"
   },
   {
     "gym_id": "dospo",
@@ -813,7 +860,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": "定員6名"
+    "note": "定員6名",
+    "instructor_id": "i6976"
   },
   {
     "gym_id": "dospo",
@@ -830,7 +878,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -847,7 +896,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -864,7 +914,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "有料クラス"
+    "note": "有料クラス",
+    "instructor_id": "i4435"
   },
   {
     "gym_id": "dospo",
@@ -881,7 +932,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6973"
   },
   {
     "gym_id": "dospo",
@@ -898,7 +950,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "有料クラス"
+    "note": "有料クラス",
+    "instructor_id": "i4435"
   },
   {
     "gym_id": "dospo",
@@ -915,7 +968,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6977"
   },
   {
     "gym_id": "dospo",
@@ -932,7 +986,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6973"
   },
   {
     "gym_id": "dospo",
@@ -949,7 +1004,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3873"
   },
   {
     "gym_id": "dospo",
@@ -966,7 +1022,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4460"
   },
   {
     "gym_id": "dospo",
@@ -983,7 +1040,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3873"
   },
   {
     "gym_id": "dospo",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6978"
   },
   {
     "gym_id": "dospo",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6971"
   },
   {
     "gym_id": "dospo",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": "オリジナルエアロ"
+    "note": "オリジナルエアロ",
+    "instructor_id": "i6971"
   },
   {
     "gym_id": "dospo",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "週毎に月曜日か水曜日のメガダンスいずれか1本お選びください。"
+    "note": "週毎に月曜日か水曜日のメガダンスいずれか1本お選びください。",
+    "instructor_id": "i3844"
   },
   {
     "gym_id": "dospo",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i6979"
   },
   {
     "gym_id": "dospo",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ボディジャム",
-    "note": null
+    "note": null,
+    "instructor_id": "i6980"
   },
   {
     "gym_id": "dospo",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5382"
   },
   {
     "gym_id": "dospo",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "骨盤調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i3501"
   },
   {
     "gym_id": "dospo",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i6981"
   },
   {
     "gym_id": "dospo",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "RPM",
-    "note": null
+    "note": null,
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i6981"
   },
   {
     "gym_id": "dospo",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": "i4155"
   },
   {
     "gym_id": "dospo",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ボディジャム",
-    "note": null
+    "note": null,
+    "instructor_id": "i4155"
   },
   {
     "gym_id": "dospo",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5382"
   },
   {
     "gym_id": "dospo",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": null
+    "note": null,
+    "instructor_id": "i6982"
   },
   {
     "gym_id": "dospo",
@@ -1357,7 +1436,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5382"
   },
   {
     "gym_id": "dospo",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ベリーダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i6977"
   },
   {
     "gym_id": "dospo",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボールストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ベリーダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i6977"
   },
   {
     "gym_id": "dospo",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3501"
   },
   {
     "gym_id": "dospo",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3840"
   },
   {
     "gym_id": "dospo",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "CARDIO"
+    "note": "CARDIO",
+    "instructor_id": "i6968"
   },
   {
     "gym_id": "dospo",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i6983"
   },
   {
     "gym_id": "dospo",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ボディコントロール",
-    "note": null
+    "note": null,
+    "instructor_id": "i6984"
   },
   {
     "gym_id": "dospo",
@@ -1595,7 +1688,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "サスペンション",
-    "note": null
+    "note": null,
+    "instructor_id": "i3873"
   },
   {
     "gym_id": "dospo",
@@ -1612,7 +1706,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ジャズダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i6985"
   },
   {
     "gym_id": "dospo",
@@ -1629,7 +1724,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1646,7 +1742,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボディコントロール",
-    "note": null
+    "note": null,
+    "instructor_id": "i6984"
   },
   {
     "gym_id": "dospo",
@@ -1663,7 +1760,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "サスペンション",
-    "note": null
+    "note": null,
+    "instructor_id": "i3873"
   },
   {
     "gym_id": "dospo",
@@ -1680,7 +1778,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6981"
   },
   {
     "gym_id": "dospo",
@@ -1697,7 +1796,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1714,7 +1814,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "ボディコントロール",
-    "note": null
+    "note": null,
+    "instructor_id": "i6984"
   },
   {
     "gym_id": "dospo",
@@ -1731,7 +1832,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -1748,7 +1850,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1765,7 +1868,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": "i6985"
   },
   {
     "gym_id": "dospo",
@@ -1782,7 +1886,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "ボウイング",
-    "note": null
+    "note": null,
+    "instructor_id": "i6985"
   },
   {
     "gym_id": "dospo",
@@ -1799,7 +1904,8 @@
     "studio": "スタジオC",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i6985"
   },
   {
     "gym_id": "dospo",
@@ -1816,7 +1922,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6984"
   },
   {
     "gym_id": "dospo",
@@ -1833,7 +1940,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1850,7 +1958,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1867,7 +1976,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1884,7 +1994,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1901,7 +2012,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1918,7 +2030,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "体験可・登録制"
+    "note": "体験可・登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1935,7 +2048,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1952,7 +2066,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1969,7 +2084,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -1986,7 +2102,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2003,7 +2120,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2020,7 +2138,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2037,7 +2156,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2054,7 +2174,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2071,7 +2192,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2088,7 +2210,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "整理券"
+    "note": "整理券",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2105,7 +2228,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2122,7 +2246,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2139,7 +2264,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2156,7 +2282,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2173,7 +2300,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2190,7 +2318,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "整理券"
+    "note": "整理券",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2207,7 +2336,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2224,7 +2354,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2241,7 +2372,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2258,7 +2390,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2275,7 +2408,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2292,7 +2426,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2309,7 +2444,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2326,7 +2462,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2343,7 +2480,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2360,7 +2498,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2377,7 +2516,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2394,7 +2534,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2411,7 +2552,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2428,7 +2570,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2445,7 +2588,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2462,7 +2606,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2479,7 +2624,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2496,7 +2642,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2513,7 +2660,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2530,7 +2678,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2547,7 +2696,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2564,7 +2714,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2581,7 +2732,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2598,7 +2750,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2615,7 +2768,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2632,7 +2786,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2649,7 +2804,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2666,7 +2822,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2683,7 +2840,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2700,7 +2858,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2717,7 +2876,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2734,7 +2894,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2751,7 +2912,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2768,7 +2930,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2785,7 +2948,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2802,7 +2966,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2819,7 +2984,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2836,7 +3002,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2853,7 +3020,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2870,7 +3038,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2887,7 +3056,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2904,7 +3074,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2921,7 +3092,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2938,7 +3110,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2955,7 +3128,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2972,7 +3146,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -2989,7 +3164,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3006,7 +3182,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3023,7 +3200,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3040,7 +3218,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3057,7 +3236,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3074,7 +3254,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3091,7 +3272,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3108,7 +3290,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3125,7 +3308,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3142,7 +3326,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3159,7 +3344,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3176,7 +3362,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3193,7 +3380,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3210,7 +3398,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3227,7 +3416,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3244,7 +3434,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3261,7 +3452,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3278,7 +3470,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3295,7 +3488,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3312,7 +3506,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3329,7 +3524,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3346,7 +3542,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3363,7 +3560,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6986"
   },
   {
     "gym_id": "dospo",
@@ -3380,7 +3578,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6986"
   },
   {
     "gym_id": "dospo",
@@ -3397,7 +3596,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6987"
   },
   {
     "gym_id": "dospo",
@@ -3414,7 +3614,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3874"
   },
   {
     "gym_id": "dospo",
@@ -3431,7 +3632,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -3448,7 +3650,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6986"
   },
   {
     "gym_id": "dospo",
@@ -3465,7 +3668,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6988"
   },
   {
     "gym_id": "dospo",
@@ -3482,7 +3686,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6989"
   },
   {
     "gym_id": "dospo",
@@ -3499,7 +3704,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -3516,7 +3722,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6990"
   },
   {
     "gym_id": "dospo",
@@ -3533,7 +3740,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3574"
   },
   {
     "gym_id": "dospo",
@@ -3550,7 +3758,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3574"
   },
   {
     "gym_id": "dospo",
@@ -3567,7 +3776,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6986"
   },
   {
     "gym_id": "dospo",
@@ -3584,7 +3794,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6991"
   },
   {
     "gym_id": "dospo",
@@ -3601,7 +3812,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6986"
   },
   {
     "gym_id": "dospo",
@@ -3618,7 +3830,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6989"
   },
   {
     "gym_id": "dospo",
@@ -3635,7 +3848,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i6992"
   },
   {
     "gym_id": "dospo",
@@ -3652,7 +3866,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6991"
   },
   {
     "gym_id": "dospo",
@@ -3669,7 +3884,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3860"
   },
   {
     "gym_id": "dospo",
@@ -3686,7 +3902,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3854"
   },
   {
     "gym_id": "dospo",
@@ -3703,7 +3920,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "体験可・登録制"
+    "note": "体験可・登録制",
+    "instructor_id": "i2929"
   },
   {
     "gym_id": "dospo",
@@ -3720,7 +3938,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "dospo",
@@ -3737,7 +3956,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6988"
   },
   {
     "gym_id": "dospo",
@@ -3754,7 +3974,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3771,7 +3992,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3788,7 +4010,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3805,7 +4028,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3822,7 +4046,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3839,7 +4064,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3856,7 +4082,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3873,7 +4100,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3890,7 +4118,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3907,7 +4136,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3924,7 +4154,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3941,7 +4172,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3958,7 +4190,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3975,7 +4208,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -3992,7 +4226,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4009,7 +4244,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4026,7 +4262,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4043,7 +4280,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4060,7 +4298,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4077,7 +4316,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4094,7 +4334,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4111,7 +4352,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4128,7 +4370,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4145,7 +4388,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4162,7 +4406,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4179,7 +4424,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4196,7 +4442,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4213,7 +4460,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4230,7 +4478,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4247,7 +4496,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4264,7 +4514,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4281,7 +4532,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4298,7 +4550,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4315,7 +4568,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4332,7 +4586,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4349,7 +4604,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4366,7 +4622,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4383,7 +4640,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4400,7 +4658,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4417,7 +4676,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "dospo",
@@ -4434,6 +4694,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般方通行コース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

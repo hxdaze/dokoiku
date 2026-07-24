@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -31,7 +32,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "バレエ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10678"
   },
   {
     "gym_id": "itoman_w",
@@ -48,7 +50,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i10679"
   },
   {
     "gym_id": "itoman_w",
@@ -65,7 +68,8 @@
     "studio": "Cスタジオ",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i10680"
   },
   {
     "gym_id": "itoman_w",
@@ -82,7 +86,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -99,7 +104,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時間開始は19:40に入場開始します"
+    "note": "10時間開始は19:40に入場開始します",
+    "instructor_id": "i10680"
   },
   {
     "gym_id": "itoman_w",
@@ -116,7 +122,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時間開始は19:40に入場開始します"
+    "note": "10時間開始は19:40に入場開始します",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -133,7 +140,8 @@
     "studio": "Cスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時間開始は19:40に入場開始します"
+    "note": "10時間開始は19:40に入場開始します",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -150,7 +158,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "予約制\n詳細は別紙POPを確認下さい。"
+    "note": "予約制\n詳細は別紙POPを確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -167,7 +176,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初めてのキックボクシング\n月曜のみ開講\n担当別渡表示"
+    "note": "初めてのキックボクシング\n月曜のみ開講\n担当別渡表示",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -184,7 +194,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "12:30~13:15\n13:30~14:00"
+    "note": "12:30~13:15\n13:30~14:00",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -201,7 +212,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "13:30~14:00\n14:00~14:45"
+    "note": "13:30~14:00\n14:00~14:45",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -218,7 +230,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "14:00~14:45\n14:45~15:15"
+    "note": "14:00~14:45\n14:45~15:15",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -235,7 +248,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "14:45~15:15\n15:00~15:30"
+    "note": "14:45~15:15\n15:00~15:30",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -252,7 +266,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "15:00~15:45\n15:30~16:00"
+    "note": "15:00~15:45\n15:30~16:00",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -269,7 +284,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "15:30~16:00\n15:45~16:15"
+    "note": "15:30~16:00\n15:45~16:15",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -286,7 +302,8 @@
     "studio": "Cスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "5コース使用\n利用方法は別紙を確認下さい。"
+    "note": "5コース使用\n利用方法は別紙を確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -303,7 +320,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "5コース使用\n利用方法は別紙を確認下さい。"
+    "note": "5コース使用\n利用方法は別紙を確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -320,7 +338,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "5コース使用\n利用方法は別紙を確認下さい。"
+    "note": "5コース使用\n利用方法は別紙を確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -337,7 +356,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "19:45~20:30\n20:30~21:15"
+    "note": "19:45~20:30\n20:30~21:15",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -354,7 +374,8 @@
     "studio": "Cスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "20:30~21:15\n21:15~22:00"
+    "note": "20:30~21:15\n21:15~22:00",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -371,7 +392,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時開始は19:40に入場開始します"
+    "note": "10時開始は19:40に入場開始します",
+    "instructor_id": "i10680"
   },
   {
     "gym_id": "itoman_w",
@@ -388,7 +410,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時開始は19:40に入場開始します"
+    "note": "10時開始は19:40に入場開始します",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -405,7 +428,8 @@
     "studio": "Cスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時開始は19:40に入場開始します"
+    "note": "10時開始は19:40に入場開始します",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -422,7 +446,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "予約制\n詳細は別紙POPを確認下さい。"
+    "note": "予約制\n詳細は別紙POPを確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -439,7 +464,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初めてのキックボクシング\n月曜のみ開講\n担当別渡表示"
+    "note": "初めてのキックボクシング\n月曜のみ開講\n担当別渡表示",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -456,7 +482,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "12:30~13:15\n13:30~14:00"
+    "note": "12:30~13:15\n13:30~14:00",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -473,7 +500,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "13:30~14:00\n14:00~14:45"
+    "note": "13:30~14:00\n14:00~14:45",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -490,7 +518,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "14:00~14:45\n14:45~15:15"
+    "note": "14:00~14:45\n14:45~15:15",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -507,7 +536,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "14:45~15:15\n15:00~15:30"
+    "note": "14:45~15:15\n15:00~15:30",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -524,7 +554,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "15:00~15:45\n15:30~16:00"
+    "note": "15:00~15:45\n15:30~16:00",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -541,7 +572,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "15:30~16:00\n15:45~16:15"
+    "note": "15:30~16:00\n15:45~16:15",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -558,7 +590,8 @@
     "studio": "Cスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "5コース使用\n利用方法は別紙を確認下さい。"
+    "note": "5コース使用\n利用方法は別紙を確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -575,7 +608,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "5コース使用\n利用方法は別紙を確認下さい。"
+    "note": "5コース使用\n利用方法は別紙を確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -592,7 +626,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "5コース使用\n利用方法は別紙を確認下さい。"
+    "note": "5コース使用\n利用方法は別紙を確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -609,7 +644,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "19:45~20:30\n20:30~21:15"
+    "note": "19:45~20:30\n20:30~21:15",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -626,7 +662,8 @@
     "studio": "Cスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "20:30~21:15\n21:15~22:00"
+    "note": "20:30~21:15\n21:15~22:00",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -643,7 +680,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時開始は19:40に入場開始します"
+    "note": "10時開始は19:40に入場開始します",
+    "instructor_id": "i10680"
   },
   {
     "gym_id": "itoman_w",
@@ -660,7 +698,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時開始は19:40に入場開始します"
+    "note": "10時開始は19:40に入場開始します",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -677,7 +716,8 @@
     "studio": "Cスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "10時開始は19:40に入場開始します"
+    "note": "10時開始は19:40に入場開始します",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -694,7 +734,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "予約制\n詳細は別紙POPを確認下さい。"
+    "note": "予約制\n詳細は別紙POPを確認下さい。",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -711,7 +752,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初めてのキックボクシング\n月曜のみ開講\n担当別渡表示"
+    "note": "初めてのキックボクシング\n月曜のみ開講\n担当別渡表示",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -728,7 +770,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "12:30~13:15\n13:30~14:00"
+    "note": "12:30~13:15\n13:30~14:00",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -745,7 +788,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "13:30~14:00\n14:00~14:45"
+    "note": "13:30~14:00\n14:00~14:45",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -762,7 +806,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "14:00~14:45\n14:45~15:15"
+    "note": "14:00~14:45\n14:45~15:15",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -779,7 +824,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "14:45~15:15\n15:00~15:30"
+    "note": "14:45~15:15\n15:00~15:30",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -796,7 +842,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "15:00~15:45\n15:30~16:00"
+    "note": "15:00~15:45\n15:30~16:00",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -813,7 +860,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "15:30~16:00\n15:45~16:15"
+    "note": "15:30~16:00\n15:45~16:15",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -830,6 +878,7 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

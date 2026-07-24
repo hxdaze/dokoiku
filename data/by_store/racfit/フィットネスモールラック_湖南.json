@@ -14,7 +14,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19399"
   },
   {
     "gym_id": "racfit",
@@ -31,7 +32,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9299"
   },
   {
     "gym_id": "racfit",
@@ -48,7 +50,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "★★"
+    "note": "★★",
+    "instructor_id": "i19400"
   },
   {
     "gym_id": "racfit",
@@ -65,7 +68,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19401"
   },
   {
     "gym_id": "racfit",
@@ -82,7 +86,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "racfit",
@@ -99,7 +104,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19402"
   },
   {
     "gym_id": "racfit",
@@ -116,7 +122,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19287"
   },
   {
     "gym_id": "racfit",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19401"
   },
   {
     "gym_id": "racfit",
@@ -150,7 +158,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "★★★"
+    "note": "★★★",
+    "instructor_id": "i19402"
   },
   {
     "gym_id": "racfit",
@@ -167,7 +176,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9295"
   },
   {
     "gym_id": "racfit",
@@ -184,7 +194,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19401"
   },
   {
     "gym_id": "racfit",
@@ -201,7 +212,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19401"
   },
   {
     "gym_id": "racfit",
@@ -218,7 +230,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "★★★"
+    "note": "★★★",
+    "instructor_id": "i9295"
   },
   {
     "gym_id": "racfit",
@@ -235,7 +248,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "★★★★"
+    "note": "★★★★",
+    "instructor_id": "i9281"
   },
   {
     "gym_id": "racfit",
@@ -252,7 +266,8 @@
     "studio": "溶岩スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i19403"
   },
   {
     "gym_id": "racfit",
@@ -269,7 +284,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9281"
   },
   {
     "gym_id": "racfit",
@@ -286,7 +302,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19404"
   },
   {
     "gym_id": "racfit",
@@ -303,7 +320,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "★★"
+    "note": "★★",
+    "instructor_id": "i9270"
   },
   {
     "gym_id": "racfit",
@@ -320,7 +338,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9296"
   },
   {
     "gym_id": "racfit",
@@ -337,7 +356,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19401"
   },
   {
     "gym_id": "racfit",
@@ -354,7 +374,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i9270"
   },
   {
     "gym_id": "racfit",
@@ -371,7 +392,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19401"
   },
   {
     "gym_id": "racfit",
@@ -388,7 +410,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "★★★"
+    "note": "★★★",
+    "instructor_id": "i19405"
   },
   {
     "gym_id": "racfit",
@@ -405,7 +428,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19405"
   },
   {
     "gym_id": "racfit",
@@ -422,7 +446,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "★★★★"
+    "note": "★★★★",
+    "instructor_id": "i19405"
   },
   {
     "gym_id": "racfit",
@@ -439,7 +464,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19406"
   },
   {
     "gym_id": "racfit",
@@ -456,7 +482,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "★★"
+    "note": "★★",
+    "instructor_id": "i19405"
   },
   {
     "gym_id": "racfit",
@@ -473,7 +500,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19407"
   },
   {
     "gym_id": "racfit",
@@ -490,7 +518,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": null,
-    "note": "※月1回 / 有料"
+    "note": "※月1回 / 有料",
+    "instructor_id": "i19405"
   },
   {
     "gym_id": "racfit",
@@ -507,7 +536,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19399"
   },
   {
     "gym_id": "racfit",
@@ -524,7 +554,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19399"
   },
   {
     "gym_id": "racfit",
@@ -541,7 +572,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9270"
   },
   {
     "gym_id": "racfit",
@@ -558,7 +590,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19408"
   },
   {
     "gym_id": "racfit",
@@ -575,7 +608,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i19408"
   },
   {
     "gym_id": "racfit",
@@ -592,7 +626,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19409"
   },
   {
     "gym_id": "racfit",
@@ -609,7 +644,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19408"
   },
   {
     "gym_id": "racfit",
@@ -626,7 +662,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19410"
   },
   {
     "gym_id": "racfit",
@@ -643,7 +680,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19410"
   },
   {
     "gym_id": "racfit",
@@ -660,7 +698,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19411"
   },
   {
     "gym_id": "racfit",
@@ -677,7 +716,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19412"
   },
   {
     "gym_id": "racfit",
@@ -694,7 +734,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "racfit",
@@ -711,7 +752,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19411"
   },
   {
     "gym_id": "racfit",
@@ -728,7 +770,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19412"
   },
   {
     "gym_id": "racfit",
@@ -745,7 +788,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "※隔週 / 有料"
+    "note": "※隔週 / 有料",
+    "instructor_id": "i19411"
   },
   {
     "gym_id": "racfit",
@@ -762,7 +806,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "★"
+    "note": "★",
+    "instructor_id": "i19413"
   },
   {
     "gym_id": "racfit",
@@ -779,7 +824,8 @@
     "studio": "溶岩スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19287"
   },
   {
     "gym_id": "racfit",
@@ -796,7 +842,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "★★★"
+    "note": "★★★",
+    "instructor_id": "i19413"
   },
   {
     "gym_id": "racfit",
@@ -813,7 +860,8 @@
     "studio": "溶岩スタジオ",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9296"
   },
   {
     "gym_id": "racfit",
@@ -830,7 +878,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19414"
   },
   {
     "gym_id": "racfit",
@@ -847,7 +896,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i9301"
   },
   {
     "gym_id": "racfit",
@@ -864,7 +914,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i9301"
   },
   {
     "gym_id": "racfit",
@@ -881,7 +932,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "★"
+    "note": "★",
+    "instructor_id": "i9295"
   },
   {
     "gym_id": "racfit",
@@ -898,7 +950,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19415"
   },
   {
     "gym_id": "racfit",
@@ -915,7 +968,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "★★"
+    "note": "★★",
+    "instructor_id": "i19402"
   },
   {
     "gym_id": "racfit",
@@ -932,7 +986,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "★★"
+    "note": "★★",
+    "instructor_id": "i19402"
   },
   {
     "gym_id": "racfit",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19399"
   },
   {
     "gym_id": "racfit",
@@ -966,7 +1022,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "racfit",
@@ -983,7 +1040,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "racfit",
@@ -1000,7 +1058,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19406"
   },
   {
     "gym_id": "racfit",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19416"
   },
   {
     "gym_id": "racfit",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19287"
   },
   {
     "gym_id": "racfit",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "★★★"
+    "note": "★★★",
+    "instructor_id": "i9295"
   },
   {
     "gym_id": "racfit",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1320"
   },
   {
     "gym_id": "racfit",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i1320"
   },
   {
     "gym_id": "racfit",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "※隔週 / 有料"
+    "note": "※隔週 / 有料",
+    "instructor_id": "i1320"
   },
   {
     "gym_id": "racfit",
@@ -1119,7 +1184,8 @@
     "studio": "溶岩スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19399"
   },
   {
     "gym_id": "racfit",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "★★★"
+    "note": "★★★",
+    "instructor_id": "i9295"
   },
   {
     "gym_id": "racfit",
@@ -1153,7 +1220,8 @@
     "studio": "溶岩スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19416"
   },
   {
     "gym_id": "racfit",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1320"
   },
   {
     "gym_id": "racfit",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19415"
   },
   {
     "gym_id": "racfit",
@@ -1204,7 +1274,8 @@
     "studio": "溶岩スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19415"
   },
   {
     "gym_id": "racfit",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19417"
   },
   {
     "gym_id": "racfit",
@@ -1238,7 +1310,8 @@
     "studio": "溶岩スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19407"
   },
   {
     "gym_id": "racfit",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19417"
   },
   {
     "gym_id": "racfit",
@@ -1272,7 +1346,8 @@
     "studio": "溶岩スタジオ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19407"
   },
   {
     "gym_id": "racfit",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "★★"
+    "note": "★★",
+    "instructor_id": "i19418"
   },
   {
     "gym_id": "racfit",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19401"
   },
   {
     "gym_id": "racfit",
@@ -1323,6 +1400,7 @@
     "studio": "スタジオ A",
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i19401"
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7443"
   },
   {
     "gym_id": "fitz_aoba",
@@ -31,7 +32,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7274"
   },
   {
     "gym_id": "fitz_aoba",
@@ -48,7 +50,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7444"
   },
   {
     "gym_id": "fitz_aoba",
@@ -65,7 +68,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -82,7 +86,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i553"
   },
   {
     "gym_id": "fitz_aoba",
@@ -99,7 +104,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7445"
   },
   {
     "gym_id": "fitz_aoba",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitz_aoba",
@@ -133,7 +140,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "fitz_aoba",
@@ -150,7 +158,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7446"
   },
   {
     "gym_id": "fitz_aoba",
@@ -167,7 +176,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -184,7 +194,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2277"
   },
   {
     "gym_id": "fitz_aoba",
@@ -201,7 +212,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -218,7 +230,8 @@
     "studio": "スタジオ1",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -235,7 +248,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitz_aoba",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "fitz_aoba",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i7446"
   },
   {
     "gym_id": "fitz_aoba",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitz_aoba",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2277"
   },
   {
     "gym_id": "fitz_aoba",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i557"
   },
   {
     "gym_id": "fitz_aoba",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2240"
   },
   {
     "gym_id": "fitz_aoba",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i557"
   },
   {
     "gym_id": "fitz_aoba",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i7445"
   },
   {
     "gym_id": "fitz_aoba",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -473,7 +500,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitz_aoba",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitz_aoba",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2277"
   },
   {
     "gym_id": "fitz_aoba",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i7447"
   },
   {
     "gym_id": "fitz_aoba",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i7448"
   },
   {
     "gym_id": "fitz_aoba",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2277"
   },
   {
     "gym_id": "fitz_aoba",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i7447"
   },
   {
     "gym_id": "fitz_aoba",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i7448"
   },
   {
     "gym_id": "fitz_aoba",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i7447"
   },
   {
     "gym_id": "fitz_aoba",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スタジオ1",
-    "note": null
+    "note": null,
+    "instructor_id": "i7447"
   },
   {
     "gym_id": "fitz_aoba",
@@ -711,7 +752,8 @@
     "studio": "ジオ1",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2259"
   },
   {
     "gym_id": "fitz_aoba",
@@ -728,7 +770,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -745,7 +788,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "トレーニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2275"
   },
   {
     "gym_id": "fitz_aoba",
@@ -762,7 +806,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i563"
   },
   {
     "gym_id": "fitz_aoba",
@@ -779,7 +824,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i7443"
   },
   {
     "gym_id": "fitz_aoba",
@@ -796,7 +842,8 @@
     "studio": "ジオ1",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2259"
   },
   {
     "gym_id": "fitz_aoba",
@@ -813,6 +860,7 @@
     "studio": "ジオ1",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i2259"
   }
 ]

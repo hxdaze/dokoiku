@@ -14,7 +14,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -31,7 +32,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -48,7 +50,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -65,7 +68,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -82,7 +86,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -99,7 +104,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -116,7 +122,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -133,7 +140,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -150,7 +158,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -167,7 +176,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -184,7 +194,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -201,7 +212,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -218,7 +230,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -235,7 +248,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -252,7 +266,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -269,7 +284,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -286,7 +302,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -303,7 +320,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -320,7 +338,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -337,7 +356,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -354,7 +374,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -371,7 +392,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -388,7 +410,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -405,7 +428,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -422,7 +446,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -439,7 +464,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -456,7 +482,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -473,7 +500,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -490,7 +518,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -507,7 +536,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -524,7 +554,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -541,7 +572,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -558,7 +590,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -575,7 +608,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -592,7 +626,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -609,7 +644,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -626,7 +662,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -643,7 +680,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -660,7 +698,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -677,7 +716,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -694,7 +734,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -711,7 +752,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -728,7 +770,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -745,7 +788,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -762,7 +806,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -779,7 +824,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -796,7 +842,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -813,7 +860,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -830,7 +878,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -847,7 +896,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -864,7 +914,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -881,7 +932,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -898,7 +950,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -915,7 +968,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -932,7 +986,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -949,7 +1004,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -966,7 +1022,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -983,7 +1040,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1000,7 +1058,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1017,7 +1076,8 @@
     "studio": "レッスン内容案内",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1349"
   },
   {
     "gym_id": "axtos",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1350"
   },
   {
     "gym_id": "axtos",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1351"
   },
   {
     "gym_id": "axtos",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1350"
   },
   {
     "gym_id": "axtos",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1353"
   },
   {
     "gym_id": "axtos",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1354"
   },
   {
     "gym_id": "axtos",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1350"
   },
   {
     "gym_id": "axtos",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i267"
   },
   {
     "gym_id": "axtos",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i594"
   },
   {
     "gym_id": "axtos",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1353"
   },
   {
     "gym_id": "axtos",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1266"
   },
   {
     "gym_id": "axtos",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "抽選なし"
+    "note": "抽選なし",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1356"
   },
   {
     "gym_id": "axtos",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "抽選なし"
+    "note": "抽選なし",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -1357,7 +1436,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1357"
   },
   {
     "gym_id": "axtos",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "axtos",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1359"
   },
   {
     "gym_id": "axtos",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1360"
   },
   {
     "gym_id": "axtos",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "女性限定"
+    "note": "女性限定",
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "axtos",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1357"
   },
   {
     "gym_id": "axtos",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1361"
   },
   {
     "gym_id": "axtos",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1362"
   },
   {
     "gym_id": "axtos",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "axtos",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1363"
   },
   {
     "gym_id": "axtos",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i267"
   },
   {
     "gym_id": "axtos",
@@ -1544,7 +1634,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i267"
   },
   {
     "gym_id": "axtos",
@@ -1578,7 +1670,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1595,7 +1688,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1364"
   },
   {
     "gym_id": "axtos",
@@ -1612,7 +1706,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1629,7 +1724,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1646,7 +1742,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1663,7 +1760,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1680,7 +1778,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1697,7 +1796,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1714,7 +1814,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1731,7 +1832,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1748,7 +1850,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1765,7 +1868,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1782,7 +1886,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1799,7 +1904,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1816,7 +1922,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1833,7 +1940,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1850,7 +1958,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1867,7 +1976,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1884,7 +1994,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1353"
   },
   {
     "gym_id": "axtos",
@@ -1901,7 +2012,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1365"
   },
   {
     "gym_id": "axtos",
@@ -1918,7 +2030,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1365"
   },
   {
     "gym_id": "axtos",
@@ -1935,7 +2048,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1952,7 +2066,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -1969,7 +2084,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1366"
   },
   {
     "gym_id": "axtos",
@@ -1986,7 +2102,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1350"
   },
   {
     "gym_id": "axtos",
@@ -2003,7 +2120,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1367"
   },
   {
     "gym_id": "axtos",
@@ -2020,7 +2138,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2037,7 +2156,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "axtos",
@@ -2054,7 +2174,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2071,7 +2192,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1266"
   },
   {
     "gym_id": "axtos",
@@ -2088,7 +2210,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2105,7 +2228,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2122,7 +2246,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1266"
   },
   {
     "gym_id": "axtos",
@@ -2139,7 +2264,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1361"
   },
   {
     "gym_id": "axtos",
@@ -2156,7 +2282,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2173,7 +2300,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1368"
   },
   {
     "gym_id": "axtos",
@@ -2190,7 +2318,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -2207,7 +2336,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -2224,7 +2354,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1354"
   },
   {
     "gym_id": "axtos",
@@ -2241,7 +2372,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2258,7 +2390,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i497"
   },
   {
     "gym_id": "axtos",
@@ -2275,7 +2408,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "axtos",
@@ -2292,7 +2426,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -2309,7 +2444,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1350"
   },
   {
     "gym_id": "axtos",
@@ -2326,7 +2462,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2343,7 +2480,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -2360,7 +2498,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2377,7 +2516,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -2394,7 +2534,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1359"
   },
   {
     "gym_id": "axtos",
@@ -2411,7 +2552,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "axtos",
@@ -2428,7 +2570,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1349"
   },
   {
     "gym_id": "axtos",
@@ -2445,7 +2588,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -2462,7 +2606,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1316"
   },
   {
     "gym_id": "axtos",
@@ -2479,7 +2624,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2496,7 +2642,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1350"
   },
   {
     "gym_id": "axtos",
@@ -2513,7 +2660,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -2530,7 +2678,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1369"
   },
   {
     "gym_id": "axtos",
@@ -2547,7 +2696,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -2564,7 +2714,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1369"
   },
   {
     "gym_id": "axtos",
@@ -2581,7 +2732,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2598,7 +2750,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2615,7 +2768,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1362"
   },
   {
     "gym_id": "axtos",
@@ -2632,7 +2786,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1349"
   },
   {
     "gym_id": "axtos",
@@ -2649,7 +2804,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -2666,7 +2822,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1369"
   },
   {
     "gym_id": "axtos",
@@ -2683,7 +2840,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -2700,7 +2858,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1369"
   },
   {
     "gym_id": "axtos",
@@ -2717,7 +2876,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1316"
   },
   {
     "gym_id": "axtos",
@@ -2734,7 +2894,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2751,7 +2912,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1362"
   },
   {
     "gym_id": "axtos",
@@ -2768,7 +2930,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1349"
   },
   {
     "gym_id": "axtos",
@@ -2785,7 +2948,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -2802,7 +2966,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1369"
   },
   {
     "gym_id": "axtos",
@@ -2819,7 +2984,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -2836,7 +3002,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1369"
   },
   {
     "gym_id": "axtos",
@@ -2853,7 +3020,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1316"
   },
   {
     "gym_id": "axtos",
@@ -2870,7 +3038,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2887,7 +3056,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2904,7 +3074,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1365"
   },
   {
     "gym_id": "axtos",
@@ -2921,7 +3092,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2938,7 +3110,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "axtos",
@@ -2955,7 +3128,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1354"
   },
   {
     "gym_id": "axtos",
@@ -2972,7 +3146,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "別紙告知"
+    "note": "別紙告知",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -2989,7 +3164,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3006,7 +3182,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "別紙告知"
+    "note": "別紙告知",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3023,7 +3200,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -3040,7 +3218,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "別紙告知"
+    "note": "別紙告知",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3057,7 +3236,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1361"
   },
   {
     "gym_id": "axtos",
@@ -3074,7 +3254,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1361"
   },
   {
     "gym_id": "axtos",
@@ -3091,7 +3272,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1361"
   },
   {
     "gym_id": "axtos",
@@ -3108,7 +3290,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1316"
   },
   {
     "gym_id": "axtos",
@@ -3125,7 +3308,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i318"
   },
   {
     "gym_id": "axtos",
@@ -3142,7 +3326,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1356"
   },
   {
     "gym_id": "axtos",
@@ -3159,7 +3344,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -3176,7 +3362,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -3193,7 +3380,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1370"
   },
   {
     "gym_id": "axtos",
@@ -3210,7 +3398,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1354"
   },
   {
     "gym_id": "axtos",
@@ -3227,7 +3416,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1370"
   },
   {
     "gym_id": "axtos",
@@ -3244,7 +3434,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i318"
   },
   {
     "gym_id": "axtos",
@@ -3261,7 +3452,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i318"
   },
   {
     "gym_id": "axtos",
@@ -3278,7 +3470,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1360"
   },
   {
     "gym_id": "axtos",
@@ -3295,7 +3488,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i267"
   },
   {
     "gym_id": "axtos",
@@ -3312,7 +3506,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "[時間変更]"
+    "note": "[時間変更]",
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -3329,7 +3524,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "[時間変更]"
+    "note": "[時間変更]",
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -3346,7 +3542,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "[時間変更]"
+    "note": "[時間変更]",
+    "instructor_id": "i1354"
   },
   {
     "gym_id": "axtos",
@@ -3363,7 +3560,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "スイミング",
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3380,7 +3578,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3397,7 +3596,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "スイミング",
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3414,7 +3614,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3431,7 +3632,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "スイミング",
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3448,7 +3650,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3465,7 +3668,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "スイミング",
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3482,7 +3686,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3499,7 +3704,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1371"
   },
   {
     "gym_id": "axtos",
@@ -3516,7 +3722,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1371"
   },
   {
     "gym_id": "axtos",
@@ -3533,7 +3740,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1371"
   },
   {
     "gym_id": "axtos",
@@ -3550,7 +3758,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1371"
   },
   {
     "gym_id": "axtos",
@@ -3567,7 +3776,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i1371"
   },
   {
     "gym_id": "axtos",
@@ -3584,7 +3794,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i1371"
   },
   {
     "gym_id": "axtos",
@@ -3601,7 +3812,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "【新規】"
+    "note": "【新規】",
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -3618,7 +3830,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1355"
   },
   {
     "gym_id": "axtos",
@@ -3635,7 +3848,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3652,7 +3866,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i497"
   },
   {
     "gym_id": "axtos",
@@ -3669,7 +3884,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -3686,7 +3902,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3703,7 +3920,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1350"
   },
   {
     "gym_id": "axtos",
@@ -3720,7 +3938,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -3737,7 +3956,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3754,7 +3974,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1369"
   },
   {
     "gym_id": "axtos",
@@ -3771,7 +3992,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3788,7 +4010,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3805,7 +4028,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1352"
   },
   {
     "gym_id": "axtos",
@@ -3822,7 +4046,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3839,7 +4064,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3856,7 +4082,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3873,7 +4100,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3890,7 +4118,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3907,7 +4136,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3924,7 +4154,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3941,7 +4172,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3958,7 +4190,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1349"
   },
   {
     "gym_id": "axtos",
@@ -3975,7 +4208,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "スタッフ"
+    "note": "スタッフ",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -3992,7 +4226,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4009,7 +4244,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "渡辺"
+    "note": "渡辺",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4026,7 +4262,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "別紙告知"
+    "note": "別紙告知",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4043,7 +4280,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "<有料> / 中級"
+    "note": "<有料> / 中級",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4060,7 +4298,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "かおる"
+    "note": "かおる",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4077,7 +4316,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "かおる"
+    "note": "かおる",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4094,7 +4334,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "別紙告知"
+    "note": "別紙告知",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4111,7 +4352,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "別紙告知"
+    "note": "別紙告知",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4128,7 +4370,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "三宅"
+    "note": "三宅",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4145,7 +4388,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "三宅"
+    "note": "三宅",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4162,7 +4406,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "三宅"
+    "note": "三宅",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4179,7 +4424,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "スタッフ"
+    "note": "スタッフ",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4196,7 +4442,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "奥田"
+    "note": "奥田",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4213,7 +4460,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "山下"
+    "note": "山下",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4230,7 +4478,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "武井"
+    "note": "武井",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4247,7 +4496,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "後藤(直)"
+    "note": "後藤(直)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4264,7 +4514,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "後藤(清)"
+    "note": "後藤(清)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4281,7 +4532,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "後藤(清)"
+    "note": "後藤(清)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4298,7 +4550,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "山下"
+    "note": "山下",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4315,7 +4568,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "武井"
+    "note": "武井",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4332,7 +4586,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ボクシング",
-    "note": "野口"
+    "note": "野口",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4349,7 +4604,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "後藤(直)"
+    "note": "後藤(直)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -4366,6 +4622,7 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "後藤(清)"
+    "note": "後藤(清)",
+    "instructor_id": null
   }
 ]

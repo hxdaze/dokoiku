@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17886"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17887"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17888"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i17889"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i1039"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i17889"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17886"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17890"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -150,7 +158,8 @@
     "studio": "湖西運動公園",
     "reservation_required": true,
     "genre": "テニス",
-    "note": "定員15名/20歳以上 / 湖西運動公園"
+    "note": "定員15名/20歳以上 / 湖西運動公園",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "定員25名"
+    "note": "定員25名",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17886"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17888"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17886"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17886"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17891"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17892"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10065"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17893"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i17894"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17893"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17893"
   },
   {
     "gym_id": "muni_kosai_sports",
@@ -575,6 +608,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i70"
   }
 ]

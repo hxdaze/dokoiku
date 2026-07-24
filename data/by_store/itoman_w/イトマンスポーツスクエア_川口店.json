@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "その他",
-    "note": "9:40~9:45"
+    "note": "9:40~9:45",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10625"
   },
   {
     "gym_id": "itoman_w",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10626"
   },
   {
     "gym_id": "itoman_w",
@@ -82,7 +86,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10627"
   },
   {
     "gym_id": "itoman_w",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10628"
   },
   {
     "gym_id": "itoman_w",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10629"
   },
   {
     "gym_id": "itoman_w",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10630"
   },
   {
     "gym_id": "itoman_w",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10631"
   },
   {
     "gym_id": "itoman_w",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "4.8 12月: バ カタリ\n1.59月: 背泳ぎ\n2.6 10月: 平泳ぎ\n3.7 11月: 加油"
+    "note": "4.8 12月: バ カタリ\n1.59月: 背泳ぎ\n2.6 10月: 平泳ぎ\n3.7 11月: 加油",
+    "instructor_id": "i10632"
   },
   {
     "gym_id": "itoman_w",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10633"
   },
   {
     "gym_id": "itoman_w",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i10618"
   },
   {
     "gym_id": "itoman_w",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(有料)"
+    "note": "(有料)",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10634"
   },
   {
     "gym_id": "itoman_w",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10625"
   },
   {
     "gym_id": "itoman_w",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10625"
   },
   {
     "gym_id": "itoman_w",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10635"
   },
   {
     "gym_id": "itoman_w",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10636"
   },
   {
     "gym_id": "itoman_w",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10637"
   },
   {
     "gym_id": "itoman_w",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10618"
   },
   {
     "gym_id": "itoman_w",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10638"
   },
   {
     "gym_id": "itoman_w",
@@ -456,7 +482,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10628"
   },
   {
     "gym_id": "itoman_w",
@@ -490,7 +518,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10639"
   },
   {
     "gym_id": "itoman_w",
@@ -524,7 +554,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10639"
   },
   {
     "gym_id": "itoman_w",
@@ -558,7 +590,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2105"
   },
   {
     "gym_id": "itoman_w",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10616"
   },
   {
     "gym_id": "itoman_w",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "予約制"
+    "note": "予約制",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10640"
   },
   {
     "gym_id": "itoman_w",
@@ -643,7 +680,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "殿経道/リズムステップ"
+    "note": "殿経道/リズムステップ",
+    "instructor_id": "i10641"
   },
   {
     "gym_id": "itoman_w",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10642"
   },
   {
     "gym_id": "itoman_w",
@@ -728,7 +770,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -762,7 +806,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10642"
   },
   {
     "gym_id": "itoman_w",
@@ -796,7 +842,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -813,7 +860,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10643"
   },
   {
     "gym_id": "itoman_w",
@@ -830,7 +878,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10644"
   },
   {
     "gym_id": "itoman_w",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10616"
   },
   {
     "gym_id": "itoman_w",
@@ -881,7 +932,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10616"
   },
   {
     "gym_id": "itoman_w",
@@ -915,7 +968,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10598"
   },
   {
     "gym_id": "itoman_w",
@@ -932,7 +986,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10598"
   },
   {
     "gym_id": "itoman_w",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -983,7 +1040,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2105"
   },
   {
     "gym_id": "itoman_w",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2105"
   },
   {
     "gym_id": "itoman_w",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10645"
   },
   {
     "gym_id": "itoman_w",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10616"
   },
   {
     "gym_id": "itoman_w",
@@ -1051,7 +1112,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10642"
   },
   {
     "gym_id": "itoman_w",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10646"
   },
   {
     "gym_id": "itoman_w",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10646"
   },
   {
     "gym_id": "itoman_w",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10647"
   },
   {
     "gym_id": "itoman_w",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10646"
   },
   {
     "gym_id": "itoman_w",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10646"
   },
   {
     "gym_id": "itoman_w",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10647"
   },
   {
     "gym_id": "itoman_w",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10598"
   },
   {
     "gym_id": "itoman_w",
@@ -1204,7 +1274,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10598"
   },
   {
     "gym_id": "itoman_w",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "閉館時間 / 22:30"
+    "note": "閉館時間 / 22:30",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2105"
   },
   {
     "gym_id": "itoman_w",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2105"
   },
   {
     "gym_id": "itoman_w",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "予約制"
+    "note": "予約制",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10645"
   },
   {
     "gym_id": "itoman_w",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10616"
   },
   {
     "gym_id": "itoman_w",
@@ -1357,7 +1436,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10616"
   },
   {
     "gym_id": "itoman_w",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10646"
   },
   {
     "gym_id": "itoman_w",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10646"
   },
   {
     "gym_id": "itoman_w",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10647"
   },
   {
     "gym_id": "itoman_w",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10627"
   },
   {
     "gym_id": "itoman_w",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10627"
   },
   {
     "gym_id": "itoman_w",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10648"
   },
   {
     "gym_id": "itoman_w",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10649"
   },
   {
     "gym_id": "itoman_w",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10650"
   },
   {
     "gym_id": "itoman_w",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10651"
   },
   {
     "gym_id": "itoman_w",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10649"
   },
   {
     "gym_id": "itoman_w",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "施設利用時刻18:00まで\n【閉館時間】"
+    "note": "施設利用時刻18:00まで\n【閉館時間】",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "予約制"
+    "note": "予約制",
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -1595,6 +1688,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

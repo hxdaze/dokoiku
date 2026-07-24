@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23080"
   },
   {
     "gym_id": "tobu",
@@ -31,7 +32,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i893"
   },
   {
     "gym_id": "tobu",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i23081"
   },
   {
     "gym_id": "tobu",
@@ -65,7 +68,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23082"
   },
   {
     "gym_id": "tobu",
@@ -82,7 +86,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": null
+    "note": null,
+    "instructor_id": "i23082"
   },
   {
     "gym_id": "tobu",
@@ -99,7 +104,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディジャム",
-    "note": null
+    "note": null,
+    "instructor_id": "i23082"
   },
   {
     "gym_id": "tobu",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": "i23082"
   },
   {
     "gym_id": "tobu",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[17:00~18:00] / 小学"
+    "note": "[17:00~18:00] / 小学",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -150,7 +158,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[18:00~19:00] / 小学"
+    "note": "[18:00~19:00] / 小学",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "小中"
+    "note": "小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -184,7 +194,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "[2コース使用]"
+    "note": "[2コース使用]",
+    "instructor_id": "i23083"
   },
   {
     "gym_id": "tobu",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "[2コース使用]"
+    "note": "[2コース使用]",
+    "instructor_id": "i23084"
   },
   {
     "gym_id": "tobu",
@@ -218,7 +230,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[最大4コース使用]"
+    "note": "[最大4コース使用]",
+    "instructor_id": "i11125"
   },
   {
     "gym_id": "tobu",
@@ -235,7 +248,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "BODYPUMP",
-    "note": "[最大3コース使用]"
+    "note": "[最大3コース使用]",
+    "instructor_id": "i11146"
   },
   {
     "gym_id": "tobu",
@@ -252,7 +266,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "BODYATTACK",
-    "note": "[最大3コース使用]"
+    "note": "[最大3コース使用]",
+    "instructor_id": "i11146"
   },
   {
     "gym_id": "tobu",
@@ -269,7 +284,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "[2コース使用]"
+    "note": "[2コース使用]",
+    "instructor_id": "i23083"
   },
   {
     "gym_id": "tobu",
@@ -286,7 +302,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ストリートダンス",
-    "note": "[18:30~21:35]"
+    "note": "[18:30~21:35]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -303,7 +320,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ストリートダンス",
-    "note": "[18:30~21:35]"
+    "note": "[18:30~21:35]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -320,7 +338,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ストリートダンス",
-    "note": "[18:30~21:35]"
+    "note": "[18:30~21:35]",
+    "instructor_id": "i23085"
   },
   {
     "gym_id": "tobu",
@@ -337,7 +356,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "[12:30~13:30 スクール制]"
+    "note": "[12:30~13:30 スクール制]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -354,7 +374,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "[13:25~14:25 AI]"
+    "note": "[13:25~14:25 AI]",
+    "instructor_id": "i11125"
   },
   {
     "gym_id": "tobu",
@@ -371,7 +392,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ストリートダンス",
-    "note": "[14:30~15:00]"
+    "note": "[14:30~15:00]",
+    "instructor_id": "i23086"
   },
   {
     "gym_id": "tobu",
@@ -388,7 +410,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[小中] / 小中"
+    "note": "[小中] / 小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -405,7 +428,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[小中] / 小中"
+    "note": "[小中] / 小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -422,7 +446,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ストリートダンス",
-    "note": "[19:30~20:00]"
+    "note": "[19:30~20:00]",
+    "instructor_id": "i7603"
   },
   {
     "gym_id": "tobu",
@@ -439,7 +464,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "[10:30~11:45 高野兼子]"
+    "note": "[10:30~11:45 高野兼子]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -456,7 +482,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[10:30~11:45]"
+    "note": "[10:30~11:45]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -473,7 +500,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[12:00~12:30 同部晴都]"
+    "note": "[12:00~12:30 同部晴都]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -490,7 +518,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "BODYBALANCE",
-    "note": "[14:00~15:00]"
+    "note": "[14:00~15:00]",
+    "instructor_id": "i11379"
   },
   {
     "gym_id": "tobu",
@@ -507,7 +536,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "フラダンス",
-    "note": "[16:35~17:35]"
+    "note": "[16:35~17:35]",
+    "instructor_id": "i23087"
   },
   {
     "gym_id": "tobu",
@@ -524,7 +554,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[18:00~19:00]"
+    "note": "[18:00~19:00]",
+    "instructor_id": "i11125"
   },
   {
     "gym_id": "tobu",
@@ -541,7 +572,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": "[18:35~19:05]"
+    "note": "[18:35~19:05]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -558,7 +590,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[10:00~11:00] / 幼小"
+    "note": "[10:00~11:00] / 幼小",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -575,7 +608,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "[10:30~11:45]"
+    "note": "[10:30~11:45]",
+    "instructor_id": "i23080"
   },
   {
     "gym_id": "tobu",
@@ -592,7 +626,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[11:45~12:45 大村夏希]"
+    "note": "[11:45~12:45 大村夏希]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -609,7 +644,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[13:00~14:00] / 幼小"
+    "note": "[13:00~14:00] / 幼小",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -626,7 +662,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "BODYATTACK",
-    "note": "[13:00~14:00]"
+    "note": "[13:00~14:00]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -643,7 +680,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[14:00~15:00] / 小中"
+    "note": "[14:00~15:00] / 小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -660,7 +698,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "レズミルス",
-    "note": "[14:20~15:20 内容は下部に記載]"
+    "note": "[14:20~15:20 内容は下部に記載]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -677,7 +716,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[15:00~16:00] / 小中"
+    "note": "[15:00~16:00] / 小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -694,7 +734,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ストリートダンス",
-    "note": "[15:40~16:25]"
+    "note": "[15:40~16:25]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -711,7 +752,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[16:00~17:00] / 小中"
+    "note": "[16:00~17:00] / 小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -728,7 +770,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[18:00~19:00 山中侑也] / 小中"
+    "note": "[18:00~19:00 山中侑也] / 小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -745,7 +788,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[10:30~11:45] / 幼小"
+    "note": "[10:30~11:45] / 幼小",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -762,7 +806,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[10:30~11:45 川崎美綾子]"
+    "note": "[10:30~11:45 川崎美綾子]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -779,7 +824,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "[11:55~12:15]"
+    "note": "[11:55~12:15]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -796,7 +842,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[13:00~14:00]"
+    "note": "[13:00~14:00]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -813,7 +860,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "BODYATTACK",
-    "note": "[13:00~14:00]"
+    "note": "[13:00~14:00]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -830,7 +878,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミングスクール",
-    "note": "[14:00~15:00] / 小中"
+    "note": "[14:00~15:00] / 小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -847,7 +896,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "レズミルス",
-    "note": "[14:20~15:20 内容は下部に記載]"
+    "note": "[14:20~15:20 内容は下部に記載]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -864,7 +914,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i893"
   },
   {
     "gym_id": "tobu",
@@ -881,7 +932,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i23081"
   },
   {
     "gym_id": "tobu",
@@ -898,7 +950,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -915,7 +968,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -932,7 +986,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -949,7 +1004,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "小中"
+    "note": "小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -966,7 +1022,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -983,7 +1040,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1000,7 +1058,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1017,7 +1076,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23088"
   },
   {
     "gym_id": "tobu",
@@ -1034,7 +1094,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": "i23089"
   },
   {
     "gym_id": "tobu",
@@ -1051,7 +1112,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1068,7 +1130,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1085,7 +1148,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23080"
   },
   {
     "gym_id": "tobu",
@@ -1102,7 +1166,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i893"
   },
   {
     "gym_id": "tobu",
@@ -1119,7 +1184,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23090"
   },
   {
     "gym_id": "tobu",
@@ -1136,7 +1202,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": "i23085"
   },
   {
     "gym_id": "tobu",
@@ -1153,7 +1220,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1170,7 +1238,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ジャズダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i893"
   },
   {
     "gym_id": "tobu",
@@ -1187,7 +1256,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1204,7 +1274,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1221,7 +1292,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "小中"
+    "note": "小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1238,7 +1310,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1255,7 +1328,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1272,7 +1346,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1289,7 +1364,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23088"
   },
   {
     "gym_id": "tobu",
@@ -1306,7 +1382,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": "i23089"
   },
   {
     "gym_id": "tobu",
@@ -1323,7 +1400,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1340,7 +1418,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1357,7 +1436,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i893"
   },
   {
     "gym_id": "tobu",
@@ -1374,7 +1454,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23090"
   },
   {
     "gym_id": "tobu",
@@ -1391,7 +1472,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": "i23085"
   },
   {
     "gym_id": "tobu",
@@ -1408,7 +1490,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1425,7 +1508,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ジャズダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i893"
   },
   {
     "gym_id": "tobu",
@@ -1442,7 +1526,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1459,7 +1544,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1476,7 +1562,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "幼小"
+    "note": "幼小",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1493,7 +1580,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "小中"
+    "note": "小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1510,7 +1598,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "小中"
+    "note": "小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1527,7 +1616,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": "小中"
+    "note": "小中",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1544,7 +1634,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1561,7 +1652,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1578,7 +1670,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1595,7 +1688,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23088"
   },
   {
     "gym_id": "tobu",
@@ -1612,7 +1706,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": "i23089"
   },
   {
     "gym_id": "tobu",
@@ -1629,7 +1724,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1646,7 +1742,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1663,7 +1760,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23080"
   },
   {
     "gym_id": "tobu",
@@ -1680,7 +1778,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i893"
   },
   {
     "gym_id": "tobu",
@@ -1697,7 +1796,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23090"
   },
   {
     "gym_id": "tobu",
@@ -1714,7 +1814,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": "i23085"
   },
   {
     "gym_id": "tobu",
@@ -1731,7 +1832,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "[13:00~13:15]"
+    "note": "[13:00~13:15]",
+    "instructor_id": "i23084"
   },
   {
     "gym_id": "tobu",
@@ -1748,7 +1850,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ストリートダンス",
-    "note": "[13:00~13:25]"
+    "note": "[13:00~13:25]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1765,7 +1868,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ストリートダンス",
-    "note": "[13:00~13:25]"
+    "note": "[13:00~13:25]",
+    "instructor_id": null
   },
   {
     "gym_id": "tobu",
@@ -1782,7 +1886,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[14:30~15:30]"
+    "note": "[14:30~15:30]",
+    "instructor_id": "i11125"
   },
   {
     "gym_id": "tobu",
@@ -1799,7 +1904,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "[18:30~19:05]"
+    "note": "[18:30~19:05]",
+    "instructor_id": "i23080"
   },
   {
     "gym_id": "tobu",
@@ -1816,7 +1922,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[10:30~11:15]"
+    "note": "[10:30~11:15]",
+    "instructor_id": "i23091"
   },
   {
     "gym_id": "tobu",
@@ -1833,7 +1940,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "[11:45~12:45]"
+    "note": "[11:45~12:45]",
+    "instructor_id": "i23085"
   },
   {
     "gym_id": "tobu",
@@ -1850,7 +1958,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[11:00~12:00]"
+    "note": "[11:00~12:00]",
+    "instructor_id": "i23092"
   },
   {
     "gym_id": "tobu",
@@ -1867,7 +1976,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": "[12:00~12:30]"
+    "note": "[12:00~12:30]",
+    "instructor_id": "i23093"
   },
   {
     "gym_id": "tobu",
@@ -1884,7 +1994,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "[12:45~13:45]"
+    "note": "[12:45~13:45]",
+    "instructor_id": "i23080"
   },
   {
     "gym_id": "tobu",
@@ -1901,7 +2012,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": "[13:25~14:25]"
+    "note": "[13:25~14:25]",
+    "instructor_id": "i23092"
   },
   {
     "gym_id": "tobu",
@@ -1918,6 +2030,7 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": "[14:00~15:00]"
+    "note": "[14:00~15:00]",
+    "instructor_id": "i23092"
   }
 ]

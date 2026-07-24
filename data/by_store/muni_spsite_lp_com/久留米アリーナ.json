@@ -14,7 +14,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -31,7 +32,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -48,7 +50,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -65,7 +68,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -82,7 +86,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -99,7 +104,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -116,7 +122,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -133,7 +140,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -150,7 +158,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -167,7 +176,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -184,7 +194,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -201,7 +212,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -218,7 +230,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -235,7 +248,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -252,7 +266,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -269,7 +284,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -286,7 +302,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -303,7 +320,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -320,7 +338,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -337,7 +356,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -354,7 +374,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -371,7 +392,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -388,7 +410,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -405,7 +428,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -422,7 +446,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -439,7 +464,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -456,7 +482,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -473,7 +500,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -490,7 +518,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -507,7 +536,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -524,7 +554,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -541,7 +572,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -558,7 +590,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -575,7 +608,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -592,7 +626,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -609,7 +644,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -626,7 +662,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -643,7 +680,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -660,7 +698,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -677,7 +716,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -694,7 +734,8 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_spsite_lp_com",
@@ -711,6 +752,7 @@
     "studio": "板張り武道場",
     "reservation_required": false,
     "genre": "運動教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "スタジオ1",
     "reservation_required": false,
     "genre": "美容勢",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "v10kanazawa",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "v10kanazawa",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23249"
   },
   {
     "gym_id": "v10kanazawa",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "v10kanazawa",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23249"
   },
   {
     "gym_id": "v10kanazawa",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "v10kanazawa",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23249"
   },
   {
     "gym_id": "v10kanazawa",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "v10kanazawa",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23249"
   },
   {
     "gym_id": "v10kanazawa",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "v10kanazawa",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23249"
   },
   {
     "gym_id": "v10kanazawa",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i23250"
   },
   {
     "gym_id": "v10kanazawa",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "v10kanazawa",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23249"
   },
   {
     "gym_id": "v10kanazawa",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i23250"
   },
   {
     "gym_id": "v10kanazawa",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "v10kanazawa",
@@ -286,6 +302,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23249"
   }
 ]

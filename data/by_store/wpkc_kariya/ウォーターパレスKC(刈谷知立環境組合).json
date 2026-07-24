@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wpkc_kariya",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wpkc_kariya",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wpkc_kariya",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "残りわずか"
+    "note": "残りわずか",
+    "instructor_id": "i23458"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "残りわずか"
+    "note": "残りわずか",
+    "instructor_id": "i23459"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i23459"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "残りわずか"
+    "note": "残りわずか",
+    "instructor_id": "i322"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i322"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "残りわずか"
+    "note": "残りわずか",
+    "instructor_id": "i23460"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i23460"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i23461"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "残りわずか"
+    "note": "残りわずか",
+    "instructor_id": "i1662"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i23462"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "残りわずか"
+    "note": "残りわずか",
+    "instructor_id": "i23462"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "満員"
+    "note": "満員",
+    "instructor_id": "i58"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i23460"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i23460"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "残りわずか"
+    "note": "残りわずか",
+    "instructor_id": "i23459"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i23459"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i272"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i272"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i272"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i1358"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "残りわずか"
+    "note": "残りわずか",
+    "instructor_id": "i23463"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "余裕あり"
+    "note": "余裕あり",
+    "instructor_id": "i23459"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23463"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23463"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23462"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23462"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i322"
   },
   {
     "gym_id": "wpkc_kariya",
@@ -541,6 +572,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23461"
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7335"
   },
   {
     "gym_id": "fitta",
@@ -31,7 +32,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i183"
   },
   {
     "gym_id": "fitta",
@@ -48,7 +50,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7335"
   },
   {
     "gym_id": "fitta",
@@ -65,7 +68,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7335"
   },
   {
     "gym_id": "fitta",
@@ -82,7 +86,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7336"
   },
   {
     "gym_id": "fitta",
@@ -99,7 +104,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7337"
   },
   {
     "gym_id": "fitta",
@@ -116,7 +122,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7338"
   },
   {
     "gym_id": "fitta",
@@ -133,7 +140,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7339"
   },
   {
     "gym_id": "fitta",
@@ -150,7 +158,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i7340"
   },
   {
     "gym_id": "fitta",
@@ -167,7 +176,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7339"
   },
   {
     "gym_id": "fitta",
@@ -184,7 +194,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i7340"
   },
   {
     "gym_id": "fitta",
@@ -201,7 +212,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7339"
   },
   {
     "gym_id": "fitta",
@@ -218,7 +230,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "ストレッチのみ利用可"
+    "note": "ストレッチのみ利用可",
+    "instructor_id": "i7338"
   },
   {
     "gym_id": "fitta",
@@ -235,7 +248,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7341"
   },
   {
     "gym_id": "fitta",
@@ -252,7 +266,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7342"
   },
   {
     "gym_id": "fitta",
@@ -269,7 +284,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7341"
   },
   {
     "gym_id": "fitta",
@@ -286,7 +302,8 @@
     "studio": "スタジオ【STUDIO1】",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7341"
   },
   {
     "gym_id": "fitta",
@@ -303,7 +320,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "2回目：半泳ぎ\n3回目：平泳ぎ\n4回目：クロール"
+    "note": "2回目：半泳ぎ\n3回目：平泳ぎ\n4回目：クロール",
+    "instructor_id": "i7343"
   },
   {
     "gym_id": "fitta",
@@ -320,7 +338,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i183"
   },
   {
     "gym_id": "fitta",
@@ -337,7 +356,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7344"
   },
   {
     "gym_id": "fitta",
@@ -354,7 +374,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7345"
   },
   {
     "gym_id": "fitta",
@@ -371,7 +392,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7343"
   },
   {
     "gym_id": "fitta",
@@ -388,7 +410,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7339"
   },
   {
     "gym_id": "fitta",
@@ -405,7 +428,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45) / フリー"
+    "note": "(45) / フリー",
+    "instructor_id": "i7346"
   },
   {
     "gym_id": "fitta",
@@ -422,7 +446,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7343"
   },
   {
     "gym_id": "fitta",
@@ -439,7 +464,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)\n2コース\n利用可"
+    "note": "(45)\n2コース\n利用可",
+    "instructor_id": "i7347"
   },
   {
     "gym_id": "fitta",
@@ -456,7 +482,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30) / フリー"
+    "note": "(30) / フリー",
+    "instructor_id": "i7346"
   },
   {
     "gym_id": "fitta",
@@ -473,7 +500,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7347"
   },
   {
     "gym_id": "fitta",
@@ -490,7 +518,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -507,7 +536,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7348"
   },
   {
     "gym_id": "fitta",
@@ -524,7 +554,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7349"
   },
   {
     "gym_id": "fitta",
@@ -541,7 +572,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7343"
   },
   {
     "gym_id": "fitta",
@@ -558,7 +590,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i183"
   },
   {
     "gym_id": "fitta",
@@ -575,7 +608,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7344"
   },
   {
     "gym_id": "fitta",
@@ -592,7 +626,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7345"
   },
   {
     "gym_id": "fitta",
@@ -609,7 +644,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7343"
   },
   {
     "gym_id": "fitta",
@@ -626,7 +662,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7339"
   },
   {
     "gym_id": "fitta",
@@ -643,7 +680,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45) / フリー"
+    "note": "(45) / フリー",
+    "instructor_id": "i7346"
   },
   {
     "gym_id": "fitta",
@@ -660,7 +698,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7343"
   },
   {
     "gym_id": "fitta",
@@ -677,7 +716,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)\n2コース\n利用可"
+    "note": "(45)\n2コース\n利用可",
+    "instructor_id": "i7347"
   },
   {
     "gym_id": "fitta",
@@ -694,7 +734,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30) / フリー"
+    "note": "(30) / フリー",
+    "instructor_id": "i7346"
   },
   {
     "gym_id": "fitta",
@@ -711,7 +752,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7347"
   },
   {
     "gym_id": "fitta",
@@ -728,7 +770,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -745,7 +788,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7348"
   },
   {
     "gym_id": "fitta",
@@ -762,7 +806,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7349"
   },
   {
     "gym_id": "fitta",
@@ -779,7 +824,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7346"
   },
   {
     "gym_id": "fitta",
@@ -796,7 +842,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7350"
   },
   {
     "gym_id": "fitta",
@@ -813,7 +860,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30) / フリー"
+    "note": "(30) / フリー",
+    "instructor_id": "i7348"
   },
   {
     "gym_id": "fitta",
@@ -830,7 +878,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7351"
   },
   {
     "gym_id": "fitta",
@@ -847,7 +896,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7341"
   },
   {
     "gym_id": "fitta",
@@ -864,7 +914,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7350"
   },
   {
     "gym_id": "fitta",
@@ -881,7 +932,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7351"
   },
   {
     "gym_id": "fitta",
@@ -898,7 +950,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7352"
   },
   {
     "gym_id": "fitta",
@@ -915,7 +968,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(60)"
+    "note": "(60)",
+    "instructor_id": "i7339"
   },
   {
     "gym_id": "fitta",
@@ -932,7 +986,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7352"
   },
   {
     "gym_id": "fitta",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(60)"
+    "note": "(60)",
+    "instructor_id": "i7345"
   },
   {
     "gym_id": "fitta",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7353"
   },
   {
     "gym_id": "fitta",
@@ -983,7 +1040,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7346"
   },
   {
     "gym_id": "fitta",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7339"
   },
   {
     "gym_id": "fitta",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7345"
   },
   {
     "gym_id": "fitta",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ [STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7339"
   },
   {
     "gym_id": "fitta",
@@ -1051,7 +1112,8 @@
     "studio": "第1スタジオ",
     "reservation_required": false,
     "genre": "HOT",
-    "note": "プリ-1"
+    "note": "プリ-1",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1068,7 +1130,8 @@
     "studio": "ジム【GYM】",
     "reservation_required": false,
     "genre": "ジム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1085,7 +1148,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "ジム",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7354"
   },
   {
     "gym_id": "fitta",
@@ -1102,7 +1166,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": "ジム",
-    "note": "(45) / 有料・要予約"
+    "note": "(45) / 有料・要予約",
+    "instructor_id": "i7354"
   },
   {
     "gym_id": "fitta",
@@ -1119,7 +1184,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "ジム",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i7354"
   },
   {
     "gym_id": "fitta",
@@ -1136,7 +1202,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "ジム",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7354"
   },
   {
     "gym_id": "fitta",
@@ -1153,6 +1220,7 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": "ジム",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i7354"
   }
 ]

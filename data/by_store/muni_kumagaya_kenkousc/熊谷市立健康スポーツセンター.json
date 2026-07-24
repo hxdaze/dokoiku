@@ -14,7 +14,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17918"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -31,7 +32,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "骨盤美調整 エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17919"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "骨盤美調整 エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17918"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -65,7 +68,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアピクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17919"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -82,7 +86,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17920"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -99,7 +104,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "骨盤美調整 エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17921"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアピクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17919"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "健康リズム体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i17922"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -150,7 +158,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "健康リズム体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i17923"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -167,7 +176,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "健康リズム体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i17922"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -184,7 +194,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17918"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "骨盤美調整 エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17921"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -218,7 +230,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17918"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -235,7 +248,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "骨盤美調整 エクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17921"
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "クロール、背泳ぎ、平泳ぎ、バタフライの4泳法の習得を目指します。"
+    "note": "クロール、背泳ぎ、平泳ぎ、バタフライの4泳法の習得を目指します。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "楽しい音楽に乗って水中で全身を動かします。水の抵抗で負荷がかかる全身運動です。"
+    "note": "楽しい音楽に乗って水中で全身を動かします。水の抵抗で負荷がかかる全身運動です。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -286,7 +302,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "クロール、背泳ぎ、平泳ぎ、バタフライの4泳法の習得を目指します。"
+    "note": "クロール、背泳ぎ、平泳ぎ、バタフライの4泳法の習得を目指します。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -303,7 +320,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "楽しい音楽に乗って水中で全身を動かします。水の抵抗で負荷がかかる全身運動です。"
+    "note": "楽しい音楽に乗って水中で全身を動かします。水の抵抗で負荷がかかる全身運動です。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -320,7 +338,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "無理なくストレッチや水中ウォーキング、簡単なアクアピクスを行います。"
+    "note": "無理なくストレッチや水中ウォーキング、簡単なアクアピクスを行います。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -337,7 +356,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "脂肪燃焼系アクアピクス。音楽に合わせて楽しくシェイプアップできます。"
+    "note": "脂肪燃焼系アクアピクス。音楽に合わせて楽しくシェイプアップできます。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -354,7 +374,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "クロール、背泳ぎ、平泳ぎ、バタフライの4泳法の習得を目指します。"
+    "note": "クロール、背泳ぎ、平泳ぎ、バタフライの4泳法の習得を目指します。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -371,7 +392,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初心者向けの水泳教室、水慣れから始めます。"
+    "note": "初心者向けの水泳教室、水慣れから始めます。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -388,7 +410,8 @@
     "studio": "多目的",
     "reservation_required": false,
     "genre": null,
-    "note": "深い呼吸やシンプルなポーズでヨガの心地よさが体験できます。"
+    "note": "深い呼吸やシンプルなポーズでヨガの心地よさが体験できます。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -405,7 +428,8 @@
     "studio": "多目的",
     "reservation_required": false,
     "genre": null,
-    "note": "聞き覚えのある懐かしの曲に合わせて、簡単なステップで楽しく動きます。"
+    "note": "聞き覚えのある懐かしの曲に合わせて、簡単なステップで楽しく動きます。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -422,7 +446,8 @@
     "studio": "多目的",
     "reservation_required": false,
     "genre": null,
-    "note": "呼吸を深め内側から温めながら体をほぐしていきます。リラックスしながら、しっかり筋肉を使うポーズを行うことで体の芯から整えます。"
+    "note": "呼吸を深め内側から温めながら体をほぐしていきます。リラックスしながら、しっかり筋肉を使うポーズを行うことで体の芯から整えます。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kumagaya_kenkousc",
@@ -439,6 +464,7 @@
     "studio": "多目的",
     "reservation_required": false,
     "genre": null,
-    "note": "呼吸を深め内側から温めながら体をほぐしていきます。リラックスしながら、しっかり筋肉を使うポーズを行うことで体の芯から整えます。"
+    "note": "呼吸を深め内側から温めながら体をほぐしていきます。リラックスしながら、しっかり筋肉を使うポーズを行うことで体の芯から整えます。",
+    "instructor_id": null
   }
 ]

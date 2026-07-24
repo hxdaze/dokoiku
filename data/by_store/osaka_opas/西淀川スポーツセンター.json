@@ -14,6 +14,7 @@
     "studio": "第1体育場",
     "reservation_required": true,
     "genre": null,
-    "note": "対象:16歳以上"
+    "note": "対象:16歳以上",
+    "instructor_id": null
   }
 ]

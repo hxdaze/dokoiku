@@ -14,7 +14,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料（⑤④③②レーン使用）"
+    "note": "有料（⑤④③②レーン使用）",
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -31,7 +32,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料（⑤④レーン使用）6/3、10、17、24　13：30～"
+    "note": "有料（⑤④レーン使用）6/3、10、17、24　13：30～",
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料（⑤④③②レーン使用）"
+    "note": "有料（⑤④③②レーン使用）",
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -65,7 +68,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "④③レーン使用"
+    "note": "④③レーン使用",
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -82,7 +86,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "⑤④レーン使用"
+    "note": "⑤④レーン使用",
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -99,7 +104,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "⑤レーン使用"
+    "note": "⑤レーン使用",
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料（⑤④③レーン使用）"
+    "note": "有料（⑤④③レーン使用）",
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -133,6 +140,7 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料（⑤④③コース使用）"
+    "note": "有料（⑤④③コース使用）",
+    "instructor_id": null
   }
 ]

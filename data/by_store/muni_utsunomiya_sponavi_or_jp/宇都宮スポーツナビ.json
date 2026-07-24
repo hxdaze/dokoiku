@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18104"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18104"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18105"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18106"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18107"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": "骨盤"
+    "note": "骨盤",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": "骨盤"
+    "note": "骨盤",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i18107"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -150,7 +158,8 @@
     "studio": "清原体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18108"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -167,7 +176,8 @@
     "studio": "清原体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18108"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -184,7 +194,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18108"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -201,7 +212,8 @@
     "studio": "清原体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18109"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -218,7 +230,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18109"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -235,7 +248,8 @@
     "studio": "大谷資料館",
     "reservation_required": true,
     "genre": null,
-    "note": "Coming soon..."
+    "note": "Coming soon...",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -252,7 +266,8 @@
     "studio": "ライトキューブ宇都宮",
     "reservation_required": true,
     "genre": null,
-    "note": "Coming soon..."
+    "note": "Coming soon...",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -269,7 +284,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18105"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -286,7 +302,8 @@
     "studio": "清原体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18105"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -303,7 +320,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18105"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -320,7 +338,8 @@
     "studio": "雀宮体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18110"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -337,7 +356,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18111"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -354,7 +374,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18112"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -371,7 +392,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18113"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -388,7 +410,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18114"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ソフトスポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18105"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ソフトスポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18108"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ソフトスポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18115"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "競技系スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18116"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "競技系スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18117"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "競技系スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18117"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -524,7 +554,8 @@
     "studio": "市体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18118"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -541,7 +572,8 @@
     "studio": "清原体育館",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18118"
   },
   {
     "gym_id": "muni_utsunomiya_sponavi_or_jp",
@@ -558,6 +590,7 @@
     "studio": "市体育館",
     "reservation_required": false,
     "genre": null,
-    "note": "ホイッスル"
+    "note": "ホイッスル",
+    "instructor_id": null
   }
 ]

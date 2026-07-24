@@ -14,7 +14,8 @@
     "studio": "運動教室日程",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "腰痛体操"
+    "note": "腰痛体操",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -31,7 +32,8 @@
     "studio": "運動教室日程",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "姿勢改善"
+    "note": "姿勢改善",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -48,7 +50,8 @@
     "studio": "運動教室日程",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -65,7 +68,8 @@
     "studio": "運動教室日程",
     "reservation_required": false,
     "genre": "ズンバ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -82,7 +86,8 @@
     "studio": "運動教室日程",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -99,7 +104,8 @@
     "studio": "会議室",
     "reservation_required": false,
     "genre": "健康運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -116,7 +122,8 @@
     "studio": "会議室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "時間変更：18:30～19:30"
+    "note": "時間変更：18:30～19:30",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -133,7 +140,8 @@
     "studio": "会議室",
     "reservation_required": false,
     "genre": "健康運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -150,7 +158,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -167,7 +176,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -184,7 +194,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -201,7 +212,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -218,7 +230,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -235,7 +248,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -252,7 +266,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -269,7 +284,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -286,7 +302,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -303,7 +320,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -320,7 +338,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -337,7 +356,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -354,7 +374,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -371,7 +392,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -388,7 +410,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -405,7 +428,8 @@
     "studio": "市民球場",
     "reservation_required": false,
     "genre": "青",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "青 スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "青 スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "青 スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "青 スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "青 スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "青 スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_kasamakanri",
@@ -524,6 +554,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "青 スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

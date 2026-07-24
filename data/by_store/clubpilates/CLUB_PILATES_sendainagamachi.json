@@ -14,7 +14,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -31,7 +32,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -48,7 +50,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -65,7 +68,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -82,7 +86,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -99,7 +104,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5803"
   },
   {
     "gym_id": "clubpilates",
@@ -116,7 +122,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -133,7 +140,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5803"
   },
   {
     "gym_id": "clubpilates",
@@ -150,7 +158,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5803"
   },
   {
     "gym_id": "clubpilates",
@@ -167,7 +176,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5804"
   },
   {
     "gym_id": "clubpilates",
@@ -184,7 +194,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5804"
   },
   {
     "gym_id": "clubpilates",
@@ -201,7 +212,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -218,7 +230,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -235,7 +248,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -252,7 +266,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -269,7 +284,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -286,7 +302,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -303,7 +320,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -320,7 +338,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5804"
   },
   {
     "gym_id": "clubpilates",
@@ -337,7 +356,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5804"
   },
   {
     "gym_id": "clubpilates",
@@ -354,7 +374,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -371,7 +392,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -388,7 +410,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -405,7 +428,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -422,7 +446,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -439,7 +464,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -456,7 +482,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -473,7 +500,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -490,7 +518,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -507,7 +536,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -524,7 +554,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -541,7 +572,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -558,7 +590,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -575,7 +608,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -592,7 +626,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -609,7 +644,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -626,7 +662,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -643,7 +680,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -660,7 +698,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5804"
   },
   {
     "gym_id": "clubpilates",
@@ -677,7 +716,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5804"
   },
   {
     "gym_id": "clubpilates",
@@ -694,7 +734,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -711,7 +752,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -728,7 +770,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -745,7 +788,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -762,7 +806,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -779,7 +824,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -796,7 +842,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5803"
   },
   {
     "gym_id": "clubpilates",
@@ -813,7 +860,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5803"
   },
   {
     "gym_id": "clubpilates",
@@ -830,7 +878,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -847,7 +896,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -864,7 +914,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -881,7 +932,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -898,7 +950,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5803"
   },
   {
     "gym_id": "clubpilates",
@@ -915,7 +968,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5803"
   },
   {
     "gym_id": "clubpilates",
@@ -932,7 +986,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -949,7 +1004,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -966,7 +1022,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -983,7 +1040,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -1000,7 +1058,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "clubpilates",
@@ -1017,7 +1076,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -1034,7 +1094,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5802"
   },
   {
     "gym_id": "clubpilates",
@@ -1051,7 +1112,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -1068,7 +1130,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5801"
   },
   {
     "gym_id": "clubpilates",
@@ -1085,7 +1148,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -1102,7 +1166,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -1119,7 +1184,8 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   },
   {
     "gym_id": "clubpilates",
@@ -1136,6 +1202,7 @@
     "studio": "GROUP CLASS",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5799"
   }
 ]

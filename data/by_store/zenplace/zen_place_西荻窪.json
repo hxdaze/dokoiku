@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "軽やかな歩行のために"
+    "note": "軽やかな歩行のために",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "オーバーボール使用"
+    "note": "オーバーボール使用",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "オーバーボール使用"
+    "note": "オーバーボール使用",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "フォームローラー使用"
+    "note": "フォームローラー使用",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "フォームローラー、オーバーボール使用"
+    "note": "フォームローラー、オーバーボール使用",
+    "instructor_id": null
   },
   {
     "gym_id": "zenplace",
@@ -99,6 +104,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "ボール使用"
+    "note": "ボール使用",
+    "instructor_id": null
   }
 ]

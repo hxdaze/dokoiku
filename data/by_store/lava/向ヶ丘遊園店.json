@@ -14,7 +14,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4 / スクリーン"
+    "note": "強度4 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -31,7 +32,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -48,7 +50,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / アジャスト"
+    "note": "強度6 / アジャスト",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -65,7 +68,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -82,7 +86,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -99,7 +104,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -116,7 +122,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / スクリーン"
+    "note": "強度6 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -133,7 +140,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -150,7 +158,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -167,7 +176,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -184,7 +194,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -201,7 +212,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4 / アジャスト"
+    "note": "強度4 / アジャスト",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -218,7 +230,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15370"
   },
   {
     "gym_id": "lava",
@@ -235,7 +248,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15370"
   },
   {
     "gym_id": "lava",
@@ -252,7 +266,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / アジャスト"
+    "note": "強度6 / アジャスト",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -269,7 +284,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -286,7 +302,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -303,7 +320,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -320,7 +338,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -337,7 +356,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -354,7 +374,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -371,7 +392,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15516"
   },
   {
     "gym_id": "lava",
@@ -388,7 +410,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15516"
   },
   {
     "gym_id": "lava",
@@ -405,7 +428,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度8"
+    "note": "強度8",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -422,7 +446,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -439,7 +464,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / アジャスト"
+    "note": "強度6 / アジャスト",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -456,7 +482,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -473,7 +500,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -490,7 +518,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3 / アジャスト"
+    "note": "強度3 / アジャスト",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -507,7 +536,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15371"
   },
   {
     "gym_id": "lava",
@@ -524,7 +554,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15371"
   },
   {
     "gym_id": "lava",
@@ -541,7 +572,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4 / アジャスト"
+    "note": "強度4 / アジャスト",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -558,7 +590,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5 / 常温"
+    "note": "強度5 / 常温",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -575,7 +608,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -592,7 +626,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5 / スクリーン"
+    "note": "強度5 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -609,7 +644,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / スクリーン"
+    "note": "強度6 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -626,7 +662,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -643,7 +680,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -660,7 +698,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -677,7 +716,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / アジャスト"
+    "note": "強度6 / アジャスト",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -694,7 +734,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15370"
   },
   {
     "gym_id": "lava",
@@ -711,7 +752,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15370"
   },
   {
     "gym_id": "lava",
@@ -728,7 +770,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / アジャスト"
+    "note": "強度6 / アジャスト",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -745,7 +788,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -762,7 +806,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -779,7 +824,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -796,7 +842,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4 / アジャスト"
+    "note": "強度4 / アジャスト",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -813,7 +860,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15371"
   },
   {
     "gym_id": "lava",
@@ -830,7 +878,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15371"
   },
   {
     "gym_id": "lava",
@@ -847,7 +896,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -864,7 +914,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -881,7 +932,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -898,7 +950,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5 / スクリーン"
+    "note": "強度5 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -915,7 +968,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -932,7 +986,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -949,7 +1004,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / スクリーン"
+    "note": "強度6 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -966,7 +1022,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -983,7 +1040,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -1000,7 +1058,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -1017,7 +1076,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / アジャスト"
+    "note": "強度6 / アジャスト",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -1034,7 +1094,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4 / アジャスト"
+    "note": "強度4 / アジャスト",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -1051,7 +1112,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -1068,7 +1130,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -1085,7 +1148,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / スクリーン"
+    "note": "強度6 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -1102,7 +1166,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -1119,7 +1184,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -1136,7 +1202,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -1153,7 +1220,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i15371"
   },
   {
     "gym_id": "lava",
@@ -1170,7 +1238,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15371"
   },
   {
     "gym_id": "lava",
@@ -1187,7 +1256,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -1204,7 +1274,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -1221,7 +1292,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度8"
+    "note": "強度8",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -1238,7 +1310,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / アジャスト"
+    "note": "強度6 / アジャスト",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -1255,7 +1328,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -1272,7 +1346,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15517"
   },
   {
     "gym_id": "lava",
@@ -1289,7 +1364,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15517"
   },
   {
     "gym_id": "lava",
@@ -1306,7 +1382,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / アジャスト"
+    "note": "強度6 / アジャスト",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -1323,7 +1400,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -1340,7 +1418,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i15513"
   },
   {
     "gym_id": "lava",
@@ -1357,7 +1436,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i15370"
   },
   {
     "gym_id": "lava",
@@ -1374,7 +1454,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i15370"
   },
   {
     "gym_id": "lava",
@@ -1391,7 +1472,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -1408,7 +1490,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i15512"
   },
   {
     "gym_id": "lava",
@@ -1425,7 +1508,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4 / アジャスト"
+    "note": "強度4 / アジャスト",
+    "instructor_id": "i15514"
   },
   {
     "gym_id": "lava",
@@ -1442,7 +1526,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5 / スクリーン"
+    "note": "強度5 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -1459,7 +1544,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -1476,7 +1562,8 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度1 / 常温"
+    "note": "強度1 / 常温",
+    "instructor_id": "i15515"
   },
   {
     "gym_id": "lava",
@@ -1493,6 +1580,7 @@
     "studio": "LAVA 向ヶ丘遊園店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i15513"
   }
 ]

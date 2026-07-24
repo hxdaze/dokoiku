@@ -14,7 +14,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i12107"
   },
   {
     "gym_id": "katsushika_sc",
@@ -31,7 +32,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5428"
   },
   {
     "gym_id": "katsushika_sc",
@@ -48,7 +50,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i5428"
   },
   {
     "gym_id": "katsushika_sc",
@@ -65,7 +68,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "katsushika_sc",
@@ -82,7 +86,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "体操",
-    "note": null
+    "note": null,
+    "instructor_id": "i12108"
   },
   {
     "gym_id": "katsushika_sc",
@@ -99,7 +104,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -116,7 +122,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -133,7 +140,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -150,7 +158,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5428"
   },
   {
     "gym_id": "katsushika_sc",
@@ -167,7 +176,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -184,7 +194,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "katsushika_sc",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i12108"
   },
   {
     "gym_id": "katsushika_sc",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ウォーキング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12109"
   },
   {
     "gym_id": "katsushika_sc",
@@ -235,7 +248,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7462"
   },
   {
     "gym_id": "katsushika_sc",
@@ -252,7 +266,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7462"
   },
   {
     "gym_id": "katsushika_sc",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5044"
   },
   {
     "gym_id": "katsushika_sc",
@@ -286,7 +302,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12110"
   },
   {
     "gym_id": "katsushika_sc",
@@ -303,7 +320,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12111"
   },
   {
     "gym_id": "katsushika_sc",
@@ -320,7 +338,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2787"
   },
   {
     "gym_id": "katsushika_sc",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i2319"
   },
   {
     "gym_id": "katsushika_sc",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i12112"
   },
   {
     "gym_id": "katsushika_sc",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "前編"
+    "note": "前編",
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "katsushika_sc",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "バレエ",
-    "note": "後編"
+    "note": "後編",
+    "instructor_id": "i6970"
   },
   {
     "gym_id": "katsushika_sc",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4462"
   },
   {
     "gym_id": "katsushika_sc",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2905"
   },
   {
     "gym_id": "katsushika_sc",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4148"
   },
   {
     "gym_id": "katsushika_sc",
@@ -456,7 +482,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12113"
   },
   {
     "gym_id": "katsushika_sc",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i2319"
   },
   {
     "gym_id": "katsushika_sc",
@@ -490,7 +518,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": "カーディオ"
+    "note": "カーディオ",
+    "instructor_id": "i12113"
   },
   {
     "gym_id": "katsushika_sc",
@@ -507,7 +536,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i4502"
   },
   {
     "gym_id": "katsushika_sc",
@@ -524,7 +554,8 @@
     "studio": "第3会議室",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4502"
   },
   {
     "gym_id": "katsushika_sc",
@@ -541,7 +572,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12114"
   },
   {
     "gym_id": "katsushika_sc",
@@ -558,7 +590,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12114"
   },
   {
     "gym_id": "katsushika_sc",
@@ -575,7 +608,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i2787"
   },
   {
     "gym_id": "katsushika_sc",
@@ -592,7 +626,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12115"
   },
   {
     "gym_id": "katsushika_sc",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12116"
   },
   {
     "gym_id": "katsushika_sc",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12116"
   },
   {
     "gym_id": "katsushika_sc",
@@ -643,7 +680,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12113"
   },
   {
     "gym_id": "katsushika_sc",
@@ -660,7 +698,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i12111"
   },
   {
     "gym_id": "katsushika_sc",
@@ -677,7 +716,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12111"
   },
   {
     "gym_id": "katsushika_sc",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -813,7 +860,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -830,7 +878,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "katsushika_sc",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i12108"
   },
   {
     "gym_id": "katsushika_sc",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12109"
   },
   {
     "gym_id": "katsushika_sc",
@@ -881,7 +932,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "パワーフィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7462"
   },
   {
     "gym_id": "katsushika_sc",
@@ -898,7 +950,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "パワーフィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7462"
   },
   {
     "gym_id": "katsushika_sc",
@@ -915,7 +968,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5044"
   },
   {
     "gym_id": "katsushika_sc",
@@ -932,7 +986,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12110"
   },
   {
     "gym_id": "katsushika_sc",
@@ -949,7 +1004,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "パワーフィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12111"
   },
   {
     "gym_id": "katsushika_sc",
@@ -966,7 +1022,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5428"
   },
   {
     "gym_id": "katsushika_sc",
@@ -983,7 +1040,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5428"
   },
   {
     "gym_id": "katsushika_sc",
@@ -1000,7 +1058,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "パワーフィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -1017,7 +1076,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5428"
   },
   {
     "gym_id": "katsushika_sc",
@@ -1034,7 +1094,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "パワーフィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "katsushika_sc",
@@ -1051,7 +1112,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4711"
   },
   {
     "gym_id": "katsushika_sc",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4462"
   },
   {
     "gym_id": "katsushika_sc",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4462"
   },
   {
     "gym_id": "katsushika_sc",
@@ -1102,7 +1166,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i12108"
   },
   {
     "gym_id": "katsushika_sc",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4148"
   },
   {
     "gym_id": "katsushika_sc",
@@ -1136,6 +1202,7 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "難しい部分は簡易化したオリジナルの振付"
+    "note": "難しい部分は簡易化したオリジナルの振付",
+    "instructor_id": null
   }
 ]

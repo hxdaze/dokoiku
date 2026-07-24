@@ -14,7 +14,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -31,7 +32,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": null,
-    "note": "Update"
+    "note": "Update",
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -48,7 +50,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -65,7 +68,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "studio_accha",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "NEW",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "K-POP",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "POP",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "K-POP",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "POP",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21414"
   },
   {
     "gym_id": "studio_accha",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": "08"
+    "note": "08",
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": "05"
+    "note": "05",
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21414"
   },
   {
     "gym_id": "studio_accha",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": "10"
+    "note": "10",
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -592,7 +626,8 @@
     "studio": "FLY",
     "reservation_required": false,
     "genre": "J-MIX",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -609,7 +644,8 @@
     "studio": "D-BOX",
     "reservation_required": false,
     "genre": "J-MIX",
-    "note": "04"
+    "note": "04",
+    "instructor_id": "i21415"
   },
   {
     "gym_id": "studio_accha",
@@ -626,7 +662,8 @@
     "studio": "D-BOX",
     "reservation_required": false,
     "genre": "FullBody",
-    "note": "09"
+    "note": "09",
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -643,7 +680,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "Tone Body",
-    "note": "Update"
+    "note": "Update",
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -660,7 +698,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -677,7 +716,8 @@
     "studio": "D-BOX",
     "reservation_required": false,
     "genre": "FullBody",
-    "note": "08"
+    "note": "08",
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -694,7 +734,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "K-POP DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -711,7 +752,8 @@
     "studio": "FLY",
     "reservation_required": false,
     "genre": "Beat27",
-    "note": null
+    "note": null,
+    "instructor_id": "i21413"
   },
   {
     "gym_id": "studio_accha",
@@ -728,7 +770,8 @@
     "studio": "2F",
     "reservation_required": false,
     "genre": "DANCE MIX",
-    "note": null
+    "note": null,
+    "instructor_id": "i21412"
   },
   {
     "gym_id": "studio_accha",
@@ -745,6 +788,7 @@
     "studio": "D-BOX",
     "reservation_required": false,
     "genre": "POP",
-    "note": "10"
+    "note": "10",
+    "instructor_id": "i21413"
   }
 ]

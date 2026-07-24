@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21150"
   },
   {
     "gym_id": "sapporo_shiroishi_pool",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21151"
   },
   {
     "gym_id": "sapporo_shiroishi_pool",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21152"
   },
   {
     "gym_id": "sapporo_shiroishi_pool",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21153"
   },
   {
     "gym_id": "sapporo_shiroishi_pool",
@@ -82,7 +86,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21152"
   },
   {
     "gym_id": "sapporo_shiroishi_pool",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水中フィットネス教室",
-    "note": null
+    "note": null,
+    "instructor_id": "i21154"
   },
   {
     "gym_id": "sapporo_shiroishi_pool",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水中フィットネス教室",
-    "note": null
+    "note": null,
+    "instructor_id": "i21154"
   },
   {
     "gym_id": "sapporo_shiroishi_pool",
@@ -133,7 +140,8 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "多目的フィットネス教室",
-    "note": null
+    "note": null,
+    "instructor_id": "i21102"
   },
   {
     "gym_id": "sapporo_shiroishi_pool",
@@ -150,6 +158,7 @@
     "studio": "多目的室",
     "reservation_required": false,
     "genre": "多目的フィットネス教室",
-    "note": null
+    "note": null,
+    "instructor_id": "i21155"
   }
 ]

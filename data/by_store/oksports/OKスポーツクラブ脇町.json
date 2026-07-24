@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※プール体操場にて実施"
+    "note": "※プール体操場にて実施",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※プール体操場にて実施"
+    "note": "※プール体操場にて実施",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※プール体操場にて実施"
+    "note": "※プール体操場にて実施",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ウォーキングフリーコース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ウォーキングフリーコース",
-    "note": "※プール体操場にて実施"
+    "note": "※プール体操場にて実施",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ウォーキングフリーコース",
-    "note": "※プール体操場にて実施"
+    "note": "※プール体操場にて実施",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ウォーキングフリーコース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "L S"
+    "note": "L S",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ウォーキングフリーコース",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイムフリーコース",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "入門"
+    "note": "入門",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "入門"
+    "note": "入門",
+    "instructor_id": null
   },
   {
     "gym_id": "oksports",
@@ -541,6 +572,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

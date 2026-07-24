@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "会員・宿泊者・ビジター"
+    "note": "会員・宿泊者・ビジター",
+    "instructor_id": null
   },
   {
     "gym_id": "le_club",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "会員・宿泊者・ビジター"
+    "note": "会員・宿泊者・ビジター",
+    "instructor_id": null
   },
   {
     "gym_id": "le_club",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "会員・宿泊者・ビジター / 骨盤"
+    "note": "会員・宿泊者・ビジター / 骨盤",
+    "instructor_id": null
   },
   {
     "gym_id": "le_club",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "会員・宿泊者・ビジター"
+    "note": "会員・宿泊者・ビジター",
+    "instructor_id": null
   },
   {
     "gym_id": "le_club",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "会員・宿泊者・ビジター"
+    "note": "会員・宿泊者・ビジター",
+    "instructor_id": null
   },
   {
     "gym_id": "le_club",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "会員・宿泊者・ビジター"
+    "note": "会員・宿泊者・ビジター",
+    "instructor_id": null
   },
   {
     "gym_id": "le_club",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "会員・宿泊者・ビジター / 骨盤"
+    "note": "会員・宿泊者・ビジター / 骨盤",
+    "instructor_id": null
   },
   {
     "gym_id": "le_club",
@@ -133,6 +140,7 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "会員・宿泊者・ビジター"
+    "note": "会員・宿泊者・ビジター",
+    "instructor_id": null
   }
 ]

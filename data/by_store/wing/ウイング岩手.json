@@ -14,7 +14,8 @@
     "studio": "Studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i162"
   },
   {
     "gym_id": "wing",
@@ -31,7 +32,8 @@
     "studio": "Studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -48,7 +50,8 @@
     "studio": "Studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23429"
   },
   {
     "gym_id": "wing",
@@ -65,7 +68,8 @@
     "studio": "Studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23430"
   },
   {
     "gym_id": "wing",
@@ -82,7 +86,8 @@
     "studio": "Studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23430"
   },
   {
     "gym_id": "wing",
@@ -99,7 +104,8 @@
     "studio": "Studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i162"
   },
   {
     "gym_id": "wing",
@@ -116,7 +122,8 @@
     "studio": "Studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23430"
   },
   {
     "gym_id": "wing",
@@ -133,7 +140,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23431"
   },
   {
     "gym_id": "wing",
@@ -150,7 +158,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23430"
   },
   {
     "gym_id": "wing",
@@ -167,7 +176,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23429"
   },
   {
     "gym_id": "wing",
@@ -184,7 +194,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i162"
   },
   {
     "gym_id": "wing",
@@ -201,7 +212,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23430"
   },
   {
     "gym_id": "wing",
@@ -218,7 +230,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23430"
   },
   {
     "gym_id": "wing",
@@ -235,7 +248,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23431"
   },
   {
     "gym_id": "wing",
@@ -252,7 +266,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23431"
   },
   {
     "gym_id": "wing",
@@ -269,7 +284,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23430"
   },
   {
     "gym_id": "wing",
@@ -286,7 +302,8 @@
     "studio": "Studio/Gym",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23430"
   },
   {
     "gym_id": "wing",
@@ -303,7 +320,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -320,7 +338,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -337,7 +356,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -354,7 +374,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -371,7 +392,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -388,7 +410,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -405,7 +428,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -422,7 +446,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -439,7 +464,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "Pool",
-    "note": null
+    "note": null,
+    "instructor_id": "i162"
   },
   {
     "gym_id": "wing",
@@ -456,7 +482,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "Pool",
-    "note": null
+    "note": null,
+    "instructor_id": "i23432"
   },
   {
     "gym_id": "wing",
@@ -473,7 +500,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "Pool",
-    "note": null
+    "note": null,
+    "instructor_id": "i23432"
   },
   {
     "gym_id": "wing",
@@ -490,7 +518,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "Pool",
-    "note": null
+    "note": null,
+    "instructor_id": "i23431"
   },
   {
     "gym_id": "wing",
@@ -507,7 +536,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "Pool",
-    "note": null
+    "note": null,
+    "instructor_id": "i162"
   },
   {
     "gym_id": "wing",
@@ -524,7 +554,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "Pool",
-    "note": null
+    "note": null,
+    "instructor_id": "i23431"
   },
   {
     "gym_id": "wing",
@@ -541,7 +572,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "Pool",
-    "note": null
+    "note": null,
+    "instructor_id": "i23431"
   },
   {
     "gym_id": "wing",
@@ -558,7 +590,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": "Pool",
-    "note": null
+    "note": null,
+    "instructor_id": "i23432"
   },
   {
     "gym_id": "wing",
@@ -575,7 +608,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i162"
   },
   {
     "gym_id": "wing",
@@ -592,7 +626,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "wing",
@@ -609,7 +644,8 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i162"
   },
   {
     "gym_id": "wing",
@@ -626,6 +662,7 @@
     "studio": "Pool",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

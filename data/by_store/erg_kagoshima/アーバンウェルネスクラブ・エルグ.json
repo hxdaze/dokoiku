@@ -14,7 +14,8 @@
     "studio": "池本",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -31,7 +32,8 @@
     "studio": "里園",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6994"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -48,7 +50,8 @@
     "studio": "原田",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6995"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -82,7 +86,8 @@
     "studio": "里園",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6994"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -99,7 +104,8 @@
     "studio": "里園/原田",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i6994"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i6996"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -133,7 +140,8 @@
     "studio": "里園",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -150,7 +158,8 @@
     "studio": "里園",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -167,7 +176,8 @@
     "studio": "里園",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -184,7 +194,8 @@
     "studio": "里園",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "スクール会員専用 有料プログラム"
+    "note": "スクール会員専用 有料プログラム",
+    "instructor_id": "i6997"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -218,7 +230,8 @@
     "studio": "原田",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -235,7 +248,8 @@
     "studio": "里園/原田",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i6994"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -252,7 +266,8 @@
     "studio": "里園",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -269,7 +284,8 @@
     "studio": "原田",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6997"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -286,7 +302,8 @@
     "studio": "前田",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6998"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -320,7 +338,8 @@
     "studio": "里園",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6994"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -337,7 +356,8 @@
     "studio": "里園/原田",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i6994"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -388,7 +410,8 @@
     "studio": "アクア・ウォーク",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -405,7 +428,8 @@
     "studio": "泳法",
     "reservation_required": false,
     "genre": null,
-    "note": "スクール会員専用 有料プログラム"
+    "note": "スクール会員専用 有料プログラム",
+    "instructor_id": "i6997"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -422,7 +446,8 @@
     "studio": "アクア・ウォーク",
     "reservation_required": false,
     "genre": null,
-    "note": "①12:00-12:30 里園\n②12:35-13:05 里園 / 有料"
+    "note": "①12:00-12:30 里園\n②12:35-13:05 里園 / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -439,7 +464,8 @@
     "studio": "アクア・ウォーク",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6996"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -456,7 +482,8 @@
     "studio": "泳法",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -473,7 +500,8 @@
     "studio": "アクア・ウォーク",
     "reservation_required": false,
     "genre": null,
-    "note": "①14:30-14:55 原田\n②14:35-15:05 原田\n③15:05-15:35 安藤 宝樹\n④15:40-16:10 里園 / 有料"
+    "note": "①14:30-14:55 原田\n②14:35-15:05 原田\n③15:05-15:35 安藤 宝樹\n④15:40-16:10 里園 / 有料",
+    "instructor_id": "i6994"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -490,7 +518,8 @@
     "studio": "アクア・ウォーク",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -507,7 +536,8 @@
     "studio": "泳法",
     "reservation_required": false,
     "genre": null,
-    "note": "坂下・吉永"
+    "note": "坂下・吉永",
+    "instructor_id": "i6997"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -524,7 +554,8 @@
     "studio": "アクア・ウォーク",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6994"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -541,7 +572,8 @@
     "studio": "泳法",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7000"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -558,7 +590,8 @@
     "studio": "アクア・ウォーク",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7001"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -575,7 +608,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -592,7 +626,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7002"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -609,7 +644,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i6995"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -626,7 +662,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -643,7 +680,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -660,7 +698,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i7004"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -677,7 +716,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i7005"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -694,7 +734,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -711,7 +752,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -728,7 +770,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -745,7 +788,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7006"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -762,7 +806,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -779,7 +824,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7007"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -796,7 +842,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7008"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -813,7 +860,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7009"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -830,7 +878,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -847,7 +896,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -864,7 +914,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -881,7 +932,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -898,7 +950,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -915,7 +968,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -932,7 +986,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7012"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -949,7 +1004,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -966,7 +1022,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -983,7 +1040,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1000,7 +1058,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7005"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1017,7 +1076,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7013"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1034,7 +1094,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7014"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1051,7 +1112,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1068,7 +1130,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1085,7 +1148,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7009"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1102,7 +1166,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1119,7 +1184,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1136,7 +1202,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1153,7 +1220,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1170,7 +1238,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1187,7 +1256,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1204,7 +1274,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7012"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1221,7 +1292,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1238,7 +1310,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1255,7 +1328,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1272,7 +1346,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1289,7 +1364,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7009"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1306,7 +1382,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1323,7 +1400,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1340,7 +1418,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1357,7 +1436,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1374,7 +1454,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1391,7 +1472,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1408,7 +1490,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7012"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1425,7 +1508,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1442,7 +1526,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1459,7 +1544,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "ホット"
+    "note": "ホット",
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1476,7 +1562,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1493,7 +1580,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7009"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1510,7 +1598,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1527,7 +1616,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1544,7 +1634,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1561,7 +1652,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1578,7 +1670,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1595,7 +1688,8 @@
     "studio": "Studio No.1",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料レッスン1回 ¥330（税込）>"
+    "note": "<有料レッスン1回 ¥330（税込）>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1612,7 +1706,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6998"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1629,7 +1724,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7015"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1646,7 +1742,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7016"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1663,7 +1760,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i6995"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1680,7 +1778,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7017"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1697,7 +1796,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7005"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1714,7 +1814,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7018"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1731,7 +1832,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1748,7 +1850,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1765,7 +1868,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7019"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1782,7 +1886,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7020"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1799,7 +1904,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7021"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1816,7 +1922,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1833,7 +1940,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1850,7 +1958,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7022"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1867,7 +1976,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7022"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1884,7 +1994,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7023"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1901,7 +2012,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7004"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1918,7 +2030,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7024"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1935,7 +2048,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1952,7 +2066,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7025"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1969,7 +2084,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7026"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -1986,7 +2102,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7009"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2003,7 +2120,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7027"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2020,7 +2138,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2037,7 +2156,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7005"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2054,7 +2174,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2071,7 +2192,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6998"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2088,7 +2210,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2105,7 +2228,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7028"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2122,7 +2246,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i7015"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2139,7 +2264,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2156,7 +2282,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7029"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2173,7 +2300,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7030"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2190,7 +2318,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2207,7 +2336,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": "変更"
+    "note": "変更",
+    "instructor_id": "i6995"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2224,7 +2354,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2241,7 +2372,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2258,7 +2390,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6995"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2275,7 +2408,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2292,7 +2426,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "<有料レッスン1回 ¥660（税込）>"
+    "note": "<有料レッスン1回 ¥660（税込）>",
+    "instructor_id": "i7031"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2309,7 +2444,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7032"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2326,7 +2462,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7022"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2343,7 +2480,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2360,7 +2498,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7029"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2377,7 +2516,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7033"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2394,7 +2534,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7034"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2411,7 +2552,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7035"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2428,7 +2570,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6997"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2445,7 +2588,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2462,7 +2606,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2479,7 +2624,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2496,7 +2642,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2513,7 +2660,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2530,7 +2678,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2547,7 +2696,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": "内田/右元"
+    "note": "内田/右元",
+    "instructor_id": "i7036"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2564,7 +2714,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6997"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2581,7 +2732,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2598,7 +2750,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6997"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2615,7 +2768,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2632,7 +2786,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7011"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2649,7 +2804,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6997"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2666,7 +2822,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7027"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2683,7 +2840,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2700,7 +2858,8 @@
     "studio": "Studio No.1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2717,7 +2876,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2734,7 +2894,8 @@
     "studio": "Studio No.2",
     "reservation_required": false,
     "genre": null,
-    "note": "13歳〜"
+    "note": "13歳〜",
+    "instructor_id": "i7036"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2751,7 +2912,8 @@
     "studio": "Studio No.2",
     "reservation_required": true,
     "genre": null,
-    "note": "月1回土曜日開催 / 有料"
+    "note": "月1回土曜日開催 / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2768,7 +2930,8 @@
     "studio": "Studio No.2",
     "reservation_required": true,
     "genre": null,
-    "note": "月1回土曜日開催\n①初中級クラス\n14:00〜(90分)\n②初級クラス\n16:10〜(90分)"
+    "note": "月1回土曜日開催\n①初中級クラス\n14:00〜(90分)\n②初級クラス\n16:10〜(90分)",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2785,7 +2948,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2802,7 +2966,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2819,7 +2984,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2836,7 +3002,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "服部"
+    "note": "服部",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2853,7 +3020,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2870,7 +3038,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "上四元"
+    "note": "上四元",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2887,7 +3056,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "上四元"
+    "note": "上四元",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2904,7 +3074,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7004"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2921,7 +3092,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7038"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2938,7 +3110,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7025"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2955,7 +3128,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7035"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2972,7 +3146,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -2989,7 +3164,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3006,7 +3182,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3023,7 +3200,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3040,7 +3218,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3057,7 +3236,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3074,7 +3254,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3091,7 +3272,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3108,7 +3290,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7027"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3125,7 +3308,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3142,7 +3326,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3159,7 +3344,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3176,7 +3362,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3193,7 +3380,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3210,7 +3398,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3227,7 +3416,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3244,7 +3434,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3261,7 +3452,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3278,7 +3470,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3295,7 +3488,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7027"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3312,7 +3506,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3329,7 +3524,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3346,7 +3542,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3363,7 +3560,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3380,7 +3578,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3397,7 +3596,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3414,7 +3614,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3431,7 +3632,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3448,7 +3650,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3465,7 +3668,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3482,7 +3686,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7027"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3499,7 +3704,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3516,7 +3722,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3533,7 +3740,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3550,7 +3758,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3567,7 +3776,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3584,7 +3794,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3601,7 +3812,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3618,7 +3830,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3635,7 +3848,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3652,7 +3866,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3669,7 +3884,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7027"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3686,7 +3902,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3703,7 +3920,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3720,7 +3938,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3737,7 +3956,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3754,7 +3974,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3771,7 +3992,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3788,7 +4010,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3805,7 +4028,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3822,7 +4046,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3839,7 +4064,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7027"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3856,7 +4082,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3873,7 +4100,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3890,7 +4118,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3907,7 +4136,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3924,7 +4154,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3941,7 +4172,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3958,7 +4190,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7004"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3975,7 +4208,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7035"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -3992,7 +4226,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7035"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4009,7 +4244,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7040"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4026,7 +4262,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7031"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4043,7 +4280,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7041"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4060,7 +4298,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6999"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4077,7 +4316,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7041"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4094,7 +4334,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7036"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4111,7 +4352,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7036"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4128,7 +4370,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4145,7 +4388,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7042"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4162,7 +4406,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4179,7 +4424,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "リング使用"
+    "note": "リング使用",
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4196,7 +4442,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4213,7 +4460,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4230,7 +4478,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7043"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4247,7 +4496,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4264,7 +4514,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7007"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4281,7 +4532,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4298,7 +4550,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7013"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4315,7 +4568,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4332,7 +4586,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7042"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4349,7 +4604,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4366,7 +4622,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "リング使用"
+    "note": "リング使用",
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4383,7 +4640,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4400,7 +4658,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4417,7 +4676,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7043"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4434,7 +4694,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4451,7 +4712,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7007"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4468,7 +4730,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4485,7 +4748,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7013"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4502,7 +4766,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4519,7 +4784,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7042"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4536,7 +4802,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4553,7 +4820,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "リング使用"
+    "note": "リング使用",
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4570,7 +4838,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4587,7 +4856,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4604,7 +4874,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7043"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4621,7 +4892,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6993"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4638,7 +4910,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7007"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4655,7 +4928,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4672,7 +4946,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7013"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4689,7 +4964,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4706,7 +4982,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7009"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4723,7 +5000,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4740,7 +5018,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7042"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4757,7 +5036,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7003"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4774,7 +5054,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "リング使用"
+    "note": "リング使用",
+    "instructor_id": "i7010"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4791,7 +5072,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4808,7 +5090,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7037"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4825,7 +5108,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7027"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4842,7 +5126,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7007"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4859,7 +5144,8 @@
     "studio": "第2スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "<有料>"
+    "note": "<有料>",
+    "instructor_id": "i7039"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4876,7 +5162,8 @@
     "studio": "第2スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7038"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4893,7 +5180,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4910,7 +5198,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4927,7 +5216,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4944,7 +5234,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4961,7 +5252,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4978,7 +5270,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -4995,7 +5288,8 @@
     "studio": "[A]",
     "reservation_required": false,
     "genre": null,
-    "note": "石橋"
+    "note": "石橋",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5012,7 +5306,8 @@
     "studio": "[B]",
     "reservation_required": false,
     "genre": null,
-    "note": "石橋"
+    "note": "石橋",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5029,7 +5324,8 @@
     "studio": "[C]",
     "reservation_required": false,
     "genre": null,
-    "note": "辻松"
+    "note": "辻松",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5046,7 +5342,8 @@
     "studio": "[F]",
     "reservation_required": false,
     "genre": null,
-    "note": "辻松"
+    "note": "辻松",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5063,7 +5360,8 @@
     "studio": "[G]",
     "reservation_required": false,
     "genre": null,
-    "note": "辻松"
+    "note": "辻松",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5080,7 +5378,8 @@
     "studio": "[H]",
     "reservation_required": false,
     "genre": null,
-    "note": "遊佐"
+    "note": "遊佐",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5097,7 +5396,8 @@
     "studio": "[A]",
     "reservation_required": false,
     "genre": null,
-    "note": "石橋"
+    "note": "石橋",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5114,7 +5414,8 @@
     "studio": "[B]",
     "reservation_required": false,
     "genre": null,
-    "note": "吉井"
+    "note": "吉井",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5131,7 +5432,8 @@
     "studio": "[C]",
     "reservation_required": false,
     "genre": null,
-    "note": "三浦"
+    "note": "三浦",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5148,7 +5450,8 @@
     "studio": "[F]",
     "reservation_required": false,
     "genre": null,
-    "note": "辻松"
+    "note": "辻松",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5165,7 +5468,8 @@
     "studio": "[G]",
     "reservation_required": false,
     "genre": null,
-    "note": "辻松"
+    "note": "辻松",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5182,7 +5486,8 @@
     "studio": "[H]",
     "reservation_required": false,
     "genre": null,
-    "note": "遊佐"
+    "note": "遊佐",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5199,7 +5504,8 @@
     "studio": "[A]",
     "reservation_required": false,
     "genre": null,
-    "note": "石橋"
+    "note": "石橋",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5216,7 +5522,8 @@
     "studio": "[B]",
     "reservation_required": false,
     "genre": null,
-    "note": "三浦"
+    "note": "三浦",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5233,7 +5540,8 @@
     "studio": "[C]",
     "reservation_required": false,
     "genre": null,
-    "note": "吉井"
+    "note": "吉井",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5250,7 +5558,8 @@
     "studio": "[F]",
     "reservation_required": false,
     "genre": null,
-    "note": "鳥原"
+    "note": "鳥原",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5267,7 +5576,8 @@
     "studio": "[G]",
     "reservation_required": false,
     "genre": null,
-    "note": "鳥原"
+    "note": "鳥原",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5284,7 +5594,8 @@
     "studio": "[H]",
     "reservation_required": false,
     "genre": null,
-    "note": "鳥原"
+    "note": "鳥原",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5301,7 +5612,8 @@
     "studio": "[A]",
     "reservation_required": false,
     "genre": null,
-    "note": "辻松"
+    "note": "辻松",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5318,7 +5630,8 @@
     "studio": "[B]",
     "reservation_required": false,
     "genre": null,
-    "note": "吉井"
+    "note": "吉井",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5335,7 +5648,8 @@
     "studio": "[C]",
     "reservation_required": false,
     "genre": null,
-    "note": "三浦"
+    "note": "三浦",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5352,7 +5666,8 @@
     "studio": "[F]",
     "reservation_required": false,
     "genre": null,
-    "note": "吉井"
+    "note": "吉井",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5369,7 +5684,8 @@
     "studio": "[G]",
     "reservation_required": false,
     "genre": null,
-    "note": "鳥原"
+    "note": "鳥原",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5386,7 +5702,8 @@
     "studio": "[H]",
     "reservation_required": false,
     "genre": null,
-    "note": "中野"
+    "note": "中野",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5403,7 +5720,8 @@
     "studio": "[A]",
     "reservation_required": false,
     "genre": null,
-    "note": "清木場"
+    "note": "清木場",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5420,7 +5738,8 @@
     "studio": "[B]",
     "reservation_required": false,
     "genre": null,
-    "note": "清木場"
+    "note": "清木場",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5437,7 +5756,8 @@
     "studio": "[C]",
     "reservation_required": false,
     "genre": null,
-    "note": "清木場"
+    "note": "清木場",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5454,7 +5774,8 @@
     "studio": "[F]",
     "reservation_required": false,
     "genre": null,
-    "note": "吉井"
+    "note": "吉井",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5471,7 +5792,8 @@
     "studio": "[G]",
     "reservation_required": false,
     "genre": null,
-    "note": "鳥原"
+    "note": "鳥原",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5488,7 +5810,8 @@
     "studio": "[H]",
     "reservation_required": false,
     "genre": null,
-    "note": "鳥原"
+    "note": "鳥原",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5505,7 +5828,8 @@
     "studio": "[B]",
     "reservation_required": false,
     "genre": null,
-    "note": "(基本)"
+    "note": "(基本)",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5522,7 +5846,8 @@
     "studio": "[C]",
     "reservation_required": false,
     "genre": null,
-    "note": "石橋"
+    "note": "石橋",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5539,7 +5864,8 @@
     "studio": "[C]",
     "reservation_required": false,
     "genre": null,
-    "note": "石橋"
+    "note": "石橋",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5556,7 +5882,8 @@
     "studio": "[B]",
     "reservation_required": false,
     "genre": null,
-    "note": "(基本)"
+    "note": "(基本)",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5573,7 +5900,8 @@
     "studio": "[C]",
     "reservation_required": false,
     "genre": null,
-    "note": "石橋"
+    "note": "石橋",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5590,7 +5918,8 @@
     "studio": "[F]",
     "reservation_required": false,
     "genre": null,
-    "note": "辻松"
+    "note": "辻松",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5607,7 +5936,8 @@
     "studio": "[H]",
     "reservation_required": false,
     "genre": null,
-    "note": "遊佐"
+    "note": "遊佐",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5624,7 +5954,8 @@
     "studio": "[B]",
     "reservation_required": false,
     "genre": null,
-    "note": "(基本)"
+    "note": "(基本)",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5641,7 +5972,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[I]"
+    "note": "[I]",
+    "instructor_id": "i7044"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5658,7 +5990,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[J]"
+    "note": "[J]",
+    "instructor_id": "i7044"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5675,7 +6008,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[K]"
+    "note": "[K]",
+    "instructor_id": "i7044"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5692,7 +6026,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[N]"
+    "note": "[N]",
+    "instructor_id": "i7045"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5709,7 +6044,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[O]"
+    "note": "[O]",
+    "instructor_id": "i7045"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5726,7 +6062,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[P]"
+    "note": "[P]",
+    "instructor_id": "i7045"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5743,7 +6080,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[Q]"
+    "note": "[Q]",
+    "instructor_id": "i7044"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5760,7 +6098,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[S]"
+    "note": "[S]",
+    "instructor_id": "i7046"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5777,7 +6116,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[U]"
+    "note": "[U]",
+    "instructor_id": "i7045"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5794,7 +6134,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[V]"
+    "note": "[V]",
+    "instructor_id": "i7045"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5811,7 +6152,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[Y]"
+    "note": "[Y]",
+    "instructor_id": "i7047"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5828,7 +6170,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[Z]"
+    "note": "[Z]",
+    "instructor_id": "i7045"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5845,7 +6188,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[A]"
+    "note": "[A]",
+    "instructor_id": "i7046"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5862,7 +6206,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": null,
-    "note": "[C]"
+    "note": "[C]",
+    "instructor_id": "i7045"
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5879,7 +6224,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます"
+    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5896,7 +6242,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います"
+    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5913,7 +6260,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ"
+    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5930,7 +6278,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います"
+    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5947,7 +6296,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります"
+    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5964,7 +6314,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます"
+    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5981,7 +6332,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います"
+    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -5998,7 +6350,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ"
+    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6015,7 +6368,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います"
+    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6032,7 +6386,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります"
+    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6049,7 +6404,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます"
+    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6066,7 +6422,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います"
+    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6083,7 +6440,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ"
+    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6100,7 +6458,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います"
+    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6117,7 +6476,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります"
+    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6134,7 +6494,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます"
+    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6151,7 +6512,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います"
+    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6168,7 +6530,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ"
+    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6185,7 +6548,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います"
+    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6202,7 +6566,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります"
+    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6219,7 +6584,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます"
+    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6236,7 +6602,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います"
+    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6253,7 +6620,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ"
+    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6270,7 +6638,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います"
+    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6287,7 +6656,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります"
+    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6304,7 +6674,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます"
+    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6321,7 +6692,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います"
+    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6338,7 +6710,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ"
+    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6355,7 +6728,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います"
+    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6372,7 +6746,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります"
+    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6389,7 +6764,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます"
+    "note": "各ショットのフォーム固め、ラリーが出来る様になるまで練習します。お友達同士でラリーが出来る様になったら初中級へ 少しづつゲームを取り入れます",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6406,7 +6782,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います"
+    "note": "ラリーを中心にゲーム形式練習を行います。お友達同士でゲームが出来る様になったら中級へ ルールの習得も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6423,7 +6800,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ"
+    "note": "基本6ショットをゲームの中で使えるように練習します。基本6ショットを使いこなしてウイナーがある程度取れれば中上級へ",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6440,7 +6818,8 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います"
+    "note": "ショットのスピード、コントロールのレベルアップを行います。テクニックの練習も行います",
+    "instructor_id": null
   },
   {
     "gym_id": "erg_kagoshima",
@@ -6457,6 +6836,7 @@
     "studio": "テニススクール",
     "reservation_required": false,
     "genre": "一般クラス",
-    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります"
+    "note": "高度なテクニックとスピード・コントロールが要求されます。トーナメントに積極的に参加されている方が対象となります",
+    "instructor_id": null
   }
 ]

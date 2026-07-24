@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "昼"
+    "note": "昼",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "夜"
+    "note": "夜",
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nara_ymca",
@@ -456,6 +482,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

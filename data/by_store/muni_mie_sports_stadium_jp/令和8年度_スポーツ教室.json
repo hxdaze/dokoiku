@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可"
+    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可"
+    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可"
+    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可"
+    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可"
+    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可"
+    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可"
+    "note": "インターネット及び右のQRコードからでもお申し込みいただけます。※電話でのお申し込みは不可",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -133,7 +140,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17955"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -150,7 +158,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i17956"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -167,7 +176,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17957"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -184,7 +194,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17958"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -201,7 +212,8 @@
     "studio": "陸上競技場",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "前回教室は一時休講させて頂きます / タイ式ヨガ"
+    "note": "前回教室は一時休講させて頂きます / タイ式ヨガ",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -218,7 +230,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "初心者・初級"
+    "note": "初心者・初級",
+    "instructor_id": "i7228"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -235,7 +248,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "初心者・初級"
+    "note": "初心者・初級",
+    "instructor_id": "i17959"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -252,7 +266,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17960"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -269,7 +284,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17961"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -286,7 +302,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17962"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -303,7 +320,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "カウラナ・トヨ"
+    "note": "カウラナ・トヨ",
+    "instructor_id": "i17963"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -320,7 +338,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17964"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -337,7 +356,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17965"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -354,7 +374,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17966"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -371,7 +392,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17967"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -388,7 +410,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17958"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -405,7 +428,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17968"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -422,7 +446,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17968"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -439,7 +464,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17962"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -456,7 +482,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17969"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -473,7 +500,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17970"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -490,7 +518,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17955"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -507,7 +536,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17970"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -524,7 +554,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "初級・中級"
+    "note": "初級・中級",
+    "instructor_id": "i17956"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -541,7 +572,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "初心者・初級"
+    "note": "初心者・初級",
+    "instructor_id": "i17959"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -558,7 +590,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i1402"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -575,7 +608,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17959"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -592,7 +626,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "初心者・初級"
+    "note": "初心者・初級",
+    "instructor_id": "i17971"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -609,7 +644,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17972"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -626,7 +662,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17965"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -643,7 +680,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17973"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -660,7 +698,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "ズンバ"
+    "note": "ズンバ",
+    "instructor_id": "i17974"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -677,7 +716,8 @@
     "studio": "陸上競技場",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17958"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -694,7 +734,8 @@
     "studio": "体育館",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "初級・部の部"
+    "note": "初級・部の部",
+    "instructor_id": "i17975"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -711,7 +752,8 @@
     "studio": "体育館",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "初級・夜の部"
+    "note": "初級・夜の部",
+    "instructor_id": "i17975"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -728,7 +770,8 @@
     "studio": "体育館",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "みんなでピックルデビューしませんか！（貸ラケットあります）\n初心者には優しく丁寧に、再受講者には前回より更に各人に適した内容で進めます（貸ラケットあります）"
+    "note": "みんなでピックルデビューしませんか！（貸ラケットあります）\n初心者には優しく丁寧に、再受講者には前回より更に各人に適した内容で進めます（貸ラケットあります）",
+    "instructor_id": "i17976"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -745,7 +788,8 @@
     "studio": "体育館",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17977"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -762,7 +806,8 @@
     "studio": "体育館",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "初級・部の部"
+    "note": "初級・部の部",
+    "instructor_id": "i17975"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -779,7 +824,8 @@
     "studio": "体育館",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "初級・夜の部"
+    "note": "初級・夜の部",
+    "instructor_id": "i17975"
   },
   {
     "gym_id": "muni_mie_sports_stadium_jp",
@@ -796,6 +842,7 @@
     "studio": "体育館",
     "reservation_required": true,
     "genre": "スポーツ",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i17975"
   }
 ]

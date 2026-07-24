@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i14380"
   },
   {
     "gym_id": "konami",
@@ -31,7 +32,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i14381"
   },
   {
     "gym_id": "konami",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i14382"
   },
   {
     "gym_id": "konami",
@@ -65,7 +68,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "エンジョイ"
+    "note": "エンジョイ",
+    "instructor_id": "i13288"
   },
   {
     "gym_id": "konami",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i14383"
   },
   {
     "gym_id": "konami",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i14383"
   },
   {
     "gym_id": "konami",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i14380"
   },
   {
     "gym_id": "konami",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "エンジョイ"
+    "note": "エンジョイ",
+    "instructor_id": "i14384"
   },
   {
     "gym_id": "konami",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "心"
+    "note": "心",
+    "instructor_id": "i318"
   },
   {
     "gym_id": "konami",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i14385"
   },
   {
     "gym_id": "konami",
@@ -184,7 +194,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i14381"
   },
   {
     "gym_id": "konami",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i14386"
   },
   {
     "gym_id": "konami",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "体"
+    "note": "体",
+    "instructor_id": "i14387"
   },
   {
     "gym_id": "konami",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i14387"
   },
   {
     "gym_id": "konami",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i14381"
   },
   {
     "gym_id": "konami",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "エンジョイ"
+    "note": "エンジョイ",
+    "instructor_id": "i14381"
   },
   {
     "gym_id": "konami",
@@ -286,6 +302,7 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i14382"
   }
 ]

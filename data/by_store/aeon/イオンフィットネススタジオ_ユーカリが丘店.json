@@ -14,7 +14,8 @@
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "1週間の始まりをヨガで気持ちよくスタートしましょう。呼吸に合わせて無理なく自分のペースで身体を動かしていくクラスです。"
+    "note": "1週間の始まりをヨガで気持ちよくスタートしましょう。呼吸に合わせて無理なく自分のペースで身体を動かしていくクラスです。",
+    "instructor_id": "i395"
   },
   {
     "gym_id": "aeon",
@@ -31,7 +32,8 @@
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "日常生活で生まれた骨盤・体の歪みを、ストレッチやエクササイズで、ゆっくりと矯正していくクラスです。"
+    "note": "日常生活で生まれた骨盤・体の歪みを、ストレッチやエクササイズで、ゆっくりと矯正していくクラスです。",
+    "instructor_id": "i395"
   },
   {
     "gym_id": "aeon",
@@ -48,7 +50,8 @@
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "体幹(コア)を中心に全身の筋肉をバランスよく鍛え、姿勢や柔軟性、バランス感覚を向上させるエクササイズです。"
+    "note": "体幹(コア)を中心に全身の筋肉をバランスよく鍛え、姿勢や柔軟性、バランス感覚を向上させるエクササイズです。",
+    "instructor_id": "i107"
   },
   {
     "gym_id": "aeon",
@@ -65,7 +68,8 @@
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "ヨガの基本的なポーズを穏やかな呼吸とともに、心身を整えていくクラスです。ヨガが初めての方でも安心してご参加いただけます。"
+    "note": "ヨガの基本的なポーズを穏やかな呼吸とともに、心身を整えていくクラスです。ヨガが初めての方でも安心してご参加いただけます。",
+    "instructor_id": "i396"
   },
   {
     "gym_id": "aeon",
@@ -82,7 +86,8 @@
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
     "genre": "エクササイズ",
-    "note": "ストレッチや体幹トレーニングを通じて、自分の体と向き合い、全身を鍛えていくクラスです。少しづつ昨日の自分よりパワーアップしていきましょう。"
+    "note": "ストレッチや体幹トレーニングを通じて、自分の体と向き合い、全身を鍛えていくクラスです。少しづつ昨日の自分よりパワーアップしていきましょう。",
+    "instructor_id": "i397"
   },
   {
     "gym_id": "aeon",
@@ -99,7 +104,8 @@
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "ハワイの伝統舞踊HULA!優しく明るい音楽に合わせて、ステップとモーションで歌詞を表現してゆきます。深い呼吸と共に全身が動く有酸素運動で、心も身体もスッキリ！"
+    "note": "ハワイの伝統舞踊HULA!優しく明るい音楽に合わせて、ステップとモーションで歌詞を表現してゆきます。深い呼吸と共に全身が動く有酸素運動で、心も身体もスッキリ！",
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -116,7 +122,8 @@
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "繰り返す動きやヨガのポーズで筋肉に刺激を入れながら、呼吸に合わせて全身を心地よく動かすことで心と体をリセット♡柔軟性UP,身体の歪み解消にも効果的です。"
+    "note": "繰り返す動きやヨガのポーズで筋肉に刺激を入れながら、呼吸に合わせて全身を心地よく動かすことで心と体をリセット♡柔軟性UP,身体の歪み解消にも効果的です。",
+    "instructor_id": "i396"
   },
   {
     "gym_id": "aeon",
@@ -133,7 +140,8 @@
     "studio": "イオンフィットネススタジオ ユーカリが丘店お知らせバナー1",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -150,7 +158,8 @@
     "studio": "新体操スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "身体の緊張をとり、心身をほぐしていくことを一番の目的としています。体幹を意識しながら心と身体のバランスを整えていくクラスです。"
+    "note": "身体の緊張をとり、心身をほぐしていくことを一番の目的としています。体幹を意識しながら心と身体のバランスを整えていくクラスです。",
+    "instructor_id": "i398"
   },
   {
     "gym_id": "aeon",
@@ -167,7 +176,8 @@
     "studio": "新体操スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "柔軟性＆筋力アップ・ボディバランスを整えるレッスン。インナーマッスルを鍛え、食べても太りにくい身体, 痩せ体質GET！"
+    "note": "柔軟性＆筋力アップ・ボディバランスを整えるレッスン。インナーマッスルを鍛え、食べても太りにくい身体, 痩せ体質GET！",
+    "instructor_id": "i399"
   },
   {
     "gym_id": "aeon",
@@ -184,7 +194,8 @@
     "studio": "新体操スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "身体を充分ほぐし、くせ・ねじれ・歪みを正してからヨガアサナ(形)に入っていきます。肩こり腰痛等が軽減されます"
+    "note": "身体を充分ほぐし、くせ・ねじれ・歪みを正してからヨガアサナ(形)に入っていきます。肩こり腰痛等が軽減されます",
+    "instructor_id": "i400"
   },
   {
     "gym_id": "aeon",
@@ -201,7 +212,8 @@
     "studio": "新体操スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "バレエの要素を取り入れながら、ストレッチや美しい姿勢を保つためのトレーニングを行います。無理のないペースで、ゆっくりと身体の変化を感じましょう。"
+    "note": "バレエの要素を取り入れながら、ストレッチや美しい姿勢を保つためのトレーニングを行います。無理のないペースで、ゆっくりと身体の変化を感じましょう。",
+    "instructor_id": "i397"
   },
   {
     "gym_id": "aeon",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "ゆったりとした動きと呼吸で血液の流れを良くします。また、腰を中心とした円運動のため運動量は大きいですが、年齢に関係なくでもできる運動です。"
+    "note": "ゆったりとした動きと呼吸で血液の流れを良くします。また、腰を中心とした円運動のため運動量は大きいですが、年齢に関係なくでもできる運動です。",
+    "instructor_id": "i401"
   },
   {
     "gym_id": "aeon",
@@ -235,7 +248,8 @@
     "studio": "新体操スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -252,7 +266,8 @@
     "studio": "新体操スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -507,6 +536,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "5週目は通常お休みですが、7月31日は特別体験会としてレッスンを行います。ぜひお友達をお誘いの上ご参加ください(会員外の方は事前予約制)"
+    "note": "5週目は通常お休みですが、7月31日は特別体験会としてレッスンを行います。ぜひお友達をお誘いの上ご参加ください(会員外の方は事前予約制)",
+    "instructor_id": null
   }
 ]

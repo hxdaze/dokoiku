@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※土曜日 申込者補足チケット有り (6/20分)"
+    "note": "※土曜日 申込者補足チケット有り (6/20分)",
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※土曜日 申込者補足チケット有り (6/20分)"
+    "note": "※土曜日 申込者補足チケット有り (6/20分)",
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※土曜日 申込者補足チケット有り (6/20分)"
+    "note": "※土曜日 申込者補足チケット有り (6/20分)",
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23386"
   },
   {
     "gym_id": "welport_nadasaki",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -218,7 +230,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -235,7 +248,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -286,7 +302,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -303,7 +320,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -320,7 +338,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -337,7 +356,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -354,7 +374,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "welport_nadasaki",
@@ -966,6 +1022,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

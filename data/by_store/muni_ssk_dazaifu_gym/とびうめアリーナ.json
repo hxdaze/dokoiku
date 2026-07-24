@@ -14,7 +14,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "コイン制レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -31,7 +32,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "コイン制レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -48,7 +50,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -65,7 +68,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -82,7 +86,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -99,7 +104,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "コイン制レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -116,7 +122,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "コイン制レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -133,7 +140,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -150,7 +158,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -167,7 +176,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -184,7 +194,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "コイン制レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -201,7 +212,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "コイン制レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -218,7 +230,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "コイン制レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -235,7 +248,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -252,7 +266,8 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ssk_dazaifu_gym",
@@ -269,6 +284,7 @@
     "studio": "教室開催日程",
     "reservation_required": false,
     "genre": "月謝制（成人）",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

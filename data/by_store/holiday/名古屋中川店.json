@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "三浦"
+    "note": "三浦",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TARGET ABS",
-    "note": "田原ま"
+    "note": "田原ま",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": "田原ま"
+    "note": "田原ま",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "EJ light",
-    "note": "田原で"
+    "note": "田原で",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "CMF",
-    "note": "田原で"
+    "note": "田原で",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TARGET ABS",
-    "note": "ウェストにメリハリ!"
+    "note": "ウェストにメリハリ!",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "FLORIC",
-    "note": "小椋"
+    "note": "小椋",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "田原で"
+    "note": "田原で",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "フィタボディ",
-    "note": "田原ま"
+    "note": "田原ま",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": "鬼頭"
+    "note": "鬼頭",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "袴田"
+    "note": "袴田",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "PILATES",
-    "note": "田中"
+    "note": "田中",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "村上"
+    "note": "村上",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": "日向"
+    "note": "日向",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "EJ light",
-    "note": "池田"
+    "note": "池田",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": "日向"
+    "note": "日向",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "PILATES",
-    "note": "村上"
+    "note": "村上",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Z180 ZONE",
-    "note": "三浦"
+    "note": "三浦",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "LAZER Bee",
-    "note": "6つの感覚を磨け。"
+    "note": "6つの感覚を磨け。",
+    "instructor_id": null
   },
   {
     "gym_id": "holiday",
@@ -337,7 +356,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9897"
   },
   {
     "gym_id": "holiday",
@@ -354,7 +374,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i3099"
   },
   {
     "gym_id": "holiday",
@@ -371,7 +392,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10339"
   },
   {
     "gym_id": "holiday",
@@ -388,7 +410,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10340"
   },
   {
     "gym_id": "holiday",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10339"
   },
   {
     "gym_id": "holiday",
@@ -422,7 +446,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i3099"
   },
   {
     "gym_id": "holiday",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10341"
   },
   {
     "gym_id": "holiday",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9896"
   },
   {
     "gym_id": "holiday",
@@ -473,7 +500,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i9896"
   },
   {
     "gym_id": "holiday",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i1349"
   },
   {
     "gym_id": "holiday",
@@ -507,7 +536,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10342"
   },
   {
     "gym_id": "holiday",
@@ -524,7 +554,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10343"
   },
   {
     "gym_id": "holiday",
@@ -541,7 +572,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i494"
   },
   {
     "gym_id": "holiday",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10343"
   },
   {
     "gym_id": "holiday",
@@ -575,7 +608,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10339"
   },
   {
     "gym_id": "holiday",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10344"
   },
   {
     "gym_id": "holiday",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9896"
   },
   {
     "gym_id": "holiday",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10344"
   },
   {
     "gym_id": "holiday",
@@ -643,7 +680,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10345"
   },
   {
     "gym_id": "holiday",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i494"
   },
   {
     "gym_id": "holiday",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9897"
   },
   {
     "gym_id": "holiday",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(30)"
+    "note": "(30)",
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9897"
   },
   {
     "gym_id": "holiday",
@@ -728,7 +770,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9896"
   },
   {
     "gym_id": "holiday",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -762,7 +806,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i140"
   },
   {
     "gym_id": "holiday",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10346"
   },
   {
     "gym_id": "holiday",
@@ -796,7 +842,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i10347"
   },
   {
     "gym_id": "holiday",
@@ -813,7 +860,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9896"
   },
   {
     "gym_id": "holiday",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9966"
   },
   {
     "gym_id": "holiday",
@@ -881,7 +932,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "(45)"
+    "note": "(45)",
+    "instructor_id": "i9966"
   },
   {
     "gym_id": "holiday",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i10343"
   },
   {
     "gym_id": "holiday",
@@ -915,7 +968,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "AQUA BOXING",
-    "note": null
+    "note": null,
+    "instructor_id": "i9966"
   },
   {
     "gym_id": "holiday",
@@ -932,7 +986,8 @@
     "studio": "ラファ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10347"
   },
   {
     "gym_id": "holiday",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "YellOW",
-    "note": null
+    "note": null,
+    "instructor_id": "i10343"
   },
   {
     "gym_id": "holiday",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10347"
   },
   {
     "gym_id": "holiday",
@@ -983,7 +1040,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ベーシック",
-    "note": null
+    "note": null,
+    "instructor_id": "i494"
   },
   {
     "gym_id": "holiday",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Z-180",
-    "note": null
+    "note": null,
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "HIP",
-    "note": null
+    "note": null,
+    "instructor_id": "i10348"
   },
   {
     "gym_id": "holiday",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i500"
   },
   {
     "gym_id": "holiday",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ベーシック",
-    "note": null
+    "note": null,
+    "instructor_id": "i10346"
   },
   {
     "gym_id": "holiday",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i9966"
   },
   {
     "gym_id": "holiday",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ABS",
-    "note": null
+    "note": null,
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Z-180",
-    "note": null
+    "note": null,
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "EJ Light",
-    "note": null
+    "note": null,
+    "instructor_id": "i10346"
   },
   {
     "gym_id": "holiday",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "BLUE",
-    "note": null
+    "note": null,
+    "instructor_id": "i598"
   },
   {
     "gym_id": "holiday",
@@ -1170,6 +1238,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i598"
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -31,7 +32,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": "ダンス"
+    "note": "ダンス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -48,7 +50,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17224"
   },
   {
     "gym_id": "megalos",
@@ -65,7 +68,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17224"
   },
   {
     "gym_id": "megalos",
@@ -82,7 +86,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i2360"
   },
   {
     "gym_id": "megalos",
@@ -99,7 +104,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -116,7 +122,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2616"
   },
   {
     "gym_id": "megalos",
@@ -133,7 +140,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ホットヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17225"
   },
   {
     "gym_id": "megalos",
@@ -150,7 +158,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -167,7 +176,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -184,7 +194,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": "i17226"
   },
   {
     "gym_id": "megalos",
@@ -201,7 +212,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -218,7 +230,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i940"
   },
   {
     "gym_id": "megalos",
@@ -235,7 +248,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "トランポリン",
-    "note": null
+    "note": null,
+    "instructor_id": "i2311"
   },
   {
     "gym_id": "megalos",
@@ -252,7 +266,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "VOLTB0X",
-    "note": null
+    "note": null,
+    "instructor_id": "i17227"
   },
   {
     "gym_id": "megalos",
@@ -269,7 +284,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -286,7 +302,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -303,7 +320,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -320,7 +338,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "megalos",
@@ -337,7 +356,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ホットヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17228"
   },
   {
     "gym_id": "megalos",
@@ -354,7 +374,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2311"
   },
   {
     "gym_id": "megalos",
@@ -371,7 +392,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": null
+    "note": null,
+    "instructor_id": "i2644"
   },
   {
     "gym_id": "megalos",
@@ -388,7 +410,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": "i2644"
   },
   {
     "gym_id": "megalos",
@@ -405,7 +428,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ホットヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17229"
   },
   {
     "gym_id": "megalos",
@@ -422,7 +446,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": "i8659"
   },
   {
     "gym_id": "megalos",
@@ -439,7 +464,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -456,7 +482,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -473,7 +500,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -490,7 +518,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Gaze",
-    "note": null
+    "note": null,
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "megalos",
@@ -507,7 +536,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "megalos",
@@ -524,7 +554,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": "i2644"
   },
   {
     "gym_id": "megalos",
@@ -541,7 +572,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ホットヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7893"
   },
   {
     "gym_id": "megalos",
@@ -558,7 +590,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ホットヨーガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7893"
   },
   {
     "gym_id": "megalos",
@@ -575,7 +608,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "VOLTB0X",
-    "note": null
+    "note": null,
+    "instructor_id": "i17230"
   },
   {
     "gym_id": "megalos",
@@ -592,7 +626,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17231"
   },
   {
     "gym_id": "megalos",
@@ -609,7 +644,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -626,7 +662,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -643,7 +680,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -660,7 +698,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": "格闘技系"
+    "note": "格闘技系",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -677,7 +716,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "BODYJAM",
-    "note": null
+    "note": null,
+    "instructor_id": "i17232"
   },
   {
     "gym_id": "megalos",
@@ -694,7 +734,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -711,7 +752,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -728,7 +770,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "マンジピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17231"
   },
   {
     "gym_id": "megalos",
@@ -745,7 +788,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "FREE TIME",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -762,7 +806,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -779,7 +824,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": "格闘技系"
+    "note": "格闘技系",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -796,7 +842,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ/ピラティス部位別コンディショニング(定員20名)",
-    "note": "女性専用 / 動かせ両脚"
+    "note": "女性専用 / 動かせ両脚",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -813,7 +860,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ダンスレッスン(定員20名)",
-    "note": "[ダンス]"
+    "note": "[ダンス]",
+    "instructor_id": "i17199"
   },
   {
     "gym_id": "megalos",
@@ -830,7 +878,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": "[格闘技系]"
+    "note": "[格闘技系]",
+    "instructor_id": "i17233"
   },
   {
     "gym_id": "megalos",
@@ -847,7 +896,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[格闘技系]"
+    "note": "[格闘技系]",
+    "instructor_id": "i17234"
   },
   {
     "gym_id": "megalos",
@@ -864,7 +914,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i17226"
   },
   {
     "gym_id": "megalos",
@@ -881,7 +932,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ/ピラティス部位別コンディショニング(定員20名)",
-    "note": "[HOT]"
+    "note": "[HOT]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -898,7 +950,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[トランポリン]"
+    "note": "[トランポリン]",
+    "instructor_id": "i8659"
   },
   {
     "gym_id": "megalos",
@@ -915,7 +968,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[暗闇ポケシング]"
+    "note": "[暗闇ポケシング]",
+    "instructor_id": "i17228"
   },
   {
     "gym_id": "megalos",
@@ -932,7 +986,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ/ピラティス部位別コンディショニング(定員20名)",
-    "note": "[HOT]"
+    "note": "[HOT]",
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -949,7 +1004,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[暗闇ポケシング]"
+    "note": "[暗闇ポケシング]",
+    "instructor_id": "i17227"
   },
   {
     "gym_id": "megalos",
@@ -966,7 +1022,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ/ピラティス部位別コンディショニング(定員20名)",
-    "note": "[常温]"
+    "note": "[常温]",
+    "instructor_id": "i17228"
   },
   {
     "gym_id": "megalos",
@@ -983,7 +1040,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[マシンピラティス]"
+    "note": "[マシンピラティス]",
+    "instructor_id": "i2579"
   },
   {
     "gym_id": "megalos",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": "[マシンピラティス]"
+    "note": "[マシンピラティス]",
+    "instructor_id": "i2616"
   },
   {
     "gym_id": "megalos",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": "[有料レッスン]"
+    "note": "[有料レッスン]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[ダンス]"
+    "note": "[ダンス]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[ダンス]"
+    "note": "[ダンス]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ/ピラティス部位別コンディショニング(定員20名)",
-    "note": "[HOT]"
+    "note": "[HOT]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[トランポリン]"
+    "note": "[トランポリン]",
+    "instructor_id": "i8659"
   },
   {
     "gym_id": "megalos",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ダンスレッスン(定員20名)",
-    "note": "[HOT]"
+    "note": "[HOT]",
+    "instructor_id": "i8659"
   },
   {
     "gym_id": "megalos",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "[マシンピラティス]"
+    "note": "[マシンピラティス]",
+    "instructor_id": "i17235"
   },
   {
     "gym_id": "megalos",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ダンスレッスン(定員20名)",
-    "note": "[格闘技系]"
+    "note": "[格闘技系]",
+    "instructor_id": "i17235"
   },
   {
     "gym_id": "megalos",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": "[有料レッスン]"
+    "note": "[有料レッスン]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": "格闘技系"
+    "note": "格闘技系",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": "i17225"
   },
   {
     "gym_id": "megalos",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Mandipilates",
-    "note": null
+    "note": null,
+    "instructor_id": "i940"
   },
   {
     "gym_id": "megalos",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": "i2311"
   },
   {
     "gym_id": "megalos",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Mandipilates",
-    "note": null
+    "note": null,
+    "instructor_id": "i2311"
   },
   {
     "gym_id": "megalos",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Blast",
-    "note": "競技合算時間"
+    "note": "競技合算時間",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Mandipilates",
-    "note": null
+    "note": null,
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "megalos",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Mandipilates",
-    "note": null
+    "note": null,
+    "instructor_id": "i2327"
   },
   {
     "gym_id": "megalos",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": null
+    "note": null,
+    "instructor_id": "i17236"
   },
   {
     "gym_id": "megalos",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1357,7 +1436,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": "格闘技系"
+    "note": "格闘技系",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": "格闘技系"
+    "note": "格闘技系",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "HOT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1595,7 +1688,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1612,7 +1706,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": "格闘技系"
+    "note": "格闘技系",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1629,7 +1724,8 @@
     "studio": "スタジオA 女性専用",
     "reservation_required": false,
     "genre": "Group Power",
-    "note": "ウエイトトレーニング"
+    "note": "ウエイトトレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1646,7 +1742,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1663,7 +1760,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Centery",
-    "note": "ヨーガ・ピラティス"
+    "note": "ヨーガ・ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1680,7 +1778,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": "格闘技系"
+    "note": "格闘技系",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1697,7 +1796,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ/ピラティス部位別コンディショニング(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i17228"
   },
   {
     "gym_id": "megalos",
@@ -1714,7 +1814,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i2616"
   },
   {
     "gym_id": "megalos",
@@ -1731,7 +1832,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1748,7 +1850,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": "動かせ再開"
+    "note": "動かせ再開",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1765,7 +1868,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -1782,7 +1886,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ/ピラティス部位別コンディショニング(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -1799,7 +1904,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i17227"
   },
   {
     "gym_id": "megalos",
@@ -1816,7 +1922,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i2579"
   },
   {
     "gym_id": "megalos",
@@ -1833,7 +1940,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i17235"
   },
   {
     "gym_id": "megalos",
@@ -1850,7 +1958,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -1867,7 +1976,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i2579"
   },
   {
     "gym_id": "megalos",
@@ -1884,7 +1994,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i17235"
   },
   {
     "gym_id": "megalos",
@@ -1901,7 +2012,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i17235"
   },
   {
     "gym_id": "megalos",
@@ -1918,7 +2030,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "マシンピラティス(定員9名)",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1935,7 +2048,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i10802"
   },
   {
     "gym_id": "megalos",
@@ -1952,7 +2066,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i17235"
   },
   {
     "gym_id": "megalos",
@@ -1969,7 +2084,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i17235"
   },
   {
     "gym_id": "megalos",
@@ -1986,6 +2102,7 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "アクティブ系レッスン(定員20名)",
-    "note": null
+    "note": null,
+    "instructor_id": "i8659"
   }
 ]

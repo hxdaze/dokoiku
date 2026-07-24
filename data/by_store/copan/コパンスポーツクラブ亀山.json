@@ -14,7 +14,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6137"
   },
   {
     "gym_id": "copan",
@@ -31,7 +32,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6138"
   },
   {
     "gym_id": "copan",
@@ -48,7 +50,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -65,7 +68,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6138"
   },
   {
     "gym_id": "copan",
@@ -82,7 +86,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6139"
   },
   {
     "gym_id": "copan",
@@ -99,7 +104,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6140"
   },
   {
     "gym_id": "copan",
@@ -116,7 +122,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽にのって動こう"
+    "note": "音楽にのって動こう",
+    "instructor_id": "i6137"
   },
   {
     "gym_id": "copan",
@@ -133,7 +140,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6138"
   },
   {
     "gym_id": "copan",
@@ -150,7 +158,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "copan",
@@ -167,7 +176,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6138"
   },
   {
     "gym_id": "copan",
@@ -184,7 +194,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6139"
   },
   {
     "gym_id": "copan",
@@ -201,7 +212,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6139"
   },
   {
     "gym_id": "copan",
@@ -218,7 +230,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6141"
   },
   {
     "gym_id": "copan",
@@ -235,7 +248,8 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6139"
   },
   {
     "gym_id": "copan",
@@ -252,6 +266,7 @@
     "studio": "2Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i6142"
   }
 ]

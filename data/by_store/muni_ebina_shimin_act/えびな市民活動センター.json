@@ -14,7 +14,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -31,7 +32,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -48,7 +50,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "コース型教室 / ボール使用"
+    "note": "コース型教室 / ボール使用",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -65,7 +68,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i1039"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -82,7 +86,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17842"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -99,7 +104,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "（年中クラス）"
+    "note": "（年中クラス）",
+    "instructor_id": "i1039"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -116,7 +122,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "小学1年～3年生"
+    "note": "小学1年～3年生",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "小学2年～6年生"
+    "note": "小学2年～6年生",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -150,7 +158,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -167,7 +176,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -184,7 +194,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17844"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -201,7 +212,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17844"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -218,7 +230,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "(腸活腹筋トレーニング)"
+    "note": "(腸活腹筋トレーニング)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -235,7 +248,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17845"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -252,7 +266,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17399"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -269,7 +284,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i8542"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -286,7 +302,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "（年中クラス）"
+    "note": "（年中クラス）",
+    "instructor_id": "i1039"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -303,7 +320,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "(小学1年～6年生)"
+    "note": "(小学1年～6年生)",
+    "instructor_id": "i17846"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -320,7 +338,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -337,7 +356,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -354,7 +374,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "1回360円"
+    "note": "1回360円",
+    "instructor_id": "i1039"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -371,7 +392,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "1回360円"
+    "note": "1回360円",
+    "instructor_id": "i1039"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -388,7 +410,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17842"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -405,7 +428,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "（初心者）"
+    "note": "（初心者）",
+    "instructor_id": "i3689"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -422,7 +446,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17847"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -439,7 +464,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "(小学1年～3年生) / 小学～年長"
+    "note": "(小学1年～3年生) / 小学～年長",
+    "instructor_id": "i17847"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -456,7 +482,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "(小学1年～3年生) / 小学2年～6年生"
+    "note": "(小学1年～3年生) / 小学2年～6年生",
+    "instructor_id": "i17847"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -473,7 +500,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": "初中級"
+    "note": "初中級",
+    "instructor_id": "i17848"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -490,7 +518,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17848"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -507,7 +536,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -524,7 +554,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -541,7 +572,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i3689"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -558,7 +590,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i3689"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -575,7 +608,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i3689"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -592,7 +626,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17399"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -609,7 +644,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i3322"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -626,7 +662,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i4611"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -643,7 +680,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -660,7 +698,8 @@
     "studio": "ルーム",
     "reservation_required": true,
     "genre": "レクリエーション",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -677,7 +716,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17849"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -694,7 +734,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17849"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -711,7 +752,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17845"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -728,7 +770,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i3322"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -745,7 +788,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17850"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -762,7 +806,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17843"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -779,7 +824,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "プール",
-    "note": "基礎"
+    "note": "基礎",
+    "instructor_id": "i3689"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -796,7 +842,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": false,
     "genre": "プール",
-    "note": "予約制(有料)"
+    "note": "予約制(有料)",
+    "instructor_id": "i3689"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -813,7 +860,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": "1回360円"
+    "note": "1回360円",
+    "instructor_id": "i1039"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -830,7 +878,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i17851"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -847,7 +896,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "プール",
-    "note": "年長クラス"
+    "note": "年長クラス",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -864,7 +914,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "プール",
-    "note": "小学1年～3年生"
+    "note": "小学1年～3年生",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -881,7 +932,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "プール",
-    "note": "小学2年～6年生"
+    "note": "小学2年～6年生",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -898,7 +950,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": "※フェイスタオル持参"
+    "note": "※フェイスタオル持参",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -915,7 +968,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i2992"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -932,7 +986,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i4585"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -949,7 +1004,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i4585"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -966,7 +1022,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i3597"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -983,7 +1040,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i3597"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -1000,7 +1058,8 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": "i1039"
   },
   {
     "gym_id": "muni_ebina_shimin_act",
@@ -1017,6 +1076,7 @@
     "studio": "2026年6月以降のプログラム",
     "reservation_required": true,
     "genre": "レクリエーションルーム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

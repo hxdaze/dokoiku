@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "骨盤体操",
-    "note": "10:15~10:45 尾形"
+    "note": "10:15~10:45 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "11:15~11:45 村上"
+    "note": "11:15~11:45 村上",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "11:30~12:00 作間"
+    "note": "11:30~12:00 作間",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボルダリング",
-    "note": "12:00~12:45 三瓶"
+    "note": "12:00~12:45 三瓶",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@12:30~13:00 池田"
+    "note": "@12:30~13:00 池田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@13:00~13:45 佐藤"
+    "note": "@13:00~13:45 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@13:30~14:00 佐藤"
+    "note": "@13:30~14:00 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@14:15~14:45 佐藤"
+    "note": "@14:15~14:45 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:20~19:05 遠田"
+    "note": "@18:20~19:05 遠田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@19:45~20:30 大内"
+    "note": "@19:45~20:30 大内",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "@10:30~11:00 佐藤"
+    "note": "@10:30~11:00 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@11:00~11:45 松田"
+    "note": "@11:00~11:45 松田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@11:30~12:00 佐藤"
+    "note": "@11:30~12:00 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:45~19:30 松崎"
+    "note": "@18:45~19:30 松崎",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@10:15~10:45 動地"
+    "note": "@10:15~10:45 動地",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@13:30~14:00 村上"
+    "note": "@13:30~14:00 村上",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:20~19:05 村上"
+    "note": "@18:20~19:05 村上",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@19:30~20:15 遠田"
+    "note": "@19:30~20:15 遠田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@19:45~20:30 舞蔵"
+    "note": "@19:45~20:30 舞蔵",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@10:15~10:45 松田"
+    "note": "@10:15~10:45 松田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@11:00~11:30 佐藤"
+    "note": "@11:00~11:30 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@12:45~13:15 三瓶"
+    "note": "@12:45~13:15 三瓶",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:00~18:45 松崎"
+    "note": "@18:00~18:45 松崎",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@10:30~11:00 HARUMI"
+    "note": "@10:30~11:00 HARUMI",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@12:45~13:15 尾形"
+    "note": "@12:45~13:15 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "@13:00~13:30 佐久間"
+    "note": "@13:00~13:30 佐久間",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@14:45~15:00 佐久間"
+    "note": "@14:45~15:00 佐久間",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:20~19:05 村上"
+    "note": "@18:20~19:05 村上",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@10:30~11:00 松田"
+    "note": "@10:30~11:00 松田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "@11:00~11:45 滝谷"
+    "note": "@11:00~11:45 滝谷",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@13:30~14:00 福田"
+    "note": "@13:30~14:00 福田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@15:00~15:30 佐久間"
+    "note": "@15:00~15:30 佐久間",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:20~19:05 村上"
+    "note": "@18:20~19:05 村上",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "@10:45~11:15 作間"
+    "note": "@10:45~11:15 作間",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@13:30~14:00 尾形"
+    "note": "@13:30~14:00 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@16:00~16:30 村上"
+    "note": "@16:00~16:30 村上",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@20:45~21:30 尾形"
+    "note": "@20:45~21:30 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "@21:00~21:30 作間"
+    "note": "@21:00~21:30 作間",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@21:30~22:00 佐藤"
+    "note": "@21:30~22:00 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@21:45~22:15 尾形"
+    "note": "@21:45~22:15 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "@10:30~11:00 佐藤"
+    "note": "@10:30~11:00 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@12:45~13:15 松田"
+    "note": "@12:45~13:15 松田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:00~18:45 松崎"
+    "note": "@18:00~18:45 松崎",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@20:30~21:00 尾形"
+    "note": "@20:30~21:00 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@21:00~21:30 佐藤"
+    "note": "@21:00~21:30 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@21:45~22:15 尾形"
+    "note": "@21:45~22:15 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@12:45~13:15 松田"
+    "note": "@12:45~13:15 松田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:00~18:45 松崎"
+    "note": "@18:00~18:45 松崎",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@20:30~21:00 尾形"
+    "note": "@20:30~21:00 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@21:00~21:30 佐藤"
+    "note": "@21:00~21:30 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@21:45~22:15 尾形"
+    "note": "@21:45~22:15 尾形",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "@10:30~11:00 佐藤"
+    "note": "@10:30~11:00 佐藤",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@12:45~13:15 松田"
+    "note": "@12:45~13:15 松田",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@18:00~18:45 松崎"
+    "note": "@18:00~18:45 松崎",
+    "instructor_id": null
   },
   {
     "gym_id": "pureness",
@@ -932,6 +986,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "@20:30~21:00 尾形"
+    "note": "@20:30~21:00 尾形",
+    "instructor_id": null
   }
 ]

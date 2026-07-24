@@ -14,7 +14,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -31,7 +32,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -48,7 +50,8 @@
     "studio": "1名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": "B,st"
+    "note": "B,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -65,7 +68,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -82,7 +86,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -99,7 +104,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -116,7 +122,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -133,7 +140,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -150,7 +158,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -167,7 +176,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -184,7 +194,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": "ST"
+    "note": "ST",
+    "instructor_id": "i2389"
   },
   {
     "gym_id": "ruby_pole",
@@ -201,7 +212,8 @@
     "studio": "6名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21033"
   },
   {
     "gym_id": "ruby_pole",
@@ -218,7 +230,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -235,7 +248,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i2389"
   },
   {
     "gym_id": "ruby_pole",
@@ -252,7 +266,8 @@
     "studio": "(7/31終了) 8名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21033"
   },
   {
     "gym_id": "ruby_pole",
@@ -269,7 +284,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -286,7 +302,8 @@
     "studio": "(7/31終了) 8名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21033"
   },
   {
     "gym_id": "ruby_pole",
@@ -303,7 +320,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -320,7 +338,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21034"
   },
   {
     "gym_id": "ruby_pole",
@@ -337,7 +356,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -354,7 +374,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -371,7 +392,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "裸足OK"
+    "note": "裸足OK",
+    "instructor_id": "i21034"
   },
   {
     "gym_id": "ruby_pole",
@@ -388,7 +410,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -405,7 +428,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21035"
   },
   {
     "gym_id": "ruby_pole",
@@ -422,7 +446,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21036"
   },
   {
     "gym_id": "ruby_pole",
@@ -439,7 +464,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21035"
   },
   {
     "gym_id": "ruby_pole",
@@ -456,7 +482,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "ST"
+    "note": "ST",
+    "instructor_id": "i21037"
   },
   {
     "gym_id": "ruby_pole",
@@ -473,7 +500,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -490,7 +518,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21036"
   },
   {
     "gym_id": "ruby_pole",
@@ -507,7 +536,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21037"
   },
   {
     "gym_id": "ruby_pole",
@@ -524,7 +554,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -541,7 +572,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -558,7 +590,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -575,7 +608,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": null,
-    "note": "C,st深夜"
+    "note": "C,st深夜",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -592,7 +626,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -609,7 +644,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -626,7 +662,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -643,7 +680,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -660,7 +698,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -677,7 +716,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -694,7 +734,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -711,7 +752,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -728,7 +770,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5768"
   },
   {
     "gym_id": "ruby_pole",
@@ -745,7 +788,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5768"
   },
   {
     "gym_id": "ruby_pole",
@@ -762,7 +806,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i2389"
   },
   {
     "gym_id": "ruby_pole",
@@ -779,7 +824,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -796,7 +842,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -813,7 +860,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -830,7 +878,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": "SP"
+    "note": "SP",
+    "instructor_id": "i2389"
   },
   {
     "gym_id": "ruby_pole",
@@ -847,7 +896,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -864,7 +914,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -881,7 +932,8 @@
     "studio": "(7/31終了)  1名",
     "reservation_required": true,
     "genre": null,
-    "note": "A,st"
+    "note": "A,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -898,7 +950,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -915,7 +968,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21038"
   },
   {
     "gym_id": "ruby_pole",
@@ -932,7 +986,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -949,7 +1004,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21039"
   },
   {
     "gym_id": "ruby_pole",
@@ -966,7 +1022,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21039"
   },
   {
     "gym_id": "ruby_pole",
@@ -983,7 +1040,8 @@
     "studio": "(7/31終了) 8名",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21033"
   },
   {
     "gym_id": "ruby_pole",
@@ -1000,7 +1058,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1017,7 +1076,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1034,7 +1094,8 @@
     "studio": "8名　(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21033"
   },
   {
     "gym_id": "ruby_pole",
@@ -1051,7 +1112,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21039"
   },
   {
     "gym_id": "ruby_pole",
@@ -1068,7 +1130,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1085,7 +1148,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1102,7 +1166,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1119,7 +1184,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": null,
-    "note": "C,st深夜"
+    "note": "C,st深夜",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1136,7 +1202,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1153,7 +1220,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1170,7 +1238,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1187,7 +1256,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1204,7 +1274,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1221,7 +1292,8 @@
     "studio": "３名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21040"
   },
   {
     "gym_id": "ruby_pole",
@@ -1238,7 +1310,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21036"
   },
   {
     "gym_id": "ruby_pole",
@@ -1255,7 +1328,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1272,7 +1346,8 @@
     "studio": "6名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": "SP"
+    "note": "SP",
+    "instructor_id": "i21041"
   },
   {
     "gym_id": "ruby_pole",
@@ -1289,7 +1364,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21036"
   },
   {
     "gym_id": "ruby_pole",
@@ -1306,7 +1382,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1323,7 +1400,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21036"
   },
   {
     "gym_id": "ruby_pole",
@@ -1340,7 +1418,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21041"
   },
   {
     "gym_id": "ruby_pole",
@@ -1357,7 +1436,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1374,7 +1454,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5637"
   },
   {
     "gym_id": "ruby_pole",
@@ -1391,7 +1472,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1408,7 +1490,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i5637"
   },
   {
     "gym_id": "ruby_pole",
@@ -1425,7 +1508,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1442,7 +1526,8 @@
     "studio": "6名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21042"
   },
   {
     "gym_id": "ruby_pole",
@@ -1459,7 +1544,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21038"
   },
   {
     "gym_id": "ruby_pole",
@@ -1476,7 +1562,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1493,7 +1580,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21038"
   },
   {
     "gym_id": "ruby_pole",
@@ -1510,7 +1598,8 @@
     "studio": "(7/31終了)6名 LESSON",
     "reservation_required": true,
     "genre": null,
-    "note": "ST"
+    "note": "ST",
+    "instructor_id": "i21042"
   },
   {
     "gym_id": "ruby_pole",
@@ -1527,7 +1616,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1544,7 +1634,8 @@
     "studio": "6名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21042"
   },
   {
     "gym_id": "ruby_pole",
@@ -1561,7 +1652,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1578,7 +1670,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1595,7 +1688,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1612,7 +1706,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1629,7 +1724,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": null,
-    "note": "C,st深夜"
+    "note": "C,st深夜",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1646,7 +1742,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1663,7 +1760,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1680,7 +1778,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1697,7 +1796,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1714,7 +1814,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1731,7 +1832,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1748,7 +1850,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1765,7 +1868,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1782,7 +1886,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5637"
   },
   {
     "gym_id": "ruby_pole",
@@ -1799,7 +1904,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1816,7 +1922,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21043"
   },
   {
     "gym_id": "ruby_pole",
@@ -1833,7 +1940,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1850,7 +1958,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1867,7 +1976,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": "ST"
+    "note": "ST",
+    "instructor_id": "i21041"
   },
   {
     "gym_id": "ruby_pole",
@@ -1884,7 +1994,8 @@
     "studio": "(7/31終了)6名 LESSON",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5637"
   },
   {
     "gym_id": "ruby_pole",
@@ -1901,7 +2012,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1918,7 +2030,8 @@
     "studio": "6名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": "SP"
+    "note": "SP",
+    "instructor_id": "i21041"
   },
   {
     "gym_id": "ruby_pole",
@@ -1935,7 +2048,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1952,7 +2066,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1969,7 +2084,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -1986,7 +2102,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i14532"
   },
   {
     "gym_id": "ruby_pole",
@@ -2003,7 +2120,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2020,7 +2138,8 @@
     "studio": "6名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": "SP"
+    "note": "SP",
+    "instructor_id": "i14532"
   },
   {
     "gym_id": "ruby_pole",
@@ -2037,7 +2156,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2054,7 +2174,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2071,7 +2192,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21039"
   },
   {
     "gym_id": "ruby_pole",
@@ -2088,7 +2210,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2105,7 +2228,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2122,7 +2246,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2139,7 +2264,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21039"
   },
   {
     "gym_id": "ruby_pole",
@@ -2156,7 +2282,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2173,7 +2300,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2190,7 +2318,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2207,7 +2336,8 @@
     "studio": "1名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": "B,st深夜"
+    "note": "B,st深夜",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2224,7 +2354,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2241,7 +2372,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2258,7 +2390,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2275,7 +2408,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2292,7 +2426,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2309,7 +2444,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2326,7 +2462,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2343,7 +2480,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2360,7 +2498,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21044"
   },
   {
     "gym_id": "ruby_pole",
@@ -2377,7 +2516,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21044"
   },
   {
     "gym_id": "ruby_pole",
@@ -2394,7 +2534,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2411,7 +2552,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2428,7 +2570,8 @@
     "studio": "6名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": "SP"
+    "note": "SP",
+    "instructor_id": "i21041"
   },
   {
     "gym_id": "ruby_pole",
@@ -2445,7 +2588,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21034"
   },
   {
     "gym_id": "ruby_pole",
@@ -2462,7 +2606,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2479,7 +2624,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21044"
   },
   {
     "gym_id": "ruby_pole",
@@ -2496,7 +2642,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21041"
   },
   {
     "gym_id": "ruby_pole",
@@ -2513,7 +2660,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2530,7 +2678,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2547,7 +2696,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2564,7 +2714,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2581,7 +2732,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "ST"
+    "note": "ST",
+    "instructor_id": "i21036"
   },
   {
     "gym_id": "ruby_pole",
@@ -2598,7 +2750,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2615,7 +2768,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": "SP"
+    "note": "SP",
+    "instructor_id": "i2402"
   },
   {
     "gym_id": "ruby_pole",
@@ -2632,7 +2786,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21036"
   },
   {
     "gym_id": "ruby_pole",
@@ -2649,7 +2804,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2666,7 +2822,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2683,7 +2840,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2700,7 +2858,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": null,
-    "note": "C,st深夜"
+    "note": "C,st深夜",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2717,7 +2876,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2734,7 +2894,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2751,7 +2912,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2768,7 +2930,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2785,7 +2948,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2802,7 +2966,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2819,7 +2984,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2836,7 +3002,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2853,7 +3020,8 @@
     "studio": "(7/31終了)6名 LESSON",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5768"
   },
   {
     "gym_id": "ruby_pole",
@@ -2870,7 +3038,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i5622"
   },
   {
     "gym_id": "ruby_pole",
@@ -2887,7 +3056,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i5622"
   },
   {
     "gym_id": "ruby_pole",
@@ -2904,7 +3074,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5768"
   },
   {
     "gym_id": "ruby_pole",
@@ -2921,7 +3092,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2938,7 +3110,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2955,7 +3128,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -2972,7 +3146,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21038"
   },
   {
     "gym_id": "ruby_pole",
@@ -2989,7 +3164,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3006,7 +3182,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3023,7 +3200,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3040,7 +3218,8 @@
     "studio": "(7/31終了)6名 LESSON",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21038"
   },
   {
     "gym_id": "ruby_pole",
@@ -3057,7 +3236,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3074,7 +3254,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i5637"
   },
   {
     "gym_id": "ruby_pole",
@@ -3091,7 +3272,8 @@
     "studio": "(7/31終了)6名 LESSON",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21037"
   },
   {
     "gym_id": "ruby_pole",
@@ -3108,7 +3290,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3125,7 +3308,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5637"
   },
   {
     "gym_id": "ruby_pole",
@@ -3142,7 +3326,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21037"
   },
   {
     "gym_id": "ruby_pole",
@@ -3159,7 +3344,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3176,7 +3362,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3193,7 +3380,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3210,7 +3398,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": null,
-    "note": "C,st深夜"
+    "note": "C,st深夜",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3227,7 +3416,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3244,7 +3434,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3261,7 +3452,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3278,7 +3470,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3295,7 +3488,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3312,7 +3506,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3329,7 +3524,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i2389"
   },
   {
     "gym_id": "ruby_pole",
@@ -3346,7 +3542,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i2389"
   },
   {
     "gym_id": "ruby_pole",
@@ -3363,7 +3560,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3380,7 +3578,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3397,7 +3596,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3414,7 +3614,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2389"
   },
   {
     "gym_id": "ruby_pole",
@@ -3431,7 +3632,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i2389"
   },
   {
     "gym_id": "ruby_pole",
@@ -3448,7 +3650,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i21039"
   },
   {
     "gym_id": "ruby_pole",
@@ -3465,7 +3668,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21034"
   },
   {
     "gym_id": "ruby_pole",
@@ -3482,7 +3686,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3499,7 +3704,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3516,7 +3722,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3533,7 +3740,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21039"
   },
   {
     "gym_id": "ruby_pole",
@@ -3550,7 +3758,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3567,7 +3776,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3584,7 +3794,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3601,7 +3812,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3618,7 +3830,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21043"
   },
   {
     "gym_id": "ruby_pole",
@@ -3635,7 +3848,8 @@
     "studio": "6 人(Bポール以外/スペース選択)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5637"
   },
   {
     "gym_id": "ruby_pole",
@@ -3652,7 +3866,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3669,7 +3884,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3686,7 +3902,8 @@
     "studio": "(7/31終了) 7名LESSON＆PRACTICE",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": "i5637"
   },
   {
     "gym_id": "ruby_pole",
@@ -3703,7 +3920,8 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": "C,st"
+    "note": "C,st",
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3720,7 +3938,8 @@
     "studio": "4名(7/31使用終了)",
     "reservation_required": true,
     "genre": "POLEDANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "ruby_pole",
@@ -3737,6 +3956,7 @@
     "studio": "1人",
     "reservation_required": true,
     "genre": null,
-    "note": "C,st深夜"
+    "note": "C,st深夜",
+    "instructor_id": null
   }
 ]

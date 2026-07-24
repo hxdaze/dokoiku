@@ -14,7 +14,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -31,7 +32,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -48,7 +50,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -65,7 +68,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -82,7 +86,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -99,7 +104,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -116,7 +122,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -133,7 +140,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -150,7 +158,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -167,7 +176,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -184,7 +194,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -201,7 +212,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -218,7 +230,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -235,7 +248,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -252,7 +266,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -269,7 +284,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -286,7 +302,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -303,7 +320,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -320,7 +338,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -337,7 +356,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -354,7 +374,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -371,7 +392,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -388,7 +410,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -405,7 +428,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -422,7 +446,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -439,7 +464,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "aeon",
@@ -456,7 +482,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -473,7 +500,8 @@
     "studio": "イオンスポーツクラブ 3FIT 岡崎店お知らせバナー1",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "aeon",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i76"
   },
   {
     "gym_id": "aeon",
@@ -507,7 +536,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i77"
   },
   {
     "gym_id": "aeon",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i76"
   },
   {
     "gym_id": "aeon",
@@ -541,7 +572,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i77"
   },
   {
     "gym_id": "aeon",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i76"
   },
   {
     "gym_id": "aeon",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i78"
   },
   {
     "gym_id": "aeon",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i78"
   },
   {
     "gym_id": "aeon",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i78"
   },
   {
     "gym_id": "aeon",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i78"
   },
   {
     "gym_id": "aeon",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i79"
   },
   {
     "gym_id": "aeon",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i81"
   },
   {
     "gym_id": "aeon",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i82"
   },
   {
     "gym_id": "aeon",
@@ -728,7 +770,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i83"
   },
   {
     "gym_id": "aeon",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i82"
   },
   {
     "gym_id": "aeon",
@@ -762,7 +806,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i84"
   },
   {
     "gym_id": "aeon",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i85"
   },
   {
     "gym_id": "aeon",
@@ -796,7 +842,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i85"
   },
   {
     "gym_id": "aeon",
@@ -813,7 +860,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i78"
   },
   {
     "gym_id": "aeon",
@@ -847,7 +896,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i77"
   },
   {
     "gym_id": "aeon",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i78"
   },
   {
     "gym_id": "aeon",
@@ -881,7 +932,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i79"
   },
   {
     "gym_id": "aeon",
@@ -915,7 +968,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i86"
   },
   {
     "gym_id": "aeon",
@@ -932,7 +986,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i81"
   },
   {
     "gym_id": "aeon",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i81"
   },
   {
     "gym_id": "aeon",
@@ -966,7 +1022,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i83"
   },
   {
     "gym_id": "aeon",
@@ -983,7 +1040,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i77"
   },
   {
     "gym_id": "aeon",
@@ -1000,7 +1058,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i87"
   },
   {
     "gym_id": "aeon",
@@ -1017,7 +1076,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i88"
   },
   {
     "gym_id": "aeon",
@@ -1034,7 +1094,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i83"
   },
   {
     "gym_id": "aeon",
@@ -1051,7 +1112,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i89"
   },
   {
     "gym_id": "aeon",
@@ -1068,7 +1130,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i83"
   },
   {
     "gym_id": "aeon",
@@ -1085,7 +1148,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -1102,7 +1166,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i77"
   },
   {
     "gym_id": "aeon",
@@ -1119,7 +1184,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i90"
   },
   {
     "gym_id": "aeon",
@@ -1136,7 +1202,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i91"
   },
   {
     "gym_id": "aeon",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i77"
   },
   {
     "gym_id": "aeon",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i92"
   },
   {
     "gym_id": "aeon",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i77"
   },
   {
     "gym_id": "aeon",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i77"
   },
   {
     "gym_id": "aeon",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i93"
   },
   {
     "gym_id": "aeon",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i90"
   },
   {
     "gym_id": "aeon",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i79"
   },
   {
     "gym_id": "aeon",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i94"
   },
   {
     "gym_id": "aeon",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i95"
   },
   {
     "gym_id": "aeon",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i95"
   },
   {
     "gym_id": "aeon",
@@ -1357,7 +1436,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i96"
   },
   {
     "gym_id": "aeon",
@@ -1374,7 +1454,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i96"
   },
   {
     "gym_id": "aeon",
@@ -1391,7 +1472,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i94"
   },
   {
     "gym_id": "aeon",
@@ -1408,7 +1490,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i83"
   },
   {
     "gym_id": "aeon",
@@ -1425,7 +1508,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i90"
   },
   {
     "gym_id": "aeon",
@@ -1442,7 +1526,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i90"
   },
   {
     "gym_id": "aeon",
@@ -1459,7 +1544,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i97"
   },
   {
     "gym_id": "aeon",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i78"
   },
   {
     "gym_id": "aeon",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i98"
   },
   {
     "gym_id": "aeon",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i78"
   },
   {
     "gym_id": "aeon",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i96"
   },
   {
     "gym_id": "aeon",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i99"
   },
   {
     "gym_id": "aeon",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i100"
   },
   {
     "gym_id": "aeon",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i92"
   },
   {
     "gym_id": "aeon",
@@ -1595,7 +1688,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i79"
   },
   {
     "gym_id": "aeon",
@@ -1612,7 +1706,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i101"
   },
   {
     "gym_id": "aeon",
@@ -1629,7 +1724,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -1646,7 +1742,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i80"
   },
   {
     "gym_id": "aeon",
@@ -1663,7 +1760,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i102"
   },
   {
     "gym_id": "aeon",
@@ -1680,7 +1778,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -1697,7 +1796,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -1714,7 +1814,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i103"
   },
   {
     "gym_id": "aeon",
@@ -1731,7 +1832,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -1748,7 +1850,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i104"
   },
   {
     "gym_id": "aeon",
@@ -1765,7 +1868,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i81"
   },
   {
     "gym_id": "aeon",
@@ -1782,7 +1886,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i81"
   },
   {
     "gym_id": "aeon",
@@ -1799,7 +1904,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i90"
   },
   {
     "gym_id": "aeon",
@@ -1816,7 +1922,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i105"
   },
   {
     "gym_id": "aeon",
@@ -1833,7 +1940,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i105"
   },
   {
     "gym_id": "aeon",
@@ -1850,7 +1958,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "キッズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -1867,7 +1976,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i98"
   },
   {
     "gym_id": "aeon",
@@ -1884,7 +1994,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "て"
+    "note": "て",
+    "instructor_id": "i83"
   },
   {
     "gym_id": "aeon",
@@ -1901,7 +2012,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i86"
   },
   {
     "gym_id": "aeon",
@@ -1918,7 +2030,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i95"
   },
   {
     "gym_id": "aeon",
@@ -1935,7 +2048,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i95"
   },
   {
     "gym_id": "aeon",
@@ -1952,7 +2066,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i79"
   },
   {
     "gym_id": "aeon",
@@ -1969,7 +2084,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i105"
   },
   {
     "gym_id": "aeon",
@@ -1986,7 +2102,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i81"
   },
   {
     "gym_id": "aeon",
@@ -2003,7 +2120,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "キッズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -2020,7 +2138,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i92"
   },
   {
     "gym_id": "aeon",
@@ -2037,7 +2156,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i100"
   },
   {
     "gym_id": "aeon",
@@ -2054,7 +2174,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i100"
   },
   {
     "gym_id": "aeon",
@@ -2071,7 +2192,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -2088,7 +2210,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -2105,7 +2228,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -2122,7 +2246,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -2139,7 +2264,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -2156,7 +2282,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i106"
   },
   {
     "gym_id": "aeon",
@@ -2173,6 +2300,7 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i89"
   }
 ]

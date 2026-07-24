@@ -14,7 +14,8 @@
     "studio": "STUDIO INSTRUCTOR FUSO",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7099"
   },
   {
     "gym_id": "fiteasy",
@@ -31,7 +32,8 @@
     "studio": "STUDIO INSTRUCTOR FUSO",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7099"
   },
   {
     "gym_id": "fiteasy",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "足腰のみならず全身を役立つ為の筋力を鍛えます。初めてという方でも気軽に楽しんでいただけます。"
+    "note": "足腰のみならず全身を役立つ為の筋力を鍛えます。初めてという方でも気軽に楽しんでいただけます。",
+    "instructor_id": "i7100"
   },
   {
     "gym_id": "fiteasy",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "fiteasy",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7101"
   },
   {
     "gym_id": "fiteasy",
@@ -99,6 +104,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "内側の筋肉を目覚め、コントロールで日常の柔軟性UP・ケガ予防。追い込みだけじゃなく初心者さんも大歓迎"
+    "note": "内側の筋肉を目覚め、コントロールで日常の柔軟性UP・ケガ予防。追い込みだけじゃなく初心者さんも大歓迎",
+    "instructor_id": "i7100"
   }
 ]

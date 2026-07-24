@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MAKI",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MAKI",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MAKI",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "SHINTARO",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "SHINTARO",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "SHINTARO",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新出",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fiteasy",
@@ -184,6 +194,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新出",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

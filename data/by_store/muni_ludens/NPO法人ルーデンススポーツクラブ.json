@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新体操コース",
-    "note": "A / 1年~6年"
+    "note": "A / 1年~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新体操コース",
-    "note": "B / 1年~6年"
+    "note": "B / 1年~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アイドルダンスコース",
-    "note": "3年~"
+    "note": "3年~",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新体操コース",
-    "note": "A / 1年~6年"
+    "note": "A / 1年~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクロバット・パック転コース",
-    "note": "6歳~6年"
+    "note": "6歳~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクロバット・パック転コース",
-    "note": "6歳~6年"
+    "note": "6歳~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アイドルダンスコース",
-    "note": "年長~6年"
+    "note": "年長~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新体操コース",
-    "note": "6年~"
+    "note": "6年~",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "チアリーディングコース",
-    "note": "年少~6年"
+    "note": "年少~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新体操コース",
-    "note": "B / 1年~6年"
+    "note": "B / 1年~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新体操コース",
-    "note": "A / 1年~6年"
+    "note": "A / 1年~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクロバット・パック転コース",
-    "note": "6歳~6年"
+    "note": "6歳~6年",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_ludens",
@@ -218,6 +230,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "新体操コース",
-    "note": "B / 1年~6年"
+    "note": "B / 1年~6年",
+    "instructor_id": null
   }
 ]

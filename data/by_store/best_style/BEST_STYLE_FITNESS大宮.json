@@ -14,7 +14,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ系/調整系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "best_style",
@@ -31,7 +32,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "筋力トレーニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1916"
   },
   {
     "gym_id": "best_style",
@@ -48,7 +50,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ系/調整系",
-    "note": "21名"
+    "note": "21名",
+    "instructor_id": null
   },
   {
     "gym_id": "best_style",
@@ -65,7 +68,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "筋力トレーニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1917"
   },
   {
     "gym_id": "best_style",
@@ -82,7 +86,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "筋力トレーニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "best_style",
@@ -99,7 +104,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ系/調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1918"
   },
   {
     "gym_id": "best_style",
@@ -116,7 +122,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "ヨガ系/調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1918"
   },
   {
     "gym_id": "best_style",
@@ -133,7 +140,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ系/調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1917"
   },
   {
     "gym_id": "best_style",
@@ -150,7 +158,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ系/調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1919"
   },
   {
     "gym_id": "best_style",
@@ -167,7 +176,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ系/調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1920"
   },
   {
     "gym_id": "best_style",
@@ -184,7 +194,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ系/調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1921"
   },
   {
     "gym_id": "best_style",
@@ -201,7 +212,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "筋力トレーニング系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1921"
   },
   {
     "gym_id": "best_style",
@@ -218,7 +230,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "筋力トレーニング系",
-    "note": "22名"
+    "note": "22名",
+    "instructor_id": "i1681"
   },
   {
     "gym_id": "best_style",
@@ -235,7 +248,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1922"
   },
   {
     "gym_id": "best_style",
@@ -252,7 +266,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1923"
   },
   {
     "gym_id": "best_style",
@@ -269,7 +284,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1924"
   },
   {
     "gym_id": "best_style",
@@ -286,7 +302,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1923"
   },
   {
     "gym_id": "best_style",
@@ -303,7 +320,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1925"
   },
   {
     "gym_id": "best_style",
@@ -320,7 +338,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1926"
   },
   {
     "gym_id": "best_style",
@@ -337,7 +356,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1927"
   },
   {
     "gym_id": "best_style",
@@ -354,7 +374,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1928"
   },
   {
     "gym_id": "best_style",
@@ -371,7 +392,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": "骨格調整"
+    "note": "骨格調整",
+    "instructor_id": "i1923"
   },
   {
     "gym_id": "best_style",
@@ -388,7 +410,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1924"
   },
   {
     "gym_id": "best_style",
@@ -405,7 +428,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1929"
   },
   {
     "gym_id": "best_style",
@@ -422,7 +446,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i218"
   },
   {
     "gym_id": "best_style",
@@ -439,7 +464,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1918"
   },
   {
     "gym_id": "best_style",
@@ -456,7 +482,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1918"
   },
   {
     "gym_id": "best_style",
@@ -473,7 +500,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": "骨格調整"
+    "note": "骨格調整",
+    "instructor_id": "i1923"
   },
   {
     "gym_id": "best_style",
@@ -490,7 +518,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1924"
   },
   {
     "gym_id": "best_style",
@@ -507,7 +536,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1929"
   },
   {
     "gym_id": "best_style",
@@ -524,7 +554,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i218"
   },
   {
     "gym_id": "best_style",
@@ -541,7 +572,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1918"
   },
   {
     "gym_id": "best_style",
@@ -558,7 +590,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1918"
   },
   {
     "gym_id": "best_style",
@@ -575,7 +608,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": true,
     "genre": "有効系",
-    "note": "10名"
+    "note": "10名",
+    "instructor_id": "i1930"
   },
   {
     "gym_id": "best_style",
@@ -592,7 +626,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1925"
   },
   {
     "gym_id": "best_style",
@@ -609,7 +644,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1926"
   },
   {
     "gym_id": "best_style",
@@ -626,7 +662,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": true,
     "genre": "有効系",
-    "note": "14名"
+    "note": "14名",
+    "instructor_id": "i1931"
   },
   {
     "gym_id": "best_style",
@@ -643,7 +680,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i218"
   },
   {
     "gym_id": "best_style",
@@ -660,7 +698,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1918"
   },
   {
     "gym_id": "best_style",
@@ -677,7 +716,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1931"
   },
   {
     "gym_id": "best_style",
@@ -694,7 +734,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1928"
   },
   {
     "gym_id": "best_style",
@@ -711,7 +752,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1928"
   },
   {
     "gym_id": "best_style",
@@ -728,7 +770,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1928"
   },
   {
     "gym_id": "best_style",
@@ -745,7 +788,8 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1932"
   },
   {
     "gym_id": "best_style",
@@ -762,7 +806,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "ヨガ・調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1918"
   },
   {
     "gym_id": "best_style",
@@ -779,7 +824,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1928"
   },
   {
     "gym_id": "best_style",
@@ -796,7 +842,8 @@
     "studio": "STUDIO HERBS",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1928"
   },
   {
     "gym_id": "best_style",
@@ -813,7 +860,8 @@
     "studio": "WHITE STUDIO",
     "reservation_required": true,
     "genre": "有効系",
-    "note": "2名"
+    "note": "2名",
+    "instructor_id": "i1933"
   },
   {
     "gym_id": "best_style",
@@ -830,6 +878,7 @@
     "studio": "BLACK STUDIO",
     "reservation_required": false,
     "genre": "有効系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1933"
   }
 ]

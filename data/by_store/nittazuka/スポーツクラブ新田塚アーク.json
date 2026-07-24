@@ -14,7 +14,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18712"
   },
   {
     "gym_id": "nittazuka",
@@ -31,7 +32,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18713"
   },
   {
     "gym_id": "nittazuka",
@@ -48,7 +50,8 @@
     "studio": "Aスタジオ35(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18714"
   },
   {
     "gym_id": "nittazuka",
@@ -65,7 +68,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18715"
   },
   {
     "gym_id": "nittazuka",
@@ -82,7 +86,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": "受付不要"
+    "note": "受付不要",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -99,7 +104,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18716"
   },
   {
     "gym_id": "nittazuka",
@@ -116,7 +122,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18715"
   },
   {
     "gym_id": "nittazuka",
@@ -133,7 +140,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5977"
   },
   {
     "gym_id": "nittazuka",
@@ -150,7 +158,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5977"
   },
   {
     "gym_id": "nittazuka",
@@ -167,7 +176,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18714"
   },
   {
     "gym_id": "nittazuka",
@@ -184,7 +194,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18715"
   },
   {
     "gym_id": "nittazuka",
@@ -201,7 +212,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18717"
   },
   {
     "gym_id": "nittazuka",
@@ -218,7 +230,8 @@
     "studio": "Aスタジオ28(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18715"
   },
   {
     "gym_id": "nittazuka",
@@ -235,7 +248,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18718"
   },
   {
     "gym_id": "nittazuka",
@@ -252,7 +266,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5977"
   },
   {
     "gym_id": "nittazuka",
@@ -269,7 +284,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18719"
   },
   {
     "gym_id": "nittazuka",
@@ -286,7 +302,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18714"
   },
   {
     "gym_id": "nittazuka",
@@ -303,7 +320,8 @@
     "studio": "Aスタジオ35(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5983"
   },
   {
     "gym_id": "nittazuka",
@@ -320,7 +338,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": "受付不要"
+    "note": "受付不要",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -337,7 +356,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18713"
   },
   {
     "gym_id": "nittazuka",
@@ -354,7 +374,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18720"
   },
   {
     "gym_id": "nittazuka",
@@ -371,7 +392,8 @@
     "studio": "Aスタジオ35(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5983"
   },
   {
     "gym_id": "nittazuka",
@@ -388,7 +410,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5969"
   },
   {
     "gym_id": "nittazuka",
@@ -405,7 +428,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5969"
   },
   {
     "gym_id": "nittazuka",
@@ -422,7 +446,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18721"
   },
   {
     "gym_id": "nittazuka",
@@ -439,7 +464,8 @@
     "studio": "Aスタジオ28(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18722"
   },
   {
     "gym_id": "nittazuka",
@@ -456,7 +482,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": "受付不要"
+    "note": "受付不要",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -473,7 +500,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18714"
   },
   {
     "gym_id": "nittazuka",
@@ -490,7 +518,8 @@
     "studio": "Aスタジオ35(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18716"
   },
   {
     "gym_id": "nittazuka",
@@ -507,7 +536,8 @@
     "studio": "Aスタジオ28(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18722"
   },
   {
     "gym_id": "nittazuka",
@@ -524,7 +554,8 @@
     "studio": "Aスタジオ35(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18715"
   },
   {
     "gym_id": "nittazuka",
@@ -541,7 +572,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5977"
   },
   {
     "gym_id": "nittazuka",
@@ -558,7 +590,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5963"
   },
   {
     "gym_id": "nittazuka",
@@ -575,7 +608,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": "受付不要"
+    "note": "受付不要",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -592,7 +626,8 @@
     "studio": "Aスタジオ40(2025/3)",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18718"
   },
   {
     "gym_id": "nittazuka",
@@ -609,7 +644,8 @@
     "studio": "Aスタジオ50(2025/3）",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3044"
   },
   {
     "gym_id": "nittazuka",
@@ -626,7 +662,8 @@
     "studio": "Bスタジオ20",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18714"
   },
   {
     "gym_id": "nittazuka",
@@ -643,7 +680,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -660,7 +698,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -677,7 +716,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -694,7 +734,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -711,7 +752,8 @@
     "studio": "Bスタジオ20",
     "reservation_required": true,
     "genre": null,
-    "note": "受付不要"
+    "note": "受付不要",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -728,7 +770,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -745,7 +788,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -762,7 +806,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -779,7 +824,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -796,7 +842,8 @@
     "studio": "Bスタジオ20",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18723"
   },
   {
     "gym_id": "nittazuka",
@@ -813,7 +860,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -830,7 +878,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -847,7 +896,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -864,7 +914,8 @@
     "studio": "Bスタジオ20",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -881,7 +932,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -898,7 +950,8 @@
     "studio": "Bスタジオ20",
     "reservation_required": true,
     "genre": null,
-    "note": "受付不要"
+    "note": "受付不要",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -915,7 +968,8 @@
     "studio": "Bスタジオ20",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18715"
   },
   {
     "gym_id": "nittazuka",
@@ -932,7 +986,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -949,7 +1004,8 @@
     "studio": "Bスタジオ15",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18718"
   },
   {
     "gym_id": "nittazuka",
@@ -966,7 +1022,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -983,7 +1040,8 @@
     "studio": "TRX",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i18714"
   },
   {
     "gym_id": "nittazuka",
@@ -1000,7 +1058,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -1017,7 +1076,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -1034,7 +1094,8 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   },
   {
     "gym_id": "nittazuka",
@@ -1051,7 +1112,8 @@
     "studio": "Bスタジオ15",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18715"
   },
   {
     "gym_id": "nittazuka",
@@ -1068,6 +1130,7 @@
     "studio": "Bスタジオ18",
     "reservation_required": true,
     "genre": null,
-    "note": "録画"
+    "note": "録画",
+    "instructor_id": null
   }
 ]

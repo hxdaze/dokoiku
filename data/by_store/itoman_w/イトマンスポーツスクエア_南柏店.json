@@ -14,7 +14,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10652"
   },
   {
     "gym_id": "itoman_w",
@@ -31,7 +32,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -48,7 +50,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10653"
   },
   {
     "gym_id": "itoman_w",
@@ -65,7 +68,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "（有料）"
+    "note": "（有料）",
+    "instructor_id": "i10653"
   },
   {
     "gym_id": "itoman_w",
@@ -82,7 +86,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10654"
   },
   {
     "gym_id": "itoman_w",
@@ -99,7 +104,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10655"
   },
   {
     "gym_id": "itoman_w",
@@ -116,7 +122,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10656"
   },
   {
     "gym_id": "itoman_w",
@@ -133,7 +140,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -150,7 +158,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10657"
   },
   {
     "gym_id": "itoman_w",
@@ -167,7 +176,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10658"
   },
   {
     "gym_id": "itoman_w",
@@ -184,7 +194,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -201,7 +212,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -218,7 +230,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10659"
   },
   {
     "gym_id": "itoman_w",
@@ -235,7 +248,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2152"
   },
   {
     "gym_id": "itoman_w",
@@ -252,7 +266,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i10660"
   },
   {
     "gym_id": "itoman_w",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i10661"
   },
   {
     "gym_id": "itoman_w",
@@ -286,7 +302,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10662"
   },
   {
     "gym_id": "itoman_w",
@@ -303,7 +320,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10663"
   },
   {
     "gym_id": "itoman_w",
@@ -320,7 +338,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10664"
   },
   {
     "gym_id": "itoman_w",
@@ -337,7 +356,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10665"
   },
   {
     "gym_id": "itoman_w",
@@ -354,7 +374,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10666"
   },
   {
     "gym_id": "itoman_w",
@@ -371,7 +392,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10667"
   },
   {
     "gym_id": "itoman_w",
@@ -388,7 +410,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10666"
   },
   {
     "gym_id": "itoman_w",
@@ -405,7 +428,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10668"
   },
   {
     "gym_id": "itoman_w",
@@ -422,7 +446,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10668"
   },
   {
     "gym_id": "itoman_w",
@@ -439,7 +464,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10669"
   },
   {
     "gym_id": "itoman_w",
@@ -456,7 +482,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10670"
   },
   {
     "gym_id": "itoman_w",
@@ -473,7 +500,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10671"
   },
   {
     "gym_id": "itoman_w",
@@ -490,7 +518,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10672"
   },
   {
     "gym_id": "itoman_w",
@@ -507,7 +536,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10673"
   },
   {
     "gym_id": "itoman_w",
@@ -524,7 +554,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10674"
   },
   {
     "gym_id": "itoman_w",
@@ -541,7 +572,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10658"
   },
   {
     "gym_id": "itoman_w",
@@ -558,7 +590,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10675"
   },
   {
     "gym_id": "itoman_w",
@@ -575,7 +608,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10666"
   },
   {
     "gym_id": "itoman_w",
@@ -592,7 +626,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "itoman_w",
@@ -609,7 +644,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10676"
   },
   {
     "gym_id": "itoman_w",
@@ -626,7 +662,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10677"
   },
   {
     "gym_id": "itoman_w",
@@ -643,7 +680,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ・カルチャーグループ",
-    "note": null
+    "note": null,
+    "instructor_id": "i10658"
   },
   {
     "gym_id": "itoman_w",
@@ -660,6 +698,7 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i10675"
   }
 ]

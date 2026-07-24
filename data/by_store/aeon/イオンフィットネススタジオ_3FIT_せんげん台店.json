@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋力トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "aeon",
@@ -235,6 +248,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ運動",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

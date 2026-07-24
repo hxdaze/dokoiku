@@ -14,7 +14,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i21450"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -31,7 +32,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -48,7 +50,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i21451"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -65,7 +68,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -82,7 +86,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "エクササイズ 45"
+    "note": "エクササイズ 45",
+    "instructor_id": "i21450"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -99,7 +104,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "マットサイエンス 45"
+    "note": "マットサイエンス 45",
+    "instructor_id": "i21452"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -116,7 +122,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i21453"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -133,7 +140,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i21454"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -150,7 +158,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i21454"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -167,7 +176,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "30"
+    "note": "30",
+    "instructor_id": "i21453"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -184,7 +194,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "50"
+    "note": "50",
+    "instructor_id": "i21455"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -201,7 +212,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -218,7 +230,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -235,7 +248,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i21456"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -252,7 +266,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "50"
+    "note": "50",
+    "instructor_id": "i21452"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -269,7 +284,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": "45"
+    "note": "45",
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -286,7 +302,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i21456"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -303,7 +320,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i21457"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -320,7 +338,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i21458"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -337,7 +356,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i21459"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -354,7 +374,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i21460"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -371,7 +392,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i21461"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -388,7 +410,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -405,7 +428,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": "30"
+    "note": "30",
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -422,7 +446,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "40"
+    "note": "40",
+    "instructor_id": "i21462"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -439,7 +464,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "45"
+    "note": "45",
+    "instructor_id": "i21463"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -456,7 +482,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -473,7 +500,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "30"
+    "note": "30",
+    "instructor_id": "i21464"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -490,7 +518,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -507,7 +536,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -524,7 +554,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -541,7 +572,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "①③⑤ 24 ZUMBA60"
+    "note": "①③⑤ 24 ZUMBA60",
+    "instructor_id": "i21463"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -558,7 +590,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロ系",
-    "note": "①③⑤ 24"
+    "note": "①③⑤ 24",
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -575,7 +608,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": "60"
+    "note": "60",
+    "instructor_id": "i21465"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -592,7 +626,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -609,7 +644,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -626,7 +662,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21466"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -643,7 +680,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -660,7 +698,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21467"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -677,7 +716,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21455"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -694,7 +734,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -711,7 +752,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21459"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -728,7 +770,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21457"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -745,7 +788,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21468"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -762,7 +806,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -779,7 +824,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -796,7 +842,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21455"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -813,7 +860,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -830,7 +878,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -847,7 +896,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21459"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -864,7 +914,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -881,7 +932,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -898,7 +950,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21469"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -915,7 +968,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -932,7 +986,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21459"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -949,7 +1004,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21470"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -966,7 +1022,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -983,7 +1040,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1000,7 +1058,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21462"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1017,7 +1076,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1034,7 +1094,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1051,7 +1112,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21463"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1068,7 +1130,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1085,7 +1148,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21463"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1102,7 +1166,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21471"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1119,7 +1184,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21471"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1136,7 +1202,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21465"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1153,7 +1220,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21465"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1170,7 +1238,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1187,7 +1256,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21451"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1204,7 +1274,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1221,7 +1292,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21459"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1238,7 +1310,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21461"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1255,7 +1328,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1272,7 +1346,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21461"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1289,7 +1364,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21469"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1306,7 +1382,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1323,7 +1400,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1340,7 +1418,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1357,7 +1436,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1374,7 +1454,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1391,7 +1472,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1408,7 +1490,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1425,7 +1508,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1442,7 +1526,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1459,7 +1544,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1476,7 +1562,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1493,7 +1580,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1510,7 +1598,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1527,7 +1616,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": "i21451"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1544,7 +1634,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1561,7 +1652,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1578,7 +1670,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "格闘技系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1595,7 +1688,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "エアロビクス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1612,7 +1706,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1629,7 +1724,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1646,7 +1742,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1663,7 +1760,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "パワーアップ系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1680,7 +1778,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1697,7 +1796,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21466"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1714,7 +1814,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1731,7 +1832,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1748,7 +1850,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1765,7 +1868,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21457"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1782,7 +1886,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1799,7 +1904,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1816,7 +1922,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21468"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1833,7 +1940,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i21459"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1850,7 +1958,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21468"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1867,7 +1976,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1884,7 +1994,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i21464"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1901,7 +2012,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i21459"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1918,7 +2030,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i21472"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1935,7 +2048,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1952,7 +2066,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21465"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1969,7 +2084,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -1986,7 +2102,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2003,7 +2120,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2020,7 +2138,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21452"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2037,7 +2156,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i21452"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2054,7 +2174,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21452"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2071,7 +2192,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2088,7 +2210,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21473"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2105,7 +2228,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21462"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2122,7 +2246,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2139,7 +2264,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21462"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2156,7 +2282,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2173,7 +2300,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21474"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2190,7 +2318,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2207,7 +2336,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i21459"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2224,7 +2354,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2241,7 +2372,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2258,7 +2390,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2275,7 +2408,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2292,7 +2426,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21465"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2309,7 +2444,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21452"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2326,7 +2462,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": "i21452"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2343,7 +2480,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21452"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2360,7 +2498,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ボディデザイン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2377,7 +2516,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i21473"
   },
   {
     "gym_id": "sunsports_ushiku",
@@ -2394,6 +2534,7 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21457"
   }
 ]

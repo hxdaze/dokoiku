@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_soutai_sakura_ne_jp",
@@ -320,6 +338,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アリーナ個人使用",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

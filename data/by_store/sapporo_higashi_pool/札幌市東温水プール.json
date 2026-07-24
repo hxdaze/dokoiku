@@ -14,7 +14,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21097"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -31,7 +32,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": "月"
+    "note": "月",
+    "instructor_id": "i21098"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -48,7 +50,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": "月"
+    "note": "月",
+    "instructor_id": "i21099"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -65,7 +68,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21100"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -82,7 +86,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21101"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -99,7 +104,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21102"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -116,7 +122,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21099"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -133,7 +140,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21103"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -150,7 +158,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i21099"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -167,7 +176,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": null
+    "note": null,
+    "instructor_id": "i21104"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -184,7 +194,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": null
+    "note": null,
+    "instructor_id": "i21105"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -201,7 +212,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": null
+    "note": null,
+    "instructor_id": "i21106"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -218,7 +230,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": "水"
+    "note": "水",
+    "instructor_id": "i21107"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -235,7 +248,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": "木"
+    "note": "木",
+    "instructor_id": "i21102"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -252,7 +266,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": null
+    "note": null,
+    "instructor_id": "i13574"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -269,7 +284,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": "木"
+    "note": "木",
+    "instructor_id": "i21105"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -286,7 +302,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": null
+    "note": null,
+    "instructor_id": "i21108"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -303,7 +320,8 @@
     "studio": "水中フィットネス",
     "reservation_required": true,
     "genre": "水",
-    "note": null
+    "note": null,
+    "instructor_id": "i21105"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -320,7 +338,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "水中フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21109"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -337,7 +356,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "水中フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21110"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -354,7 +374,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "水中フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21099"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -371,7 +392,8 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "水中フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21111"
   },
   {
     "gym_id": "sapporo_higashi_pool",
@@ -388,6 +410,7 @@
     "studio": "多目的室",
     "reservation_required": true,
     "genre": "水中フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i21112"
   }
 ]

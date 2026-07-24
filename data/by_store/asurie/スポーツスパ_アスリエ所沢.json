@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i858"
   },
   {
     "gym_id": "asurie",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i676"
   },
   {
     "gym_id": "asurie",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i858"
   },
   {
     "gym_id": "asurie",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i858"
   },
   {
     "gym_id": "asurie",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i859"
   },
   {
     "gym_id": "asurie",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i676"
   },
   {
     "gym_id": "asurie",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i676"
   },
   {
     "gym_id": "asurie",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "トーチ"
+    "note": "トーチ",
+    "instructor_id": "i860"
   },
   {
     "gym_id": "asurie",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "42式・八法五歩"
+    "note": "42式・八法五歩",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -252,7 +266,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※7人を使用して自由に泳げるコーズ\n※7人の貸出あり"
+    "note": "※7人を使用して自由に泳げるコーズ\n※7人の貸出あり",
+    "instructor_id": "i861"
   },
   {
     "gym_id": "asurie",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "5/1・15"
+    "note": "5/1・15",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "5/2・16・30"
+    "note": "5/2・16・30",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "5/9・23"
+    "note": "5/9・23",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -422,7 +446,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:00~14:00\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり"
+    "note": "13:00~14:00\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり",
+    "instructor_id": "i862"
   },
   {
     "gym_id": "asurie",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "5/10・24"
+    "note": "5/10・24",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "5/2・16・30"
+    "note": "5/2・16・30",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "5/9・23"
+    "note": "5/9・23",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "入門・24式"
+    "note": "入門・24式",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -541,7 +572,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "★フィンを使用して自由に泳げるコース\n★フィンの貸出あり"
+    "note": "★フィンを使用して自由に泳げるコース\n★フィンの貸出あり",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -558,7 +590,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i863"
   },
   {
     "gym_id": "asurie",
@@ -575,7 +608,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i657"
   },
   {
     "gym_id": "asurie",
@@ -592,7 +626,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i657"
   },
   {
     "gym_id": "asurie",
@@ -609,7 +644,8 @@
     "studio": "Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i657"
   },
   {
     "gym_id": "asurie",
@@ -626,7 +662,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i864"
   },
   {
     "gym_id": "asurie",
@@ -643,7 +680,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i864"
   },
   {
     "gym_id": "asurie",
@@ -660,7 +698,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "★フィンを使用して自由に泳げるコース\n★フィンの貸出あり"
+    "note": "★フィンを使用して自由に泳げるコース\n★フィンの貸出あり",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -677,7 +716,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i865"
   },
   {
     "gym_id": "asurie",
@@ -694,7 +734,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i865"
   },
   {
     "gym_id": "asurie",
@@ -711,7 +752,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "asurie",
@@ -728,7 +770,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i867"
   },
   {
     "gym_id": "asurie",
@@ -745,7 +788,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i867"
   },
   {
     "gym_id": "asurie",
@@ -762,7 +806,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i858"
   },
   {
     "gym_id": "asurie",
@@ -779,7 +824,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i858"
   },
   {
     "gym_id": "asurie",
@@ -796,7 +842,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i864"
   },
   {
     "gym_id": "asurie",
@@ -813,7 +860,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i868"
   },
   {
     "gym_id": "asurie",
@@ -830,7 +878,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i868"
   },
   {
     "gym_id": "asurie",
@@ -847,7 +896,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i864"
   },
   {
     "gym_id": "asurie",
@@ -864,7 +914,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -881,7 +932,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -898,7 +950,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "*フィンを使用して自由に泳げるコース\n*フィンの貸出あり"
+    "note": "*フィンを使用して自由に泳げるコース\n*フィンの貸出あり",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -915,7 +968,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -932,7 +986,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -949,7 +1004,8 @@
     "studio": "Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -966,7 +1022,8 @@
     "studio": "Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -983,7 +1040,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i676"
   },
   {
     "gym_id": "asurie",
@@ -1000,7 +1058,8 @@
     "studio": "Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -1017,7 +1076,8 @@
     "studio": "Wスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i859"
   },
   {
     "gym_id": "asurie",
@@ -1034,7 +1094,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i676"
   },
   {
     "gym_id": "asurie",
@@ -1051,7 +1112,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i676"
   },
   {
     "gym_id": "asurie",
@@ -1068,7 +1130,8 @@
     "studio": "Fスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -1085,7 +1148,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1102,7 +1166,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i859"
   },
   {
     "gym_id": "asurie",
@@ -1119,7 +1184,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -1136,7 +1202,8 @@
     "studio": "Fスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i869"
   },
   {
     "gym_id": "asurie",
@@ -1153,7 +1220,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i870"
   },
   {
     "gym_id": "asurie",
@@ -1170,7 +1238,8 @@
     "studio": "Wスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i870"
   },
   {
     "gym_id": "asurie",
@@ -1187,7 +1256,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "★フィンを使用して自由に泳げるコース\n★フィンの貸出あり"
+    "note": "★フィンを使用して自由に泳げるコース\n★フィンの貸出あり",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1204,7 +1274,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1221,7 +1292,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1238,7 +1310,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "気功法",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1255,7 +1328,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "気功法",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1272,7 +1346,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i871"
   },
   {
     "gym_id": "asurie",
@@ -1289,7 +1364,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i871"
   },
   {
     "gym_id": "asurie",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i676"
   },
   {
     "gym_id": "asurie",
@@ -1323,7 +1400,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "9:30~10:20"
+    "note": "9:30~10:20",
+    "instructor_id": "i872"
   },
   {
     "gym_id": "asurie",
@@ -1340,7 +1418,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "7人の専用コーズ\n11:15~11:45"
+    "note": "7人の専用コーズ\n11:15~11:45",
+    "instructor_id": "i863"
   },
   {
     "gym_id": "asurie",
@@ -1357,7 +1436,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "(41式・八法五歩)\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり"
+    "note": "(41式・八法五歩)\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり",
+    "instructor_id": "i873"
   },
   {
     "gym_id": "asurie",
@@ -1374,7 +1454,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "(1~3K)\n13:20~13:50"
+    "note": "(1~3K)\n13:20~13:50",
+    "instructor_id": "i874"
   },
   {
     "gym_id": "asurie",
@@ -1391,7 +1472,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "14:45~15:15\n7人の専用コーズ\n14:45~15:15"
+    "note": "14:45~15:15\n7人の専用コーズ\n14:45~15:15",
+    "instructor_id": "i875"
   },
   {
     "gym_id": "asurie",
@@ -1408,7 +1490,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "NEW\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり"
+    "note": "NEW\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1425,7 +1508,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "19:30~19:45\n【6/13・27】プライド 45\nなな\n18:30~19:15 / 6/8・20"
+    "note": "19:30~19:45\n【6/13・27】プライド 45\nなな\n18:30~19:15 / 6/8・20",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1442,7 +1526,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "10:30~11:30\n7人の専用コーズ\n11:15~12:15"
+    "note": "10:30~11:30\n7人の専用コーズ\n11:15~12:15",
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -1459,7 +1544,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "11:45~12:45\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり"
+    "note": "11:45~12:45\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1476,7 +1562,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "14:15~15:00\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり"
+    "note": "14:15~15:00\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1493,7 +1580,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "16:40~17:40\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/14・28"
+    "note": "16:40~17:40\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/14・28",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1510,7 +1598,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "月曜日 19:15~19:30 (サーキット)\n水曜日 20:15~20:30 (中国ストレッチ)\n土曜日 16:15~16:30 (ストレッチ)\n予約不要！時間になったらスタジオへ\n途中参加も可能"
+    "note": "月曜日 19:15~19:30 (サーキット)\n水曜日 20:15~20:30 (中国ストレッチ)\n土曜日 16:15~16:30 (ストレッチ)\n予約不要！時間になったらスタジオへ\n途中参加も可能",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1527,7 +1616,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "11:40~12:40"
+    "note": "11:40~12:40",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1544,7 +1634,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:40~14:40\n定員変更\n定員：12名"
+    "note": "13:40~14:40\n定員変更\n定員：12名",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1561,7 +1652,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19"
+    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1578,7 +1670,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "11:40~12:40"
+    "note": "11:40~12:40",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1595,7 +1688,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:40~14:40\n定員変更\n定員：12名"
+    "note": "13:40~14:40\n定員変更\n定員：12名",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1612,7 +1706,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19"
+    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1629,7 +1724,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "11:40~12:40"
+    "note": "11:40~12:40",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1646,7 +1742,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:40~14:40\n定員変更\n定員：12名"
+    "note": "13:40~14:40\n定員変更\n定員：12名",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1663,7 +1760,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19"
+    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1680,7 +1778,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "11:40~12:40"
+    "note": "11:40~12:40",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1697,7 +1796,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:40~14:40\n定員変更\n定員：12名"
+    "note": "13:40~14:40\n定員変更\n定員：12名",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1714,7 +1814,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19"
+    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1731,7 +1832,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "11:40~12:40"
+    "note": "11:40~12:40",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1748,7 +1850,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:40~14:40\n定員変更\n定員：12名"
+    "note": "13:40~14:40\n定員変更\n定員：12名",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1765,7 +1868,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19"
+    "note": "定員：12名\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり / 6/5・19",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1782,7 +1886,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "9:30~10:20"
+    "note": "9:30~10:20",
+    "instructor_id": "i872"
   },
   {
     "gym_id": "asurie",
@@ -1799,7 +1904,8 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "7人の専用コーズ\n11:15~11:45"
+    "note": "7人の専用コーズ\n11:15~11:45",
+    "instructor_id": "i863"
   },
   {
     "gym_id": "asurie",
@@ -1816,6 +1922,7 @@
     "studio": "ウエイクスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "(41式・八法五歩)\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり"
+    "note": "(41式・八法五歩)\n※7人を使用して自由に泳げるコーズ\n※7人の貸出あり",
+    "instructor_id": "i873"
   }
 ]

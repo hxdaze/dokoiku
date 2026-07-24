@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19419"
   },
   {
     "gym_id": "raysports",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i11812"
   },
   {
     "gym_id": "raysports",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19420"
   },
   {
     "gym_id": "raysports",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i19421"
   },
   {
     "gym_id": "raysports",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -150,7 +158,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -167,7 +176,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -184,7 +194,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": "池上"
+    "note": "池上",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": "池上"
+    "note": "池上",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -252,7 +266,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "片岡"
+    "note": "片岡",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": "GAKU"
+    "note": "GAKU",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": "赤井"
+    "note": "赤井",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": "折戸"
+    "note": "折戸",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "健康",
-    "note": "GAKU"
+    "note": "GAKU",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -371,7 +392,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "戸田"
+    "note": "戸田",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -388,7 +410,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "戸田"
+    "note": "戸田",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -405,7 +428,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "井上"
+    "note": "井上",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -422,7 +446,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "井上"
+    "note": "井上",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -439,7 +464,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "井上"
+    "note": "井上",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -456,7 +482,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "中尾"
+    "note": "中尾",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -473,7 +500,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "中尾"
+    "note": "中尾",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -490,7 +518,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "井上"
+    "note": "井上",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -507,7 +536,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "井上"
+    "note": "井上",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -524,7 +554,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "井上"
+    "note": "井上",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "40分間"
+    "note": "40分間",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "40分間"
+    "note": "40分間",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "45分間"
+    "note": "45分間",
+    "instructor_id": "i11807"
   },
   {
     "gym_id": "raysports",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "45分間"
+    "note": "45分間",
+    "instructor_id": "i19420"
   },
   {
     "gym_id": "raysports",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "40分間"
+    "note": "40分間",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "40分間"
+    "note": "40分間",
+    "instructor_id": "i19422"
   },
   {
     "gym_id": "raysports",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "45分間"
+    "note": "45分間",
+    "instructor_id": "i19423"
   },
   {
     "gym_id": "raysports",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "30分間"
+    "note": "30分間",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "30分間"
+    "note": "30分間",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "30分間"
+    "note": "30分間",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "★～"
+    "note": "★～",
+    "instructor_id": "i19424"
   },
   {
     "gym_id": "raysports",
@@ -728,7 +770,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "★★"
+    "note": "★★",
+    "instructor_id": "i19425"
   },
   {
     "gym_id": "raysports",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "★"
+    "note": "★",
+    "instructor_id": "i19425"
   },
   {
     "gym_id": "raysports",
@@ -762,7 +806,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "★"
+    "note": "★",
+    "instructor_id": "i4804"
   },
   {
     "gym_id": "raysports",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "★★～"
+    "note": "★★～",
+    "instructor_id": "i4804"
   },
   {
     "gym_id": "raysports",
@@ -796,7 +842,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -813,7 +860,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "★★～"
+    "note": "★★～",
+    "instructor_id": "i11807"
   },
   {
     "gym_id": "raysports",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "★★～"
+    "note": "★★～",
+    "instructor_id": "i19426"
   },
   {
     "gym_id": "raysports",
@@ -847,7 +896,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級★★"
+    "note": "初級★★",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -864,7 +914,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級★★"
+    "note": "初級★★",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -881,7 +932,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "中級★★★"
+    "note": "中級★★★",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -898,7 +950,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "中級★★★"
+    "note": "中級★★★",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -915,7 +968,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19422"
   },
   {
     "gym_id": "raysports",
@@ -932,7 +986,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19422"
   },
   {
     "gym_id": "raysports",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19422"
   },
   {
     "gym_id": "raysports",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19427"
   },
   {
     "gym_id": "raysports",
@@ -983,7 +1040,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19423"
   },
   {
     "gym_id": "raysports",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "レッスン変更"
+    "note": "レッスン変更",
+    "instructor_id": "i19428"
   },
   {
     "gym_id": "raysports",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19426"
   },
   {
     "gym_id": "raysports",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19421"
   },
   {
     "gym_id": "raysports",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11807"
   },
   {
     "gym_id": "raysports",
@@ -1085,7 +1148,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19429"
   },
   {
     "gym_id": "raysports",
@@ -1102,7 +1166,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19429"
   },
   {
     "gym_id": "raysports",
@@ -1119,7 +1184,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19429"
   },
   {
     "gym_id": "raysports",
@@ -1136,7 +1202,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19430"
   },
   {
     "gym_id": "raysports",
@@ -1153,7 +1220,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19430"
   },
   {
     "gym_id": "raysports",
@@ -1170,7 +1238,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19431"
   },
   {
     "gym_id": "raysports",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i233"
   },
   {
     "gym_id": "raysports",
@@ -1204,7 +1274,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19432"
   },
   {
     "gym_id": "raysports",
@@ -1221,7 +1292,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19432"
   },
   {
     "gym_id": "raysports",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11807"
   },
   {
     "gym_id": "raysports",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -1272,7 +1346,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18010"
   },
   {
     "gym_id": "raysports",
@@ -1289,7 +1364,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18010"
   },
   {
     "gym_id": "raysports",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -1357,7 +1436,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ジム",
-    "note": "当:週替わり"
+    "note": "当:週替わり",
+    "instructor_id": null
   },
   {
     "gym_id": "raysports",
@@ -1374,6 +1454,7 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "当:週替わり"
+    "note": "当:週替わり",
+    "instructor_id": null
   }
 ]

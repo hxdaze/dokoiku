@@ -14,7 +14,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -31,7 +32,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -48,7 +50,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -65,7 +68,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -82,7 +86,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -99,7 +104,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -116,7 +122,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -133,7 +140,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -150,7 +158,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -167,7 +176,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -184,7 +194,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -201,7 +212,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -218,7 +230,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -235,7 +248,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11591"
   },
   {
     "gym_id": "megalos",
@@ -252,7 +266,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -269,7 +284,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -286,7 +302,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -303,7 +320,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -320,7 +338,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -337,7 +356,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -354,7 +374,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -371,7 +392,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -388,7 +410,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -405,7 +428,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -422,7 +446,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -439,7 +464,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -456,7 +482,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -473,7 +500,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -490,7 +518,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11591"
   },
   {
     "gym_id": "megalos",
@@ -507,7 +536,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -524,7 +554,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -541,7 +572,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -558,7 +590,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -575,7 +608,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -592,7 +626,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -609,7 +644,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -626,7 +662,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -643,7 +680,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -660,7 +698,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -677,7 +716,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -694,7 +734,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -711,7 +752,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11591"
   },
   {
     "gym_id": "megalos",
@@ -728,7 +770,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -745,7 +788,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -762,7 +806,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -779,7 +824,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -796,7 +842,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -813,7 +860,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -830,7 +878,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -847,7 +896,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -864,7 +914,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -881,7 +932,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -898,7 +950,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -915,7 +968,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -932,7 +986,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17530"
   },
   {
     "gym_id": "megalos",
@@ -949,7 +1004,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11591"
   },
   {
     "gym_id": "megalos",
@@ -966,7 +1022,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -983,7 +1040,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1000,7 +1058,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1017,7 +1076,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "パーソナルコーチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1034,7 +1094,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1051,7 +1112,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1068,7 +1130,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1085,7 +1148,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "ゼミ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1102,7 +1166,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "小川",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1119,7 +1184,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "小川",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1136,7 +1202,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1153,7 +1220,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1170,7 +1238,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1187,7 +1256,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1204,7 +1274,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1221,7 +1292,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1238,7 +1310,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1255,7 +1328,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1272,7 +1346,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1289,7 +1364,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1306,7 +1382,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1323,7 +1400,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1340,7 +1418,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1357,7 +1436,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1374,7 +1454,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1391,7 +1472,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -1408,7 +1490,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17532"
   },
   {
     "gym_id": "megalos",
@@ -1425,7 +1508,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17532"
   },
   {
     "gym_id": "megalos",
@@ -1442,7 +1526,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -1459,7 +1544,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -1476,7 +1562,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -1493,7 +1580,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -1510,7 +1598,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "休講",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1527,7 +1616,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "おがわ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1544,7 +1634,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "まえだ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1561,7 +1652,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "細野",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1578,7 +1670,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "小室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1595,7 +1688,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4539"
   },
   {
     "gym_id": "megalos",
@@ -1612,7 +1706,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1629,7 +1724,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17532"
   },
   {
     "gym_id": "megalos",
@@ -1646,7 +1742,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17531"
   },
   {
     "gym_id": "megalos",
@@ -1663,7 +1760,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "たけだ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17533"
   },
   {
     "gym_id": "megalos",
@@ -1680,7 +1778,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "パーソナルコーチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i17532"
   },
   {
     "gym_id": "megalos",
@@ -1697,7 +1796,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "おがわ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1714,7 +1814,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "こむろ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1731,7 +1832,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -1748,7 +1850,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17532"
   },
   {
     "gym_id": "megalos",
@@ -1765,7 +1868,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -1782,7 +1886,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -1799,7 +1904,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17532"
   },
   {
     "gym_id": "megalos",
@@ -1816,7 +1922,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i17529"
   },
   {
     "gym_id": "megalos",
@@ -1833,7 +1940,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "前田",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1850,7 +1958,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4539"
   },
   {
     "gym_id": "megalos",
@@ -1867,7 +1976,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "最上級",
-    "note": null
+    "note": null,
+    "instructor_id": "i4539"
   },
   {
     "gym_id": "megalos",
@@ -1884,7 +1994,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1901,7 +2012,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1918,7 +2030,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1935,7 +2048,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1952,7 +2066,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1969,7 +2084,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1986,7 +2102,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2003,7 +2120,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2020,7 +2138,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -2037,7 +2156,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17534"
   },
   {
     "gym_id": "megalos",
@@ -2054,7 +2174,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17535"
   },
   {
     "gym_id": "megalos",
@@ -2071,7 +2192,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2088,7 +2210,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -2105,7 +2228,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17534"
   },
   {
     "gym_id": "megalos",
@@ -2122,7 +2246,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -2139,7 +2264,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2156,7 +2282,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2173,7 +2300,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -2190,7 +2318,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2207,7 +2336,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -2224,7 +2354,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2241,7 +2372,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -2258,7 +2390,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2275,7 +2408,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -2292,7 +2426,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2309,7 +2444,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -2326,7 +2462,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -2343,7 +2480,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17536"
   },
   {
     "gym_id": "megalos",
@@ -2360,7 +2498,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17537"
   },
   {
     "gym_id": "megalos",
@@ -2377,7 +2516,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2394,7 +2534,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17538"
   },
   {
     "gym_id": "megalos",
@@ -2411,7 +2552,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17537"
   },
   {
     "gym_id": "megalos",
@@ -2428,7 +2570,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17539"
   },
   {
     "gym_id": "megalos",
@@ -2445,7 +2588,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17540"
   },
   {
     "gym_id": "megalos",
@@ -2462,7 +2606,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17537"
   },
   {
     "gym_id": "megalos",
@@ -2479,7 +2624,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17540"
   },
   {
     "gym_id": "megalos",
@@ -2496,7 +2642,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17537"
   },
   {
     "gym_id": "megalos",
@@ -2513,7 +2660,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17541"
   },
   {
     "gym_id": "megalos",
@@ -2530,7 +2678,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17541"
   },
   {
     "gym_id": "megalos",
@@ -2547,7 +2696,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17542"
   },
   {
     "gym_id": "megalos",
@@ -2564,7 +2714,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17542"
   },
   {
     "gym_id": "megalos",
@@ -2581,7 +2732,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -2598,7 +2750,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17544"
   },
   {
     "gym_id": "megalos",
@@ -2615,7 +2768,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17542"
   },
   {
     "gym_id": "megalos",
@@ -2632,7 +2786,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17542"
   },
   {
     "gym_id": "megalos",
@@ -2649,7 +2804,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17542"
   },
   {
     "gym_id": "megalos",
@@ -2666,7 +2822,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17542"
   },
   {
     "gym_id": "megalos",
@@ -2683,7 +2840,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17545"
   },
   {
     "gym_id": "megalos",
@@ -2700,7 +2858,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -2717,7 +2876,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -2734,7 +2894,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -2751,7 +2912,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -2768,7 +2930,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17547"
   },
   {
     "gym_id": "megalos",
@@ -2785,7 +2948,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17548"
   },
   {
     "gym_id": "megalos",
@@ -2802,7 +2966,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17548"
   },
   {
     "gym_id": "megalos",
@@ -2819,7 +2984,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17197"
   },
   {
     "gym_id": "megalos",
@@ -2836,7 +3002,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17549"
   },
   {
     "gym_id": "megalos",
@@ -2853,7 +3020,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -2870,7 +3038,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -2887,7 +3056,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17551"
   },
   {
     "gym_id": "megalos",
@@ -2904,7 +3074,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17552"
   },
   {
     "gym_id": "megalos",
@@ -2921,7 +3092,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -2938,7 +3110,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -2955,7 +3128,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -2972,7 +3146,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17554"
   },
   {
     "gym_id": "megalos",
@@ -2989,7 +3164,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3006,7 +3182,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3023,7 +3200,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -3040,7 +3218,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -3057,7 +3236,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -3074,7 +3254,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -3091,7 +3272,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17408"
   },
   {
     "gym_id": "megalos",
@@ -3108,7 +3290,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17551"
   },
   {
     "gym_id": "megalos",
@@ -3125,7 +3308,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -3142,7 +3326,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17541"
   },
   {
     "gym_id": "megalos",
@@ -3159,7 +3344,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17552"
   },
   {
     "gym_id": "megalos",
@@ -3176,7 +3362,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3193,7 +3380,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -3210,7 +3398,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -3227,7 +3416,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17554"
   },
   {
     "gym_id": "megalos",
@@ -3244,7 +3434,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3261,7 +3452,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3278,7 +3470,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -3295,7 +3488,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -3312,7 +3506,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -3329,7 +3524,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17551"
   },
   {
     "gym_id": "megalos",
@@ -3346,7 +3542,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -3363,7 +3560,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17552"
   },
   {
     "gym_id": "megalos",
@@ -3380,7 +3578,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3397,7 +3596,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -3414,7 +3614,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -3431,7 +3632,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17554"
   },
   {
     "gym_id": "megalos",
@@ -3448,7 +3650,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3465,7 +3668,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3482,7 +3686,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -3499,7 +3704,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -3516,7 +3722,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -3533,7 +3740,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17551"
   },
   {
     "gym_id": "megalos",
@@ -3550,7 +3758,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -3567,7 +3776,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17552"
   },
   {
     "gym_id": "megalos",
@@ -3584,7 +3794,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3601,7 +3812,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -3618,7 +3830,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -3635,7 +3848,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17554"
   },
   {
     "gym_id": "megalos",
@@ -3652,7 +3866,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3669,7 +3884,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3686,7 +3902,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -3703,7 +3920,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -3720,7 +3938,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -3737,7 +3956,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17551"
   },
   {
     "gym_id": "megalos",
@@ -3754,7 +3974,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -3771,7 +3992,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17552"
   },
   {
     "gym_id": "megalos",
@@ -3788,7 +4010,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -3805,7 +4028,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -3822,7 +4046,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -3839,7 +4064,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17554"
   },
   {
     "gym_id": "megalos",
@@ -3856,7 +4082,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタータクラス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -3873,7 +4100,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アトハンスクラス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -3890,7 +4118,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタータクラス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -3907,7 +4136,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Blast",
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i4243"
   },
   {
     "gym_id": "megalos",
@@ -3924,7 +4154,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Blast",
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i4243"
   },
   {
     "gym_id": "megalos",
@@ -3941,7 +4172,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "infinity flow",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -3958,7 +4190,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アトハンスクラス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -3975,7 +4208,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アトハンスクラス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -3992,7 +4226,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": "13:15-13:30"
+    "note": "13:15-13:30",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4009,7 +4244,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタータクラス",
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i3421"
   },
   {
     "gym_id": "megalos",
@@ -4026,7 +4262,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4043,7 +4280,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4060,7 +4298,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スタータクラス",
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i3421"
   },
   {
     "gym_id": "megalos",
@@ -4077,7 +4316,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4094,7 +4334,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "VOLTBOX",
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -4111,7 +4352,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4128,7 +4370,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4145,7 +4388,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4162,7 +4406,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "VOLTBOX",
-    "note": null
+    "note": null,
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -4179,7 +4424,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4196,7 +4442,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4213,7 +4460,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4230,7 +4478,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4247,7 +4496,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "VOLTBOX",
-    "note": null
+    "note": null,
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -4264,7 +4514,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4281,7 +4532,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4298,7 +4550,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4315,7 +4568,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4332,7 +4586,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "VOLTBOX",
-    "note": null
+    "note": null,
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -4349,7 +4604,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4366,7 +4622,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4383,7 +4640,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4400,7 +4658,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4417,7 +4676,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "VOLTBOX",
-    "note": null
+    "note": null,
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -4434,7 +4694,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4451,7 +4712,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4468,7 +4730,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4485,7 +4748,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4502,7 +4766,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "VOLTBOX",
-    "note": null
+    "note": null,
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -4519,7 +4784,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4536,7 +4802,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4553,7 +4820,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "VOLTBOX",
-    "note": null
+    "note": null,
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -4570,7 +4838,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4587,7 +4856,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Groove",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4604,7 +4874,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4621,7 +4892,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "TOBIPPA",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4638,7 +4910,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "Group Fight",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -4655,7 +4928,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -4672,7 +4946,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i3421"
   },
   {
     "gym_id": "megalos",
@@ -4689,7 +4964,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17557"
   },
   {
     "gym_id": "megalos",
@@ -4706,7 +4982,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4723,7 +5000,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i3421"
   },
   {
     "gym_id": "megalos",
@@ -4740,7 +5018,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17557"
   },
   {
     "gym_id": "megalos",
@@ -4757,7 +5036,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17555"
   },
   {
     "gym_id": "megalos",
@@ -4774,7 +5054,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -4791,7 +5072,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17559"
   },
   {
     "gym_id": "megalos",
@@ -4808,7 +5090,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者、時間変更"
+    "note": "※担当者、時間変更",
+    "instructor_id": "i17560"
   },
   {
     "gym_id": "megalos",
@@ -4825,7 +5108,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -4842,7 +5126,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -4859,7 +5144,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17559"
   },
   {
     "gym_id": "megalos",
@@ -4876,7 +5162,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -4893,7 +5180,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17561"
   },
   {
     "gym_id": "megalos",
@@ -4910,7 +5198,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i3540"
   },
   {
     "gym_id": "megalos",
@@ -4927,7 +5216,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -4944,7 +5234,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17559"
   },
   {
     "gym_id": "megalos",
@@ -4961,7 +5252,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17559"
   },
   {
     "gym_id": "megalos",
@@ -4978,7 +5270,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17557"
   },
   {
     "gym_id": "megalos",
@@ -4995,7 +5288,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17561"
   },
   {
     "gym_id": "megalos",
@@ -5012,7 +5306,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i3540"
   },
   {
     "gym_id": "megalos",
@@ -5029,7 +5324,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -5046,7 +5342,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "※担当者変更"
+    "note": "※担当者変更",
+    "instructor_id": "i3540"
   },
   {
     "gym_id": "megalos",
@@ -5063,7 +5360,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5080,7 +5378,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Hip & Legs",
-    "note": null
+    "note": null,
+    "instructor_id": "i3421"
   },
   {
     "gym_id": "megalos",
@@ -5097,7 +5396,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5114,7 +5414,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5131,7 +5432,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Hip & Legs",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -5148,7 +5450,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5165,7 +5468,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5182,7 +5486,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5199,7 +5504,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5216,7 +5522,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5233,7 +5540,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5250,7 +5558,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5267,7 +5576,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5284,7 +5594,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5301,7 +5612,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5318,7 +5630,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5335,7 +5648,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5352,7 +5666,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5369,7 +5684,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5386,7 +5702,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5403,7 +5720,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Hip & Legs",
-    "note": null
+    "note": null,
+    "instructor_id": "i17562"
   },
   {
     "gym_id": "megalos",
@@ -5420,7 +5738,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5437,7 +5756,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5454,7 +5774,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5471,7 +5792,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5488,7 +5810,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5505,7 +5828,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5522,7 +5846,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5539,7 +5864,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5556,7 +5882,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5573,7 +5900,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5590,7 +5918,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5607,7 +5936,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5624,7 +5954,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5641,7 +5972,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5658,7 +5990,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5675,7 +6008,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5692,7 +6026,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5709,7 +6044,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5726,7 +6062,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5743,7 +6080,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5760,7 +6098,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5777,7 +6116,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5794,7 +6134,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5811,7 +6152,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5828,7 +6170,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5845,7 +6188,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5862,7 +6206,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5879,7 +6224,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5896,7 +6242,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5913,7 +6260,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5930,7 +6278,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5947,7 +6296,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5964,7 +6314,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5981,7 +6332,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -5998,7 +6350,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -6015,7 +6368,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -6032,7 +6386,8 @@
     "studio": "Reffe Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -6049,7 +6404,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6066,7 +6422,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6083,7 +6440,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6100,7 +6458,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6117,7 +6476,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6134,7 +6494,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6151,7 +6512,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6168,7 +6530,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6185,7 +6548,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6202,7 +6566,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6219,7 +6584,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6236,7 +6602,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6253,7 +6620,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6270,7 +6638,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6287,7 +6656,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6304,7 +6674,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6321,7 +6692,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "背骨や骨盤周りをリラックスさせ、姿勢改善を目指すプログラム"
+    "note": "背骨や骨盤周りをリラックスさせ、姿勢改善を目指すプログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6338,7 +6710,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "人のカラダにフィットするリングで筋膜リリースやストレッチを行うプログラム"
+    "note": "人のカラダにフィットするリングで筋膜リリースやストレッチを行うプログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6355,7 +6728,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "下半身の筋膜リリースを行うプログラム。むくみが気になる方や、関節を動かしやすくしたい方におすすめ。"
+    "note": "下半身の筋膜リリースを行うプログラム。むくみが気になる方や、関節を動かしやすくしたい方におすすめ。",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6372,7 +6746,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "MTGの人気商品「Powergun」を使用し、筋肉をほぐしていくプログラム"
+    "note": "MTGの人気商品「Powergun」を使用し、筋肉をほぐしていくプログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6389,7 +6764,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "全身の疲労回復に！血流の増大、関節可動域の拡大 老廃物の除去・筋肉痛の軽減など期待大！"
+    "note": "全身の疲労回復に！血流の増大、関節可動域の拡大 老廃物の除去・筋肉痛の軽減など期待大！",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6406,7 +6782,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6423,7 +6800,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6440,7 +6818,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6457,7 +6836,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6474,7 +6854,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4326"
   },
   {
     "gym_id": "megalos",
@@ -6491,7 +6872,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6508,7 +6890,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6525,7 +6908,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6542,7 +6926,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6559,7 +6944,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6576,7 +6962,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6593,7 +6980,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6610,7 +6998,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6627,7 +7016,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6644,7 +7034,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6661,7 +7052,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6678,7 +7070,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6695,7 +7088,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6712,7 +7106,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6729,7 +7124,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6746,7 +7142,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6763,7 +7160,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "中級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6780,7 +7178,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6797,7 +7196,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6814,7 +7214,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6831,7 +7232,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "上級",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6848,7 +7250,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "前田",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6865,7 +7268,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "イベント",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6882,7 +7286,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "たけだ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -6899,7 +7304,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -6916,7 +7322,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -6933,7 +7340,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17563"
   },
   {
     "gym_id": "megalos",
@@ -6950,7 +7358,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17564"
   },
   {
     "gym_id": "megalos",
@@ -6967,7 +7376,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -6984,7 +7394,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17563"
   },
   {
     "gym_id": "megalos",
@@ -7001,7 +7412,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17564"
   },
   {
     "gym_id": "megalos",
@@ -7018,7 +7430,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7035,7 +7448,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17563"
   },
   {
     "gym_id": "megalos",
@@ -7052,7 +7466,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17564"
   },
   {
     "gym_id": "megalos",
@@ -7069,7 +7484,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7086,7 +7502,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7103,7 +7520,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7120,7 +7538,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7137,7 +7556,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7154,7 +7574,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7171,7 +7592,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7188,7 +7610,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7205,7 +7628,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7222,7 +7646,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7239,7 +7664,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7256,7 +7682,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7273,7 +7700,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7290,7 +7718,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7307,7 +7736,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7324,7 +7754,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -7341,7 +7772,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7358,7 +7790,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7375,7 +7808,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7392,7 +7826,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7409,7 +7844,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7426,7 +7862,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7443,7 +7880,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i26"
   },
   {
     "gym_id": "megalos",
@@ -7460,7 +7898,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17565"
   },
   {
     "gym_id": "megalos",
@@ -7477,7 +7916,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "初級：土屋 / 有料登録制"
+    "note": "初級：土屋 / 有料登録制",
+    "instructor_id": "i17566"
   },
   {
     "gym_id": "megalos",
@@ -7494,7 +7934,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "初級：土屋 / 有料登録制"
+    "note": "初級：土屋 / 有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7511,7 +7952,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7528,7 +7970,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "初級：福田 / 有料登録制"
+    "note": "初級：福田 / 有料登録制",
+    "instructor_id": "i3765"
   },
   {
     "gym_id": "megalos",
@@ -7545,7 +7988,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": "i6925"
   },
   {
     "gym_id": "megalos",
@@ -7562,7 +8006,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17566"
   },
   {
     "gym_id": "megalos",
@@ -7579,7 +8024,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": "i3765"
   },
   {
     "gym_id": "megalos",
@@ -7596,7 +8042,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "初級：土屋 / 有料登録制"
+    "note": "初級：土屋 / 有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7613,7 +8060,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "初級：土屋 / 有料登録制"
+    "note": "初級：土屋 / 有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7630,7 +8078,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7647,7 +8096,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17567"
   },
   {
     "gym_id": "megalos",
@@ -7664,7 +8114,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11262"
   },
   {
     "gym_id": "megalos",
@@ -7681,7 +8132,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11262"
   },
   {
     "gym_id": "megalos",
@@ -7698,7 +8150,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "上級：高嶋 / 有料登録制"
+    "note": "上級：高嶋 / 有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7715,7 +8168,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": "i6925"
   },
   {
     "gym_id": "megalos",
@@ -7732,7 +8186,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7749,7 +8204,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7766,7 +8222,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17568"
   },
   {
     "gym_id": "megalos",
@@ -7783,7 +8240,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17569"
   },
   {
     "gym_id": "megalos",
@@ -7800,7 +8258,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": "i3058"
   },
   {
     "gym_id": "megalos",
@@ -7817,7 +8276,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "中級：近藤 / 有料登録制"
+    "note": "中級：近藤 / 有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7834,7 +8294,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "初級：福田 / 有料登録制"
+    "note": "初級：福田 / 有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -7851,7 +8312,8 @@
     "studio": "スイミング",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": "i17570"
   },
   {
     "gym_id": "megalos",
@@ -7868,7 +8330,8 @@
     "studio": "スケールプール",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": "i3452"
   },
   {
     "gym_id": "megalos",
@@ -7885,7 +8348,8 @@
     "studio": "スケールプール",
     "reservation_required": true,
     "genre": null,
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": "i3452"
   },
   {
     "gym_id": "megalos",
@@ -7902,7 +8366,8 @@
     "studio": "メンバープール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17567"
   },
   {
     "gym_id": "megalos",
@@ -7919,7 +8384,8 @@
     "studio": "メンバープール",
     "reservation_required": false,
     "genre": null,
-    "note": "2歳20分"
+    "note": "2歳20分",
+    "instructor_id": "i3452"
   },
   {
     "gym_id": "megalos",
@@ -7936,7 +8402,8 @@
     "studio": "メンバープール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17567"
   },
   {
     "gym_id": "megalos",
@@ -7953,7 +8420,8 @@
     "studio": "メンバープール",
     "reservation_required": false,
     "genre": null,
-    "note": "2歳20分"
+    "note": "2歳20分",
+    "instructor_id": "i3452"
   },
   {
     "gym_id": "megalos",
@@ -7970,7 +8438,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17571"
   },
   {
     "gym_id": "megalos",
@@ -7987,7 +8456,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17571"
   },
   {
     "gym_id": "megalos",
@@ -8004,7 +8474,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17571"
   },
   {
     "gym_id": "megalos",
@@ -8021,7 +8492,8 @@
     "studio": "スイミング",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17571"
   },
   {
     "gym_id": "megalos",
@@ -8038,7 +8510,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i13759"
   },
   {
     "gym_id": "megalos",
@@ -8055,7 +8528,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -8072,7 +8546,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17572"
   },
   {
     "gym_id": "megalos",
@@ -8089,7 +8564,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17572"
   },
   {
     "gym_id": "megalos",
@@ -8106,7 +8582,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17573"
   },
   {
     "gym_id": "megalos",
@@ -8123,7 +8600,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7655"
   },
   {
     "gym_id": "megalos",
@@ -8140,7 +8618,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17545"
   },
   {
     "gym_id": "megalos",
@@ -8157,7 +8636,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17574"
   },
   {
     "gym_id": "megalos",
@@ -8174,7 +8654,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -8191,7 +8672,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17575"
   },
   {
     "gym_id": "megalos",
@@ -8208,7 +8690,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17576"
   },
   {
     "gym_id": "megalos",
@@ -8225,7 +8708,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17577"
   },
   {
     "gym_id": "megalos",
@@ -8242,7 +8726,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17577"
   },
   {
     "gym_id": "megalos",
@@ -8259,7 +8744,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17541"
   },
   {
     "gym_id": "megalos",
@@ -8276,7 +8762,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3552"
   },
   {
     "gym_id": "megalos",
@@ -8293,7 +8780,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i11000"
   },
   {
     "gym_id": "megalos",
@@ -8310,7 +8798,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -8327,7 +8816,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17544"
   },
   {
     "gym_id": "megalos",
@@ -8344,7 +8834,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -8361,7 +8852,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -8378,7 +8870,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17553"
   },
   {
     "gym_id": "megalos",
@@ -8395,7 +8888,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[映像 定員30名]"
+    "note": "[映像 定員30名]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -8412,7 +8906,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[映像 定員30名]"
+    "note": "[映像 定員30名]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -8429,7 +8924,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17578"
   },
   {
     "gym_id": "megalos",
@@ -8446,7 +8942,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17578"
   },
   {
     "gym_id": "megalos",
@@ -8463,7 +8960,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17579"
   },
   {
     "gym_id": "megalos",
@@ -8480,7 +8978,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17197"
   },
   {
     "gym_id": "megalos",
@@ -8497,7 +8996,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -8514,7 +9014,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -8531,7 +9032,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i11502"
   },
   {
     "gym_id": "megalos",
@@ -8548,7 +9050,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17580"
   },
   {
     "gym_id": "megalos",
@@ -8565,7 +9068,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17581"
   },
   {
     "gym_id": "megalos",
@@ -8582,7 +9086,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -8599,7 +9104,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17582"
   },
   {
     "gym_id": "megalos",
@@ -8616,7 +9122,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -8633,7 +9140,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -8650,7 +9158,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17579"
   },
   {
     "gym_id": "megalos",
@@ -8667,7 +9176,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17197"
   },
   {
     "gym_id": "megalos",
@@ -8684,7 +9194,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -8701,7 +9212,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -8718,7 +9230,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i11502"
   },
   {
     "gym_id": "megalos",
@@ -8735,7 +9248,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17580"
   },
   {
     "gym_id": "megalos",
@@ -8752,7 +9266,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17581"
   },
   {
     "gym_id": "megalos",
@@ -8769,7 +9284,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -8786,7 +9302,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17582"
   },
   {
     "gym_id": "megalos",
@@ -8803,7 +9320,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -8820,7 +9338,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -8837,7 +9356,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -8854,7 +9374,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17579"
   },
   {
     "gym_id": "megalos",
@@ -8871,7 +9392,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17197"
   },
   {
     "gym_id": "megalos",
@@ -8888,7 +9410,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17550"
   },
   {
     "gym_id": "megalos",
@@ -8905,7 +9428,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17543"
   },
   {
     "gym_id": "megalos",
@@ -8922,7 +9446,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i11502"
   },
   {
     "gym_id": "megalos",
@@ -8939,7 +9464,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17580"
   },
   {
     "gym_id": "megalos",
@@ -8956,7 +9482,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17581"
   },
   {
     "gym_id": "megalos",
@@ -8973,7 +9500,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -8990,7 +9518,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17582"
   },
   {
     "gym_id": "megalos",
@@ -9007,7 +9536,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -9024,7 +9554,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -9041,7 +9572,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -9058,7 +9590,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "[定員制]"
+    "note": "[定員制]",
+    "instructor_id": "i17197"
   },
   {
     "gym_id": "megalos",
@@ -9075,7 +9608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9092,7 +9626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -9109,7 +9644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -9126,7 +9662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -9143,7 +9680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17583"
   },
   {
     "gym_id": "megalos",
@@ -9160,7 +9698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -9177,7 +9716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -9194,7 +9734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17559"
   },
   {
     "gym_id": "megalos",
@@ -9211,7 +9752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "女性限定"
+    "note": "女性限定",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -9228,7 +9770,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17559"
   },
   {
     "gym_id": "megalos",
@@ -9245,7 +9788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17560"
   },
   {
     "gym_id": "megalos",
@@ -9262,7 +9806,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9279,7 +9824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17560"
   },
   {
     "gym_id": "megalos",
@@ -9296,7 +9842,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -9313,7 +9860,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17584"
   },
   {
     "gym_id": "megalos",
@@ -9330,7 +9878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17557"
   },
   {
     "gym_id": "megalos",
@@ -9347,7 +9896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "女性限定"
+    "note": "女性限定",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -9364,7 +9914,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:15-13:30"
+    "note": "13:15-13:30",
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -9381,7 +9932,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "ご入会から1ヶ月目の方ご参加クラス"
+    "note": "ご入会から1ヶ月目の方ご参加クラス",
+    "instructor_id": "i3421"
   },
   {
     "gym_id": "megalos",
@@ -9398,7 +9950,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "15:45-16:15"
+    "note": "15:45-16:15",
+    "instructor_id": "i3421"
   },
   {
     "gym_id": "megalos",
@@ -9415,7 +9968,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "ご入会から2~3ヶ月目の方ご参加クラス"
+    "note": "ご入会から2~3ヶ月目の方ご参加クラス",
+    "instructor_id": "i17584"
   },
   {
     "gym_id": "megalos",
@@ -9432,7 +9986,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "21:00-21:30 / 女性限定"
+    "note": "21:00-21:30 / 女性限定",
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9449,7 +10004,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "21:45-22:30"
+    "note": "21:45-22:30",
+    "instructor_id": "i17557"
   },
   {
     "gym_id": "megalos",
@@ -9466,7 +10022,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:45-14:00"
+    "note": "13:45-14:00",
+    "instructor_id": "i17559"
   },
   {
     "gym_id": "megalos",
@@ -9483,7 +10040,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:45-14:00"
+    "note": "13:45-14:00",
+    "instructor_id": "i17560"
   },
   {
     "gym_id": "megalos",
@@ -9500,7 +10058,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:45-14:00"
+    "note": "13:45-14:00",
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9517,7 +10076,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:45-14:00"
+    "note": "13:45-14:00",
+    "instructor_id": "i17546"
   },
   {
     "gym_id": "megalos",
@@ -9534,7 +10094,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:45-14:00"
+    "note": "13:45-14:00",
+    "instructor_id": "i17558"
   },
   {
     "gym_id": "megalos",
@@ -9551,7 +10112,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:45-14:00"
+    "note": "13:45-14:00",
+    "instructor_id": "i17559"
   },
   {
     "gym_id": "megalos",
@@ -9568,7 +10130,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:45-14:00"
+    "note": "13:45-14:00",
+    "instructor_id": "i17557"
   },
   {
     "gym_id": "megalos",
@@ -9585,7 +10148,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:45-14:00"
+    "note": "13:45-14:00",
+    "instructor_id": "i11612"
   },
   {
     "gym_id": "megalos",
@@ -9602,7 +10166,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "16:50-17:10"
+    "note": "16:50-17:10",
+    "instructor_id": "i11612"
   },
   {
     "gym_id": "megalos",
@@ -9619,7 +10184,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -9636,7 +10202,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hip & Legs",
-    "note": null
+    "note": null,
+    "instructor_id": "i3421"
   },
   {
     "gym_id": "megalos",
@@ -9653,7 +10220,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -9670,7 +10238,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hip & Legs",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9687,7 +10256,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9704,7 +10274,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i17585"
   },
   {
     "gym_id": "megalos",
@@ -9721,7 +10292,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -9738,7 +10310,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hip & Legs",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9755,7 +10328,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9772,7 +10346,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hot Yoga",
-    "note": null
+    "note": null,
+    "instructor_id": "i7893"
   },
   {
     "gym_id": "megalos",
@@ -9789,7 +10364,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i17575"
   },
   {
     "gym_id": "megalos",
@@ -9806,7 +10382,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hip & Legs",
-    "note": null
+    "note": null,
+    "instructor_id": "i17575"
   },
   {
     "gym_id": "megalos",
@@ -9823,7 +10400,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -9840,7 +10418,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hot Yoga",
-    "note": null
+    "note": null,
+    "instructor_id": "i17586"
   },
   {
     "gym_id": "megalos",
@@ -9857,7 +10436,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hot Yoga",
-    "note": null
+    "note": null,
+    "instructor_id": "i17586"
   },
   {
     "gym_id": "megalos",
@@ -9874,7 +10454,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -9891,7 +10472,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -9908,7 +10490,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i4247"
   },
   {
     "gym_id": "megalos",
@@ -9925,7 +10508,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hip & Legs",
-    "note": null
+    "note": null,
+    "instructor_id": "i17556"
   },
   {
     "gym_id": "megalos",
@@ -9942,7 +10526,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i17587"
   },
   {
     "gym_id": "megalos",
@@ -9959,7 +10544,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hot Yoga",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -9976,7 +10562,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -9993,7 +10580,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hot Yoga",
-    "note": null
+    "note": null,
+    "instructor_id": "i17588"
   },
   {
     "gym_id": "megalos",
@@ -10010,7 +10598,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Hot Yoga",
-    "note": null
+    "note": null,
+    "instructor_id": "i17589"
   },
   {
     "gym_id": "megalos",
@@ -10027,7 +10616,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Total Basic",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -10044,7 +10634,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -10061,7 +10652,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -10078,7 +10670,8 @@
     "studio": "Refie Studio",
     "reservation_required": true,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i31"
   },
   {
     "gym_id": "megalos",
@@ -10095,7 +10688,8 @@
     "studio": "Refie Studio",
     "reservation_required": false,
     "genre": "VOLTBOX",
-    "note": "ご参加の方は、室内用シューズをご用意の上ご参加ください。"
+    "note": "ご参加の方は、室内用シューズをご用意の上ご参加ください。",
+    "instructor_id": "i17590"
   },
   {
     "gym_id": "megalos",
@@ -10112,7 +10706,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "下半身の筋膜リリースを行うプログラム。むくみが気になる方や、関節を動かしやすくしたい方におすすめ。"
+    "note": "下半身の筋膜リリースを行うプログラム。むくみが気になる方や、関節を動かしやすくしたい方におすすめ。",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10129,7 +10724,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "MTGの人気商品「Powergun」を使用し、筋肉をほぐしていくプログラム"
+    "note": "MTGの人気商品「Powergun」を使用し、筋肉をほぐしていくプログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10146,7 +10742,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "全身の疲労回復に！血流の増大、関節可動域の拡大 老廃物の除去・筋肉痛の軽減など期待大！"
+    "note": "全身の疲労回復に！血流の増大、関節可動域の拡大 老廃物の除去・筋肉痛の軽減など期待大！",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10163,7 +10760,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "スイム",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10180,7 +10778,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "保育園",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10197,7 +10796,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "スイム",
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10214,7 +10814,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i11262"
   },
   {
     "gym_id": "megalos",
@@ -10231,7 +10832,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "スイム",
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10248,7 +10850,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "スイム",
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10265,7 +10868,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": "i17568"
   },
   {
     "gym_id": "megalos",
@@ -10282,7 +10886,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "アクア",
-    "note": "有料登録制"
+    "note": "有料登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10299,7 +10904,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アクア",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10316,7 +10922,8 @@
     "studio": "スケールプール",
     "reservation_required": false,
     "genre": null,
-    "note": "定員20名"
+    "note": "定員20名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -10333,6 +10940,7 @@
     "studio": "スケールプール",
     "reservation_required": false,
     "genre": null,
-    "note": "定員20名"
+    "note": "定員20名",
+    "instructor_id": null
   }
 ]

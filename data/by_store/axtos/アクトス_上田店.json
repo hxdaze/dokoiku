@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1819"
   },
   {
     "gym_id": "axtos",
@@ -31,7 +32,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1820"
   },
   {
     "gym_id": "axtos",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "担当・内容変更"
+    "note": "担当・内容変更",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1821"
   },
   {
     "gym_id": "axtos",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1822"
   },
   {
     "gym_id": "axtos",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "最大8コース使用"
+    "note": "最大8コース使用",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "最大7コース使用"
+    "note": "最大7コース使用",
+    "instructor_id": "i1823"
   },
   {
     "gym_id": "axtos",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1822"
   },
   {
     "gym_id": "axtos",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1824"
   },
   {
     "gym_id": "axtos",
@@ -184,7 +194,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1824"
   },
   {
     "gym_id": "axtos",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "内容変更"
+    "note": "内容変更",
+    "instructor_id": "i1825"
   },
   {
     "gym_id": "axtos",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1826"
   },
   {
     "gym_id": "axtos",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "内容変更"
+    "note": "内容変更",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "内容変更"
+    "note": "内容変更",
+    "instructor_id": "i1825"
   },
   {
     "gym_id": "axtos",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1827"
   },
   {
     "gym_id": "axtos",
@@ -320,7 +338,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1827"
   },
   {
     "gym_id": "axtos",
@@ -337,7 +356,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1828"
   },
   {
     "gym_id": "axtos",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1829"
   },
   {
     "gym_id": "axtos",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1830"
   },
   {
     "gym_id": "axtos",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1830"
   },
   {
     "gym_id": "axtos",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1819"
   },
   {
     "gym_id": "axtos",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "20分"
+    "note": "20分",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1819"
   },
   {
     "gym_id": "axtos",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1819"
   },
   {
     "gym_id": "axtos",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員数拡大"
+    "note": "定員数拡大",
+    "instructor_id": "i1822"
   },
   {
     "gym_id": "axtos",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1831"
   },
   {
     "gym_id": "axtos",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1822"
   },
   {
     "gym_id": "axtos",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "担当・内容変更"
+    "note": "担当・内容変更",
+    "instructor_id": "i1827"
   },
   {
     "gym_id": "axtos",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "担当・内容変更 / 40名"
+    "note": "担当・内容変更 / 40名",
+    "instructor_id": "i1827"
   },
   {
     "gym_id": "axtos",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1832"
   },
   {
     "gym_id": "axtos",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1832"
   },
   {
     "gym_id": "axtos",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "20名"
+    "note": "20名",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1833"
   },
   {
     "gym_id": "axtos",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1833"
   },
   {
     "gym_id": "axtos",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "アクアレッスン",
-    "note": "(全時間最大7コース使用)"
+    "note": "(全時間最大7コース使用)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "40名"
+    "note": "40名",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1831"
   },
   {
     "gym_id": "axtos",
@@ -728,7 +770,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "40名"
+    "note": "40名",
+    "instructor_id": "i1825"
   },
   {
     "gym_id": "axtos",
@@ -745,7 +788,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1829"
   },
   {
     "gym_id": "axtos",
@@ -762,7 +806,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1834"
   },
   {
     "gym_id": "axtos",
@@ -779,7 +824,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -796,7 +842,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1822"
   },
   {
     "gym_id": "axtos",
@@ -813,7 +860,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1822"
   },
   {
     "gym_id": "axtos",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "20分"
+    "note": "20分",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "調整系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1825"
   },
   {
     "gym_id": "axtos",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "有酸素系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1835"
   },
   {
     "gym_id": "axtos",
@@ -881,7 +932,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "有酸素系",
-    "note": null
+    "note": null,
+    "instructor_id": "i1835"
   },
   {
     "gym_id": "axtos",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "調整系",
-    "note": "(定員数拡大)"
+    "note": "(定員数拡大)",
+    "instructor_id": "i1825"
   },
   {
     "gym_id": "axtos",
@@ -915,7 +968,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": "アクアレッスン",
-    "note": "20名"
+    "note": "20名",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -932,7 +986,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アクアレッスン",
-    "note": "60分からOK\n音響設備使用可\n※他の曜日でもレンタル可能\nお気軽にお問い合わせください"
+    "note": "60分からOK\n音響設備使用可\n※他の曜日でもレンタル可能\nお気軽にお問い合わせください",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -949,7 +1004,8 @@
     "studio": "タイムテーブル",
     "reservation_required": false,
     "genre": "アクアレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -966,7 +1022,8 @@
     "studio": "タイムテーブル",
     "reservation_required": false,
     "genre": "有酸素系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -983,7 +1040,8 @@
     "studio": "タイムテーブル",
     "reservation_required": false,
     "genre": "調整系",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "うしろ姿を美人に魅せるをテーマに、美しいボディラインを手に入れたい方 / ピーランプ / 女性限定"
+    "note": "うしろ姿を美人に魅せるをテーマに、美しいボディラインを手に入れたい方 / ピーランプ / 女性限定",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "踏み台昇降運動にダンベル体操をミックス / シェイプボックス"
+    "note": "踏み台昇降運動にダンベル体操をミックス / シェイプボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "座れるくらいのボールを使って楽しみます / バランスボックス"
+    "note": "座れるくらいのボールを使って楽しみます / バランスボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "円柱のボールを使い、普段伸ばしにくい身体の歪みを整え、心身のリラックス / アジャストボックス"
+    "note": "円柱のボールを使い、普段伸ばしにくい身体の歪みを整え、心身のリラックス / アジャストボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽に合わせて、パンチやキックなどストレス解消・シェイプアップに最適です / バトルボックス"
+    "note": "音楽に合わせて、パンチやキックなどストレス解消・シェイプアップに最適です / バトルボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "身体の機能改善や柔軟性を高める / コレクトタイム"
+    "note": "身体の機能改善や柔軟性を高める / コレクトタイム",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "お腹や二の腕など、ポイントを絞った短時間で効果的な運動をしたい方に / シェイプタイム"
+    "note": "お腹や二の腕など、ポイントを絞った短時間で効果的な運動をしたい方に / シェイプタイム",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "20秒「全力で運動」、10秒「休憩」を8回。心肺機能の向上や持久力向上、脳筋"
+    "note": "20秒「全力で運動」、10秒「休憩」を8回。心肺機能の向上や持久力向上、脳筋",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1136,7 +1202,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "様々な水中歩行を楽しんでいただけます"
+    "note": "様々な水中歩行を楽しんでいただけます",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1153,7 +1220,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "空気の入ったダンベルを水中で使用"
+    "note": "空気の入ったダンベルを水中で使用",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1170,7 +1238,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽に合わせながら水中で全身を動かす"
+    "note": "音楽に合わせながら水中で全身を動かす",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1187,7 +1256,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "水泳がまったく初めての方が参加できます。お顔つけから呼吸動作、基本泳法(クロール)"
+    "note": "水泳がまったく初めての方が参加できます。お顔つけから呼吸動作、基本泳法(クロール)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1204,7 +1274,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "基本泳法(バタ足・グライドキック)を習得。クロールの手の動きから呼吸まで、2"
+    "note": "基本泳法(バタ足・グライドキック)を習得。クロールの手の動きから呼吸まで、2",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "うしろ姿を美人に魅せるをテーマに、美しいボディラインを手に入れたい方 / ピーランプ / 女性限定"
+    "note": "うしろ姿を美人に魅せるをテーマに、美しいボディラインを手に入れたい方 / ピーランプ / 女性限定",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "踏み台昇降運動にダンベル体操をミックス / シェイプボックス"
+    "note": "踏み台昇降運動にダンベル体操をミックス / シェイプボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "座れるくらいのボールを使って楽しみます / バランスボックス"
+    "note": "座れるくらいのボールを使って楽しみます / バランスボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "円柱のボールを使い、普段伸ばしにくい身体の歪みを整え、心身のリラックス / アジャストボックス"
+    "note": "円柱のボールを使い、普段伸ばしにくい身体の歪みを整え、心身のリラックス / アジャストボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽に合わせて、パンチやキックなどストレス解消・シェイプアップに最適です / バトルボックス"
+    "note": "音楽に合わせて、パンチやキックなどストレス解消・シェイプアップに最適です / バトルボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "身体の機能改善や柔軟性を高める / コレクトタイム"
+    "note": "身体の機能改善や柔軟性を高める / コレクトタイム",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "お腹や二の腕など、ポイントを絞った短時間で効果的な運動をしたい方に / シェイプタイム"
+    "note": "お腹や二の腕など、ポイントを絞った短時間で効果的な運動をしたい方に / シェイプタイム",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "20秒「全力で運動」、10秒「休憩」を8回。心肺機能の向上や持久力向上、脳筋"
+    "note": "20秒「全力で運動」、10秒「休憩」を8回。心肺機能の向上や持久力向上、脳筋",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1357,7 +1436,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "様々な水中歩行を楽しんでいただけます"
+    "note": "様々な水中歩行を楽しんでいただけます",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1374,7 +1454,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "空気の入ったダンベルを水中で使用"
+    "note": "空気の入ったダンベルを水中で使用",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1391,7 +1472,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽に合わせながら水中で全身を動かす"
+    "note": "音楽に合わせながら水中で全身を動かす",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1408,7 +1490,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "水泳がまったく初めての方が参加できます。お顔つけから呼吸動作、基本泳法(クロール)"
+    "note": "水泳がまったく初めての方が参加できます。お顔つけから呼吸動作、基本泳法(クロール)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1425,7 +1508,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "基本泳法(バタ足・グライドキック)を習得。クロールの手の動きから呼吸まで、2"
+    "note": "基本泳法(バタ足・グライドキック)を習得。クロールの手の動きから呼吸まで、2",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "うしろ姿を美人に魅せるをテーマに、美しいボディラインを手に入れたい方 / ピーランプ / 女性限定"
+    "note": "うしろ姿を美人に魅せるをテーマに、美しいボディラインを手に入れたい方 / ピーランプ / 女性限定",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "踏み台昇降運動にダンベル体操をミックス / シェイプボックス"
+    "note": "踏み台昇降運動にダンベル体操をミックス / シェイプボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "座れるくらいのボールを使って楽しみます / バランスボックス"
+    "note": "座れるくらいのボールを使って楽しみます / バランスボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "円柱のボールを使い、普段伸ばしにくい身体の歪みを整え、心身のリラックス / アジャストボックス"
+    "note": "円柱のボールを使い、普段伸ばしにくい身体の歪みを整え、心身のリラックス / アジャストボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽に合わせて、パンチやキックなどストレス解消・シェイプアップに最適です / バトルボックス"
+    "note": "音楽に合わせて、パンチやキックなどストレス解消・シェイプアップに最適です / バトルボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "身体の機能改善や柔軟性を高める / コレクトタイム"
+    "note": "身体の機能改善や柔軟性を高める / コレクトタイム",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "お腹や二の腕など、ポイントを絞った短時間で効果的な運動をしたい方に / シェイプタイム"
+    "note": "お腹や二の腕など、ポイントを絞った短時間で効果的な運動をしたい方に / シェイプタイム",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "20秒「全力で運動」、10秒「休憩」を8回。心肺機能の向上や持久力向上、脳筋"
+    "note": "20秒「全力で運動」、10秒「休憩」を8回。心肺機能の向上や持久力向上、脳筋",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1578,7 +1670,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "様々な水中歩行を楽しんでいただけます"
+    "note": "様々な水中歩行を楽しんでいただけます",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1595,7 +1688,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "空気の入ったダンベルを水中で使用"
+    "note": "空気の入ったダンベルを水中で使用",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1612,7 +1706,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽に合わせながら水中で全身を動かす"
+    "note": "音楽に合わせながら水中で全身を動かす",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1629,7 +1724,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "水泳がまったく初めての方が参加できます。お顔つけから呼吸動作、基本泳法(クロール)"
+    "note": "水泳がまったく初めての方が参加できます。お顔つけから呼吸動作、基本泳法(クロール)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1646,7 +1742,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "基本泳法(バタ足・グライドキック)を習得。クロールの手の動きから呼吸まで、2"
+    "note": "基本泳法(バタ足・グライドキック)を習得。クロールの手の動きから呼吸まで、2",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1663,7 +1760,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "うしろ姿を美人に魅せるをテーマに、美しいボディラインを手に入れたい方 / ピーランプ / 女性限定"
+    "note": "うしろ姿を美人に魅せるをテーマに、美しいボディラインを手に入れたい方 / ピーランプ / 女性限定",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1680,7 +1778,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "踏み台昇降運動にダンベル体操をミックス / シェイプボックス"
+    "note": "踏み台昇降運動にダンベル体操をミックス / シェイプボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1697,7 +1796,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "座れるくらいのボールを使って楽しみます / バランスボックス"
+    "note": "座れるくらいのボールを使って楽しみます / バランスボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1714,7 +1814,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "円柱のボールを使い、普段伸ばしにくい身体の歪みを整え、心身のリラックス / アジャストボックス"
+    "note": "円柱のボールを使い、普段伸ばしにくい身体の歪みを整え、心身のリラックス / アジャストボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1731,7 +1832,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽に合わせて、パンチやキックなどストレス解消・シェイプアップに最適です / バトルボックス"
+    "note": "音楽に合わせて、パンチやキックなどストレス解消・シェイプアップに最適です / バトルボックス",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1748,7 +1850,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "身体の機能改善や柔軟性を高める / コレクトタイム"
+    "note": "身体の機能改善や柔軟性を高める / コレクトタイム",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1765,7 +1868,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "お腹や二の腕など、ポイントを絞った短時間で効果的な運動をしたい方に / シェイプタイム"
+    "note": "お腹や二の腕など、ポイントを絞った短時間で効果的な運動をしたい方に / シェイプタイム",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1782,7 +1886,8 @@
     "studio": "スタジオ&プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "20秒「全力で運動」、10秒「休憩」を8回。心肺機能の向上や持久力向上、脳筋"
+    "note": "20秒「全力で運動」、10秒「休憩」を8回。心肺機能の向上や持久力向上、脳筋",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1799,7 +1904,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "様々な水中歩行を楽しんでいただけます"
+    "note": "様々な水中歩行を楽しんでいただけます",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1816,7 +1922,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "空気の入ったダンベルを水中で使用"
+    "note": "空気の入ったダンベルを水中で使用",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1833,7 +1940,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "音楽に合わせながら水中で全身を動かす"
+    "note": "音楽に合わせながら水中で全身を動かす",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1850,7 +1958,8 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "水泳がまったく初めての方が参加できます。お顔つけから呼吸動作、基本泳法(クロール)"
+    "note": "水泳がまったく初めての方が参加できます。お顔つけから呼吸動作、基本泳法(クロール)",
+    "instructor_id": null
   },
   {
     "gym_id": "axtos",
@@ -1867,6 +1976,7 @@
     "studio": "プールプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": "基本泳法(バタ足・グライドキック)を習得。クロールの手の動きから呼吸まで、2"
+    "note": "基本泳法(バタ足・グライドキック)を習得。クロールの手の動きから呼吸まで、2",
+    "instructor_id": null
   }
 ]

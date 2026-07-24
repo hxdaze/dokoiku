@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17982"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17983"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17984"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "姿勢改善ピラティス"
+    "note": "姿勢改善ピラティス",
+    "instructor_id": "i17985"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17986"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17987"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17988"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "骨盤矯正"
+    "note": "骨盤矯正",
+    "instructor_id": "i17984"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17984"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17989"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17990"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17985"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17991"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17987"
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "予約又は当日申込"
+    "note": "予約又は当日申込",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "当日申込"
+    "note": "当日申込",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Hula",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "チェアトレ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FRP (姿勢改善ピラティス)",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FRP (姿勢改善ピラティス)",
-    "note": "姿勢改善ピラティス"
+    "note": "姿勢改善ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "気軽にキックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクティブヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ベルヴィスワーク® (骨盤調整)",
-    "note": "骨盤調整"
+    "note": "骨盤調整",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "やさしいピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康バルーン体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "リラックスヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "養身功・太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ローラーピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Hula",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "チェアトレ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FRP (姿勢改善ピラティス)",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FRP (姿勢改善ピラティス)",
-    "note": "姿勢改善ピラティス"
+    "note": "姿勢改善ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "気軽にキックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクティブヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ベルヴィスワーク® (骨盤調整)",
-    "note": "骨盤調整"
+    "note": "骨盤調整",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "やさしいピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康バルーン体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "リラックスヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "養身功・太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ローラーピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Hula",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "チェアトレ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FRP (姿勢改善ピラティス)",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FRP (姿勢改善ピラティス)",
-    "note": "姿勢改善ピラティス"
+    "note": "姿勢改善ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "気軽にキックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクティブヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ベルヴィスワーク® (骨盤調整)",
-    "note": "骨盤調整"
+    "note": "骨盤調整",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "やさしいピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康バルーン体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "リラックスヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "養身功・太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ローラーピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Hula",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "チェアトレ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FRP (姿勢改善ピラティス)",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "FRP (姿勢改善ピラティス)",
-    "note": "姿勢改善ピラティス"
+    "note": "姿勢改善ピラティス",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "気軽にキックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アクティブヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ベルヴィスワーク® (骨盤調整)",
-    "note": "骨盤調整"
+    "note": "骨盤調整",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "やさしいピ拉ティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康バルーン体操",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "リラックスヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_oshino_fc",
@@ -1136,6 +1202,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "養身功・太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

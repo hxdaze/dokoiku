@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "beppu_arena",
@@ -354,6 +374,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

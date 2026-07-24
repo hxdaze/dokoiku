@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ / 有料 / 大人スクール"
+    "note": "Bスタジオ / 有料 / 大人スクール",
+    "instructor_id": "i5368"
   },
   {
     "gym_id": "gunze",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9308"
   },
   {
     "gym_id": "gunze",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9309"
   },
   {
     "gym_id": "gunze",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9310"
   },
   {
     "gym_id": "gunze",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9311"
   },
   {
     "gym_id": "gunze",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "refreshprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9312"
   },
   {
     "gym_id": "gunze",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9309"
   },
   {
     "gym_id": "gunze",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9313"
   },
   {
     "gym_id": "gunze",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9314"
   },
   {
     "gym_id": "gunze",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9314"
   },
   {
     "gym_id": "gunze",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール / 有料"
+    "note": "プール / 有料",
+    "instructor_id": "i9315"
   },
   {
     "gym_id": "gunze",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9315"
   },
   {
     "gym_id": "gunze",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール / 有料 / プレミアム"
+    "note": "プール / 有料 / プレミアム",
+    "instructor_id": "i9314"
   },
   {
     "gym_id": "gunze",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9310"
   },
   {
     "gym_id": "gunze",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / 有料 / プレミアム"
+    "note": "Bスタジオ / 有料 / プレミアム",
+    "instructor_id": "i9316"
   },
   {
     "gym_id": "gunze",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "refreshprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9308"
   },
   {
     "gym_id": "gunze",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9309"
   },
   {
     "gym_id": "gunze",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9309"
   },
   {
     "gym_id": "gunze",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9317"
   },
   {
     "gym_id": "gunze",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i5368"
   },
   {
     "gym_id": "gunze",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "refreshprogram",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9318"
   },
   {
     "gym_id": "gunze",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール / 有料"
+    "note": "プール / 有料",
+    "instructor_id": "i9315"
   },
   {
     "gym_id": "gunze",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9311"
   },
   {
     "gym_id": "gunze",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9313"
   },
   {
     "gym_id": "gunze",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Bスタジオ / 有料 / 大人ｽｸｰﾙ"
+    "note": "Bスタジオ / 有料 / 大人ｽｸｰﾙ",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9319"
   },
   {
     "gym_id": "gunze",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / jrスクール"
+    "note": "Bスタジオ / jrスクール",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9315"
   },
   {
     "gym_id": "gunze",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール / 有料 / プレミアム"
+    "note": "プール / 有料 / プレミアム",
+    "instructor_id": "i9314"
   },
   {
     "gym_id": "gunze",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "refreshprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9316"
   },
   {
     "gym_id": "gunze",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9320"
   },
   {
     "gym_id": "gunze",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール / ﾌﾟﾚﾐｱﾑ"
+    "note": "プール / ﾌﾟﾚﾐｱﾑ",
+    "instructor_id": "i9310"
   },
   {
     "gym_id": "gunze",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9316"
   },
   {
     "gym_id": "gunze",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9314"
   },
   {
     "gym_id": "gunze",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9311"
   },
   {
     "gym_id": "gunze",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "refreshprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i6333"
   },
   {
     "gym_id": "gunze",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9308"
   },
   {
     "gym_id": "gunze",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9312"
   },
   {
     "gym_id": "gunze",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール / ﾌﾟﾚﾐｱﾑ"
+    "note": "プール / ﾌﾟﾚﾐｱﾑ",
+    "instructor_id": "i9315"
   },
   {
     "gym_id": "gunze",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9321"
   },
   {
     "gym_id": "gunze",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9319"
   },
   {
     "gym_id": "gunze",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ / ﾌﾟﾚﾐｱﾑ"
+    "note": "Bスタジオ / ﾌﾟﾚﾐｱﾑ",
+    "instructor_id": "i9316"
   },
   {
     "gym_id": "gunze",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Aスタジオ / プレミアム"
+    "note": "Aスタジオ / プレミアム",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9322"
   },
   {
     "gym_id": "gunze",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9323"
   },
   {
     "gym_id": "gunze",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9314"
   },
   {
     "gym_id": "gunze",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9309"
   },
   {
     "gym_id": "gunze",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9324"
   },
   {
     "gym_id": "gunze",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i6333"
   },
   {
     "gym_id": "gunze",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール / ﾌﾟﾚﾐｱﾑ"
+    "note": "プール / ﾌﾟﾚﾐｱﾑ",
+    "instructor_id": "i9315"
   },
   {
     "gym_id": "gunze",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9325"
   },
   {
     "gym_id": "gunze",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9321"
   },
   {
     "gym_id": "gunze",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i5368"
   },
   {
     "gym_id": "gunze",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9323"
   },
   {
     "gym_id": "gunze",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / 有料"
+    "note": "Bスタジオ / 有料",
+    "instructor_id": "i9326"
   },
   {
     "gym_id": "gunze",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9327"
   },
   {
     "gym_id": "gunze",
@@ -1136,7 +1202,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9322"
   },
   {
     "gym_id": "gunze",
@@ -1153,7 +1220,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9328"
   },
   {
     "gym_id": "gunze",
@@ -1170,7 +1238,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9317"
   },
   {
     "gym_id": "gunze",
@@ -1187,7 +1256,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9326"
   },
   {
     "gym_id": "gunze",
@@ -1204,7 +1274,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9321"
   },
   {
     "gym_id": "gunze",
@@ -1221,7 +1292,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i5368"
   },
   {
     "gym_id": "gunze",
@@ -1238,7 +1310,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i4904"
   },
   {
     "gym_id": "gunze",
@@ -1255,7 +1328,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1272,7 +1346,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9323"
   },
   {
     "gym_id": "gunze",
@@ -1289,7 +1364,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9313"
   },
   {
     "gym_id": "gunze",
@@ -1323,7 +1400,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Bスタジオ / ﾌﾟﾚﾐｱﾑ"
+    "note": "Bスタジオ / ﾌﾟﾚﾐｱﾑ",
+    "instructor_id": "i9322"
   },
   {
     "gym_id": "gunze",
@@ -1340,7 +1418,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "refreshprogram",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i4904"
   },
   {
     "gym_id": "gunze",
@@ -1357,7 +1436,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Bスタジオ / 有料 / 大人ｽｸｰﾙ"
+    "note": "Bスタジオ / 有料 / 大人ｽｸｰﾙ",
+    "instructor_id": "i5368"
   },
   {
     "gym_id": "gunze",
@@ -1374,7 +1454,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9320"
   },
   {
     "gym_id": "gunze",
@@ -1391,7 +1472,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9317"
   },
   {
     "gym_id": "gunze",
@@ -1408,7 +1490,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1425,7 +1508,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1442,7 +1526,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Aスタジオ / 有料"
+    "note": "Aスタジオ / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1459,7 +1544,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1476,7 +1562,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Bスタジオ / jrｽｸｰﾙ"
+    "note": "Bスタジオ / jrｽｸｰﾙ",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1493,7 +1580,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Bスタジオ / シャイン / jrｽｸｰﾙ"
+    "note": "Bスタジオ / シャイン / jrｽｸｰﾙ",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1510,7 +1598,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1527,7 +1616,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1544,7 +1634,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i6197"
   },
   {
     "gym_id": "gunze",
@@ -1561,7 +1652,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1578,7 +1670,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Aスタジオ / 有料"
+    "note": "Aスタジオ / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1595,7 +1688,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Bスタジオ / スター / jrｽｸｰﾙ"
+    "note": "Bスタジオ / スター / jrｽｸｰﾙ",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1612,7 +1706,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1629,7 +1724,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / jrスクール"
+    "note": "Bスタジオ / jrスクール",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1646,7 +1742,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i6197"
   },
   {
     "gym_id": "gunze",
@@ -1663,7 +1760,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1680,7 +1778,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1697,7 +1796,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9323"
   },
   {
     "gym_id": "gunze",
@@ -1714,7 +1814,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9321"
   },
   {
     "gym_id": "gunze",
@@ -1731,7 +1832,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9323"
   },
   {
     "gym_id": "gunze",
@@ -1748,7 +1850,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1765,7 +1868,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9329"
   },
   {
     "gym_id": "gunze",
@@ -1782,7 +1886,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1799,7 +1904,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1816,7 +1922,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1833,7 +1940,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9313"
   },
   {
     "gym_id": "gunze",
@@ -1850,7 +1958,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "enjoyprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9309"
   },
   {
     "gym_id": "gunze",
@@ -1867,7 +1976,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / 有料 / ﾌﾟﾚﾐｱﾑ"
+    "note": "Bスタジオ / 有料 / ﾌﾟﾚﾐｱﾑ",
+    "instructor_id": "i9323"
   },
   {
     "gym_id": "gunze",
@@ -1884,7 +1994,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9321"
   },
   {
     "gym_id": "gunze",
@@ -1901,7 +2012,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -1918,7 +2030,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9328"
   },
   {
     "gym_id": "gunze",
@@ -1935,7 +2048,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9315"
   },
   {
     "gym_id": "gunze",
@@ -1952,7 +2066,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9320"
   },
   {
     "gym_id": "gunze",
@@ -1969,7 +2084,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "refreshprogram",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9316"
   },
   {
     "gym_id": "gunze",
@@ -1986,7 +2102,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9320"
   },
   {
     "gym_id": "gunze",
@@ -2003,7 +2120,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymaintenance",
-    "note": "Bスタジオ"
+    "note": "Bスタジオ",
+    "instructor_id": "i9309"
   },
   {
     "gym_id": "gunze",
@@ -2020,7 +2138,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9313"
   },
   {
     "gym_id": "gunze",
@@ -2037,7 +2156,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -2054,7 +2174,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9309"
   },
   {
     "gym_id": "gunze",
@@ -2071,7 +2192,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -2088,7 +2210,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9315"
   },
   {
     "gym_id": "gunze",
@@ -2105,7 +2228,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "プール / ﾌﾟﾚﾐｱﾑﾌﾟﾛｸﾞﾗﾑ / 有料"
+    "note": "プール / ﾌﾟﾚﾐｱﾑﾌﾟﾛｸﾞﾗﾑ / 有料",
+    "instructor_id": "i9320"
   },
   {
     "gym_id": "gunze",
@@ -2122,7 +2246,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "fatburning",
-    "note": "プール"
+    "note": "プール",
+    "instructor_id": "i9321"
   },
   {
     "gym_id": "gunze",
@@ -2139,7 +2264,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -2156,7 +2282,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "bodymake",
-    "note": "Aスタジオ"
+    "note": "Aスタジオ",
+    "instructor_id": "i9323"
   },
   {
     "gym_id": "gunze",
@@ -2173,7 +2300,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "refreshprogram",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   },
   {
     "gym_id": "gunze",
@@ -2190,6 +2318,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "recommended",
-    "note": "Bスタジオ / VR"
+    "note": "Bスタジオ / VR",
+    "instructor_id": null
   }
 ]

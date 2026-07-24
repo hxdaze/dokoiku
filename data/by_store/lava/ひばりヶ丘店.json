@@ -14,7 +14,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16210"
   },
   {
     "gym_id": "lava",
@@ -31,7 +32,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i16210"
   },
   {
     "gym_id": "lava",
@@ -48,7 +50,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度8"
+    "note": "強度8",
+    "instructor_id": "i16197"
   },
   {
     "gym_id": "lava",
@@ -65,7 +68,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i16197"
   },
   {
     "gym_id": "lava",
@@ -82,7 +86,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16197"
   },
   {
     "gym_id": "lava",
@@ -99,7 +104,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度8"
+    "note": "強度8",
+    "instructor_id": "i16404"
   },
   {
     "gym_id": "lava",
@@ -116,7 +122,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16405"
   },
   {
     "gym_id": "lava",
@@ -133,7 +140,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16404"
   },
   {
     "gym_id": "lava",
@@ -150,7 +158,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度8 / スクリーン"
+    "note": "強度8 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -167,7 +176,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i16406"
   },
   {
     "gym_id": "lava",
@@ -184,7 +194,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i16406"
   },
   {
     "gym_id": "lava",
@@ -201,7 +212,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i16407"
   },
   {
     "gym_id": "lava",
@@ -218,7 +230,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16408"
   },
   {
     "gym_id": "lava",
@@ -235,7 +248,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16408"
   },
   {
     "gym_id": "lava",
@@ -252,7 +266,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16404"
   },
   {
     "gym_id": "lava",
@@ -269,7 +284,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16404"
   },
   {
     "gym_id": "lava",
@@ -286,7 +302,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / スクリーン"
+    "note": "強度6 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -303,7 +320,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16407"
   },
   {
     "gym_id": "lava",
@@ -320,7 +338,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16407"
   },
   {
     "gym_id": "lava",
@@ -337,7 +356,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3 / スクリーン"
+    "note": "強度3 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -354,7 +374,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5 / アジャスト"
+    "note": "強度5 / アジャスト",
+    "instructor_id": "i16407"
   },
   {
     "gym_id": "lava",
@@ -371,7 +392,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i16405"
   },
   {
     "gym_id": "lava",
@@ -388,7 +410,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i16405"
   },
   {
     "gym_id": "lava",
@@ -405,7 +428,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16408"
   },
   {
     "gym_id": "lava",
@@ -422,7 +446,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度7"
+    "note": "強度7",
+    "instructor_id": "i16408"
   },
   {
     "gym_id": "lava",
@@ -439,7 +464,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i16409"
   },
   {
     "gym_id": "lava",
@@ -456,7 +482,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16409"
   },
   {
     "gym_id": "lava",
@@ -473,7 +500,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16409"
   },
   {
     "gym_id": "lava",
@@ -490,7 +518,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16404"
   },
   {
     "gym_id": "lava",
@@ -507,7 +536,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i16409"
   },
   {
     "gym_id": "lava",
@@ -524,7 +554,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16409"
   },
   {
     "gym_id": "lava",
@@ -541,7 +572,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16409"
   },
   {
     "gym_id": "lava",
@@ -558,7 +590,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16407"
   },
   {
     "gym_id": "lava",
@@ -575,7 +608,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16210"
   },
   {
     "gym_id": "lava",
@@ -592,7 +626,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16210"
   },
   {
     "gym_id": "lava",
@@ -609,7 +644,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i16405"
   },
   {
     "gym_id": "lava",
@@ -626,7 +662,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5"
+    "note": "強度5",
+    "instructor_id": "i16405"
   },
   {
     "gym_id": "lava",
@@ -643,7 +680,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i16404"
   },
   {
     "gym_id": "lava",
@@ -660,7 +698,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6"
+    "note": "強度6",
+    "instructor_id": "i16407"
   },
   {
     "gym_id": "lava",
@@ -677,7 +716,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16404"
   },
   {
     "gym_id": "lava",
@@ -694,7 +734,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度5 / スクリーン"
+    "note": "強度5 / スクリーン",
+    "instructor_id": null
   },
   {
     "gym_id": "lava",
@@ -711,7 +752,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度4"
+    "note": "強度4",
+    "instructor_id": "i16210"
   },
   {
     "gym_id": "lava",
@@ -728,7 +770,8 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度3"
+    "note": "強度3",
+    "instructor_id": "i16210"
   },
   {
     "gym_id": "lava",
@@ -745,6 +788,7 @@
     "studio": "LAVA ひばりヶ丘店",
     "reservation_required": true,
     "genre": null,
-    "note": "強度6 / スクリーン"
+    "note": "強度6 / スクリーン",
+    "instructor_id": null
   }
 ]

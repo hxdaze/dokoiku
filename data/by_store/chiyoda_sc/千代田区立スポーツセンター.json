@@ -14,7 +14,8 @@
     "studio": "5階 集会室Bほか",
     "reservation_required": true,
     "genre": null,
-    "note": "(a) (b)"
+    "note": "(a) (b)",
+    "instructor_id": "i5568"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -31,7 +32,8 @@
     "studio": "7階 第1多目的ルームほか",
     "reservation_required": true,
     "genre": null,
-    "note": "※プログラム開始30分前より受付にて参加券を配布します"
+    "note": "※プログラム開始30分前より受付にて参加券を配布します",
+    "instructor_id": "i5569"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -48,7 +50,8 @@
     "studio": "5階 多目的室ほか",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5569"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -65,7 +68,8 @@
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります"
+    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります",
+    "instructor_id": "i5570"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -82,7 +86,8 @@
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります"
+    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります",
+    "instructor_id": "i5570"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -99,7 +104,8 @@
     "studio": "2026年4月～6月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "※申込み〆切は5/17(日)17時となります\nビジェターは+1,500円の参加費"
+    "note": "※申込み〆切は5/17(日)17時となります\nビジェターは+1,500円の参加費",
+    "instructor_id": "i5571"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -116,7 +122,8 @@
     "studio": "九段生涯学習館 4階 実習室",
     "reservation_required": true,
     "genre": null,
-    "note": "受付〆切 / 日本多肉クラフト協会認定講師"
+    "note": "受付〆切 / 日本多肉クラフト協会認定講師",
+    "instructor_id": null
   },
   {
     "gym_id": "chiyoda_sc",
@@ -133,7 +140,8 @@
     "studio": "2026年4月～6月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "ビジェターは+1,500円の参加費"
+    "note": "ビジェターは+1,500円の参加費",
+    "instructor_id": "i5572"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -150,7 +158,8 @@
     "studio": "7階 料理教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5573"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -167,7 +176,8 @@
     "studio": "2026年4月～6月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "ビジェターは+1,500円の参加費"
+    "note": "ビジェターは+1,500円の参加費",
+    "instructor_id": "i5574"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -184,7 +194,8 @@
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります"
+    "note": "※初級・中級の9月の1回分は10月以降に振替予定となります",
+    "instructor_id": "i5570"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -201,7 +212,8 @@
     "studio": "2026年4月～6月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "※全日程、申込み〆切は6/17(水)17時となります\n※全4回のうち、お一人様1回のみ参加可能です\n※器を複数ご持参いただいても構いませんが、全て完成しない場合があります\n【破損目安】欠けた器2～3個、割れた器1～2個\nビジェターは+1,500円の参加費"
+    "note": "※全日程、申込み〆切は6/17(水)17時となります\n※全4回のうち、お一人様1回のみ参加可能です\n※器を複数ご持参いただいても構いませんが、全て完成しない場合があります\n【破損目安】欠けた器2～3個、割れた器1～2個\nビジェターは+1,500円の参加費",
+    "instructor_id": "i5575"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -218,7 +230,8 @@
     "studio": "九段生涯学習館 4階 実習室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5575"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -235,7 +248,8 @@
     "studio": "九段生涯学習館 4階 実習室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5575"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -252,7 +266,8 @@
     "studio": "2026年4月～6月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "ビジェターは+1,500円の参加費"
+    "note": "ビジェターは+1,500円の参加費",
+    "instructor_id": "i5573"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -269,7 +284,8 @@
     "studio": "2026年4月～6月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "※全日程、申込み〆切は6/17(水)17時となります\n※全4回のうち、お一人様1回のみ参加可能です\n※器を複数ご持参いただいても構いませんが、全て完成しない場合があります\n【破損目安】欠けた器2～3個、割れた器1～2個\nビジェターは+1,500円の参加費"
+    "note": "※全日程、申込み〆切は6/17(水)17時となります\n※全4回のうち、お一人様1回のみ参加可能です\n※器を複数ご持参いただいても構いませんが、全て完成しない場合があります\n【破損目安】欠けた器2～3個、割れた器1～2個\nビジェターは+1,500円の参加費",
+    "instructor_id": "i5575"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -286,7 +302,8 @@
     "studio": "7階 料理教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5574"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -303,7 +320,8 @@
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "ビジューターは+1,500円の参加費。持ち物:筆記用具、水分補給用飲料水、エプロン、タオル、三角巾"
+    "note": "ビジューターは+1,500円の参加費。持ち物:筆記用具、水分補給用飲料水、エプロン、タオル、三角巾",
+    "instructor_id": "i5573"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -320,7 +338,8 @@
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": false,
     "genre": null,
-    "note": "※眼に関するお悩みや疑問について先生に聞いてみたください。あらかじめ事前にご知らせてください。講座の中で講師から回答します。"
+    "note": "※眼に関するお悩みや疑問について先生に聞いてみたください。あらかじめ事前にご知らせてください。講座の中で講師から回答します。",
+    "instructor_id": "i5576"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -337,7 +356,8 @@
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "※約12cm×8cm。※色は当日お選びいただけます。※中性洗剤を使用しますので手荒れが気になる方はゴム手袋をご用意ください。持ち物:筆記用具、水分補給用飲料水、空ペットボトル500ml(炭酸系等丈夫なもの)、薄手のタオル、タオルお持ち帰り用・作品持ち帰り用のビニール袋何枚か、眼鏡(必要な方)、ゴム手袋(必要な方)"
+    "note": "※約12cm×8cm。※色は当日お選びいただけます。※中性洗剤を使用しますので手荒れが気になる方はゴム手袋をご用意ください。持ち物:筆記用具、水分補給用飲料水、空ペットボトル500ml(炭酸系等丈夫なもの)、薄手のタオル、タオルお持ち帰り用・作品持ち帰り用のビニール袋何枚か、眼鏡(必要な方)、ゴム手袋(必要な方)",
+    "instructor_id": "i5577"
   },
   {
     "gym_id": "chiyoda_sc",
@@ -354,7 +374,8 @@
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "ビジューターは+1,500円の参加費。持ち物:筆記用具、水分補給用飲料水、エプロン、タオル、三角巾"
+    "note": "ビジューターは+1,500円の参加費。持ち物:筆記用具、水分補給用飲料水、エプロン、タオル、三角巾",
+    "instructor_id": null
   },
   {
     "gym_id": "chiyoda_sc",
@@ -371,6 +392,7 @@
     "studio": "2026年7月～9月週間プログラム【スタディ】",
     "reservation_required": true,
     "genre": null,
-    "note": "ビジューターは+1,500円の参加費。持ち物:筆記用具、水分補給用飲料水、エプロン、タオル、三角巾"
+    "note": "ビジューターは+1,500円の参加費。持ち物:筆記用具、水分補給用飲料水、エプロン、タオル、三角巾",
+    "instructor_id": "i5574"
   }
 ]

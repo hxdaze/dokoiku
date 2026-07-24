@@ -14,7 +14,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 檜村"
+    "note": "[第1] / 檜村",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -31,7 +32,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[けやき] / 小泉"
+    "note": "[けやき] / 小泉",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -48,7 +50,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 阿部"
+    "note": "[第1] / 阿部",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -65,7 +68,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 谷"
+    "note": "[第1] / 谷",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -82,7 +86,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / Kana"
+    "note": "[第2] / Kana",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -99,7 +104,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / 飯田"
+    "note": "[第2] / 飯田",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -116,7 +122,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / 竹内"
+    "note": "[第2] / 竹内",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -133,7 +140,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 浜野"
+    "note": "[第1] / 浜野",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -150,7 +158,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / 飯田"
+    "note": "[第2] / 飯田",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -167,7 +176,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / 竹内"
+    "note": "[第2] / 竹内",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -184,7 +194,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / 飯田"
+    "note": "[第2] / 飯田",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -201,7 +212,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / 竹内"
+    "note": "[第2] / 竹内",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -218,7 +230,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 村山"
+    "note": "[第1] / 村山",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -235,7 +248,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[けやき] / 小泉"
+    "note": "[けやき] / 小泉",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -252,7 +266,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 谷"
+    "note": "[第1] / 谷",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -269,7 +284,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 阿部"
+    "note": "[第1] / 阿部",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -286,7 +302,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 檜村"
+    "note": "[第1] / 檜村",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -303,7 +320,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 檜村"
+    "note": "[第1] / 檜村",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -320,7 +338,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 檜村"
+    "note": "[第1] / 檜村",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -337,7 +356,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[けやき] / 小泉"
+    "note": "[けやき] / 小泉",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -354,7 +374,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 阿部"
+    "note": "[第1] / 阿部",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -371,7 +392,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 谷"
+    "note": "[第1] / 谷",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -388,7 +410,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / Kana"
+    "note": "[第2] / Kana",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -405,7 +428,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / 飯田"
+    "note": "[第2] / 飯田",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -422,7 +446,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第2] / 竹内"
+    "note": "[第2] / 竹内",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -439,7 +464,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "[第1] / 檜村"
+    "note": "[第1] / 檜村",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -456,7 +482,8 @@
     "studio": "[第2]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4590"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -473,7 +500,8 @@
     "studio": "[第1]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3388"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -490,7 +518,8 @@
     "studio": "[第1]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17863"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -507,7 +536,8 @@
     "studio": "[第1]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4590"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -524,7 +554,8 @@
     "studio": "[第1]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i3388"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -541,7 +572,8 @@
     "studio": "[第1]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17863"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -558,7 +590,8 @@
     "studio": "[第1]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i4590"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -575,7 +608,8 @@
     "studio": "[第2]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17864"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -592,7 +626,8 @@
     "studio": "[第2]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i17865"
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -609,7 +644,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "入門編"
+    "note": "入門編",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -626,7 +662,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "基礎編"
+    "note": "基礎編",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -643,7 +680,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "応用編"
+    "note": "応用編",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -660,7 +698,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -677,7 +716,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "※6/13（土）は会場が第二武道場となるため、定員は40名とさせていただきます。"
+    "note": "※6/13（土）は会場が第二武道場となるため、定員は40名とさせていただきます。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -694,7 +734,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -711,7 +752,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "(マットはお客様でご用意ください)"
+    "note": "(マットはお客様でご用意ください)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -728,7 +770,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "(マットはお客様でご用意ください)"
+    "note": "(マットはお客様でご用意ください)",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -745,7 +788,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -762,7 +806,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -779,7 +824,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -796,7 +842,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": null,
-    "note": "※雨天中止"
+    "note": "※雨天中止",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -813,7 +860,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -830,7 +878,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -847,7 +896,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -864,7 +914,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -881,7 +932,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -898,7 +950,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -915,7 +968,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -932,7 +986,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -949,7 +1004,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -966,7 +1022,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -983,7 +1040,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -1000,7 +1058,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -1017,7 +1076,8 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_hadano_sports",
@@ -1034,6 +1094,7 @@
     "studio": "６月の予定",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "マットは使用しません。"
+    "note": "マットは使用しません。",
+    "instructor_id": null
   }
 ]

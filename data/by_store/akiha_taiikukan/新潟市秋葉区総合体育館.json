@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i539"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i540"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※65歳以上の方は、参加費¥450"
+    "note": "※65歳以上の方は、参加費¥450",
+    "instructor_id": "i541"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "[コース型教室] / 小学6年生以上"
+    "note": "[コース型教室] / 小学6年生以上",
+    "instructor_id": null
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i542"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "[コース型教室]"
+    "note": "[コース型教室]",
+    "instructor_id": "i543"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※65歳以上の方は、参加費¥450"
+    "note": "※65歳以上の方は、参加費¥450",
+    "instructor_id": "i542"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※65歳以上の方は、参加費¥450"
+    "note": "※65歳以上の方は、参加費¥450",
+    "instructor_id": "i541"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i544"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i545"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i546"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i539"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i544"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i546"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -252,7 +266,8 @@
     "studio": "コース型教室",
     "reservation_required": false,
     "genre": null,
-    "note": "[コース型教室]"
+    "note": "[コース型教室]",
+    "instructor_id": "i547"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i539"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i539"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<60歳以上無料予約制>>"
+    "note": "<<60歳以上無料予約制>>",
+    "instructor_id": null
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -320,7 +338,8 @@
     "studio": "コース型教室",
     "reservation_required": false,
     "genre": null,
-    "note": "[コース型教室]"
+    "note": "[コース型教室]",
+    "instructor_id": "i540"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i542"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i539"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i548"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i541"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "[月謝制]"
+    "note": "[月謝制]",
+    "instructor_id": "i549"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i544"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "<<65歳以上の方は、参加費¥450>>"
+    "note": "<<65歳以上の方は、参加費¥450>>",
+    "instructor_id": "i550"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "※65歳以上の方は、参加費¥450"
+    "note": "※65歳以上の方は、参加費¥450",
+    "instructor_id": "i541"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i540"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i544"
   },
   {
     "gym_id": "akiha_taiikukan",
@@ -507,6 +536,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i551"
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": "プールの無料レッスンはご予約無しでご参加いただけます。"
+    "note": "プールの無料レッスンはご予約無しでご参加いただけます。",
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -31,7 +32,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -48,7 +50,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -65,7 +68,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -82,7 +86,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i746"
   },
   {
     "gym_id": "asurie",
@@ -99,7 +104,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i746"
   },
   {
     "gym_id": "asurie",
@@ -116,7 +122,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -133,7 +140,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "定員2名"
+    "note": "定員2名",
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -150,7 +158,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -167,7 +176,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "通常のバレレッスンだけでなく、ピラティスも行います。また、更にトレッドミルをプラスしたケアクラスです。これまでにバレレッスンに通っておられる方でも、また、バレレッスンに通っていない方でも気軽に参加しやすい作りになっています。バレレッスンをやったことがない方も大歓迎です！バレレッスンから始めてみませんか？※9月から毎週実施になります！！"
+    "note": "通常のバレレッスンだけでなく、ピラティスも行います。また、更にトレッドミルをプラスしたケアクラスです。これまでにバレレッスンに通っておられる方でも、また、バレレッスンに通っていない方でも気軽に参加しやすい作りになっています。バレレッスンをやったことがない方も大歓迎です！バレレッスンから始めてみませんか？※9月から毎週実施になります！！",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -184,7 +194,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -201,7 +212,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i749"
   },
   {
     "gym_id": "asurie",
@@ -218,7 +230,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i652"
   },
   {
     "gym_id": "asurie",
@@ -235,7 +248,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i750"
   },
   {
     "gym_id": "asurie",
@@ -252,7 +266,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i652"
   },
   {
     "gym_id": "asurie",
@@ -269,7 +284,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -286,7 +302,8 @@
     "studio": "マシンピラティス",
     "reservation_required": false,
     "genre": null,
-    "note": "プールの無料レッスンはご予約無しでご参加いただけます。"
+    "note": "プールの無料レッスンはご予約無しでご参加いただけます。",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -303,7 +320,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i751"
   },
   {
     "gym_id": "asurie",
@@ -320,7 +338,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -337,7 +356,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i753"
   },
   {
     "gym_id": "asurie",
@@ -354,7 +374,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i753"
   },
   {
     "gym_id": "asurie",
@@ -371,7 +392,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": "i754"
   },
   {
     "gym_id": "asurie",
@@ -388,7 +410,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。"
+    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -405,7 +428,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -422,7 +446,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": "レッスン追加実施!!"
+    "note": "レッスン追加実施!!",
+    "instructor_id": "i755"
   },
   {
     "gym_id": "asurie",
@@ -439,7 +464,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i755"
   },
   {
     "gym_id": "asurie",
@@ -456,7 +482,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i755"
   },
   {
     "gym_id": "asurie",
@@ -473,7 +500,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i755"
   },
   {
     "gym_id": "asurie",
@@ -490,7 +518,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i755"
   },
   {
     "gym_id": "asurie",
@@ -507,7 +536,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i755"
   },
   {
     "gym_id": "asurie",
@@ -524,7 +554,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i755"
   },
   {
     "gym_id": "asurie",
@@ -541,7 +572,8 @@
     "studio": "フィットネスタジオ",
     "reservation_required": false,
     "genre": "フィットネスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i755"
   },
   {
     "gym_id": "asurie",
@@ -558,7 +590,8 @@
     "studio": "プールスタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "5/6"
+    "note": "5/6",
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -575,7 +608,8 @@
     "studio": "プールスタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i756"
   },
   {
     "gym_id": "asurie",
@@ -592,7 +626,8 @@
     "studio": "プールスタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i756"
   },
   {
     "gym_id": "asurie",
@@ -609,7 +644,8 @@
     "studio": "プールスタジオ",
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i756"
   },
   {
     "gym_id": "asurie",
@@ -626,7 +662,8 @@
     "studio": "プールスタジオ",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i756"
   },
   {
     "gym_id": "asurie",
@@ -643,7 +680,8 @@
     "studio": "プライベートスタジオ",
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i749"
   },
   {
     "gym_id": "asurie",
@@ -660,7 +698,8 @@
     "studio": "プライベートスタジオ",
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i749"
   },
   {
     "gym_id": "asurie",
@@ -677,7 +716,8 @@
     "studio": "プライベートスタジオ",
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i749"
   },
   {
     "gym_id": "asurie",
@@ -694,7 +734,8 @@
     "studio": "プライベートスタジオ",
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i749"
   },
   {
     "gym_id": "asurie",
@@ -711,7 +752,8 @@
     "studio": "プライベートスタジオ",
     "reservation_required": true,
     "genre": "フィットネス",
-    "note": "初レッスン!!"
+    "note": "初レッスン!!",
+    "instructor_id": "i749"
   },
   {
     "gym_id": "asurie",
@@ -728,7 +770,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": "プールの無料レッスンはご予約無しでご参加いただけます。"
+    "note": "プールの無料レッスンはご予約無しでご参加いただけます。",
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -745,7 +788,8 @@
     "studio": "ZUMBA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -762,7 +806,8 @@
     "studio": "ZUMBA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -779,7 +824,8 @@
     "studio": "ZUMBA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "通常のパーソナルだけでなくピラティスも行います。また、更にピラティスをプラスしたクラスです。これまでにレッスンに対して数段の高さを感じなかった方でも気軽に参加しやすいクラスになったことをご了承ください。パーソナルやしたことがない方も大歓迎です！新しいレッスンをするチャンスです。※9月から毎週実施になります!!"
+    "note": "通常のパーソナルだけでなくピラティスも行います。また、更にピラティスをプラスしたクラスです。これまでにレッスンに対して数段の高さを感じなかった方でも気軽に参加しやすいクラスになったことをご了承ください。パーソナルやしたことがない方も大歓迎です！新しいレッスンをするチャンスです。※9月から毎週実施になります!!",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -796,7 +842,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": "通常のパーソナルだけでなくピラティスも行います。また、更にピラティスをプラスしたクラスです。これまでにレッスンに対して数段の高さを感じなかった方でも気軽に参加しやすいクラスになったことをご了承ください。パーソナルやしたことがない方も大歓迎です！新しいレッスンをするチャンスです。※9月から毎週実施になります!!"
+    "note": "通常のパーソナルだけでなくピラティスも行います。また、更にピラティスをプラスしたクラスです。これまでにレッスンに対して数段の高さを感じなかった方でも気軽に参加しやすいクラスになったことをご了承ください。パーソナルやしたことがない方も大歓迎です！新しいレッスンをするチャンスです。※9月から毎週実施になります!!",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -813,7 +860,8 @@
     "studio": "ZUMBA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "タイム測定道具を使った泳力強化を行うクラスです。"
+    "note": "タイム測定道具を使った泳力強化を行うクラスです。",
+    "instructor_id": "i652"
   },
   {
     "gym_id": "asurie",
@@ -830,7 +878,8 @@
     "studio": "ZUMBA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i652"
   },
   {
     "gym_id": "asurie",
@@ -847,7 +896,8 @@
     "studio": "ZUMBA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "ZUMBA/6/60"
+    "note": "ZUMBA/6/60",
+    "instructor_id": "i757"
   },
   {
     "gym_id": "asurie",
@@ -864,7 +914,8 @@
     "studio": "太極拳",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "ZUMBA/6/60"
+    "note": "ZUMBA/6/60",
+    "instructor_id": "i757"
   },
   {
     "gym_id": "asurie",
@@ -881,7 +932,8 @@
     "studio": "SALSA",
     "reservation_required": false,
     "genre": "SALSA",
-    "note": "体幹強化"
+    "note": "体幹強化",
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -898,7 +950,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "プール",
-    "note": "JFE60"
+    "note": "JFE60",
+    "instructor_id": "i758"
   },
   {
     "gym_id": "asurie",
@@ -915,7 +968,8 @@
     "studio": "ZUMBA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "ZUMBA/6/60"
+    "note": "ZUMBA/6/60",
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -932,7 +986,8 @@
     "studio": "ピラティス",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i759"
   },
   {
     "gym_id": "asurie",
@@ -949,7 +1004,8 @@
     "studio": "ZUMBA",
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": "ZUMBA/745"
+    "note": "ZUMBA/745",
+    "instructor_id": "i760"
   },
   {
     "gym_id": "asurie",
@@ -966,7 +1022,8 @@
     "studio": "スイミングプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i761"
   },
   {
     "gym_id": "asurie",
@@ -983,7 +1040,8 @@
     "studio": "スイミングプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i761"
   },
   {
     "gym_id": "asurie",
@@ -1000,7 +1058,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -1017,7 +1076,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1034,7 +1094,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1051,7 +1112,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i763"
   },
   {
     "gym_id": "asurie",
@@ -1068,7 +1130,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i763"
   },
   {
     "gym_id": "asurie",
@@ -1085,7 +1148,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。"
+    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1102,7 +1166,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1119,7 +1184,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1136,7 +1202,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i764"
   },
   {
     "gym_id": "asurie",
@@ -1153,7 +1220,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i765"
   },
   {
     "gym_id": "asurie",
@@ -1170,7 +1238,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i766"
   },
   {
     "gym_id": "asurie",
@@ -1187,7 +1256,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i765"
   },
   {
     "gym_id": "asurie",
@@ -1204,7 +1274,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i767"
   },
   {
     "gym_id": "asurie",
@@ -1221,7 +1292,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1238,7 +1310,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i768"
   },
   {
     "gym_id": "asurie",
@@ -1255,7 +1328,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1272,7 +1346,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1289,7 +1364,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1306,7 +1382,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1323,7 +1400,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1340,7 +1418,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i763"
   },
   {
     "gym_id": "asurie",
@@ -1357,7 +1436,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i763"
   },
   {
     "gym_id": "asurie",
@@ -1374,7 +1454,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1391,7 +1472,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1408,7 +1490,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1425,7 +1508,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1442,7 +1526,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1459,7 +1544,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i763"
   },
   {
     "gym_id": "asurie",
@@ -1476,7 +1562,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i763"
   },
   {
     "gym_id": "asurie",
@@ -1493,7 +1580,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1510,7 +1598,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1527,7 +1616,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1544,7 +1634,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1561,7 +1652,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1578,7 +1670,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i763"
   },
   {
     "gym_id": "asurie",
@@ -1595,7 +1688,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i763"
   },
   {
     "gym_id": "asurie",
@@ -1612,7 +1706,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。"
+    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1629,7 +1724,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1646,7 +1742,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1663,7 +1760,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i764"
   },
   {
     "gym_id": "asurie",
@@ -1680,7 +1778,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i765"
   },
   {
     "gym_id": "asurie",
@@ -1697,7 +1796,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i766"
   },
   {
     "gym_id": "asurie",
@@ -1714,7 +1814,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i765"
   },
   {
     "gym_id": "asurie",
@@ -1731,7 +1832,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i767"
   },
   {
     "gym_id": "asurie",
@@ -1748,7 +1850,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1765,7 +1868,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i768"
   },
   {
     "gym_id": "asurie",
@@ -1782,7 +1886,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。"
+    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1799,7 +1904,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1816,7 +1922,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1833,7 +1940,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i764"
   },
   {
     "gym_id": "asurie",
@@ -1850,7 +1958,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1867,7 +1976,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -1884,7 +1994,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -1901,7 +2012,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i769"
   },
   {
     "gym_id": "asurie",
@@ -1918,7 +2030,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -1935,7 +2048,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i770"
   },
   {
     "gym_id": "asurie",
@@ -1952,7 +2066,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i771"
   },
   {
     "gym_id": "asurie",
@@ -1969,7 +2084,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -1986,7 +2102,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i759"
   },
   {
     "gym_id": "asurie",
@@ -2003,7 +2120,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "定員20名"
+    "note": "定員20名",
+    "instructor_id": "i772"
   },
   {
     "gym_id": "asurie",
@@ -2020,7 +2138,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i772"
   },
   {
     "gym_id": "asurie",
@@ -2037,7 +2156,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i772"
   },
   {
     "gym_id": "asurie",
@@ -2054,7 +2174,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i761"
   },
   {
     "gym_id": "asurie",
@@ -2071,7 +2192,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -2088,7 +2210,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "女性向け"
+    "note": "女性向け",
+    "instructor_id": "i773"
   },
   {
     "gym_id": "asurie",
@@ -2105,7 +2228,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i774"
   },
   {
     "gym_id": "asurie",
@@ -2122,7 +2246,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i775"
   },
   {
     "gym_id": "asurie",
@@ -2139,7 +2264,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i775"
   },
   {
     "gym_id": "asurie",
@@ -2156,7 +2282,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i662"
   },
   {
     "gym_id": "asurie",
@@ -2173,7 +2300,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i662"
   },
   {
     "gym_id": "asurie",
@@ -2190,7 +2318,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -2207,7 +2336,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -2224,7 +2354,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2241,7 +2372,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "スイミングプール",
-    "note": "定員18名"
+    "note": "定員18名",
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -2258,7 +2390,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i776"
   },
   {
     "gym_id": "asurie",
@@ -2275,7 +2408,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2292,7 +2426,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネススタジオ",
-    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！"
+    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -2309,7 +2444,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ウエイトスタジオ",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i746"
   },
   {
     "gym_id": "asurie",
@@ -2326,7 +2462,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ウエイトスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i746"
   },
   {
     "gym_id": "asurie",
@@ -2343,7 +2480,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ウエイトスタジオ",
-    "note": null
+    "note": null,
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -2360,7 +2498,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネススタジオ",
-    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！"
+    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -2377,7 +2516,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネススタジオ",
-    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！"
+    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -2394,7 +2534,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネススタジオ",
-    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！"
+    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -2411,7 +2552,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネススタジオ",
-    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！"
+    "note": "通常のハレッスンだけでなくビターレッスンも行います。また、更にハレをプラスしたクラスです。これまでのハレに対して数回の高さを感じていた方も気軽に参加しやすいクラスになっています。ハレやったことない方にも大歓迎です！新しいハレッスンをするチャンス。※9月から毎週実施になります！！",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -2428,7 +2570,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i776"
   },
   {
     "gym_id": "asurie",
@@ -2445,7 +2588,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -2462,7 +2606,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i776"
   },
   {
     "gym_id": "asurie",
@@ -2479,7 +2624,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i776"
   },
   {
     "gym_id": "asurie",
@@ -2496,7 +2642,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": "1コース"
+    "note": "1コース",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2513,7 +2660,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": "山崎愛留"
+    "note": "山崎愛留",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2530,7 +2678,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -2547,7 +2696,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -2564,7 +2714,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "スイミングプール",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -2581,7 +2732,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2598,7 +2750,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2615,7 +2768,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2632,7 +2786,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2649,7 +2804,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。"
+    "note": "※プールの無料レッスンはご予約無しでご参加いただけます。",
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -2666,7 +2822,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -2683,7 +2840,8 @@
     "studio": "ウェルネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i777"
   },
   {
     "gym_id": "asurie",
@@ -2700,7 +2858,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -2717,7 +2876,8 @@
     "studio": "ウェルネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i777"
   },
   {
     "gym_id": "asurie",
@@ -2734,7 +2894,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員28名"
+    "note": "定員28名",
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -2751,7 +2912,8 @@
     "studio": "ウェルネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "担当：中谷実佐\n通常のH!-レッスンだけでなくヒターレッスンも行います。\nまた、肩にストレッチをプラスしたクラスです。\nこれまでH!Ipに対して敷居の高さを感じていた方も気軽に参加しやすいクラスになってます。\nH!Ipやったことない方も大歓迎です！\n新しいチャレンジをするチャンス！！\n※9月から毎週実施になります!!"
+    "note": "担当：中谷実佐\n通常のH!-レッスンだけでなくヒターレッスンも行います。\nまた、肩にストレッチをプラスしたクラスです。\nこれまでH!Ipに対して敷居の高さを感じていた方も気軽に参加しやすいクラスになってます。\nH!Ipやったことない方も大歓迎です！\n新しいチャレンジをするチャンス！！\n※9月から毎週実施になります!!",
+    "instructor_id": "i748"
   },
   {
     "gym_id": "asurie",
@@ -2768,7 +2930,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2785,7 +2948,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i778"
   },
   {
     "gym_id": "asurie",
@@ -2802,7 +2966,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i652"
   },
   {
     "gym_id": "asurie",
@@ -2819,7 +2984,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "レッスン追加実施!!"
+    "note": "レッスン追加実施!!",
+    "instructor_id": "i767"
   },
   {
     "gym_id": "asurie",
@@ -2836,7 +3002,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i652"
   },
   {
     "gym_id": "asurie",
@@ -2853,7 +3020,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2870,7 +3038,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2887,7 +3056,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2904,7 +3074,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2921,7 +3092,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2938,7 +3110,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -2955,7 +3128,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i779"
   },
   {
     "gym_id": "asurie",
@@ -2972,7 +3146,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i779"
   },
   {
     "gym_id": "asurie",
@@ -2989,7 +3164,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3006,7 +3182,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -3023,7 +3200,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": "水 Gold60"
+    "note": "水 Gold60",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3040,7 +3218,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3057,7 +3236,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3074,7 +3254,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3091,7 +3272,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -3108,7 +3290,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3125,7 +3308,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3142,7 +3326,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3159,7 +3344,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3176,7 +3362,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3193,7 +3380,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3210,7 +3398,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3227,7 +3416,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3244,7 +3434,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3261,7 +3452,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3278,7 +3470,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3295,7 +3488,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3312,7 +3506,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3329,7 +3524,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3346,7 +3542,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3363,7 +3560,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3380,7 +3578,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3397,7 +3596,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3414,7 +3614,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3431,7 +3632,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3448,7 +3650,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3465,7 +3668,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3482,7 +3686,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3499,7 +3704,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3516,7 +3722,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3533,7 +3740,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "有料のスタジオレッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3550,7 +3758,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i780"
   },
   {
     "gym_id": "asurie",
@@ -3567,7 +3776,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -3584,7 +3794,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i781"
   },
   {
     "gym_id": "asurie",
@@ -3601,7 +3812,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i781"
   },
   {
     "gym_id": "asurie",
@@ -3618,7 +3830,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i754"
   },
   {
     "gym_id": "asurie",
@@ -3635,7 +3848,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3652,7 +3866,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3669,7 +3884,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3686,7 +3902,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3703,7 +3920,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3720,7 +3938,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3737,7 +3956,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3754,7 +3974,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -3771,7 +3992,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -3788,7 +4010,8 @@
     "studio": "ウェルネスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "レッスン追加実施!!"
+    "note": "レッスン追加実施!!",
+    "instructor_id": "i767"
   },
   {
     "gym_id": "asurie",
@@ -3805,7 +4028,8 @@
     "studio": "ウェルネスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -3822,7 +4046,8 @@
     "studio": "ウェルネスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i343"
   },
   {
     "gym_id": "asurie",
@@ -3839,7 +4064,8 @@
     "studio": "ウェルネスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i343"
   },
   {
     "gym_id": "asurie",
@@ -3856,7 +4082,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "プライベート",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3873,7 +4100,8 @@
     "studio": "ウェルネススタジオ",
     "reservation_required": false,
     "genre": "ベリー",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3890,7 +4118,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -3907,7 +4136,8 @@
     "studio": "ウェルネススタジオ",
     "reservation_required": false,
     "genre": "MAMBO",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -3924,7 +4154,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "初レッスン!! / 定員40名"
+    "note": "初レッスン!! / 定員40名",
+    "instructor_id": "i782"
   },
   {
     "gym_id": "asurie",
@@ -3941,7 +4172,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員55名"
+    "note": "定員55名",
+    "instructor_id": "i782"
   },
   {
     "gym_id": "asurie",
@@ -3958,7 +4190,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i783"
   },
   {
     "gym_id": "asurie",
@@ -3975,7 +4208,8 @@
     "studio": "プライベートスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "7:45~18:15"
+    "note": "7:45~18:15",
+    "instructor_id": "i784"
   },
   {
     "gym_id": "asurie",
@@ -3992,7 +4226,8 @@
     "studio": "プライベートスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "8:15~18:45"
+    "note": "8:15~18:45",
+    "instructor_id": "i784"
   },
   {
     "gym_id": "asurie",
@@ -4009,7 +4244,8 @@
     "studio": "プライベートスタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "7:50~19:10"
+    "note": "7:50~19:10",
+    "instructor_id": "i784"
   },
   {
     "gym_id": "asurie",
@@ -4026,7 +4262,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": "だんらんレッスン?"
+    "note": "だんらんレッスン?",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4043,7 +4280,8 @@
     "studio": "スイミングプール",
     "reservation_required": true,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -4060,7 +4298,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -4077,7 +4316,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -4094,7 +4334,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4111,7 +4352,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -4128,7 +4370,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -4145,7 +4388,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -4162,7 +4406,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -4179,7 +4424,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -4196,7 +4442,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i695"
   },
   {
     "gym_id": "asurie",
@@ -4213,7 +4460,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i769"
   },
   {
     "gym_id": "asurie",
@@ -4230,7 +4478,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4247,7 +4496,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4264,7 +4514,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "肩こり腰痛改善!!"
+    "note": "肩こり腰痛改善!!",
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -4281,7 +4532,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i759"
   },
   {
     "gym_id": "asurie",
@@ -4298,7 +4550,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": "定員20名"
+    "note": "定員20名",
+    "instructor_id": "i772"
   },
   {
     "gym_id": "asurie",
@@ -4315,7 +4568,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i772"
   },
   {
     "gym_id": "asurie",
@@ -4332,7 +4586,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i772"
   },
   {
     "gym_id": "asurie",
@@ -4349,7 +4604,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "増田郁乃"
+    "note": "増田郁乃",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4366,7 +4622,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "13:00~13:45"
+    "note": "13:00~13:45",
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -4383,7 +4640,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "13:50~14:50 / 中級"
+    "note": "13:50~14:50 / 中級",
+    "instructor_id": "i785"
   },
   {
     "gym_id": "asurie",
@@ -4400,7 +4658,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "竹内愛"
+    "note": "竹内愛",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4417,7 +4676,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "竹内愛"
+    "note": "竹内愛",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4434,7 +4694,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "20:30~21:25"
+    "note": "20:30~21:25",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4451,7 +4712,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "20:45~21:30"
+    "note": "20:45~21:30",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4468,7 +4730,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "20:45~21:30"
+    "note": "20:45~21:30",
+    "instructor_id": "i775"
   },
   {
     "gym_id": "asurie",
@@ -4485,7 +4748,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "20:45~21:30"
+    "note": "20:45~21:30",
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4502,7 +4766,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "18:50~19:10"
+    "note": "18:50~19:10",
+    "instructor_id": "i786"
   },
   {
     "gym_id": "asurie",
@@ -4519,7 +4784,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "13:45~14:30 / 定員15名"
+    "note": "13:45~14:30 / 定員15名",
+    "instructor_id": "i787"
   },
   {
     "gym_id": "asurie",
@@ -4536,7 +4802,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "12:40~13:30"
+    "note": "12:40~13:30",
+    "instructor_id": "i785"
   },
   {
     "gym_id": "asurie",
@@ -4553,7 +4820,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -4570,7 +4838,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i745"
   },
   {
     "gym_id": "asurie",
@@ -4587,7 +4856,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": "空真39歳"
+    "note": "空真39歳",
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -4604,7 +4874,8 @@
     "studio": "スイミングプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i764"
   },
   {
     "gym_id": "asurie",
@@ -4621,7 +4892,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i747"
   },
   {
     "gym_id": "asurie",
@@ -4638,7 +4910,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i762"
   },
   {
     "gym_id": "asurie",
@@ -4655,7 +4928,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4672,7 +4946,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4689,7 +4964,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "英語",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4706,7 +4982,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MMA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4723,7 +5000,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -4740,7 +5018,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -4757,7 +5036,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -4774,7 +5054,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4791,7 +5072,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "英語",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4808,7 +5090,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MMA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4825,7 +5108,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -4842,7 +5126,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -4859,7 +5144,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -4876,7 +5162,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4893,7 +5180,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "英語",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4910,7 +5198,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MMA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4927,7 +5216,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -4944,7 +5234,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -4961,7 +5252,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -4978,7 +5270,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -4995,7 +5288,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "英語",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -5012,7 +5306,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MMA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -5029,7 +5324,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -5046,7 +5342,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -5063,7 +5360,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -5080,7 +5378,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -5097,7 +5396,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "英語",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -5114,7 +5414,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MMA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -5131,7 +5432,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -5148,7 +5450,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -5165,7 +5468,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -5182,7 +5486,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -5199,7 +5504,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "英語",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -5216,7 +5522,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "MMA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "asurie",
@@ -5233,7 +5540,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i752"
   },
   {
     "gym_id": "asurie",
@@ -5250,7 +5558,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   },
   {
     "gym_id": "asurie",
@@ -5267,6 +5576,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i788"
   }
 ]

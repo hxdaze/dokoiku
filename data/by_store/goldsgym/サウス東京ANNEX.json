@@ -14,7 +14,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8120"
   },
   {
     "gym_id": "goldsgym",
@@ -31,7 +32,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7963"
   },
   {
     "gym_id": "goldsgym",
@@ -48,7 +50,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -65,7 +68,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8121"
   },
   {
     "gym_id": "goldsgym",
@@ -82,7 +86,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8122"
   },
   {
     "gym_id": "goldsgym",
@@ -99,7 +104,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "コンディショニング・調整",
-    "note": "山﨑英明※"
+    "note": "山﨑英明※",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -116,7 +122,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -133,7 +140,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8123"
   },
   {
     "gym_id": "goldsgym",
@@ -150,7 +158,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7989"
   },
   {
     "gym_id": "goldsgym",
@@ -167,7 +176,8 @@
     "studio": "Aスタジオ",
     "reservation_required": true,
     "genre": "コンディショニング・調整",
-    "note": "芹田美代子※"
+    "note": "芹田美代子※",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -184,7 +194,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "(有料) / 有料 / 16:00"
+    "note": "(有料) / 有料 / 16:00",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -201,7 +212,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -218,7 +230,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": "コンディショニング・調整",
-    "note": "※"
+    "note": "※",
+    "instructor_id": "i8120"
   },
   {
     "gym_id": "goldsgym",
@@ -235,7 +248,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7969"
   },
   {
     "gym_id": "goldsgym",
@@ -252,24 +266,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13220",
-    "store": "サウス東京ANNEX",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "月",
-    "start": "20:10",
-    "end": "21:10",
-    "class_name": "ZUMBA",
-    "category": "ZUMBA",
-    "instructor": null,
-    "studio": "Bスタジオ/Aスタジオ",
-    "reservation_required": false,
-    "genre": "オリジナルエアロ",
-    "note": "初心者"
+    "note": null,
+    "instructor_id": "i7654"
   },
   {
     "gym_id": "goldsgym",
@@ -280,13 +278,14 @@
     "day": "月",
     "start": "20:15",
     "end": "21:15",
-    "class_name": "大浦透",
-    "category": "OTHER",
+    "class_name": "ミット打ちボクシング",
+    "category": "BOXING",
     "instructor": "川村貢治",
     "studio": "Bスタジオ/Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": "初心者",
+    "instructor_id": "i8124"
   },
   {
     "gym_id": "goldsgym",
@@ -303,7 +302,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨ ガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8113"
   },
   {
     "gym_id": "goldsgym",
@@ -320,7 +320,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8125"
   },
   {
     "gym_id": "goldsgym",
@@ -337,7 +338,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7871"
   },
   {
     "gym_id": "goldsgym",
@@ -354,7 +356,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7921"
   },
   {
     "gym_id": "goldsgym",
@@ -371,7 +374,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -388,7 +392,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8122"
   },
   {
     "gym_id": "goldsgym",
@@ -405,7 +410,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨ ガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8113"
   },
   {
     "gym_id": "goldsgym",
@@ -422,7 +428,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -439,7 +446,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8126"
   },
   {
     "gym_id": "goldsgym",
@@ -456,7 +464,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7646"
   },
   {
     "gym_id": "goldsgym",
@@ -473,7 +482,26 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13220",
+    "store": "サウス東京ANNEX",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "火",
+    "start": "20:10",
+    "end": "21:10",
+    "class_name": "ZUMBA",
+    "category": "ZUMBA",
+    "instructor": "大浦透",
+    "studio": "Bスタジオ/Aスタジオ",
+    "reservation_required": false,
+    "genre": "オリジナルエアロ",
+    "note": null,
+    "instructor_id": "i7952"
   },
   {
     "gym_id": "goldsgym",
@@ -490,7 +518,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8049"
   },
   {
     "gym_id": "goldsgym",
@@ -507,7 +536,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8049"
   },
   {
     "gym_id": "goldsgym",
@@ -524,7 +554,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8127"
   },
   {
     "gym_id": "goldsgym",
@@ -541,7 +572,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨ ガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8127"
   },
   {
     "gym_id": "goldsgym",
@@ -558,7 +590,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -575,7 +608,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i8128"
   },
   {
     "gym_id": "goldsgym",
@@ -592,7 +626,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7954"
   },
   {
     "gym_id": "goldsgym",
@@ -609,7 +644,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8129"
   },
   {
     "gym_id": "goldsgym",
@@ -626,7 +662,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料 / 有料"
+    "note": "有料 / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -643,7 +680,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -660,7 +698,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i7954"
   },
   {
     "gym_id": "goldsgym",
@@ -677,7 +716,8 @@
     "studio": "Bスタジオ",
     "reservation_required": true,
     "genre": "ダンス",
-    "note": "MEI※"
+    "note": "MEI※",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -694,7 +734,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i8130"
   },
   {
     "gym_id": "goldsgym",
@@ -711,7 +752,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i2435"
   },
   {
     "gym_id": "goldsgym",
@@ -728,7 +770,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8131"
   },
   {
     "gym_id": "goldsgym",
@@ -745,7 +788,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7936"
   },
   {
     "gym_id": "goldsgym",
@@ -762,7 +806,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -779,7 +824,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -796,7 +842,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -813,7 +860,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -830,7 +878,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -847,7 +896,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料 / 有料"
+    "note": "有料 / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -864,7 +914,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -881,7 +932,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7766"
   },
   {
     "gym_id": "goldsgym",
@@ -898,7 +950,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i7766"
   },
   {
     "gym_id": "goldsgym",
@@ -915,7 +968,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -932,7 +986,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8131"
   },
   {
     "gym_id": "goldsgym",
@@ -949,7 +1004,26 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8132"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13220",
+    "store": "サウス東京ANNEX",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "金",
+    "start": "13:50",
+    "end": "14:50",
+    "class_name": "レギュラーステップ",
+    "category": "STEP",
+    "instructor": "越智京子",
+    "studio": "Aスタジオ",
+    "reservation_required": true,
+    "genre": "オリジナルエアロ",
+    "note": "整理券",
+    "instructor_id": "i7969"
   },
   {
     "gym_id": "goldsgym",
@@ -966,7 +1040,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -983,7 +1058,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8133"
   },
   {
     "gym_id": "goldsgym",
@@ -1000,7 +1076,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8134"
   },
   {
     "gym_id": "goldsgym",
@@ -1017,7 +1094,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料 / 有料"
+    "note": "有料 / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1034,7 +1112,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1051,7 +1130,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i8135"
   },
   {
     "gym_id": "goldsgym",
@@ -1068,7 +1148,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1085,7 +1166,8 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i4042"
   },
   {
     "gym_id": "goldsgym",
@@ -1095,14 +1177,15 @@
     "prefecture": "東京都",
     "day": "金",
     "start": "7:30",
-    "end": "10:00",
+    "end": null,
     "class_name": "レンタル",
     "category": "OTHER",
     "instructor": null,
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料 / 有料"
+    "note": "(有料) / レ / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1119,7 +1202,8 @@
     "studio": "Aスタジオ/Bスタジオ/Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1129,31 +1213,15 @@
     "prefecture": "東京都",
     "day": "金",
     "start": "11:45",
-    "end": "12:45",
-    "class_name": "レダ中村繫之",
+    "end": "12:35",
+    "class_name": "レダ",
     "category": "OTHER",
-    "instructor": "小知和健太郎",
+    "instructor": "中村繫之",
     "studio": "Aスタジオ/Bスタジオ/Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13220",
-    "store": "サウス東京ANNEX",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "金",
-    "start": "10:10",
-    "end": "10:30",
-    "class_name": "GGX筋コン",
-    "category": "STRENGTH & CORE",
-    "instructor": null,
-    "studio": "Bスタジオ",
-    "reservation_required": false,
-    "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8131"
   },
   {
     "gym_id": "goldsgym",
@@ -1170,7 +1238,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1187,7 +1256,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ヨ ガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8127"
   },
   {
     "gym_id": "goldsgym",
@@ -1204,7 +1274,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i2435"
   },
   {
     "gym_id": "goldsgym",
@@ -1221,7 +1292,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7576"
   },
   {
     "gym_id": "goldsgym",
@@ -1238,7 +1310,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7793"
   },
   {
     "gym_id": "goldsgym",
@@ -1255,7 +1328,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8136"
   },
   {
     "gym_id": "goldsgym",
@@ -1272,7 +1346,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8129"
   },
   {
     "gym_id": "goldsgym",
@@ -1289,7 +1364,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1306,7 +1382,26 @@
     "studio": "Aスタジオ/Bスタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "有料 / 有料"
+    "note": "有料 / 有料",
+    "instructor_id": null
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13220",
+    "store": "サウス東京ANNEX",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "土",
+    "start": "11:45",
+    "end": "12:45",
+    "class_name": "パワージョグ",
+    "category": "RUNNING",
+    "instructor": "小知和健太郎",
+    "studio": "Aスタジオ/Bスタジオ/Aスタジオ",
+    "reservation_required": false,
+    "genre": "オリジナルエアロ",
+    "note": null,
+    "instructor_id": "i8127"
   },
   {
     "gym_id": "goldsgym",
@@ -1323,7 +1418,8 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3844"
   },
   {
     "gym_id": "goldsgym",
@@ -1340,7 +1436,62 @@
     "studio": "Bスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8137"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13220",
+    "store": "サウス東京ANNEX",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "土",
+    "start": "10:30",
+    "end": "11:30",
+    "class_name": "ビギナーエアロ&シェイプ",
+    "category": "STRENGTH & CORE",
+    "instructor": "小畑知道",
+    "studio": "Bスタジオ/Aスタジオ",
+    "reservation_required": false,
+    "genre": "オリジナルエアロ",
+    "note": null,
+    "instructor_id": "i8138"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13220",
+    "store": "サウス東京ANNEX",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "土",
+    "start": "11:45",
+    "end": "12:45",
+    "class_name": "ピラティスアクティブヨガ",
+    "category": "PILATES",
+    "instructor": "山口隆子",
+    "studio": "Bスタジオ/Aスタジオ",
+    "reservation_required": false,
+    "genre": "ヨ ガ",
+    "note": null,
+    "instructor_id": "i8139"
+  },
+  {
+    "gym_id": "goldsgym",
+    "store_id": "13220",
+    "store": "サウス東京ANNEX",
+    "region": "関東",
+    "prefecture": "東京都",
+    "day": "土",
+    "start": "14:15",
+    "end": "14:45",
+    "class_name": "粕谷由美",
+    "category": "OTHER",
+    "instructor": null,
+    "studio": "Bスタジオ/Aスタジオ",
+    "reservation_required": false,
+    "genre": "オリジナルエアロ",
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1357,7 +1508,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨ ガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8140"
   },
   {
     "gym_id": "goldsgym",
@@ -1374,7 +1526,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5673"
   },
   {
     "gym_id": "goldsgym",
@@ -1391,7 +1544,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "goldsgym",
@@ -1408,7 +1562,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8120"
   },
   {
     "gym_id": "goldsgym",
@@ -1425,7 +1580,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8126"
   },
   {
     "gym_id": "goldsgym",
@@ -1442,7 +1598,8 @@
     "studio": "Aスタジオ",
     "reservation_required": false,
     "genre": "コンディショニング・調整",
-    "note": null
+    "note": null,
+    "instructor_id": "i8141"
   },
   {
     "gym_id": "goldsgym",
@@ -1453,30 +1610,14 @@
     "day": "日",
     "start": "10:30",
     "end": "11:30",
-    "class_name": "ビギナーエアロ&シェイプオリジナルエアロ",
-    "category": "STRENGTH & CORE",
-    "instructor": null,
-    "studio": "Bスタジオ/Aスタジオ",
-    "reservation_required": false,
-    "genre": "オリジナルエアロ",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13220",
-    "store": "サウス東京ANNEX",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "日",
-    "start": "10:30",
-    "end": "11:30",
-    "class_name": "小畑知道",
-    "category": "OTHER",
+    "class_name": "オリジナルエアロ",
+    "category": "AEROBICS",
     "instructor": "小知和健太郎",
     "studio": "Bスタジオ/Aスタジオ",
     "reservation_required": false,
     "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8127"
   },
   {
     "gym_id": "goldsgym",
@@ -1487,46 +1628,13 @@
     "day": "日",
     "start": "11:45",
     "end": "12:45",
-    "class_name": "ピラティスリフレッシュヨガアクティブヨガ",
-    "category": "PILATES",
-    "instructor": null,
+    "class_name": "リフレッシュヨガ",
+    "category": "YOGA",
+    "instructor": "鈴木一平",
     "studio": "Bスタジオ/Aスタジオ",
     "reservation_required": false,
     "genre": "ヨ ガ",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13220",
-    "store": "サウス東京ANNEX",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "日",
-    "start": "11:45",
-    "end": "12:45",
-    "class_name": "鈴木一平",
-    "category": "OTHER",
-    "instructor": "山口隆子",
-    "studio": "Bスタジオ/Aスタジオ",
-    "reservation_required": false,
-    "genre": "ヨ ガ",
-    "note": null
-  },
-  {
-    "gym_id": "goldsgym",
-    "store_id": "13220",
-    "store": "サウス東京ANNEX",
-    "region": "関東",
-    "prefecture": "東京都",
-    "day": "日",
-    "start": "14:15",
-    "end": "14:45",
-    "class_name": "カーディオ&シェイプ",
-    "category": "STRENGTH & CORE",
-    "instructor": "粕谷由美",
-    "studio": "Bスタジオ/Aスタジオ",
-    "reservation_required": true,
-    "genre": "オリジナルエアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i8142"
   }
 ]

@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -184,7 +194,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "軽い運動です",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -201,7 +212,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "適度な負荷",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -218,7 +230,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "適度な負荷",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -235,7 +248,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "軽い運動です",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -252,7 +266,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "やや高めの運動量",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -269,7 +284,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "軽い運動です",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -286,7 +302,8 @@
     "studio": "会議室",
     "reservation_required": false,
     "genre": "軽い運動です",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -303,7 +320,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "やや高めの運動量",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -320,7 +338,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "適度な負荷",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -337,7 +356,8 @@
     "studio": "第一体 4・5コート",
     "reservation_required": false,
     "genre": "適度な負荷",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -354,7 +374,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "適度な負荷",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -371,7 +392,8 @@
     "studio": "会議室",
     "reservation_required": false,
     "genre": "軽い運動です",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -388,7 +410,8 @@
     "studio": "会議室",
     "reservation_required": false,
     "genre": "軽い運動です",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -405,7 +428,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "やや高めの運動量",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -422,7 +446,8 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "適度な負荷",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_fussa_fussa_com",
@@ -439,6 +464,7 @@
     "studio": "第二体",
     "reservation_required": false,
     "genre": "軽い運動です",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

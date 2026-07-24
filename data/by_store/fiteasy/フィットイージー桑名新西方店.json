@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i7129"
   },
   {
     "gym_id": "fiteasy",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7125"
   },
   {
     "gym_id": "fiteasy",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "K-POP",
-    "note": null
+    "note": null,
+    "instructor_id": "i7225"
   },
   {
     "gym_id": "fiteasy",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i7129"
   },
   {
     "gym_id": "fiteasy",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7125"
   },
   {
     "gym_id": "fiteasy",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "脂肪燃焼エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7129"
   },
   {
     "gym_id": "fiteasy",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DISCO WORLD",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i7129"
   },
   {
     "gym_id": "fiteasy",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7125"
   },
   {
     "gym_id": "fiteasy",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "脂肪燃焼エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7129"
   },
   {
     "gym_id": "fiteasy",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バランスボールエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3938"
   },
   {
     "gym_id": "fiteasy",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バランスボールトレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i3938"
   },
   {
     "gym_id": "fiteasy",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋膜リリース&フットセラピー",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7125"
   },
   {
     "gym_id": "fiteasy",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ZUMBA",
-    "note": null
+    "note": null,
+    "instructor_id": "i2183"
   },
   {
     "gym_id": "fiteasy",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7125"
   },
   {
     "gym_id": "fiteasy",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バランスボールエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3938"
   },
   {
     "gym_id": "fiteasy",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋膜リリース&フットセラピー",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7142"
   },
   {
     "gym_id": "fiteasy",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "バランスボールエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3938"
   },
   {
     "gym_id": "fiteasy",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "コアトレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7129"
   },
   {
     "gym_id": "fiteasy",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ファンクショナルストレッチ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7129"
   },
   {
     "gym_id": "fiteasy",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "脂肪燃焼エアロ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7129"
   },
   {
     "gym_id": "fiteasy",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "筋膜リリース&フットセラピー",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ステップ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7126"
   },
   {
     "gym_id": "fiteasy",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フィットボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": "i7125"
   },
   {
     "gym_id": "fiteasy",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i7142"
   },
   {
     "gym_id": "fiteasy",
@@ -558,6 +590,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボールピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7142"
   }
 ]

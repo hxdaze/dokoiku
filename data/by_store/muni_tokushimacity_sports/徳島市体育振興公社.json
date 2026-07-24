@@ -14,7 +14,8 @@
     "studio": "青少年交流プラザ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -31,7 +32,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -48,7 +50,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -65,7 +68,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -82,7 +86,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -99,7 +104,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -116,7 +122,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -133,7 +140,8 @@
     "studio": "ワークスタッフ陸上競技場",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -150,7 +158,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -167,7 +176,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": "初心者〜中級"
+    "note": "初心者〜中級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -184,7 +194,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": "初級〜中級"
+    "note": "初級〜中級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -201,7 +212,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -218,7 +230,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -235,7 +248,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -252,7 +266,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -269,7 +284,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -286,7 +302,8 @@
     "studio": "B&G 海洋センター",
     "reservation_required": false,
     "genre": "一般教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -303,7 +320,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -320,7 +338,8 @@
     "studio": "青少年交流プラザ",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -337,7 +356,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -354,7 +374,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": "午前コース"
+    "note": "午前コース",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -371,7 +392,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": "午後コース"
+    "note": "午後コース",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -388,7 +410,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -405,7 +428,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": "New"
+    "note": "New",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -422,7 +446,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -439,7 +464,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -456,7 +482,8 @@
     "studio": "とくぎんトモニアリーナ (徳島市立体育館)",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -473,7 +500,8 @@
     "studio": "B&G 海洋センター",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": "硬式"
+    "note": "硬式",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -490,7 +518,8 @@
     "studio": "B&G 海洋センター",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -507,7 +536,8 @@
     "studio": "青少年交流プラザ",
     "reservation_required": false,
     "genre": "シニア教室",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -524,7 +554,8 @@
     "studio": "青少年交流プラザ",
     "reservation_required": false,
     "genre": "文化講座&季節限定講座",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -541,7 +572,8 @@
     "studio": "青少年交流プラザ",
     "reservation_required": false,
     "genre": "文化講座&季節限定講座",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -558,7 +590,8 @@
     "studio": "青少年交流プラザ",
     "reservation_required": false,
     "genre": "文化講座&季節限定講座",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -575,7 +608,8 @@
     "studio": "青少年交流プラザ",
     "reservation_required": false,
     "genre": "文化講座&季節限定講座",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -592,7 +626,8 @@
     "studio": "シニアテニス教室",
     "reservation_required": false,
     "genre": "テニス",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -609,7 +644,8 @@
     "studio": "シニアテニス教室",
     "reservation_required": false,
     "genre": "テニス",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -626,7 +662,8 @@
     "studio": "シニアテニス教室",
     "reservation_required": false,
     "genre": "テニス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -643,7 +680,8 @@
     "studio": "シニアテニス教室",
     "reservation_required": false,
     "genre": "テニス",
-    "note": "初級~中級"
+    "note": "初級~中級",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tokushimacity_sports",
@@ -677,6 +716,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

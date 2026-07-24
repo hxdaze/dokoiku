@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": "i29"
   },
   {
     "gym_id": "pilatesk",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19231"
   },
   {
     "gym_id": "pilatesk",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19187"
   },
   {
     "gym_id": "pilatesk",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19179"
   },
   {
     "gym_id": "pilatesk",
@@ -82,6 +86,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19179"
   }
 ]

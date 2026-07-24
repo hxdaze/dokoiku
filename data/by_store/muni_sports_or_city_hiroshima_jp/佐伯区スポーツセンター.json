@@ -14,7 +14,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -31,7 +32,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -65,7 +68,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -82,7 +86,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -99,7 +104,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -116,7 +122,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -150,7 +158,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18033"
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -167,7 +176,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -184,7 +194,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -201,7 +212,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -218,7 +230,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -235,7 +248,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -252,7 +266,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -269,7 +284,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -286,7 +302,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -303,7 +320,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -320,7 +338,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -337,7 +356,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -354,7 +374,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -371,7 +392,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -388,7 +410,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -405,7 +428,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -422,7 +446,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -439,7 +464,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -456,7 +482,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -473,7 +500,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -490,7 +518,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -507,7 +536,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -524,7 +554,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -541,7 +572,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -558,7 +590,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -575,7 +608,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -592,7 +626,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -609,7 +644,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -626,7 +662,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -643,7 +680,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -660,7 +698,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -677,7 +716,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -694,7 +734,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "ハーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -711,7 +752,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -728,7 +770,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -745,7 +788,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -762,7 +806,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -779,7 +824,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -796,7 +842,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -813,7 +860,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -830,7 +878,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -847,7 +896,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -864,7 +914,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -881,7 +932,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -898,7 +950,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -915,7 +968,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -932,7 +986,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -949,7 +1004,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -966,7 +1022,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -983,7 +1040,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1000,7 +1058,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1017,7 +1076,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1034,7 +1094,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1051,7 +1112,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1068,7 +1130,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1085,7 +1148,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1102,7 +1166,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1119,7 +1184,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1136,7 +1202,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1153,7 +1220,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1170,7 +1238,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1187,7 +1256,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1204,7 +1274,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1221,7 +1292,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1238,7 +1310,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1255,7 +1328,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1272,7 +1346,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1289,7 +1364,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1306,7 +1382,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1323,7 +1400,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1340,7 +1418,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1357,7 +1436,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1374,7 +1454,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1391,7 +1472,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1408,7 +1490,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1425,7 +1508,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1442,7 +1526,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1459,7 +1544,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1476,7 +1562,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1493,7 +1580,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1510,7 +1598,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1527,7 +1616,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1544,7 +1634,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1561,7 +1652,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1578,7 +1670,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1595,7 +1688,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1612,7 +1706,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1629,7 +1724,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1646,7 +1742,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1663,7 +1760,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1680,7 +1778,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1697,7 +1796,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1714,7 +1814,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1731,7 +1832,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1748,7 +1850,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1765,7 +1868,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1782,7 +1886,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1799,7 +1904,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1816,7 +1922,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1833,7 +1940,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1850,7 +1958,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1867,7 +1976,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1884,7 +1994,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1901,7 +2012,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1918,7 +2030,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1935,7 +2048,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1952,7 +2066,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1969,7 +2084,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -1986,7 +2102,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2003,7 +2120,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2020,7 +2138,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2037,7 +2156,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2054,7 +2174,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2071,7 +2192,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2088,7 +2210,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2105,7 +2228,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2122,7 +2246,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2139,7 +2264,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2156,7 +2282,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2173,7 +2300,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2190,7 +2318,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2207,7 +2336,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2224,7 +2354,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2241,7 +2372,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2258,7 +2390,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2275,7 +2408,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2292,7 +2426,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2309,7 +2444,8 @@
     "studio": "小体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2326,7 +2462,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2343,7 +2480,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2360,7 +2498,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "佐伯区"
+    "note": "佐伯区",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2377,7 +2516,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2394,7 +2534,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2411,7 +2552,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2428,7 +2570,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2445,7 +2588,8 @@
     "studio": "大体育室",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2462,7 +2606,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2479,7 +2624,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2496,7 +2642,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2513,7 +2660,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2530,7 +2678,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2547,7 +2696,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2564,7 +2714,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2581,7 +2732,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2598,7 +2750,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2615,7 +2768,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2632,7 +2786,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2649,7 +2804,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2666,7 +2822,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2683,7 +2840,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2700,7 +2858,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2717,7 +2876,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2734,7 +2894,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2751,7 +2912,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2768,7 +2930,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2785,7 +2948,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2802,7 +2966,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2819,7 +2984,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2836,7 +3002,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2853,7 +3020,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2870,7 +3038,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2887,7 +3056,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2904,7 +3074,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2921,7 +3092,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2938,7 +3110,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2955,7 +3128,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2972,7 +3146,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -2989,7 +3164,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3006,7 +3182,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3023,7 +3200,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3040,7 +3218,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3057,7 +3236,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3074,7 +3254,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3091,7 +3272,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3108,7 +3290,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3125,7 +3308,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3142,7 +3326,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3159,7 +3344,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3176,7 +3362,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3193,7 +3380,8 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_or_city_hiroshima_jp",
@@ -3210,6 +3398,7 @@
     "studio": "7月",
     "reservation_required": false,
     "genre": "ビジネス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

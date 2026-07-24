@@ -14,7 +14,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -31,7 +32,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "F"
+    "note": "F",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -48,7 +50,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -65,7 +68,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1575"
   },
   {
     "gym_id": "fitta",
@@ -82,7 +86,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": null,
-    "note": "はじめてバタフライ"
+    "note": "はじめてバタフライ",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -99,7 +104,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -116,7 +122,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -133,7 +140,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7394"
   },
   {
     "gym_id": "fitta",
@@ -150,7 +158,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -167,7 +176,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -184,7 +194,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -201,7 +212,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "有料 / 初中級"
+    "note": "有料 / 初中級",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -218,7 +230,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "F"
+    "note": "F",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -235,7 +248,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "有料 / 初中級"
+    "note": "有料 / 初中級",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -252,7 +266,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "F"
+    "note": "F",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -269,7 +284,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "有料 / 初中級"
+    "note": "有料 / 初中級",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -286,7 +302,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -303,7 +320,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -320,7 +338,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -337,7 +356,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -354,7 +374,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7395"
   },
   {
     "gym_id": "fitta",
@@ -371,7 +392,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -388,7 +410,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -405,7 +428,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "定員35名"
+    "note": "定員35名",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -422,7 +446,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1575"
   },
   {
     "gym_id": "fitta",
@@ -439,7 +464,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7325"
   },
   {
     "gym_id": "fitta",
@@ -456,7 +482,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7304"
   },
   {
     "gym_id": "fitta",
@@ -473,7 +500,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7396"
   },
   {
     "gym_id": "fitta",
@@ -490,7 +518,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7397"
   },
   {
     "gym_id": "fitta",
@@ -507,7 +536,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -524,7 +554,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "F"
+    "note": "F",
+    "instructor_id": "i7398"
   },
   {
     "gym_id": "fitta",
@@ -541,7 +572,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -558,7 +590,8 @@
     "studio": "[POOL]",
     "reservation_required": false,
     "genre": null,
-    "note": "①～③コース利用可能"
+    "note": "①～③コース利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -575,7 +608,8 @@
     "studio": "[POOL]",
     "reservation_required": false,
     "genre": null,
-    "note": "赤松美穂里 ⑤ 熊谷治③④ / 有料 / 初級"
+    "note": "赤松美穂里 ⑤ 熊谷治③④ / 有料 / 初級",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -592,7 +626,8 @@
     "studio": "[POOL]",
     "reservation_required": false,
     "genre": null,
-    "note": "⑥ 淡アーマ / 有料 / 初中級"
+    "note": "⑥ 淡アーマ / 有料 / 初中級",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -609,7 +644,8 @@
     "studio": "[POOL]",
     "reservation_required": false,
     "genre": null,
-    "note": "熊谷 治 ③④ / 有料"
+    "note": "熊谷 治 ③④ / 有料",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -626,7 +662,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -643,7 +680,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7366"
   },
   {
     "gym_id": "fitta",
@@ -660,7 +698,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i7399"
   },
   {
     "gym_id": "fitta",
@@ -677,7 +716,8 @@
     "studio": "ジム[GYM]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7400"
   },
   {
     "gym_id": "fitta",
@@ -694,7 +734,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7401"
   },
   {
     "gym_id": "fitta",
@@ -711,7 +752,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7366"
   },
   {
     "gym_id": "fitta",
@@ -728,7 +770,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i7402"
   },
   {
     "gym_id": "fitta",
@@ -745,7 +788,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i7399"
   },
   {
     "gym_id": "fitta",
@@ -762,7 +806,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7366"
   },
   {
     "gym_id": "fitta",
@@ -779,7 +824,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "F"
+    "note": "F",
+    "instructor_id": "i7403"
   },
   {
     "gym_id": "fitta",
@@ -796,7 +842,8 @@
     "studio": "ジム[GYM]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "GV"
+    "note": "GV",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -813,7 +860,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i7384"
   },
   {
     "gym_id": "fitta",
@@ -830,7 +878,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料 / 中級"
+    "note": "有料 / 中級",
+    "instructor_id": "i7402"
   },
   {
     "gym_id": "fitta",
@@ -847,7 +896,8 @@
     "studio": "ジム[GYM]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "SU"
+    "note": "SU",
+    "instructor_id": "i7400"
   },
   {
     "gym_id": "fitta",
@@ -864,7 +914,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "F"
+    "note": "F",
+    "instructor_id": "i7403"
   },
   {
     "gym_id": "fitta",
@@ -881,7 +932,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "F"
+    "note": "F",
+    "instructor_id": "i7404"
   },
   {
     "gym_id": "fitta",
@@ -898,7 +950,8 @@
     "studio": "プール[POOL]",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "F"
+    "note": "F",
+    "instructor_id": "i7405"
   },
   {
     "gym_id": "fitta",
@@ -915,7 +968,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -932,7 +986,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -949,7 +1004,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -966,7 +1022,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -983,7 +1040,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1000,7 +1058,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1017,7 +1076,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1034,7 +1094,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1051,7 +1112,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1068,7 +1130,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "利用可能"
+    "note": "利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1085,7 +1148,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]利用可能"
+    "note": "[有料]利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1102,7 +1166,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]利用可能"
+    "note": "[有料]利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1119,7 +1184,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]利用可能"
+    "note": "[有料]利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1136,7 +1202,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]利用可能"
+    "note": "[有料]利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7396"
   },
   {
     "gym_id": "fitta",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7405"
   },
   {
     "gym_id": "fitta",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i7396"
   },
   {
     "gym_id": "fitta",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]利用可能"
+    "note": "[有料]利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ[STUDIO]",
     "reservation_required": false,
     "genre": null,
-    "note": "[有料]利用可能"
+    "note": "[有料]利用可能",
+    "instructor_id": null
   },
   {
     "gym_id": "fitta",
@@ -1289,7 +1364,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i7406"
   },
   {
     "gym_id": "fitta",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i7406"
   },
   {
     "gym_id": "fitta",
@@ -1323,7 +1400,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i7407"
   },
   {
     "gym_id": "fitta",
@@ -1340,7 +1418,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有料",
-    "note": "※実施時間応相談"
+    "note": "※実施時間応相談",
+    "instructor_id": "i7408"
   },
   {
     "gym_id": "fitta",
@@ -1357,7 +1436,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有料",
-    "note": "※実施時間応相談"
+    "note": "※実施時間応相談",
+    "instructor_id": "i7408"
   },
   {
     "gym_id": "fitta",
@@ -1374,7 +1454,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i7409"
   },
   {
     "gym_id": "fitta",
@@ -1391,7 +1472,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i7409"
   },
   {
     "gym_id": "fitta",
@@ -1408,7 +1490,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": "i7409"
   },
   {
     "gym_id": "fitta",
@@ -1425,6 +1508,7 @@
     "studio": "大場 成海",
     "reservation_required": false,
     "genre": "有料",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

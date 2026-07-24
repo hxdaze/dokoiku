@@ -14,7 +14,8 @@
     "studio": "「第2期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6396"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -31,7 +32,8 @@
     "studio": "「第1期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18089"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -48,7 +50,8 @@
     "studio": "「第2期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i12714"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -65,7 +68,8 @@
     "studio": "「第1期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18090"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -82,7 +86,8 @@
     "studio": "「第2期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18091"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -99,7 +104,8 @@
     "studio": "「第1期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18092"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -116,7 +122,8 @@
     "studio": "「第2期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18091"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -133,7 +140,8 @@
     "studio": "「第1期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18092"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -150,7 +158,8 @@
     "studio": "「第2期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18091"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -167,7 +176,8 @@
     "studio": "「第1期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18092"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -184,7 +194,8 @@
     "studio": "剣道場",
     "reservation_required": false,
     "genre": "剣道",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -201,7 +212,8 @@
     "studio": "剣道場",
     "reservation_required": false,
     "genre": "剣道",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -218,7 +230,8 @@
     "studio": "「第1期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18093"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -235,7 +248,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18094"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -252,7 +266,8 @@
     "studio": "「第1期ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i18093"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -269,7 +284,8 @@
     "studio": "「第2期そろばん教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -286,7 +302,8 @@
     "studio": "「第2期そろばん教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -303,7 +320,8 @@
     "studio": "「第2期そろばん教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -320,7 +338,8 @@
     "studio": "「第2期楽しい習字教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -337,7 +356,8 @@
     "studio": "「第2期楽しい習字教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -354,7 +374,8 @@
     "studio": "「第2期楽しい習字教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -371,7 +392,8 @@
     "studio": "「ゆるやか体操教室」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -388,7 +410,8 @@
     "studio": "アリーナ",
     "reservation_required": true,
     "genre": "バドミントン",
-    "note": "全12回"
+    "note": "全12回",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -405,7 +428,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": "※9/17.24、10/15、11/5を除く。"
+    "note": "※9/17.24、10/15、11/5を除く。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -422,7 +446,8 @@
     "studio": "勃使弓道場",
     "reservation_required": true,
     "genre": "弓道",
-    "note": "初心者で4名まで"
+    "note": "初心者で4名まで",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -439,7 +464,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "有酸素運動",
-    "note": "全15回"
+    "note": "全15回",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -456,7 +482,8 @@
     "studio": "柔道場",
     "reservation_required": true,
     "genre": "柔道",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -473,7 +500,8 @@
     "studio": "柔道場",
     "reservation_required": true,
     "genre": "柔道",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -490,7 +518,8 @@
     "studio": "柔道場",
     "reservation_required": true,
     "genre": "柔道",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -507,7 +536,8 @@
     "studio": "柔道場",
     "reservation_required": true,
     "genre": "柔道",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -524,7 +554,8 @@
     "studio": "「1DAYレッスン 筋肉ほぐし！筋膜リリース」のお知らせ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "※必ず筋膜ローラーをお持ちください。運動のできる服装、飲み物、"
+    "note": "※必ず筋膜ローラーをお持ちください。運動のできる服装、飲み物、",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -541,7 +572,8 @@
     "studio": "老人福祉センター 娯楽室",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "当日先着順。券売機にてチケットを購入してください。レッスン開始の15分前から受付を行います。"
+    "note": "当日先着順。券売機にてチケットを購入してください。レッスン開始の15分前から受付を行います。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -558,7 +590,8 @@
     "studio": "剣道場",
     "reservation_required": true,
     "genre": "ランニング",
-    "note": "対象 小学1年生〜小学4年生"
+    "note": "対象 小学1年生〜小学4年生",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -575,7 +608,8 @@
     "studio": "剣道場",
     "reservation_required": true,
     "genre": "ランニング",
-    "note": "対象 小学5年生〜中学3年生"
+    "note": "対象 小学5年生〜中学3年生",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -592,7 +626,8 @@
     "studio": "「夏休み小学生K-POPでダンス体験教室」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": "小学1~3年生クラス"
+    "note": "小学1~3年生クラス",
+    "instructor_id": "i18095"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -609,7 +644,8 @@
     "studio": "「夏休み小学生K-POPでダンス体験教室」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": "小学4~6年生クラス"
+    "note": "小学4~6年生クラス",
+    "instructor_id": "i18095"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -626,7 +662,8 @@
     "studio": "「1DAYレッスン ストレッチポール教室」のお知らせ",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "400円。運動のできる服装、飲み物、ヨガマット。※ポールの貸し出し有、持ち込みもOK"
+    "note": "400円。運動のできる服装、飲み物、ヨガマット。※ポールの貸し出し有、持ち込みもOK",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -643,7 +680,8 @@
     "studio": "老人福祉センター 娯楽室 (福祉体育館内)",
     "reservation_required": true,
     "genre": "姿勢改善",
-    "note": "当日先着順。券売機にてチケットを購入してください。レッスン開始の15分前から受付を行います。"
+    "note": "当日先着順。券売機にてチケットを購入してください。レッスン開始の15分前から受付を行います。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -660,7 +698,8 @@
     "studio": "老人福祉センター 娯楽室",
     "reservation_required": false,
     "genre": "ストレッチ",
-    "note": "当日先着順。券売機にてチケットを購入してください。レッスン開始の15分前から受付を行います。"
+    "note": "当日先着順。券売機にてチケットを購入してください。レッスン開始の15分前から受付を行います。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -677,7 +716,8 @@
     "studio": "教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -694,7 +734,8 @@
     "studio": "教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -711,7 +752,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "腹筋トレーニング",
-    "note": "お腹まわりの筋肉を刺激し、シェイプアップを目指します。"
+    "note": "お腹まわりの筋肉を刺激し、シェイプアップを目指します。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -728,7 +770,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "ストレッチ",
-    "note": "当日先着順。券売機にてチケットを購入してください。レッスン開始の15分前から受付を行います。"
+    "note": "当日先着順。券売機にてチケットを購入してください。レッスン開始の15分前から受付を行います。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -745,7 +788,8 @@
     "studio": "剣道場",
     "reservation_required": false,
     "genre": "有酸素運動",
-    "note": "※12/14.21.28を除く。"
+    "note": "※12/14.21.28を除く。",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -762,7 +806,8 @@
     "studio": "「１DAYレッスン終了のお知らせ」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -779,7 +824,8 @@
     "studio": "「１DAYレッスン終了のお知らせ」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -796,7 +842,8 @@
     "studio": "「１DAYレッスン終了のお知らせ」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -813,7 +860,8 @@
     "studio": "「１DAYレッスン終了のお知らせ」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -830,7 +878,8 @@
     "studio": "「１DAYレッスン終了のお知らせ」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -847,7 +896,8 @@
     "studio": "「１DAYレッスン終了のお知らせ」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -864,7 +914,8 @@
     "studio": "「１DAYレッスン終了のお知らせ」のお知らせ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -881,7 +932,8 @@
     "studio": "剣道場",
     "reservation_required": true,
     "genre": "K-POPダンス",
-    "note": "未経験者対象"
+    "note": "未経験者対象",
+    "instructor_id": "i18095"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -898,7 +950,8 @@
     "studio": "剣道場",
     "reservation_required": true,
     "genre": "K-POPダンス",
-    "note": "経験者対象"
+    "note": "経験者対象",
+    "instructor_id": "i18095"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -915,7 +968,8 @@
     "studio": "「ゆっくり朝ヨガ教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -932,7 +986,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -949,7 +1004,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -966,7 +1022,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -983,7 +1040,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1000,7 +1058,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1017,7 +1076,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1034,7 +1094,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1051,7 +1112,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1068,7 +1130,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1085,7 +1148,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1102,7 +1166,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1119,7 +1184,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1136,7 +1202,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1153,7 +1220,8 @@
     "studio": "「前期スポーツ教室定員に関するお知らせ」",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1170,7 +1238,8 @@
     "studio": "福祉体育館柔道場",
     "reservation_required": true,
     "genre": "柔道",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1187,7 +1256,8 @@
     "studio": "福祉体育館柔道場",
     "reservation_required": true,
     "genre": "柔道",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1204,7 +1274,8 @@
     "studio": "「夏休み小学生ダンス体験教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": "未経験者対象"
+    "note": "未経験者対象",
+    "instructor_id": "i18096"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1221,7 +1292,8 @@
     "studio": "「夏休み小学生ダンス体験教室」のお知らせ",
     "reservation_required": true,
     "genre": null,
-    "note": "経験者対象"
+    "note": "経験者対象",
+    "instructor_id": "i18096"
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1238,7 +1310,8 @@
     "studio": "ステップアップテニス教室",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1255,7 +1328,8 @@
     "studio": "和室A",
     "reservation_required": false,
     "genre": "習字",
-    "note": "定員各部10名程度"
+    "note": "定員各部10名程度",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_toyoake_fukushi_taiiku_com",
@@ -1272,6 +1346,7 @@
     "studio": "和室A",
     "reservation_required": false,
     "genre": "習字",
-    "note": "定員各部10名程度"
+    "note": "定員各部10名程度",
+    "instructor_id": null
   }
 ]

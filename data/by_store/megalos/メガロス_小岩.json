@@ -14,7 +14,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【有料スクール登録者制】"
+    "note": "【有料スクール登録者制】",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -31,7 +32,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i17346"
   },
   {
     "gym_id": "megalos",
@@ -48,7 +50,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i17346"
   },
   {
     "gym_id": "megalos",
@@ -65,7 +68,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i7792"
   },
   {
     "gym_id": "megalos",
@@ -82,7 +86,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i17347"
   },
   {
     "gym_id": "megalos",
@@ -99,7 +104,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i17348"
   },
   {
     "gym_id": "megalos",
@@ -116,7 +122,8 @@
     "studio": "8F Active",
     "reservation_required": false,
     "genre": null,
-    "note": "【予約不要】別紙参照"
+    "note": "【予約不要】別紙参照",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -133,7 +140,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i17349"
   },
   {
     "gym_id": "megalos",
@@ -150,7 +158,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制34名】"
+    "note": "【WEB予約制34名】",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -167,7 +176,8 @@
     "studio": "8F Active",
     "reservation_required": false,
     "genre": null,
-    "note": "※放映内容は別紙参照"
+    "note": "※放映内容は別紙参照",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -184,7 +194,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -201,7 +212,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i29"
   },
   {
     "gym_id": "megalos",
@@ -218,7 +230,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【有料スクール登録者制】"
+    "note": "【有料スクール登録者制】",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -235,7 +248,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i17195"
   },
   {
     "gym_id": "megalos",
@@ -252,7 +266,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i17195"
   },
   {
     "gym_id": "megalos",
@@ -269,7 +284,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】 / 30分クラス"
+    "note": "【WEB予約制30名】 / 30分クラス",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -286,7 +302,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】 / 30分クラス"
+    "note": "【WEB予約制30名】 / 30分クラス",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -303,7 +320,8 @@
     "studio": "8F Active",
     "reservation_required": false,
     "genre": null,
-    "note": "【予約不要】別紙参照"
+    "note": "【予約不要】別紙参照",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -320,7 +338,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -337,7 +356,8 @@
     "studio": "8F Active",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制34名】"
+    "note": "【WEB予約制34名】",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -354,7 +374,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[予約不要]※別紙参照"
+    "note": "[予約不要]※別紙参照",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名] / 30分クラス"
+    "note": "[WEB予約制30名] / 30分クラス",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名] / 30分クラス"
+    "note": "[WEB予約制30名] / 30分クラス",
+    "instructor_id": "i17351"
   },
   {
     "gym_id": "megalos",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[登録制]"
+    "note": "[登録制]",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i5761"
   },
   {
     "gym_id": "megalos",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制34名]"
+    "note": "[WEB予約制34名]",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -490,7 +518,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i17354"
   },
   {
     "gym_id": "megalos",
@@ -541,7 +572,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制34名]"
+    "note": "[WEB予約制34名]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i17355"
   },
   {
     "gym_id": "megalos",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i17349"
   },
   {
     "gym_id": "megalos",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制20名]"
+    "note": "[WEB予約制20名]",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i17356"
   },
   {
     "gym_id": "megalos",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制1名] / 女性専用"
+    "note": "[WEB予約制1名] / 女性専用",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制11名] / 女性専用ビギナーズ"
+    "note": "[WEB予約制11名] / 女性専用ビギナーズ",
+    "instructor_id": "i1316"
   },
   {
     "gym_id": "megalos",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -728,7 +770,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制14名 / 女性専用ビギナーズ"
+    "note": "WEB予約制14名 / 女性専用ビギナーズ",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制34名"
+    "note": "WEB予約制34名",
+    "instructor_id": "i17357"
   },
   {
     "gym_id": "megalos",
@@ -762,7 +806,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -796,7 +842,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -813,7 +860,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -830,7 +878,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -881,7 +932,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17358"
   },
   {
     "gym_id": "megalos",
@@ -915,7 +968,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17358"
   },
   {
     "gym_id": "megalos",
@@ -932,7 +986,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -949,7 +1004,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -983,7 +1040,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17353"
   },
   {
     "gym_id": "megalos",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制11名 / 女性専用ビギナーズ"
+    "note": "WEB予約制11名 / 女性専用ビギナーズ",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名 / 45分クラス"
+    "note": "WEB予約制30名 / 45分クラス",
+    "instructor_id": "i4318"
   },
   {
     "gym_id": "megalos",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "18:55-19:25 / 定員制20名 / 映像"
+    "note": "18:55-19:25 / 定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1357,7 +1436,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": "i17350"
   },
   {
     "gym_id": "megalos",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制14名 / 女性専用ビギナーズ"
+    "note": "WEB予約制14名 / 女性専用ビギナーズ",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制34名"
+    "note": "WEB予約制34名",
+    "instructor_id": "i17357"
   },
   {
     "gym_id": "megalos",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": "i17352"
   },
   {
     "gym_id": "megalos",
@@ -1595,7 +1688,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1612,7 +1706,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1629,7 +1724,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1646,7 +1742,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1663,7 +1760,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1680,7 +1778,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1697,7 +1796,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1714,7 +1814,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1731,7 +1832,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1748,7 +1850,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1765,7 +1868,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1782,7 +1886,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1799,7 +1904,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1816,7 +1922,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1833,7 +1940,8 @@
     "studio": "クイックプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1850,7 +1958,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "【有料スクール登録者制】"
+    "note": "【有料スクール登録者制】",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1867,7 +1976,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "【有料スクール登録者制】"
+    "note": "【有料スクール登録者制】",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1884,7 +1994,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】"
+    "note": "【WEB予約制30名】",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1901,7 +2012,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "【WEB予約制30名】 / 30分クラス"
+    "note": "【WEB予約制30名】 / 30分クラス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1918,7 +2030,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[予約不要]※別紙参照"
+    "note": "[予約不要]※別紙参照",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1935,7 +2048,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "チャイルド"
+    "note": "チャイルド",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1952,7 +2066,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i5761"
   },
   {
     "gym_id": "megalos",
@@ -1969,7 +2084,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "[登録制]"
+    "note": "[登録制]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -1986,7 +2102,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2003,7 +2120,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "[WEB予約制30名]"
+    "note": "[WEB予約制30名]",
+    "instructor_id": "i17355"
   },
   {
     "gym_id": "megalos",
@@ -2020,7 +2138,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制14名 / 女性専用ビギナー"
+    "note": "WEB予約制14名 / 女性専用ビギナー",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2037,7 +2156,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制34名"
+    "note": "WEB予約制34名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2054,7 +2174,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2071,7 +2192,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名 / 45分クラス"
+    "note": "WEB予約制30名 / 45分クラス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2088,7 +2210,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2105,7 +2228,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2122,7 +2246,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制11名 / 女性専用ビギナー"
+    "note": "WEB予約制11名 / 女性専用ビギナー",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2139,7 +2264,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2156,7 +2282,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2173,7 +2300,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2190,7 +2318,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制14名 / 女性専用ビギナー"
+    "note": "WEB予約制14名 / 女性専用ビギナー",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2207,7 +2336,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制34名"
+    "note": "WEB予約制34名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2224,7 +2354,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2241,7 +2372,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名 / 45分クラス"
+    "note": "WEB予約制30名 / 45分クラス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2258,7 +2390,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制20名"
+    "note": "WEB予約制20名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2275,7 +2408,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "定員制20名 / 映像"
+    "note": "定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2292,7 +2426,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制11名 / 女性専用ビギナー"
+    "note": "WEB予約制11名 / 女性専用ビギナー",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2309,7 +2444,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2326,7 +2462,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2343,7 +2480,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "WEB予約制30名"
+    "note": "WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2360,7 +2498,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:10-13:40 / 登録制"
+    "note": "13:10-13:40 / 登録制",
+    "instructor_id": "i17359"
   },
   {
     "gym_id": "megalos",
@@ -2377,7 +2516,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "14:45-15:15 / 登録制"
+    "note": "14:45-15:15 / 登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2394,7 +2534,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "13:55-14:25 照井 / WEB予約制30名"
+    "note": "13:55-14:25 照井 / WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2411,7 +2552,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "17:50-18:35 / WEB予約制30名 / 45分クラス"
+    "note": "17:50-18:35 / WEB予約制30名 / 45分クラス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2428,7 +2570,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "18:45-19:15 キャスト / WEB予約制20名"
+    "note": "18:45-19:15 キャスト / WEB予約制20名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2445,7 +2588,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "18:55-19:25 / 定員制20名 / 映像"
+    "note": "18:55-19:25 / 定員制20名 / 映像",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2462,7 +2606,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "18:00-18:30 キャスト / WEB予約制11名 / 女性専用ビギナー"
+    "note": "18:00-18:30 キャスト / WEB予約制11名 / 女性専用ビギナー",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2479,7 +2624,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "13:10-13:40 / 登録制"
+    "note": "13:10-13:40 / 登録制",
+    "instructor_id": "i17359"
   },
   {
     "gym_id": "megalos",
@@ -2496,7 +2642,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "14:45-15:15 / 登録制"
+    "note": "14:45-15:15 / 登録制",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2513,7 +2660,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "13:55-14:25 照井 / WEB予約制30名"
+    "note": "13:55-14:25 照井 / WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2530,7 +2678,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "17:50-18:35 / WEB予約制30名 / 45分クラス"
+    "note": "17:50-18:35 / WEB予約制30名 / 45分クラス",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2547,7 +2696,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "18:45-19:15 キャスト / WEB予約制20名"
+    "note": "18:45-19:15 キャスト / WEB予約制20名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2564,7 +2714,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "18:00-18:30 キャスト / WEB予約制11名 / 女性専用ビギナー"
+    "note": "18:00-18:30 キャスト / WEB予約制11名 / 女性専用ビギナー",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2581,7 +2732,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "12:20-12:50 工藤 / WEB予約制30名"
+    "note": "12:20-12:50 工藤 / WEB予約制30名",
+    "instructor_id": null
   },
   {
     "gym_id": "megalos",
@@ -2598,6 +2750,7 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "12:20-12:50 工藤 / WEB予約制30名"
+    "note": "12:20-12:50 工藤 / WEB予約制30名",
+    "instructor_id": null
   }
 ]

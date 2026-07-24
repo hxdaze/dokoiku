@@ -14,7 +14,8 @@
     "studio": "プールエリア教室&",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i18046"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -31,7 +32,8 @@
     "studio": "プールエリア教室&",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -48,7 +50,8 @@
     "studio": "プールエリア教室&",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i18047"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -65,7 +68,8 @@
     "studio": "プールエリア教室&",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i18047"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -82,7 +86,8 @@
     "studio": "プールエリア教室&",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i7782"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -99,7 +104,8 @@
     "studio": "プールエリア教室&",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -116,7 +122,8 @@
     "studio": "プールエリア教室&",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "19:15まで"
+    "note": "19:15まで",
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18046"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18049"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18046"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18050"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -303,7 +320,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18051"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -320,7 +338,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18052"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -337,7 +356,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18053"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -354,7 +374,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18051"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -371,7 +392,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18051"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -388,7 +410,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18051"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -405,7 +428,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18054"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -422,7 +446,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18054"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -439,7 +464,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18055"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -456,7 +482,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18056"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -473,7 +500,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18057"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -490,7 +518,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18058"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -507,7 +536,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18058"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -524,7 +554,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -541,7 +572,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18058"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -558,7 +590,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -575,7 +608,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18058"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -592,7 +626,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18058"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -609,7 +644,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18059"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -626,7 +662,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18060"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -643,7 +680,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18053"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -660,7 +698,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18053"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -677,7 +716,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18053"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -694,7 +734,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18046"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -711,7 +752,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18061"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -728,7 +770,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -745,7 +788,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -762,7 +806,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18058"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -779,7 +824,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18056"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -796,7 +842,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18058"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -813,7 +860,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18059"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -830,7 +878,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18057"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -847,7 +896,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18061"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -864,7 +914,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18061"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -881,7 +932,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -898,7 +950,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -915,7 +968,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18056"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -932,7 +986,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_tairyoku",
@@ -949,7 +1004,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18056"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -966,7 +1022,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18058"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -983,7 +1040,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -1000,7 +1058,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -1017,7 +1076,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18048"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -1034,7 +1094,8 @@
     "studio": "トレーニングルーム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18052"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -1051,7 +1112,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18062"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -1068,7 +1130,8 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18062"
   },
   {
     "gym_id": "muni_tairyoku",
@@ -1085,6 +1148,7 @@
     "studio": "フィットネススタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

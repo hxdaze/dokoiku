@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": "リリースNo.61"
+    "note": "リリースNo.61",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": "リリースNo.105"
+    "note": "リリースNo.105",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": "リリースNo.101"
+    "note": "リリースNo.101",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバンプ",
-    "note": "リリースNo.132"
+    "note": "リリースNo.132",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバンプ",
-    "note": "リリースNo.131"
+    "note": "リリースNo.131",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": "リリースNo.126"
+    "note": "リリースNo.126",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバンプ",
-    "note": "リリースNo.136"
+    "note": "リリースNo.136",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": "リリースNo.129"
+    "note": "リリースNo.129",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": "リリースNo.5"
+    "note": "リリースNo.5",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバンプ",
-    "note": "リリースNo.135"
+    "note": "リリースNo.135",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": "リリースNo.11"
+    "note": "リリースNo.11",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": "リリースNo.110"
+    "note": "リリースNo.110",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": "リリースNo.125"
+    "note": "リリースNo.125",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": "リリースNo.106"
+    "note": "リリースNo.106",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": "リリースNo.131"
+    "note": "リリースNo.131",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": "リリースNo.6"
+    "note": "リリースNo.6",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": "リリースNo.104"
+    "note": "リリースNo.104",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": "リリースNo.127"
+    "note": "リリースNo.127",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": "リリースNo.55"
+    "note": "リリースNo.55",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": "リリースNo.106"
+    "note": "リリースNo.106",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": "リリースNo.111"
+    "note": "リリースNo.111",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": "リリースNo.102"
+    "note": "リリースNo.102",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバンプ",
-    "note": "リリースNo.131"
+    "note": "リリースNo.131",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": "リリースNo.105"
+    "note": "リリースNo.105",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": "リリースNo.6"
+    "note": "リリースNo.6",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": "リリースNo.8"
+    "note": "リリースNo.8",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": "リリースNo.130"
+    "note": "リリースNo.130",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": "リリースNo.105"
+    "note": "リリースNo.105",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": "リリースNo.128"
+    "note": "リリースNo.128",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバンプ",
-    "note": "リリースNo.134"
+    "note": "リリースNo.134",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": "リリースNo.60"
+    "note": "リリースNo.60",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": "リリースNo.57"
+    "note": "リリースNo.57",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": "リリースNo.100"
+    "note": "リリースNo.100",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": "リリースNo.5"
+    "note": "リリースNo.5",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": "リリースNo.126"
+    "note": "リリースNo.126",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバンプ",
-    "note": "リリースNo.136"
+    "note": "リリースNo.136",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": "リリースNo.107"
+    "note": "リリースNo.107",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": "リリースNo.107"
+    "note": "リリースNo.107",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバンプ",
-    "note": "リリースNo.135"
+    "note": "リリースNo.135",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": "リリースNo.102"
+    "note": "リリースNo.102",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": "リリースNo.9"
+    "note": "リリースNo.9",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": "リリースNo.106"
+    "note": "リリースNo.106",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": "リリースNo.58"
+    "note": "リリースNo.58",
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "LES MILLS DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1136,7 +1202,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1153,7 +1220,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1170,7 +1238,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1187,7 +1256,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1204,7 +1274,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1221,7 +1292,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディパンプ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1238,7 +1310,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディアタック",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1255,7 +1328,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1272,7 +1346,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディコンバット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1289,7 +1364,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ボディバランス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "CORE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "fit365",
@@ -1323,6 +1400,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

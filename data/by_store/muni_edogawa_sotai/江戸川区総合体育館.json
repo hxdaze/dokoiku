@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヒップホップダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "健康太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヒップホップダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "キックボクシング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フラメンコ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "ラテンのベースに色々な音楽を取り入れたダンスフィットネスエクササイズ"
+    "note": "ラテンのベースに色々な音楽を取り入れたダンスフィットネスエクササイズ",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "35 / 30"
+    "note": "35 / 30",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -439,7 +464,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "深い呼吸と共に無理なくインナーマッスルを鍛え正しい姿勢を身につける"
+    "note": "深い呼吸と共に無理なくインナーマッスルを鍛え正しい姿勢を身につける",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -456,7 +482,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -473,7 +500,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -490,7 +518,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -507,7 +536,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有酸素運動と筋力トレーニングを交互に組み合わせ体力向上を目指す"
+    "note": "有酸素運動と筋力トレーニングを交互に組み合わせ体力向上を目指す",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -524,7 +554,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -541,7 +572,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -558,7 +590,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -575,7 +608,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "親子スポーツ",
-    "note": "10種のスポーツ体験を通して健やかな身体・自主性・協調性をはぐくみます / 小1～小3"
+    "note": "10種のスポーツ体験を通して健やかな身体・自主性・協調性をはぐくみます / 小1～小3",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -592,7 +626,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -609,7 +644,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -626,7 +662,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロビクスで心拍数を徐々に上げ、走ったりジャンプしながら心肺機能を高める"
+    "note": "エアロビクスで心拍数を徐々に上げ、走ったりジャンプしながら心肺機能を高める",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -643,7 +680,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -660,7 +698,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般公開",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般公開",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -694,7 +734,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "一般公開",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -711,7 +752,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "簡単なエアロビクスと筋力トレーニング"
+    "note": "簡単なエアロビクスと筋力トレーニング",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -728,7 +770,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "エアロビクスに慣れてきて、さらなる体力向上、様々なステップが楽しめるクラス"
+    "note": "エアロビクスに慣れてきて、さらなる体力向上、様々なステップが楽しめるクラス",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -745,7 +788,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "ステップ台の昇降運動で筋力・持久力向上と脂肪燃焼効果を上げる"
+    "note": "ステップ台の昇降運動で筋力・持久力向上と脂肪燃焼効果を上げる",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -762,7 +806,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "難易度の低いポーズを中心とした初心者向けヨガ"
+    "note": "難易度の低いポーズを中心とした初心者向けヨガ",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -779,7 +824,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "背骨をしっかりと動かして姿勢改善、機能的な身体作りを目指す"
+    "note": "背骨をしっかりと動かして姿勢改善、機能的な身体作りを目指す",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -796,7 +842,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "一般的なヨガよりも少々ハード、体力や筋力も求められ脂肪燃焼効果もある"
+    "note": "一般的なヨガよりも少々ハード、体力や筋力も求められ脂肪燃焼効果もある",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -813,7 +860,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ピラティス",
-    "note": "初心者から上級者までヨガを楽しむプログラム構成"
+    "note": "初心者から上級者までヨガを楽しむプログラム構成",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -830,7 +878,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "リラックス系",
-    "note": "1カ月ごとに簡単エアロ・青竹ピクス・チェアピクス・チューブ・ボール・筋トレ・ストレッチなど、様々な運動を取り入れるので飽きずに「ちょっと」のトレーニングが出来ます！"
+    "note": "1カ月ごとに簡単エアロ・青竹ピクス・チェアピクス・チューブ・ボール・筋トレ・ストレッチなど、様々な運動を取り入れるので飽きずに「ちょっと」のトレーニングが出来ます！",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "リラックス系",
-    "note": "太極拳24式（楊名時太極拳） ゆったりとした動きと呼吸法で体調を整えます"
+    "note": "太極拳24式（楊名時太極拳） ゆったりとした動きと呼吸法で体調を整えます",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "フラメンコの基本的な動きを用いたエクササイズ（初心者の方から参加可能）"
+    "note": "フラメンコの基本的な動きを用いたエクササイズ（初心者の方から参加可能）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "クラシック・バレエの基礎的な動きをもとに筋力と柔軟性を高め、身体づくりに最適"
+    "note": "クラシック・バレエの基礎的な動きをもとに筋力と柔軟性を高め、身体づくりに最適",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "ダンスの基礎を習得し後半は振付を踊る（ジャズダンス・ヒップホップなど様々）"
+    "note": "ダンスの基礎を習得し後半は振付を踊る（ジャズダンス・ヒップホップなど様々）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "フラの基礎から習得（初心者の方から参加可能）"
+    "note": "フラの基礎から習得（初心者の方から参加可能）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "【最終週のみ開催】基本的なベリーダンスの動きで背骨、骨盤をしなやかに動かし整える"
+    "note": "【最終週のみ開催】基本的なベリーダンスの動きで背骨、骨盤をしなやかに動かし整える",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "ダンス系",
-    "note": "フラの基礎から習得（初心者の方から参加可能）"
+    "note": "フラの基礎から習得（初心者の方から参加可能）",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アーティファクト",
-    "note": "腹部・臀部・背部を短い時間で効率よくトレーニングするプログラム"
+    "note": "腹部・臀部・背部を短い時間で効率よくトレーニングするプログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アーティファクト",
-    "note": "ボールを使ったストレッチなどで体幹を安定させ良い姿勢と基礎代謝アップ！"
+    "note": "ボールを使ったストレッチなどで体幹を安定させ良い姿勢と基礎代謝アップ！",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アーティファクト",
-    "note": "腹部・臀部・背部を短い時間で効率よくトレーニングするプログラム"
+    "note": "腹部・臀部・背部を短い時間で効率よくトレーニングするプログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アーティファクト",
-    "note": "ペールを使った筋トレ系エクササイズです。筋力アップ・ダイエットに最適"
+    "note": "ペールを使った筋トレ系エクササイズです。筋力アップ・ダイエットに最適",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "アーティファクト",
-    "note": "現役プロキックボクサーによる本格指導、ミット撃ちでストレス発散・ダイエットにも！"
+    "note": "現役プロキックボクサーによる本格指導、ミット撃ちでストレス発散・ダイエットにも！",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_edogawa_sotai",
@@ -1051,6 +1112,7 @@
     "studio": "第2土",
     "reservation_required": false,
     "genre": "親子スポーツ",
-    "note": "小学3年生～どなたでも"
+    "note": "小学3年生～どなたでも",
+    "instructor_id": null
   }
 ]

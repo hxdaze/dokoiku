@@ -14,7 +14,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -31,7 +32,8 @@
     "studio": "プール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -48,7 +50,8 @@
     "studio": "成人水泳初級",
     "reservation_required": true,
     "genre": null,
-    "note": "キャンセル待ち※左側番号が待ち番号となります"
+    "note": "キャンセル待ち※左側番号が待ち番号となります",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -65,7 +68,8 @@
     "studio": "トレーニング室 ショートプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -82,7 +86,8 @@
     "studio": "トレーニング室 ショートプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -99,7 +104,8 @@
     "studio": "トレーニング室 ショートプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -116,7 +122,8 @@
     "studio": "トレーニング室 ショートプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -133,7 +140,8 @@
     "studio": "トレーニング室 ショートプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -150,7 +158,8 @@
     "studio": "トレーニング室 ショートプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_sports_kodaira",
@@ -167,6 +176,7 @@
     "studio": "トレーニング室 ショートプログラム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

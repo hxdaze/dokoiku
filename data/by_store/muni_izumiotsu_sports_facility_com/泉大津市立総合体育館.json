@@ -14,7 +14,8 @@
     "studio": "第3",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3957"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -31,7 +32,8 @@
     "studio": "第3",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i107"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -48,7 +50,8 @@
     "studio": "第3",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i3283"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -65,7 +68,8 @@
     "studio": "第3",
     "reservation_required": true,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17877"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -82,7 +86,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6293"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -99,7 +104,8 @@
     "studio": "大体育室 入口1/2",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i4561"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -116,7 +122,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6293"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -133,7 +140,8 @@
     "studio": "大体育室 入口1/2",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17878"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -150,7 +158,8 @@
     "studio": "第2",
     "reservation_required": true,
     "genre": "ピラティス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17879"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -167,7 +176,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6293"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -184,7 +194,8 @@
     "studio": "第3",
     "reservation_required": true,
     "genre": "ダンス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17880"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -201,7 +212,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "キッズ体操",
-    "note": "1歳半～3歳11か月"
+    "note": "1歳半～3歳11か月",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -218,7 +230,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17881"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -235,7 +248,8 @@
     "studio": "会議室",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i17881"
   },
   {
     "gym_id": "muni_izumiotsu_sports_facility_com",
@@ -252,6 +266,7 @@
     "studio": "第2",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6098"
   }
 ]

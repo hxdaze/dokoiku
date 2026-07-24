@@ -14,7 +14,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -31,7 +32,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -48,7 +50,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -65,7 +68,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -82,7 +86,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -99,7 +104,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -116,7 +122,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -133,7 +140,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -150,7 +158,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -167,7 +176,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -184,7 +194,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -201,7 +212,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -218,7 +230,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -235,7 +248,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -252,7 +266,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -269,7 +284,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -286,7 +302,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -303,7 +320,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -320,7 +338,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -337,7 +356,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -354,7 +374,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -371,7 +392,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -388,7 +410,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -405,7 +428,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -422,7 +446,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -439,7 +464,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -456,7 +482,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -473,7 +500,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -490,7 +518,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -507,7 +536,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -524,7 +554,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -541,7 +572,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -558,7 +590,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -575,7 +608,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -592,7 +626,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -609,7 +644,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -626,7 +662,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -643,7 +680,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -660,7 +698,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -677,7 +716,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -694,7 +734,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -711,7 +752,8 @@
     "studio": "Aコート",
     "reservation_required": false,
     "genre": "バスケットボール",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -728,7 +770,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -745,7 +788,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -762,7 +806,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -779,7 +824,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -796,7 +842,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -813,7 +860,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -830,7 +878,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -847,7 +896,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -864,7 +914,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -881,7 +932,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -898,7 +950,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -915,7 +968,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -932,7 +986,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -949,7 +1004,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -966,7 +1022,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -983,7 +1040,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1000,7 +1058,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1017,7 +1076,8 @@
     "studio": "Bコート",
     "reservation_required": false,
     "genre": "バドミントン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1034,7 +1094,8 @@
     "studio": "第2体育室",
     "reservation_required": false,
     "genre": "スポーツ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1136,7 +1202,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1153,7 +1220,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1170,7 +1238,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1187,7 +1256,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1204,7 +1274,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1221,7 +1292,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1238,7 +1310,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1255,7 +1328,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1272,7 +1346,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1289,7 +1364,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1306,7 +1382,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1323,7 +1400,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "1回1,000円"
+    "note": "1回1,000円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1340,7 +1418,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "1回1,000円"
+    "note": "1回1,000円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1357,7 +1436,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "①18:00～18:50\n②19:00～20:15\n月額3,000円または1回1,000円"
+    "note": "①18:00～18:50\n②19:00～20:15\n月額3,000円または1回1,000円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1374,7 +1454,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "1回500円"
+    "note": "1回500円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1391,7 +1472,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "月額2,000円 / 初心者"
+    "note": "月額2,000円 / 初心者",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1408,7 +1490,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "1回700円 / 初心者"
+    "note": "1回700円 / 初心者",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1425,7 +1508,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "1回500円"
+    "note": "1回500円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1442,7 +1526,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "各回12名要予約\n1回700円"
+    "note": "各回12名要予約\n1回700円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1459,7 +1544,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "各回12名要予約\n1回700円"
+    "note": "各回12名要予約\n1回700円",
+    "instructor_id": null
   },
   {
     "gym_id": "muni_shinko_otaru_com",
@@ -1476,6 +1562,7 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "1回700円"
+    "note": "1回700円",
+    "instructor_id": null
   }
 ]

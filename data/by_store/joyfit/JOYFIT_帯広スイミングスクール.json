@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "【中級】"
+    "note": "【中級】",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -31,7 +32,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "【中級】"
+    "note": "【中級】",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -48,7 +50,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "【中級】"
+    "note": "【中級】",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "【中級】"
+    "note": "【中級】",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "【中級】"
+    "note": "【中級】",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "はじめて"
+    "note": "はじめて",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "はしめて"
+    "note": "はしめて",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "スイミング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": null
   },
   {
     "gym_id": "joyfit",
@@ -235,6 +248,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ダンス",
-    "note": "上級"
+    "note": "上級",
+    "instructor_id": null
   }
 ]

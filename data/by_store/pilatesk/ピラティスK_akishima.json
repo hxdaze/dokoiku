@@ -14,7 +14,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -31,7 +32,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -48,7 +50,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i19297"
   },
   {
     "gym_id": "pilatesk",
@@ -65,7 +68,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -82,7 +86,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i19064"
   },
   {
     "gym_id": "pilatesk",
@@ -99,7 +104,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -116,7 +122,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19297"
   },
   {
     "gym_id": "pilatesk",
@@ -133,7 +140,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i19064"
   },
   {
     "gym_id": "pilatesk",
@@ -150,7 +158,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i19064"
   },
   {
     "gym_id": "pilatesk",
@@ -167,7 +176,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -184,7 +194,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -201,7 +212,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -218,7 +230,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19064"
   },
   {
     "gym_id": "pilatesk",
@@ -235,7 +248,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i19297"
   },
   {
     "gym_id": "pilatesk",
@@ -252,7 +266,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -269,7 +284,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i19064"
   },
   {
     "gym_id": "pilatesk",
@@ -286,7 +302,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19297"
   },
   {
     "gym_id": "pilatesk",
@@ -303,7 +320,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i19064"
   },
   {
     "gym_id": "pilatesk",
@@ -320,7 +338,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19297"
   },
   {
     "gym_id": "pilatesk",
@@ -337,7 +356,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -354,7 +374,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -371,7 +392,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19296"
   },
   {
     "gym_id": "pilatesk",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Waist",
-    "note": null
+    "note": null,
+    "instructor_id": "i19297"
   },
   {
     "gym_id": "pilatesk",
@@ -405,6 +428,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "Back&Arm",
-    "note": null
+    "note": null,
+    "instructor_id": "i19064"
   }
 ]

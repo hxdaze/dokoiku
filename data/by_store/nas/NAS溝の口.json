@@ -14,7 +14,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18357"
   },
   {
     "gym_id": "nas",
@@ -31,7 +32,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -48,7 +50,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -65,7 +68,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -82,7 +86,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18357"
   },
   {
     "gym_id": "nas",
@@ -99,7 +104,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2183"
   },
   {
     "gym_id": "nas",
@@ -116,7 +122,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18360"
   },
   {
     "gym_id": "nas",
@@ -133,7 +140,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18361"
   },
   {
     "gym_id": "nas",
@@ -150,7 +158,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18362"
   },
   {
     "gym_id": "nas",
@@ -167,7 +176,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -184,7 +194,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -201,7 +212,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18363"
   },
   {
     "gym_id": "nas",
@@ -218,7 +230,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18364"
   },
   {
     "gym_id": "nas",
@@ -235,7 +248,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -252,7 +266,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2418"
   },
   {
     "gym_id": "nas",
@@ -269,7 +284,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -286,7 +302,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -303,7 +320,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18365"
   },
   {
     "gym_id": "nas",
@@ -320,7 +338,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18366"
   },
   {
     "gym_id": "nas",
@@ -337,7 +356,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -354,7 +374,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8285"
   },
   {
     "gym_id": "nas",
@@ -371,7 +392,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -388,7 +410,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -405,7 +428,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8285"
   },
   {
     "gym_id": "nas",
@@ -422,7 +446,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -439,7 +464,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -456,7 +482,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -473,7 +500,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料スクール"
+    "note": "※有料スクール",
+    "instructor_id": "i18367"
   },
   {
     "gym_id": "nas",
@@ -490,7 +518,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -507,7 +536,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -524,7 +554,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -541,7 +572,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2418"
   },
   {
     "gym_id": "nas",
@@ -558,7 +590,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18368"
   },
   {
     "gym_id": "nas",
@@ -575,7 +608,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18369"
   },
   {
     "gym_id": "nas",
@@ -592,7 +626,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i218"
   },
   {
     "gym_id": "nas",
@@ -609,7 +644,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18362"
   },
   {
     "gym_id": "nas",
@@ -626,7 +662,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18362"
   },
   {
     "gym_id": "nas",
@@ -643,7 +680,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -660,7 +698,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18361"
   },
   {
     "gym_id": "nas",
@@ -677,7 +716,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -694,7 +734,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18370"
   },
   {
     "gym_id": "nas",
@@ -711,7 +752,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8202"
   },
   {
     "gym_id": "nas",
@@ -728,7 +770,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18371"
   },
   {
     "gym_id": "nas",
@@ -745,7 +788,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料スクール"
+    "note": "※有料スクール",
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -762,7 +806,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -779,7 +824,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": "(中級)"
+    "note": "(中級)",
+    "instructor_id": "i645"
   },
   {
     "gym_id": "nas",
@@ -796,7 +842,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料プログラム"
+    "note": "※有料プログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -813,7 +860,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18372"
   },
   {
     "gym_id": "nas",
@@ -830,7 +878,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2179"
   },
   {
     "gym_id": "nas",
@@ -847,7 +896,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18372"
   },
   {
     "gym_id": "nas",
@@ -864,7 +914,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -881,7 +932,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18373"
   },
   {
     "gym_id": "nas",
@@ -898,7 +950,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料スクール"
+    "note": "※有料スクール",
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -915,7 +968,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18360"
   },
   {
     "gym_id": "nas",
@@ -932,7 +986,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18372"
   },
   {
     "gym_id": "nas",
@@ -949,7 +1004,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18374"
   },
   {
     "gym_id": "nas",
@@ -966,7 +1022,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -983,7 +1040,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1000,7 +1058,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i645"
   },
   {
     "gym_id": "nas",
@@ -1017,7 +1076,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": "予約不要・定員"
+    "note": "予約不要・定員",
+    "instructor_id": "i18375"
   },
   {
     "gym_id": "nas",
@@ -1034,7 +1094,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18376"
   },
   {
     "gym_id": "nas",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1068,7 +1130,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18377"
   },
   {
     "gym_id": "nas",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i218"
   },
   {
     "gym_id": "nas",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18378"
   },
   {
     "gym_id": "nas",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1300"
   },
   {
     "gym_id": "nas",
@@ -1153,7 +1220,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18379"
   },
   {
     "gym_id": "nas",
@@ -1170,7 +1238,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -1187,7 +1256,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18376"
   },
   {
     "gym_id": "nas",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18380"
   },
   {
     "gym_id": "nas",
@@ -1221,7 +1292,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18364"
   },
   {
     "gym_id": "nas",
@@ -1238,7 +1310,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1255,7 +1328,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18364"
   },
   {
     "gym_id": "nas",
@@ -1272,7 +1346,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1323,7 +1400,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1357,7 +1436,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1374,7 +1454,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18381"
   },
   {
     "gym_id": "nas",
@@ -1391,7 +1472,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料プログラム"
+    "note": "※有料プログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料プログラム"
+    "note": "※有料プログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1442,7 +1526,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18382"
   },
   {
     "gym_id": "nas",
@@ -1459,7 +1544,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18383"
   },
   {
     "gym_id": "nas",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5875"
   },
   {
     "gym_id": "nas",
@@ -1493,7 +1580,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i218"
   },
   {
     "gym_id": "nas",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18384"
   },
   {
     "gym_id": "nas",
@@ -1527,7 +1616,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1544,7 +1634,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i957"
   },
   {
     "gym_id": "nas",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1595,7 +1688,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18385"
   },
   {
     "gym_id": "nas",
@@ -1612,7 +1706,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18385"
   },
   {
     "gym_id": "nas",
@@ -1629,7 +1724,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18386"
   },
   {
     "gym_id": "nas",
@@ -1646,7 +1742,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1663,7 +1760,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -1680,7 +1778,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1697,7 +1796,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18386"
   },
   {
     "gym_id": "nas",
@@ -1714,7 +1814,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1731,7 +1832,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18387"
   },
   {
     "gym_id": "nas",
@@ -1748,7 +1850,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i957"
   },
   {
     "gym_id": "nas",
@@ -1765,7 +1868,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1782,7 +1886,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i957"
   },
   {
     "gym_id": "nas",
@@ -1799,7 +1904,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18387"
   },
   {
     "gym_id": "nas",
@@ -1816,7 +1922,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18388"
   },
   {
     "gym_id": "nas",
@@ -1833,7 +1940,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1850,7 +1958,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18207"
   },
   {
     "gym_id": "nas",
@@ -1867,7 +1976,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1884,7 +1994,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18365"
   },
   {
     "gym_id": "nas",
@@ -1901,7 +2012,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1918,7 +2030,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1935,7 +2048,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": "※有料プログラム"
+    "note": "※有料プログラム",
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1952,7 +2066,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -1969,7 +2084,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -1986,7 +2102,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18389"
   },
   {
     "gym_id": "nas",
@@ -2003,7 +2120,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -2020,7 +2138,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -2037,7 +2156,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18390"
   },
   {
     "gym_id": "nas",
@@ -2054,7 +2174,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18390"
   },
   {
     "gym_id": "nas",
@@ -2071,7 +2192,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -2088,7 +2210,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18362"
   },
   {
     "gym_id": "nas",
@@ -2105,7 +2228,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -2122,7 +2246,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18363"
   },
   {
     "gym_id": "nas",
@@ -2139,7 +2264,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -2156,7 +2282,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18391"
   },
   {
     "gym_id": "nas",
@@ -2173,7 +2300,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -2190,7 +2318,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "nas",
@@ -2207,7 +2336,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18392"
   },
   {
     "gym_id": "nas",
@@ -2224,7 +2354,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -2241,7 +2372,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18358"
   },
   {
     "gym_id": "nas",
@@ -2258,7 +2390,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18393"
   },
   {
     "gym_id": "nas",
@@ -2275,7 +2408,8 @@
     "studio": "アリーナ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i11105"
   },
   {
     "gym_id": "nas",
@@ -2292,7 +2426,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i18359"
   },
   {
     "gym_id": "nas",
@@ -2309,6 +2444,7 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

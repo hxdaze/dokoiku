@@ -14,7 +14,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -31,7 +32,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5935"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -48,7 +50,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5936"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -65,7 +68,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5937"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -82,7 +86,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": "Style~"
+    "note": "Style~",
+    "instructor_id": "i5937"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -99,7 +104,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5938"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -116,7 +122,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5939"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -133,7 +140,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5939"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -150,7 +158,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5193"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -167,7 +176,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5940"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -184,7 +194,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5193"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -201,7 +212,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5938"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -218,7 +230,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -235,7 +248,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5939"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -252,7 +266,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -269,7 +284,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5185"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -286,7 +302,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5942"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -303,7 +320,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -320,7 +338,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -337,7 +356,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5944"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -354,7 +374,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5937"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -371,7 +392,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -388,7 +410,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5942"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -405,7 +428,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": "順行"
+    "note": "順行",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -422,7 +446,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -439,7 +464,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -456,7 +482,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5188"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -473,7 +500,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5936"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -490,7 +518,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -507,7 +536,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5936"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -524,7 +554,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -541,7 +572,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5939"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -558,7 +590,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5945"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -575,7 +608,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5193"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -592,7 +626,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5946"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -609,7 +644,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5938"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -626,7 +662,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5947"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -643,7 +680,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -660,7 +698,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -677,7 +716,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "卓球"
+    "note": "卓球",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -694,7 +734,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": "並行"
+    "note": "並行",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -711,7 +752,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5949"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -728,7 +770,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5950"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -745,7 +788,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5949"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -762,7 +806,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -779,7 +824,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -796,7 +842,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -813,7 +860,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": "並行"
+    "note": "並行",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -830,7 +878,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -847,7 +896,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5942"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -864,7 +914,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5946"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -881,7 +932,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5952"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -898,7 +950,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5173"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -915,7 +968,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5188"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -932,7 +986,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5949"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -949,7 +1004,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5953"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5938"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5946"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5954"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1068,7 +1130,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": "前田"
+    "note": "前田",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5952"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "前田"
+    "note": "前田",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5949"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5955"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1170,7 +1238,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5953"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5173"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1221,7 +1292,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1238,7 +1310,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5173"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1289,7 +1364,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5188"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1306,7 +1382,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": "(1・2レーン開放)"
+    "note": "(1・2レーン開放)",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5938"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1340,7 +1418,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i866"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1357,7 +1436,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5938"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5956"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1459,7 +1544,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5946"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1476,7 +1562,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1493,7 +1580,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5956"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5946"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1527,7 +1616,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5942"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1561,7 +1652,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5957"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5942"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1595,7 +1688,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1612,7 +1706,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5958"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1629,7 +1724,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5185"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1646,7 +1742,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": "1・3週目 バタフライ\n2・4週目 平泳ぎ"
+    "note": "1・3週目 バタフライ\n2・4週目 平泳ぎ",
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1663,7 +1760,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5958"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1680,7 +1778,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5937"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1697,7 +1796,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": "卓球"
+    "note": "卓球",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1714,7 +1814,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": "順行"
+    "note": "順行",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1731,7 +1832,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1748,7 +1850,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5936"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1765,7 +1868,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": "1・3週目 バタフライ\n2・4週目 平泳ぎ"
+    "note": "1・3週目 バタフライ\n2・4週目 平泳ぎ",
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1782,7 +1886,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5956"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1799,7 +1904,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5937"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1816,7 +1922,8 @@
     "studio": "メインプール",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1833,7 +1940,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1850,7 +1958,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5936"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1867,7 +1976,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5959"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1884,7 +1994,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5956"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1901,7 +2012,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5936"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1918,7 +2030,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5936"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1935,7 +2048,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1952,7 +2066,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1969,7 +2084,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5940"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -1986,7 +2102,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5937"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2003,7 +2120,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5936"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2020,7 +2138,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5960"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2037,7 +2156,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2054,7 +2174,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5942"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2071,7 +2192,8 @@
     "studio": "スタジオB",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5948"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2088,7 +2210,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2105,7 +2228,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5957"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2122,7 +2246,8 @@
     "studio": "メインプool",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "1・2レーン開放"
+    "note": "1・2レーン開放",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2139,7 +2264,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2156,7 +2282,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5953"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2173,7 +2300,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5961"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2190,7 +2318,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i5185"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2207,7 +2336,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5962"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2224,7 +2354,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5193"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2241,7 +2372,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2258,7 +2390,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2275,7 +2408,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2292,7 +2426,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2309,7 +2444,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2326,7 +2462,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2343,7 +2480,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": "水泳",
-    "note": "1・2レーン開放"
+    "note": "1・2レーン開放",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2360,7 +2498,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5941"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2377,7 +2516,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5953"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2394,7 +2534,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i5961"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2411,7 +2552,8 @@
     "studio": "スタジオA",
     "reservation_required": true,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5193"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2428,7 +2570,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2445,7 +2588,8 @@
     "studio": "メインプール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5943"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2462,7 +2606,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5951"
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2479,7 +2624,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": "卓球"
+    "note": "卓球",
+    "instructor_id": null
   },
   {
     "gym_id": "coconut_takamatsu",
@@ -2496,6 +2642,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

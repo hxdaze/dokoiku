@@ -14,7 +14,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1968"
   },
   {
     "gym_id": "bfit",
@@ -31,7 +32,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "リラックス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1969"
   },
   {
     "gym_id": "bfit",
@@ -48,7 +50,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "bfit",
@@ -65,7 +68,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1970"
   },
   {
     "gym_id": "bfit",
@@ -82,7 +86,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1971"
   },
   {
     "gym_id": "bfit",
@@ -99,7 +104,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1972"
   },
   {
     "gym_id": "bfit",
@@ -116,7 +122,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1973"
   },
   {
     "gym_id": "bfit",
@@ -133,7 +140,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1974"
   },
   {
     "gym_id": "bfit",
@@ -150,7 +158,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "リラックス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1975"
   },
   {
     "gym_id": "bfit",
@@ -167,7 +176,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1976"
   },
   {
     "gym_id": "bfit",
@@ -184,7 +194,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1977"
   },
   {
     "gym_id": "bfit",
@@ -201,7 +212,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "リラックス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -218,7 +230,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ダンス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1977"
   },
   {
     "gym_id": "bfit",
@@ -235,7 +248,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ダンス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1978"
   },
   {
     "gym_id": "bfit",
@@ -252,7 +266,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1979"
   },
   {
     "gym_id": "bfit",
@@ -269,7 +284,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -286,7 +302,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "トレーニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1980"
   },
   {
     "gym_id": "bfit",
@@ -303,7 +320,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "リラックス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1979"
   },
   {
     "gym_id": "bfit",
@@ -320,7 +338,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1980"
   },
   {
     "gym_id": "bfit",
@@ -337,7 +356,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1981"
   },
   {
     "gym_id": "bfit",
@@ -354,7 +374,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1982"
   },
   {
     "gym_id": "bfit",
@@ -371,7 +392,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1983"
   },
   {
     "gym_id": "bfit",
@@ -388,7 +410,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1983"
   },
   {
     "gym_id": "bfit",
@@ -405,7 +428,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1983"
   },
   {
     "gym_id": "bfit",
@@ -422,7 +446,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1975"
   },
   {
     "gym_id": "bfit",
@@ -439,7 +464,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1973"
   },
   {
     "gym_id": "bfit",
@@ -456,7 +482,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1972"
   },
   {
     "gym_id": "bfit",
@@ -473,7 +500,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "リラックス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1975"
   },
   {
     "gym_id": "bfit",
@@ -490,7 +518,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1973"
   },
   {
     "gym_id": "bfit",
@@ -507,7 +536,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1976"
   },
   {
     "gym_id": "bfit",
@@ -524,7 +554,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1976"
   },
   {
     "gym_id": "bfit",
@@ -541,7 +572,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "ダンス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1977"
   },
   {
     "gym_id": "bfit",
@@ -558,7 +590,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "リラックス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -575,7 +608,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ダンス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1975"
   },
   {
     "gym_id": "bfit",
@@ -592,7 +626,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1969"
   },
   {
     "gym_id": "bfit",
@@ -609,7 +644,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1975"
   },
   {
     "gym_id": "bfit",
@@ -626,7 +662,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1969"
   },
   {
     "gym_id": "bfit",
@@ -643,7 +680,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ダンス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1984"
   },
   {
     "gym_id": "bfit",
@@ -660,7 +698,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1970"
   },
   {
     "gym_id": "bfit",
@@ -677,7 +716,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1980"
   },
   {
     "gym_id": "bfit",
@@ -694,7 +734,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1983"
   },
   {
     "gym_id": "bfit",
@@ -711,7 +752,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1983"
   },
   {
     "gym_id": "bfit",
@@ -728,7 +770,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1974"
   },
   {
     "gym_id": "bfit",
@@ -745,7 +788,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1985"
   },
   {
     "gym_id": "bfit",
@@ -762,7 +806,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "ダンス系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -779,7 +824,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -796,7 +842,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "トレーニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -813,7 +860,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -830,7 +878,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1986"
   },
   {
     "gym_id": "bfit",
@@ -847,7 +896,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -864,7 +914,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1987"
   },
   {
     "gym_id": "bfit",
@@ -881,7 +932,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1972"
   },
   {
     "gym_id": "bfit",
@@ -898,7 +950,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -915,7 +968,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "コンディショニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1972"
   },
   {
     "gym_id": "bfit",
@@ -932,7 +986,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -949,7 +1004,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1975"
   },
   {
     "gym_id": "bfit",
@@ -966,7 +1022,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -983,7 +1040,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": "有酸素系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": "トレーニング系レッスン",
-    "note": null
+    "note": null,
+    "instructor_id": "i1975"
   },
   {
     "gym_id": "bfit",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1983"
   },
   {
     "gym_id": "bfit",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1983"
   },
   {
     "gym_id": "bfit",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1988"
   },
   {
     "gym_id": "bfit",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1969"
   },
   {
     "gym_id": "bfit",
@@ -1085,7 +1148,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1969"
   },
   {
     "gym_id": "bfit",
@@ -1102,7 +1166,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1976"
   },
   {
     "gym_id": "bfit",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1976"
   },
   {
     "gym_id": "bfit",
@@ -1136,7 +1202,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1977"
   },
   {
     "gym_id": "bfit",
@@ -1153,7 +1220,8 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -1170,7 +1238,8 @@
     "studio": "スタジオB",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i613"
   },
   {
     "gym_id": "bfit",
@@ -1187,6 +1256,7 @@
     "studio": "スタジオA",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i1972"
   }
 ]

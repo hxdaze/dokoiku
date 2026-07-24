@@ -14,7 +14,8 @@
     "studio": "次回",
     "reservation_required": false,
     "genre": "学童",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sss_yamaguchi",
@@ -31,7 +32,8 @@
     "studio": "次回",
     "reservation_required": false,
     "genre": "鉄棒",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sss_yamaguchi",
@@ -48,7 +50,8 @@
     "studio": "次回",
     "reservation_required": false,
     "genre": "鉄棒",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sss_yamaguchi",
@@ -65,7 +68,8 @@
     "studio": "次回",
     "reservation_required": false,
     "genre": "跳箱",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sss_yamaguchi",
@@ -82,7 +86,8 @@
     "studio": "次回",
     "reservation_required": false,
     "genre": "跳箱",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sss_yamaguchi",
@@ -99,7 +104,8 @@
     "studio": "次回",
     "reservation_required": false,
     "genre": "マット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "sss_yamaguchi",
@@ -116,6 +122,7 @@
     "studio": "次回",
     "reservation_required": false,
     "genre": "マット",
-    "note": null
+    "note": null,
+    "instructor_id": null
   }
 ]

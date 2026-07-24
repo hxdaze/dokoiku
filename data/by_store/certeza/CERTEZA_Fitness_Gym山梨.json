@@ -14,7 +14,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -31,7 +32,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -48,7 +50,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "SHORT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -65,7 +68,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "OTHER",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -82,7 +86,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYATTACK",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -99,7 +104,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -116,7 +122,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "SHORT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -133,7 +140,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYPUMP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -150,7 +158,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -167,7 +176,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -184,7 +194,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -201,7 +212,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -218,7 +230,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -235,7 +248,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -252,7 +266,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -269,7 +284,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -286,7 +302,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -303,7 +320,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -320,7 +338,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -337,7 +356,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -354,7 +374,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": "Strength Development"
+    "note": "Strength Development",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -371,7 +392,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": "LesMills BODYPUMP AMI"
+    "note": "LesMills BODYPUMP AMI",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -388,7 +410,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -405,7 +428,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "ショート",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -422,7 +446,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -439,7 +464,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "YOGA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -456,7 +482,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "TECHNIQUE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -473,7 +500,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -490,7 +518,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "DANCE",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -507,7 +536,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "Shapes",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -524,7 +554,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "KOMA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -541,7 +572,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "MATAN",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -558,7 +590,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "MATAN",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -575,7 +608,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "KOMA",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -592,7 +626,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -609,7 +644,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -626,7 +662,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "BODYPUMP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -643,7 +680,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -660,7 +698,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -677,7 +716,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -694,7 +734,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "レズミルズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -711,7 +752,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -728,7 +770,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": "BODYSTEP",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -745,7 +788,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -762,7 +806,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -779,7 +824,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -796,7 +842,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": "BODYATTACK",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -813,7 +860,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -830,7 +878,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -847,7 +896,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5567"
   },
   {
     "gym_id": "certeza",
@@ -864,7 +914,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5567"
   },
   {
     "gym_id": "certeza",
@@ -881,7 +932,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -898,7 +950,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -915,7 +968,8 @@
     "studio": "B studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -932,7 +986,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -949,7 +1004,8 @@
     "studio": "A studio",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -966,7 +1022,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -983,7 +1040,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -1000,7 +1058,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1017,7 +1076,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -1034,7 +1094,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1051,7 +1112,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -1068,7 +1130,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -1085,7 +1148,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i5566"
   },
   {
     "gym_id": "certeza",
@@ -1102,7 +1166,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1119,7 +1184,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "テクニック",
-    "note": "M&K"
+    "note": "M&K",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1136,7 +1202,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "テクニック",
-    "note": "M&K"
+    "note": "M&K",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1153,7 +1220,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": "MATAN"
+    "note": "MATAN",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1170,7 +1238,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYATTACK",
-    "note": "KOMA"
+    "note": "KOMA",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1187,7 +1256,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "テクニック",
-    "note": "KOMA"
+    "note": "KOMA",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1204,7 +1274,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "テクニック",
-    "note": "KOMA"
+    "note": "KOMA",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1221,7 +1292,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "テクニック",
-    "note": "MATAN"
+    "note": "MATAN",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1238,7 +1310,8 @@
     "studio": null,
     "reservation_required": false,
     "genre": "BODYCOMBAT",
-    "note": "MATAN"
+    "note": "MATAN",
+    "instructor_id": null
   },
   {
     "gym_id": "certeza",
@@ -1255,6 +1328,7 @@
     "studio": null,
     "reservation_required": false,
     "genre": "DANCE",
-    "note": "MATAN"
+    "note": "MATAN",
+    "instructor_id": null
   }
 ]

@@ -14,7 +14,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23261"
   },
   {
     "gym_id": "viva",
@@ -31,7 +32,8 @@
     "studio": "ジム",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -48,7 +50,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23262"
   },
   {
     "gym_id": "viva",
@@ -65,7 +68,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i23263"
   },
   {
     "gym_id": "viva",
@@ -82,7 +86,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初中級"
+    "note": "初中級",
+    "instructor_id": "i23264"
   },
   {
     "gym_id": "viva",
@@ -99,7 +104,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i2685"
   },
   {
     "gym_id": "viva",
@@ -116,7 +122,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23265"
   },
   {
     "gym_id": "viva",
@@ -133,7 +140,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23265"
   },
   {
     "gym_id": "viva",
@@ -150,7 +158,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23261"
   },
   {
     "gym_id": "viva",
@@ -167,7 +176,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23266"
   },
   {
     "gym_id": "viva",
@@ -184,7 +194,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23267"
   },
   {
     "gym_id": "viva",
@@ -201,7 +212,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23268"
   },
   {
     "gym_id": "viva",
@@ -218,7 +230,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23269"
   },
   {
     "gym_id": "viva",
@@ -235,7 +248,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23270"
   },
   {
     "gym_id": "viva",
@@ -252,7 +266,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -269,7 +284,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -286,7 +302,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -303,7 +320,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -320,7 +338,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i23272"
   },
   {
     "gym_id": "viva",
@@ -337,7 +356,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23273"
   },
   {
     "gym_id": "viva",
@@ -354,7 +374,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -371,7 +392,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23274"
   },
   {
     "gym_id": "viva",
@@ -388,7 +410,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23274"
   },
   {
     "gym_id": "viva",
@@ -405,7 +428,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -422,7 +446,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23275"
   },
   {
     "gym_id": "viva",
@@ -439,7 +464,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23275"
   },
   {
     "gym_id": "viva",
@@ -456,7 +482,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23276"
   },
   {
     "gym_id": "viva",
@@ -473,7 +500,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23261"
   },
   {
     "gym_id": "viva",
@@ -490,7 +518,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i8832"
   },
   {
     "gym_id": "viva",
@@ -507,7 +536,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23277"
   },
   {
     "gym_id": "viva",
@@ -524,7 +554,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23268"
   },
   {
     "gym_id": "viva",
@@ -541,7 +572,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i23278"
   },
   {
     "gym_id": "viva",
@@ -558,7 +590,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -575,7 +608,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23279"
   },
   {
     "gym_id": "viva",
@@ -592,7 +626,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23270"
   },
   {
     "gym_id": "viva",
@@ -609,7 +644,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -626,7 +662,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -643,7 +680,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i23280"
   },
   {
     "gym_id": "viva",
@@ -660,7 +698,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -677,7 +716,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": "中上級"
+    "note": "中上級",
+    "instructor_id": "i23281"
   },
   {
     "gym_id": "viva",
@@ -694,7 +734,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -711,7 +752,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23282"
   },
   {
     "gym_id": "viva",
@@ -728,7 +770,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23283"
   },
   {
     "gym_id": "viva",
@@ -745,7 +788,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23273"
   },
   {
     "gym_id": "viva",
@@ -762,7 +806,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23284"
   },
   {
     "gym_id": "viva",
@@ -779,7 +824,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19414"
   },
   {
     "gym_id": "viva",
@@ -796,7 +842,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": "i23267"
   },
   {
     "gym_id": "viva",
@@ -813,7 +860,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i23272"
   },
   {
     "gym_id": "viva",
@@ -830,7 +878,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23271"
   },
   {
     "gym_id": "viva",
@@ -847,7 +896,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23278"
   },
   {
     "gym_id": "viva",
@@ -864,7 +914,8 @@
     "studio": "スタジオ",
     "reservation_required": true,
     "genre": null,
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -881,7 +932,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -898,7 +950,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23270"
   },
   {
     "gym_id": "viva",
@@ -915,7 +968,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i23261"
   },
   {
     "gym_id": "viva",
@@ -932,7 +986,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": null,
-    "note": null
+    "note": null,
+    "instructor_id": "i19414"
   },
   {
     "gym_id": "viva",
@@ -949,7 +1004,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": "中級"
+    "note": "中級",
+    "instructor_id": "i8832"
   },
   {
     "gym_id": "viva",
@@ -966,7 +1022,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "太極拳",
-    "note": null
+    "note": null,
+    "instructor_id": "i23285"
   },
   {
     "gym_id": "viva",
@@ -983,7 +1040,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23286"
   },
   {
     "gym_id": "viva",
@@ -1000,7 +1058,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i23287"
   },
   {
     "gym_id": "viva",
@@ -1017,7 +1076,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "トレーニング",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1034,7 +1094,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23268"
   },
   {
     "gym_id": "viva",
@@ -1051,7 +1112,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23288"
   },
   {
     "gym_id": "viva",
@@ -1068,7 +1130,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "プライベート",
-    "note": null
+    "note": null,
+    "instructor_id": "i23289"
   },
   {
     "gym_id": "viva",
@@ -1085,7 +1148,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23288"
   },
   {
     "gym_id": "viva",
@@ -1102,7 +1166,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23290"
   },
   {
     "gym_id": "viva",
@@ -1119,7 +1184,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23291"
   },
   {
     "gym_id": "viva",
@@ -1136,7 +1202,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23290"
   },
   {
     "gym_id": "viva",
@@ -1153,7 +1220,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23288"
   },
   {
     "gym_id": "viva",
@@ -1170,7 +1238,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i23292"
   },
   {
     "gym_id": "viva",
@@ -1187,7 +1256,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "フラダンス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1204,7 +1274,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "プライベート",
-    "note": null
+    "note": null,
+    "instructor_id": "i23290"
   },
   {
     "gym_id": "viva",
@@ -1221,7 +1292,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23293"
   },
   {
     "gym_id": "viva",
@@ -1238,7 +1310,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23294"
   },
   {
     "gym_id": "viva",
@@ -1255,7 +1328,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23294"
   },
   {
     "gym_id": "viva",
@@ -1272,7 +1346,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23284"
   },
   {
     "gym_id": "viva",
@@ -1289,7 +1364,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1306,7 +1382,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1323,7 +1400,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23295"
   },
   {
     "gym_id": "viva",
@@ -1340,7 +1418,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1357,7 +1436,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "ヨガ",
-    "note": null
+    "note": null,
+    "instructor_id": "i6240"
   },
   {
     "gym_id": "viva",
@@ -1374,7 +1454,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "初中級"
+    "note": "初中級",
+    "instructor_id": "i23296"
   },
   {
     "gym_id": "viva",
@@ -1391,7 +1472,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1408,7 +1490,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23297"
   },
   {
     "gym_id": "viva",
@@ -1425,7 +1508,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23297"
   },
   {
     "gym_id": "viva",
@@ -1442,7 +1526,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23267"
   },
   {
     "gym_id": "viva",
@@ -1459,7 +1544,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": "初級"
+    "note": "初級",
+    "instructor_id": "i23298"
   },
   {
     "gym_id": "viva",
@@ -1476,7 +1562,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1493,7 +1580,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23286"
   },
   {
     "gym_id": "viva",
@@ -1510,7 +1598,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1527,7 +1616,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23276"
   },
   {
     "gym_id": "viva",
@@ -1544,7 +1634,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": "有料"
+    "note": "有料",
+    "instructor_id": null
   },
   {
     "gym_id": "viva",
@@ -1561,7 +1652,8 @@
     "studio": "プール",
     "reservation_required": false,
     "genre": "アクアエクササイズ",
-    "note": null
+    "note": null,
+    "instructor_id": "i23276"
   },
   {
     "gym_id": "viva",
@@ -1578,7 +1670,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23296"
   },
   {
     "gym_id": "viva",
@@ -1595,7 +1688,8 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "エアロビクス",
-    "note": null
+    "note": null,
+    "instructor_id": "i23299"
   },
   {
     "gym_id": "viva",
@@ -1612,6 +1706,7 @@
     "studio": "スタジオ",
     "reservation_required": false,
     "genre": "プライベート",
-    "note": "※1コース使用します。"
+    "note": "※1コース使用します。",
+    "instructor_id": null
   }
 ]
