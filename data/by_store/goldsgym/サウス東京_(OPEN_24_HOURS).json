@@ -483,7 +483,7 @@
     "reservation_required": false,
     "genre": "オリジナルエアロ",
     "note": null,
-    "instructor_id": "i7914"
+    "instructor_id": "i7915"
   },
   {
     "gym_id": "goldsgym",
@@ -663,7 +663,7 @@
     "reservation_required": false,
     "genre": "コンディショニング",
     "note": null,
-    "instructor_id": "i7918"
+    "instructor_id": "i7914"
   },
   {
     "gym_id": "goldsgym",
